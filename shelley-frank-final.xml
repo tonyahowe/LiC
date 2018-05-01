@@ -77,7 +77,7 @@
          </editorialDecl>
          <tagsDecl>
             <namespace name="http://www.tei-c.org/ns/1.0">
-               <tagUsage gi="div">Unnumbered divs used.</tagUsage>
+               <tagUsage gi="div">Numbered divs used.</tagUsage>
             </namespace>
          </tagsDecl>
          <classDecl>
