@@ -109,11 +109,12 @@
            <titlePart type="desc" rend="caps">IN THREE VOLUMES</titlePart>
            <epigraph>
                <quote>
-                  <lg>
+                  <rs link="#" content="#PL-TP">
+                     <lg>
                   <l>Did I request thee, <persName>Maker</persName>, from my clay</l>
                   <l>To mould me man? Did I solicit thee</l>
                   <l>From darkness to promote me?</l>
-                  </lg>
+                  </lg></pl>
                  <lb/><bibl>PARADISE LOST.</bibl>
                </quote>
            </epigraph>
@@ -1172,7 +1173,11 @@ Even if they were to leave <placeName>Europe</placeName>, and inhabit the desert
            <span id="author">
               <img src="https://collectionimages.npg.org.uk/large/mw05761/Mary-Wollstonecraft-Shelley.jpg" width="100%"/>
               <p>Mary Wollstonecraft Shelley was born on August 30, 1797, in London, England, to William Godwin and famed feminist writer Mary Wollstonecraft—the author of <i>The Vindication of the Rights of Woman</i> (1792). Mary had a difficult upbringing, as her mother died shortly after her birth and her father remarried to Mary Jane Clairmont, who had a tenuous relationship with Mary. Mary was never formally educated but read many of her father’s books and was introduced to many influential writers like William Wordsworth and Samuel Taylor Coleridge. Mary, while on a trip to Scotland visiting family friends, met and fell in love with Percy Bysshe Shelley, who was already married and also a student of her father. The two eloped in 1814 and travelled around Europe. It was in Switzerland, with a cohort made up of the Shelleys, Jane Clairmont, Lord Byron, and John Polidori, where Mary first began Frankenstein one rainy afternoon during a ghost story writing exercise.</p>
-              <p><i>Frankenstein</i> was published in 1818 anonymously with a foreword by Percy Shelley, whom many people assumed wrote the novel. The novel was a huge success, and is now often considered the first science fiction novel. After the success of her first novel, Shelley continued to write but her personal life declined rapidly. She lost three children in her lifetime, her half-sister committed suicide, and her marriage, riddled with affairs, ended in 1822 when Percy Shelley drowned in the Gulf of Spezia. Mary died at 53 of brain cancer on February 1, 1851 in London, England. She was buried at St. Peter's Church in Bournemouth, laid to rest with the cremated remains of her late husband's heart. The portrait of Shelley included above, painted by Richard Rothwell (1840), is housed in the National Portrait Gallery, London.</p></span>
+              <p><i>Frankenstein</i> was published in 1818 anonymously with a foreword by Percy Shelley, whom many people assumed wrote the novel. The novel was a huge success, and is now often considered the first science fiction novel. After the success of her first novel, Shelley continued to write but her personal life declined rapidly. She lost three children in her lifetime, her half-sister committed suicide, and her marriage, riddled with affairs, ended in 1822 when Percy Shelley drowned in the Gulf of Spezia. Mary died at 53 of brain cancer on February 1, 1851 in London, England. She was buried at St. Peter's Church in Bournemouth, laid to rest with the cremated remains of her late husband's heart. The portrait of Shelley included above, painted by Richard Rothwell (1840), is housed in the National Portrait Gallery, London.</p>
+           </span>
+           <span id="PL-TP">
+              <p><i>Frankenstein</i>’s title page contains an epigraph from Book X, Lines 743-745 of <i>Paradise Lost</i>. The lines quoted are those of Adam, lamenting his expulsion from Eden and loss of innocence. Milton’s epic poem is one of many canonical texts that had a profound effect on Mary Shelley. Its influence can be seen throughout the novel, particularly in relation to the creature’s self-education, and it is one of the books that he finds and reads while he is living beneath the De Lacey’s cottage (Volume II, Chapter 7). Furthermore, when the creature confronts Victor Frankenstein, his “Maker,” he compares himself to Adam (Volume II, Chapter 2). For a more in-depth examination of the influence of Paradise Lost in Frankenstein, see: “The Monster Reads Milton,” “Mary Shelley's Frankenstein and Milton's Monstrous Myth,” and “Shelley and the Miltonic Element in Mary Shelley's Frankenstein.”</p>
+           </span>
         </div1>
         </tooltip_notes>
   </text>
