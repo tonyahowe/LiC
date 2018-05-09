@@ -156,8 +156,8 @@
    <div2 n="1.1" type="letter">
    <head>LETTER I</head>
    <opener>
-<hi rend="italic">To Mrs.</hi> SAVILLE,<placeName><hi rend="italic">ENGLAND</hi></placeName>
-<placeName>St. Petersburg.</placeName>
+<hi rend="italic">To Mrs.</hi> SAVILLE, <placeName><hi rend="italic">ENGLAND</hi></placeName>
+<placeName>St. Petersburg. </placeName>
 <dateline><rs>Dec. 11, 17--</rs></dateline>
 </opener>
 
@@ -200,8 +200,8 @@
    
 <div2 n="1.3" type="letter">
 <head>LETTER III</head>
-   <opener>To <persName> Mrs. SAVILLE,</persName> <placeName>ENGLAND.</placeName>
-   <dateline>July 7th, 17--.</dateline>
+   <opener>To <persName> Mrs. SAVILLE, </persName><placeName>ENGLAND.</placeName>
+   <dateline>July 7th, 17--. </dateline>
    <salute>MY DEAR SISTER,</salute>
 </opener>
    
@@ -218,7 +218,7 @@
    
 <div2 n="1.4" type="letter">
 <head>LETTER IV</head>
-<opener>To <persName> Mrs. SAVILLE,</persName> <placeName>ENGLAND.</placeName>
+<opener>To <persName> Mrs. SAVILLE, </persName> <placeName>ENGLAND.</placeName>
 <dateline>August 5th, 17--.</dateline>
 </opener>
    
@@ -380,7 +380,7 @@
 <said><p><persName>CLERVAL</persName> then put the following letter into my hands.</p>
 
 <floatingText><body><!-- question -->
-<opener>To <persName>V. FRANKENSTEIN</persName>
+<opener>To <persName>V. FRANKENSTEIN </persName>
 <salute>MY DEAR COUSIN</salute></opener>
 <p>I cannot describe to you the uneasiness we have all felt concerning your health. We cannot help imagining that your friend <persName>Clerval</persName> conceals the extent of your disorder: for it is now several months since we have seen your hand-writing; and all this time you have been obliged to dictate your letters to <persName>Henry</persName>. Surely, <persName>Victor</persName>, you must have been exceedingly ill; and this makes us all very wretched, as much so nearly as after the death of your dear mother. My uncle was almost persuaded that you were indeed dangerously ill, and could hardly be restrained from undertaking a journey to <placeName>Ingolstadt</placeName>. <persName>Clerval</persName> always writes that you are getting better; I eagerly hope that you will confirm this intelligence soon in your own hand-writing; for indeed, indeed, <persName>Victor</persName>, we are all very miserable on this account. Relieve us from this fear, and we shall be the happiest creatures in the world. Your father's health is now so vigorous, that he appears ten years younger since last winter. <persName>Ernest</persName> also is so much improved, that you would hardly know him: he is now nearly sixteen, and has lost that sickly appearance which he had some years ago; he is grown quite robust and active.</p>
 <p>My uncle and I conversed a long time last night about what profession <persName>Ernest</persName> should follow. His constant illness when young has deprived him of the habits of application; and now that he enjoys good health, he is continually in the open air, climbing the hills, or rowing on the lake. I therefore proposed that he should be a farmer; which you know, Cousin, is a favourite scheme of mine. A farmer's is a very healthy happy life; and the least hurtful, or rather the most beneficial profession of any. My uncle had an idea of his being educated as an advocate, that through his interest he might become a judge. But, besides that he is not at all fitted for such an occupation, it is certainly more creditable to cultivate the earth for the sustenance of man, than to be the confidant, and sometimes the accomplice, of his vices; which is the profession of a lawyer. I said, that the employments of a prosperous farmer, if they were not a more honourable, they were at least a happier species of occupation than that of a judge, whose misfortune it was always to meddle with the dark side of human nature. My uncle smiled, and said, that I ought to be an advocate myself, which put an end to the conversation on that subject.</p>
@@ -1186,10 +1186,10 @@ Even if they were to leave <placeName>Europe</placeName>, and inhabit the desert
               <p>Victor Frankenstein here quotes from Book VI, lines 451-456, of Samuel Taylor Coleridge’s 1798 poem, “Rime of the Ancient Mariner”; an illustration by Gustav Doré from the 1876 edition, via Wikimedia Commons, is pictured above. Coleridge’s most famous poem is a tale narrated by an ancient sailor returned from a long, ambitious journey during which, having shot and killed an albatross, all other members of the crew die and the mariner is cursed. Shelley was familiar with Coleridge’s Romantic poem and invokes it to compare her characters. To learn more about Coleridge’s poem, published as the opening poem in Lyrical Ballads, read Seamus Perry’s introduction at the British Library. </p>
            </span>
            <span id="agrippa">
-              <p>Cornelius Agrippa (1486-1535) was a German alchemist and scholar. He studied both medicine and law but did not receive a degree in either. His most well-known work is the three-volume <i>De Occulta Philosophiae</i>, a defense of "hidden philosophy" or magic, drawing from alchemy, astrology, and Kabbalah. A later work, <i>De Incertitudine et Vanitate Scientiarum</i> (<i>Of the Uncertainty and Vanity of the Sciences</i>), attacks contemporary scientific theory and practice. To read more about his unique philosophy see his intellectual biography on the Stanford Encyclopedia of Philosophy. The portrait of Agrippa included above is housed History of Medicine (NLM). 
+              <p>Cornelius Agrippa (1486-1535) was a German alchemist and scholar. He studied both medicine and law but did not receive a degree in either. His most well-known work is the three-volume <i>De Occulta Philosophiae</i>, a defense of "hidden philosophy" or magic, drawing from alchemy, astrology, and Kabbalah. A later work, <i>De Incertitudine et Vanitate Scientiarum</i> (<i>Of the Uncertainty and Vanity of the Sciences</i>), attacks contemporary scientific theory and practice. To read more about his unique philosophy see his intellectual biography on the Stanford Encyclopedia of Philosophy. The portrait of Agrippa included above is housed History of Medicine (NLM). </p>
            </span>
            <span id="arctic-exploration">
-              <p><a href="https://www.newyorker.com/magazine/2017/04/24/literatures-arctic-obsession">According to Kathryn Shultz in "Literature's Arctic Obsession,"</a> Shelley--like many during the early nineteenth century--was intrigued by the prospect of arctic exploration, as her frequent allusions to Coleridge's "Rime of the Ancient Mariner" and her letters make clear. While Shelley may have added the arctic setting as "an afterthought" after reading about attempts to discover the long-elusive Northwest passage, by the time <i>Frankenstein</i> was published, two major expeditions were underway; the Passage would be discovered in 1850 after many deaths on the ice. As Shultz notes, "the book reminded readers that their world was already full of Dr. Frankensteins." For further reading, see <a href="https://www.tandfonline.com/doi/abs/10.1080/0890549032000167826">"'A Paradise of My Own Creation': Frankenstein and the Improbable Romance of Polar Expedition," by Jessica Richard.</a></p>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/John_Ross_%281777-1856%29%2C_by_British_school_of_the_19th_century.jpg" width="100%"/><p><a href="https://www.newyorker.com/magazine/2017/04/24/literatures-arctic-obsession">According to Kathryn Shultz in "Literature's Arctic Obsession,"</a> Shelley--like many during the early nineteenth century--was intrigued by the prospect of arctic exploration, as her frequent allusions to Coleridge's "Rime of the Ancient Mariner" and her letters make clear. While Shelley may have added the arctic setting as "an afterthought" after reading about attempts to discover the long-elusive Northwest passage, by the time <i>Frankenstein</i> was published, two major expeditions were underway; the Passage would be discovered in 1850 after many deaths on the ice. As Shultz notes, "the book reminded readers that their world was already full of Dr. Frankensteins." For further reading, see <a href="https://www.tandfonline.com/doi/abs/10.1080/0890549032000167826">"'A Paradise of My Own Creation': Frankenstein and the Improbable Romance of Polar Expedition," by Jessica Richard.</a> The image above, via WikiMedia Commons, shows a portrait (c.1833) of the explorer John Ross (1777-1856).</p>
            </span>
            
         </div1>
