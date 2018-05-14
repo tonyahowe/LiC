@@ -158,7 +158,7 @@
    <opener>
 <hi rend="italic">To Mrs.</hi> SAVILLE, <placeName><hi rend="italic">ENGLAND</hi></placeName>
 <placeName>St. Petersburg. </placeName>
-<dateline><rs>Dec. 11, 17--</rs></dateline>
+<dateline><rs link="#" content="#date">Dec. 11, 17--</rs></dateline>
 </opener>
 
 <p>YOU will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings. I arrived here yesterday; and my first task is to assure my dear sister of my welfare, and increasing confidence in the success of my undertaking.</p>
@@ -1208,6 +1208,9 @@ Even if they were to leave <placeName>Europe</placeName>, and inhabit the desert
            <span id="st_george">Note on St. George</span>
            <span id="natural_philosophy">Note on natural philosophy</span>
               <span id="enthusiasm">Enthusiasm is an important concept in the development of Romanticism. Deriving from the Greek word "enthous," meannig possessed or inspired by a god, the concept of enthusiasm was linked to <a href="https://books.google.com/books/about/Enlightening_Enthusiasm.html">religious fanaticism (particularly Methodism)</a> during the early eighteenth century and described by philosophers like Locke and Hume as an error in thinking that reason and reflection could correct. Enthusiasm was also, however, understood as the ability to "see the truth transparently and spontaneously without mediation" (Mee 8). <a href="https://books.google.com/books/about/Romanticism_Enthusiasm_and_Regulation.html">Jon Mee, in <i>Romanticism, Enthusiasm, and Regulation</i></a>, goes on to note: "Although it was often associated with the sort of implosion of the self that came from the prophet retiring into the wilderness, a species of melancholia and gloomy introspection, it was also routinely construed in terms of the delirium of the senses that manifested itself in the mania of the crowd" (10-11). Closely related to concepts of imagination and fancy, enthusiasm is a complex term that suggests many of the negative aspects of the Romantic sensibility. For Wordsworth and Coleridge, enthusiasm is a kind of corruption of or detour in the imagination (Mee 12).</span>
+        <span id="date">
+           According to a footnote in the <a href="https://books.google.com/books/about/Frankenstein_Third_Edition.html">3rd Broadview edition of <i>Frankenstein, or; The Modern Prometheus</i></a>, the novel takes place in 1796. If this is true the entire tale takes place around the date of the author's birth and Mary Wollstonecraft's death.
+        </span>
         </div1>
         </tooltip_notes>
   </text>
