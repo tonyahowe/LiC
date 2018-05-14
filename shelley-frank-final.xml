@@ -108,15 +108,15 @@
            </docTitle>
            <titlePart type="desc" rend="caps">IN THREE VOLUMES</titlePart>
            <epigraph>
-               <quote>
-                  <rs link="#" content="#PL-TP">
+               <rs link="#" content="#PL-TP"><quote>
+                  
                      <lg>
                   <l>Did I request thee, <persName>Maker</persName>, from my clay</l>
                   <l>To mould me man? Did I solicit thee</l>
                   <l>From darkness to promote me?</l>
-                  </lg></rs>
+                  </lg>
                  <lb/><bibl><rs link="#" content="#PL">PARADISE LOST</rs>.</bibl>
-               </quote>
+               </quote></rs>
            </epigraph>
               <titlePart type="desc"> VOL. I.</titlePart>
                  <docImprint>
@@ -256,7 +256,7 @@
 <p>As he said this, his countenance became expressive of a calm settled grief, that touched me to the heart. But he was silent, and presently retired to his cabin.</p>
 <p>Even broken in spirit as he is, no one can feel more deeply than he does the beauties of nature. The starry sky, the sea, and every sight afforded by these wonderful regions, seems still to have the power of elevating his soul from earth. Such a man has a double existence: he may suffer misery, and be overwhelmed by disappointments; yet when he has retired into himself, he will be like a celestial spirit, that has a halo around him, within whose circle no grief or folly ventures.</p>
    <p>Will you laugh at the <rs link="#" content="#enthusiasm">enthusiasm</rs> I express concerning this divine wanderer? If you do, you must have certainly lost that simplicity which was once your characteristic charm. Yet, if you will, smile at the warmth of my expressions, while I find every day new causes for repeating them.</p>
-<p><dateline>August 19th, 17--</dateline>.Yesterday the stranger said to me, <said>"You may easily perceive, Captain <persName>Walton</persName>, that I have suffered great and unparalleled misfortunes. I had determined, once, that the memory of these evils should die with me; but you have won me to alter my determination. <rs link="#" content="#PL_knowledge">You seek for knowledge and wisdom, as I once did; and I ardently hope that the gratification of your wishes may not be a serpent to sting you, as mine has been.</rs> I do not know that the relation of my misfortunes will be useful to you, yet, if you are inclined, <rs link="#" content="rime_storytelling">listen to my tale</rs>. I believe that the strange incidents connected with it will afford a view of nature, which may enlarge your faculties and understanding. You will hear of powers and occurrences, such as you have been accustomed to believe impossible: but I do not doubt that my tale conveys in its series internal evidence of the truth of the events of which it is composed."</said></p>
+<p><opener><dateline>August 19th, 17--</dateline></opener> <!-- question -->.Yesterday the stranger said to me, <said>"You may easily perceive, Captain <persName>Walton</persName>, that I have suffered great and unparalleled misfortunes. I had determined, once, that the memory of these evils should die with me; but you have won me to alter my determination. <rs link="#" content="#PL_knowledge">You seek for knowledge and wisdom, as I once did; and I ardently hope that the gratification of your wishes may not be a serpent to sting you, as mine has been.</rs> I do not know that the relation of my misfortunes will be useful to you, yet, if you are inclined, <rs link="#" content="rime_storytelling">listen to my tale</rs>. I believe that the strange incidents connected with it will afford a view of nature, which may enlarge your faculties and understanding. You will hear of powers and occurrences, such as you have been accustomed to believe impossible: but I do not doubt that my tale conveys in its series internal evidence of the truth of the events of which it is composed."</said></p>
 <p>You may easily conceive that I was much gratified by the offered communication; yet I could not endure that he should renew his grief by a recital of his misfortunes. I felt the greatest eagerness to hear the promised narrative, partly from curiosity, and partly from a strong desire to ameliorate his fate, if it were in my power. I expressed these feelings in my answer.</p>
 <p><said>"I thank you,"</said> he replied, <said>"for your sympathy, but it is useless; my fate is nearly fulfilled. I wait but for one event, and then I shall repose in peace. I understand your feeling,"</said> continued he, perceiving that I wished to interrupt him; <said>"but you are mistaken, my friend, if thus you will allow me to name you; nothing can alter my destiny: listen to my history, and you will perceive how irrevocably it is determined."</said></p>
 <p>He then told me, that he would commence his narrative the next day when I should be at leisure. This promise drew from me the warmest thanks. I have resolved every night, when I am not engaged, to record, as nearly as possible in his own words, what he has related during the day. If I should be engaged, I will at least make notes. This manuscript will doubtless afford you the greatest pleasure: but to me, who know him, and who hear it from his own lips, with what interest and sympathy shall I read it in some future day!</p>
@@ -344,16 +344,17 @@
 <p>I passed the night wretchedly. Sometimes my pulse beat so quickly and hardly, that I felt the palpitation of every artery; at others, I nearly sank to the ground through languor and extreme weakness. Mingled with this horror, I felt the bitterness of disappointment: dreams that had been my food and pleasant rest for so long a space, were now become a hell to me; and the change was so rapid, the overthrow so complete!</p>
 <p>Morning, dismal and wet, at length dawned, and discovered to my sleepless and aching eyes the church of <placeName>Ingolstadt</placeName>, its white steeple and clock, which indicated the sixth hour. The porter opened the gates of the court, which had that night been my asylum, and I issued into the streets, pacing them with quick steps, as if I sought to avoid the wretch whom I feared every turning of the street would present to my view. I did not dare return to the apartment which I inhabited, but felt impelled to hurry on, although wetted by the rain, which poured from a black and comfortless sky.</p>
 <p>I continued walking in this manner for some time, endeavouring, by bodily exercise, to ease the load that weighed upon my mind. I traversed the streets, without any clear conception of where I was, or what I was doing. My heart palpitated in the sickness of fear; and I hurried on with irregular steps, not daring to look about me:</p>
-<quote>
-<lg><rs link="#" content="#rime1">
+<rs link="#" content="#rime1">
+   <quote>
+<lg>
 <l>Like one who, on a lonely road,</l>
 <l>Doth walk in fear and dread,</l>
 <l>And, having once turn'd round, walks on,</l>
 <l>And turns no more his head;</l>
 <l>Because he knows a frightful fiend</l>
-<l>Doth close behind him tread.*</l></rs>
+<l>Doth close behind him tread.*</l>
 </lg>
-</quote>
+</quote></rs>
 <p>Continuing thus, I came at length opposite to the inn at which the various diligences and carriages usually stopped. Here I paused, I knew not why; but I remained some minutes with my eyes fixed on a coach that was coming towards me from the other end of the street. As it drew nearer, I observed that it was the Swiss diligence: it stopped just where I was standing; and, on the door being opened, I perceived <persName>Henry Clerval</persName>, who, on seeing me, instantly sprung out. <said>"My dear <persName>Frankenstein</persName>,"</said> exclaimed he, <said>"how glad I am to see you! how fortunate that you should be here at the very moment of my alighting!"</said></p>
 <p>Nothing could equal my delight on seeing <persName>Clerval</persName>; his presence brought back to my thoughts my father, <persName>Elizabeth</persName>, and all those scenes of home so dear to my recollection. I grasped his hand, and in a moment forgot my horror and misfortune; I felt suddenly, and for the first time during many months, calm and serene joy. I welcomed my friend therefore, in the most cordial manner, and we walked towards my college. <persName>Clerval</persName> continued talking for some time about our mutual friends, and his own good fortune in being permitted to come to <placeName>Ingolstadt</placeName>. <said>"You may easily believe,"</said> said he, <said>"how great was the difficulty to persuade my father that it was not absolutely necessary for a merchant not to understand any thing except book-keeping; and, indeed, I believe I left him incredulous to the last, for his constant answer to my unwearied entreaties was the same as that of the Dutch school-master in the <title>Vicar of Wakefield</title>: <said>"I have ten thousand florins a year without Greek, I eat heartily without Greek."</said> But his affection for me at length overcame his dislike of learning, and he has permitted me to undertake a voyage of discovery to the land of knowledge."</said></p>
 <p><said>"It gives me the greatest delight to see you; but tell me how you left my father, brothers, and <persName>Elizabeth</persName>."</said></p>
