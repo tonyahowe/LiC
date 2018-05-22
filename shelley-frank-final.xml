@@ -130,8 +130,8 @@
         </titlePage>
         <div1 type="dedication">
                   <p>TO</p>
-                       <p><persName><rs link="#" conten="#godwin">WILLIAM GODWIN</rs></persName>,</p>
-                       <p><hi rend="italic">AUTHOR OF <bibl><rs>POLITICAL JUSTICE</rs></bibl>, <bibl><rs link="#" content="#caleb_williams">CALEB WILLIAMS</rs></bibl>, &amp;C.</hi></p>
+                       <p><persName><rs link="#" content="#godwin">WILLIAM GODWIN</rs></persName>,</p>
+                       <p><hi rend="italic">AUTHOR OF <bibl><rs link="#" content="#political_justice">POLITICAL JUSTICE</rs></bibl>, <bibl><rs link="#" content="#caleb_williams">CALEB WILLIAMS</rs></bibl>, &amp;C.</hi></p>
                           <p>THESE VOLUMES</p>
                           <p><hi rend="italic">Are respectfully inscribed</hi></p>
                              <p>BY</p>
@@ -1236,7 +1236,7 @@ Even if they were to leave <placeName type="tgn" key="1000003">Europe</placeName
                           <span id="godwin"><img src="https://commons.wikimedia.org/wiki/Category:William_Godwin#/media/File:William_Godwin_by_Henry_William_Pickersgill.jpg" width="100%"/>Mary Shelley dedicated Frankenstein to her father, <a href="http://shelleysghost.bodleian.ox.ac.uk/william-godwin-index">William Godwin</a>, the well known author of <a href="http://oll.libertyfund.org/titles/godwin-an-enquiry-concerning-political-justice-vol-i">An Enquiry Concerning Political Justice</a> and <a href="https://books.google.com/books?id=0bEVAAAAYAAJ">Caleb Williams</a>. William Godwin was an anarchist and supporter of the French Revolution, and many of his theories of absolute sovereignty are alluded to within the text of Frankenstein. Shelley learned much from her father’s library growing up, and thus was highly influenced by her father’s beliefs. To learn more about Godwin, read Chapter 4 of Rebecca Baumann’s <i>Frankenstein 200: The Birth, Life, and Resurrection of Mary Shelley's Monster</i>, <a href="http://www.jstor.org/stable/j.ctt22p7j32.9">"Mary’s Father, William Godwin"</a>.  To learn more about Godwin’s influence on <i>Frankenstein</i>, listen to the University of Oxford’s <a href="https://podcasts.ox.ac.uk/godwin-and-frankenstein">podcast</a> on the matter. The image above, via Wikimedia Commons, is a painting by Henry William Pickersgill, housed in the National Portrait Gallery, London.</span>
                              
                              <span id="caleb_williams">Published in May 1794, <a href="http://shelleygodwinarchive.org/contents/msl_1876_forster_223/"><i>Things As They Are; or, The Adventures of Caleb Williams</i></a> tells the story of an impoverished young man named Caleb Williams, who learns that his wealthy employer, Ferdinando Falkland, is guilty of murder. When Falkland realizes that Caleb suspects him, he falsely accuses Caleb of attempted robbery, forcing him to flee the estate.  Throughout the novel, Caleb is accused of various crimes, pursued, robbed, beaten, arrested, and convicted, but manages ultimately to escape captivity. The novel is a pointed critique of the English judicial system, particularly its abuse of power, and continues to develop themes that Godwin presented in his 1793 philosophical treatise, <i>An Enquiry concerning Political Justice</i>. For a detailed examination of Godwin’s writings and an overview of Godwinian scholarship, see Pamela Clemit’s <a href="http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199935338.001.0001/oxfordhb-9780199935338-e-47">"Revisiting William Godwin"</a> from Oxford Handbooks Online.</span>                                
-                    
+                     <span id="political_justice">Note on Godwin's <i>Political Justice</i></span> 
         </div1>
         </tooltip_notes>
   </text>
