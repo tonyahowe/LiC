@@ -1,0 +1,2108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication information</p>        
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <head>To  M AE C E N A S.</head>
+<lg>
+<l>  MAECENAS, you, beneath the myrtle shade,</l>
+<l>Read o'er what poets sung, and shepherds play'd.</l>
+<l>  What felt those poets but you feel the same?</l>
+<l>  Does not your soul possess the sacred flame?</l>
+<l> Their noble strains your equal genius shares</l>
+<l>  In softer language, and diviner airs.</l>
+<l>    While Homer paints, lo! circumfus'd in air,</l>
+<l>  Celestial Gods in mortal forms appear;</l>
+<l> Swift as they move hear each recess rebound,</l>
+<l>  Heav'n quakes, earth trembles, and the shores resound.</l>
+<l>  Great Sire of verse, before my mortal eyes,</l>
+<l>  The lightnings blaze across the vaulted skies,</l>
+<l>  And, as the thunder shakes the heav'nly plains,</l>
+<l>  A deep felt horror thrills through all my veins.</l>
+<l>  When gentler strains demand thy graceful song,</l>
+<l>  The length'ning line moves languishing along.</l>
+<l>  When great Patroclus courts Achilles' aid,</l>
+<l>  The grateful tribute of my tears is paid;</l>
+<l>  Prone on the shore he feels the pangs of love,</l>
+<l>  And stern Pelides tend'rest passions move.</l>
+<l>    Great Maro's strain in heav'nly numbers flows,</l>
+<l>  The Nine inspire, and all the bosom glows.</l>
+<l>  O could I rival thine and Virgil's page,</l>
+<l>  Or claim the Muses with the Mantuan Sage;</l>
+<l>  Soon the same beauties should my mind adorn,</l>
+<l>  And the same ardors in my soul should burn:</l>
+<l>  Then should my song in bolder notes arise,</l>
+<l>  And all my numbers pleasingly surprise;</l>
+<l>  But here I sit, and mourn a grov'ling mind,</l>
+<l>  That fain would mount, and ride upon the wind.</l>
+<l>    Not you, my friend, these plaintive strains become,</l>
+<l>  Not you, whose bosom is the Muses home;</l>
+<l>  When they from tow'ring Helicon retire,</l>
+<l>  They fan in you the bright immortal fire,</l>
+<l>  But I less happy, cannot raise the song,</l>
+<l>  The fault'ring music dies upon my tongue.</l>
+<l>    The happier Terence* all the choir inspir'd,</l>
+<l>  His soul replenish'd, and his bosom fir'd;</l>
+<l>  But say, ye Muses, why this partial grace,</l>
+<l>  To one alone of Afric's sable race;</l>
+<l>  From age to age transmitting thus his name</l>
+<l>  With the finest glory in the rolls of fame?</l>
+<l>    Thy virtues, great Maecenas! shall be sung</l>
+<l>  In praise of him, from whom those virtues sprung:</l>
+<l>  While blooming wreaths around thy temples spread,</l>
+<l>  I'll snatch a laurel from thine honour'd head,</l>
+<l>  While you indulgent smile upon the deed.</l>
+
+<l>*He was an African by birth.</l>
+
+<l>    As long as Thames in streams majestic flows,</l>
+<l>  Or Naiads in their oozy beds repose</l>
+<l>  While Phoebus reigns above the starry train</l>
+<l>  While bright Aurora purples o'er the main,</l>
+<l>  So long, great Sir, the muse thy praise shall sing,</l>
+<l>  So long thy praise shal' make Parnassus ring:</l>
+<l>  Then grant, Maecenas, thy paternal rays,</l>
+<l>  Hear me propitious, and defend my lays.</l>
+</lg>
+</div>
+<div>
+<head>O N  V I R T U E.</head>
+<lg>
+<l>  O Thou bright jewel in my aim I strive</l>
+<l>  To comprehend thee.  Thine own words declare</l>
+<l>  Wisdom is higher than a fool can reach.</l>
+<l>  I cease to wonder, and no more attempt</l>
+<l>  Thine height t' explore, or fathom thy profound.</l>
+<l>  But, O my soul, sink not into despair,</l>
+<l>  Virtue is near thee, and with gentle hand</l>
+<l>  Would now embrace thee, hovers o'er thine head.</l>
+<l>  Fain would the heav'n-born soul with her converse,</l>
+<l>  Then seek, then court her for her promis'd bliss.</l>
+<l>       Auspicious queen, thine heav'nly pinions spread,</l>
+<l>  And lead celestial Chastity along;</l>
+<l>  Lo! now her sacred retinue descends,</l>
+<l>  Array'd in glory from the orbs above.</l>
+<l>  Attend me, Virtue, thro' my youthful years!</l>
+<l>  O leave me not to the false joys of time!</l>
+<l>  But guide my steps to endless life and bliss.</l>
+<l>  Greatness, or Goodness, say what I shall call thee,</l>
+<l>  To give me an higher appellation still,</l>
+<l>  Teach me a better strain, a nobler lay,</l>
+<l>  O thou, enthron'd with Cherubs in the realms of day.</l>
+</lg>
+</div>
+<div>
+<head>TO THE UNIVERSITY OF CAMBRIDGE, IN NEW-ENGLAND.</head>
+<lg>
+<l>  WHILE an intrinsic ardor prompts to write,</l>
+<l>  The muses promise to assist my pen;</l>
+<l>  'Twas not long since I left my native shore</l>
+<l>  The land of errors, and Egyptian gloom:</l>
+<l>  Father of mercy, 'twas thy gracious hand</l>
+<l>  Brought me in safety from those dark abodes.</l>
+<l>       Students, to you 'tis giv'n to scan the heights</l>
+<l>  Above, to traverse the ethereal space,</l>
+<l>  And mark the systems of revolving worlds.</l>
+<l>  Still more, ye sons of science ye receive</l>
+<l>  The blissful news by messengers from heav'n,</l>
+<l>  How Jesus' blood for your redemption flows.</l>
+<l>  See him with hands out-stretcht upon the cross;</l>
+<l>  Immense compassion in his bosom glows;</l>
+<l>  He hears revilers, nor resents their scorn:</l>
+<l>  What matchless mercy in the Son of God!</l>
+<l>  When the whole human race by sin had fall'n,</l>
+<l>  He deign'd to die that they might rise again,</l>
+<l>  And share with him in the sublimest skies,</l>
+<l>  Life without death, and glory without end.</l>
+<l>       Improve your privileges while they stay,</l>
+<l>  Ye pupils, and each hour redeem, that bears</l>
+<l>  Or good or bad report of you to heav'n.</l>
+<l>  Let sin, that baneful evil to the soul,</l>
+<l>  By you be shun'd, nor once remit your guard;</l>
+<l>  Suppress the deadly serpent in its egg.</l>
+<l>  Ye blooming plants of human race divine,</l>
+<l>  An Ethiop tells you 'tis your greatest foe;</l>
+<l>  Its transient sweetness turns to endless pain,</l>
+<l>  And in immense perdition sinks the soul.</l>
+</lg>
+</div>
+<div>
+<head>TO THE KING'S MOST EXCELLENT MAJESTY.  1768.</head>
+<lg>
+<l>  YOUR subjects hope, dread Sire--</l>
+<l>  The crown upon your brows may flourish long,</l>
+<l>  And that your arm may in your God be strong!</l>
+<l>  O may your sceptre num'rous nations sway,</l>
+<l>  And all with love and readiness obey!</l>
+<l>     But how shall we the British king reward!</l>
+<l>  Rule thou in peace, our father, and our lord!</l>
+<l>  Midst the remembrance of thy favours past,</l>
+<l>  The meanest peasants most admire the last*</l>
+<l>  May George, beloved by all the nations round,</l>
+<l>  Live with heav'ns choicest constant blessings crown'd!</l>
+<l>  Great God, direct, and guard him from on high,</l>
+<l>  And from his head let ev'ry evil fly!</l>
+<l>  And may each clime with equal gladness see</l>
+<l>  A monarch's smile can set his subjects free!</l>
+
+<l>       * The Repeal of the Stamp Act.</l>
+</lg>
+</div>
+         <div>
+<head>On being brought from Africa to America.</head>
+<lg>
+<l>  'TWAS mercy brought me from my Pagan land,</l>
+<l>  Taught my benighted soul to understand</l>
+<l>  That there's a God, that there's a Saviour too:</l>
+<l>  Once I redemption neither fought nor knew,</l>
+<l>  Some view our sable race with scornful eye,</l>
+<l>  "Their colour is a diabolic die."</l>
+<l>  Remember, Christians, Negroes, black as Cain,</l>
+<l>  May be refin'd, and join th' angelic train.</l>
+</lg>
+</div>
+
+<div>
+<head> On the Death of the Rev. Dr. SEWELL, 1769.</head>
+<lg>
+<l>  ERE yet the morn its lovely blushes spread,</l>
+<l>  See Sewell number'd with the happy dead.</l>
+<l>  Hail, holy man, arriv'd th' immortal shore,</l>
+<l>  Though we shall hear thy warning voice no more.</l>
+<l>  Come, let us all behold with wishful eyes</l>
+<l>  The saint ascending to his native skies;</l>
+<l>  From hence the prophet wing'd his rapt'rous way</l>
+<l>  To the blest mansions in eternal day.</l>
+<l>  Then begging for the Spirit of our God,</l>
+<l>  And panting eager for the same abode,</l>
+<l>  Come, let us all with the same vigour rise,</l>
+<l>  And take a prospect of the blissful skies;</l>
+<l>  While on our minds Christ's image is imprest,</l>
+<l>  And the dear Saviour glows in ev'ry breast.</l>
+<l>  Thrice happy saint! to find thy heav'n at last,</l>
+<l>  What compensation for the evils past!</l>
+<l>     Great God, incomprehensible, unknown</l>
+<l>  By sense, we bow at thine exalted throne.</l>
+<l>  O, while we beg thine excellence to feel,</l>
+<l>  Thy sacred Spirit to our hearts reveal,</l>
+<l>  And give us of that mercy to partake,</l>
+<l>  Which thou hast promis'd for the Saviour's sake!</l>
+<l>     "Sewell is dead."  Swift-pinion'd Fame thus cry'd.</l>
+<l>  "Is Sewell dead," my trembling tongue reply'd,</l>
+<l>  O what a blessing in his flight deny'd!</l>
+<l>  How oft for us the holy prophet pray'd!</l>
+<l>  How oft to us the Word of Life convey'd!</l>
+<l>  By duty urg'd my mournful verse to close,</l>
+<l>  I for his tomb this epitaph compose.</l>
+<l>     "Lo, here a man, redeem'd by Jesus's blood,</l>
+<l>  "A sinner once, but now a saint with God;</l>
+<l>  "Behold ye rich, ye poor, ye fools, ye wise,</l>
+<l>  "Not let his monument your heart surprise;</l>
+<l>  "Twill tell you what this holy man has done,</l>
+<l>  "Which gives him brighter lustre than the sun.</l>
+<l>  "Listen, ye happy, from your seats above.</l>
+<l>  "I speak sincerely, while I speak and love,</l>
+<l>  "He fought the paths of piety and truth,</l>
+<l>  "By these made happy from his early youth;</l>
+<l>  "In blooming years that grace divine he felt,</l>
+<l>  "Which rescues sinners from the chains of guilt.</l>
+<l>  "Mourn him, ye indigent, whom he has fed,</l>
+<l>  "And henceforth seek, like him, for living bread;</l>
+<l>  "Ev'n Christ, the bread descending from above,</l>
+<l>  "And ask an int'rest in his saving love.</l>
+<l>  "Mourn him, ye youth, to whom he oft has told</l>
+<l>  "God's gracious wonders from the times of old.</l>
+<l>  "I too have cause this mighty loss to mourn,</l>
+<l>  "For he my monitor will not return.</l>
+<l>  "O when shall we to his blest state arrive?</l>
+<l>  "When the same graces in our bosoms thrive."</l>
+</lg>
+</div>
+
+<div>
+<head> On the Death of the Rev. Mr. GEORGE WHITEFIELD.  1770.</head>
+<lg>
+<l>  HAIL, happy saint, on thine immortal throne,</l>
+<l>  Possest of glory, life, and bliss unknown;</l>
+<l>  We hear no more the music of thy tongue,</l>
+<l>  Thy wonted auditories cease to throng.</l>
+<l>  Thy sermons in unequall'd accents flow'd,</l>
+<l>  And ev'ry bosom with devotion glow'd;</l>
+<l>  Thou didst in strains of eloquence refin'd</l>
+<l>  Inflame the heart, and captivate the mind.</l>
+<l>  Unhappy we the setting sun deplore,</l>
+<l>  So glorious once, but ah! it shines no more.</l>
+<l>    Behold the prophet in his tow'ring flight!</l>
+<l>  He leaves the earth for heav'n's unmeasur'd height,</l>
+<l>  And worlds unknown receive him from our sight.</l>
+<l>  There Whitefield wings with rapid course his way,</l>
+<l>  And sails to Zion through vast seas of day.</l>
+<l>  Thy pray'rs, great saint, and thine incessant cries</l>
+<l>  Have pierc'd the bosom of thy native skies.</l>
+<l>  Thou moon hast seen, and all the stars of light,</l>
+<l>  How he has wrestled with his God by night.</l>
+<l>  He pray'd that grace in ev'ry heart might dwell,</l>
+<l>  He long'd to see America excell;</l>
+<l>  He charg'd its youth that ev'ry grace divine</l>
+<l>  Should with full lustre in their conduct shine;</l>
+<l>  That Saviour, which his soul did first receive,</l>
+<l>  The greatest gift that ev'n a God can give,</l>
+<l>  He freely offer'd to the num'rous throng,</l>
+<l>  That on his lips with list'ning pleasure hung.</l>
+<l>    "Take him, ye wretched, for your only good,</l>
+<l>  "Take him ye starving sinners, for your food;</l>
+<l>  "Ye thirsty, come to this life-giving stream,</l>
+<l>  "Ye preachers, take him for your joyful theme;</l>
+<l>  "Take him my dear Americans, he said,</l>
+<l>  "Be your complaints on his kind bosom laid:</l>
+<l>  "Take him, ye Africans, he longs for you,</l>
+<l>  "Impartial Saviour is his title due:</l>
+<l>  "Wash'd in the fountain of redeeming blood,</l>
+<l>  "You shall be sons, and kings, and priests to God."</l>
+<l>    Great Countess,* we Americans revere</l>
+<l>  Thy name, and mingle in thy grief sincere;</l>
+<l>  New England deeply feels, the Orphans mourn,</l>
+<l>  Their more than father will no more return.</l>
+<l>    But, though arrested by the hand of death,</l>
+<l>  Whitefield no more exerts his lab'ring breath,</l>
+<l>  Yet let us view him in th' eternal skies,</l>
+<l>  Let ev'ry heart to this bright vision rise;</l>
+<l>  While the tomb safe retains its sacred trust,</l>
+<l>  Till life divine re-animates his dust.</l>
+
+<l> *The Countess of Huntingdon, to whom Mr. Whitefield was Chaplain.</l>
+</lg>
+</div>
+
+<div>
+<head>On the Death of a young Lady of Five Years of Age.</head>
+<lg>
+<l>  FROM dark abodes to fair etherial light</l>
+<l>  Th' enraptur'd innocent has wing'd her flight;</l>
+<l>  On the kind bosom of eternal love</l>
+<l>  She finds unknown beatitude above.</l>
+<l>  This known, ye parents, nor her loss deplore,</l>
+<l>  She feels the iron hand of pain no more;</l>
+<l>  The dispensations of unerring grace,</l>
+<l>  Should turn your sorrows into grateful praise;</l>
+<l>  Let then no tears for her henceforward flow,</l>
+<l>  No more distress'd in our dark vale below,</l>
+<l>    Her morning sun, which rose divinely bright,</l>
+<l>  Was quickly mantled with the gloom of night;</l>
+<l>  But hear in heav'n's blest bow'rs your Nancy fair,</l>
+<l>  And learn to imitate her language there.</l>
+<l>  "Thou, Lord, whom I behold with glory crown'd,</l>
+<l>  "By what sweet name, and in what tuneful sound</l>
+<l>  "Wilt thou be prais'd?  Seraphic pow'rs are faint</l>
+<l>  "Infinite love and majesty to paint.</l>
+<l>  "To thee let all their graceful voices raise,</l>
+<l>  "And saints and angels join their songs of praise."</l>
+<l>    Perfect in bliss she from her heav'nly home</l>
+<l>  Looks down, and smiling beckons you to come;</l>
+<l>  Why then, fond parents, why these fruitless groans?</l>
+<l>  Restrain your tears, and cease your plaintive moans.</l>
+<l>  Freed from a world of sin, and snares, and pain,</l>
+<l>  Why would you wish your daughter back again?</l>
+<l>  No--bow resign'd.  Let hope your grief control,</l>
+<l>  And check the rising tumult of the soul.</l>
+<l>  Calm in the prosperous, and adverse day,</l>
+<l>  Adore the God who gives and takes away;</l>
+<l>  Eye him in all, his holy name revere,</l>
+<l>  Upright your actions, and your hearts sincere,</l>
+<l>  Till having sail'd through life's tempestuous sea,</l>
+<l>  And from its rocks, and boist'rous billows free,</l>
+<l>  Yourselves, safe landed on the blissful shore,</l>
+<l>  Shall join your happy babe to part no more.</l>
+</lg>
+</div>
+
+<div>
+<head> On the Death of a young Gentleman.</head>
+<lg>
+<l>  WHO taught thee conflict with the pow'rs of night,</l>
+<l>  To vanquish satan in the fields of light?</l>
+<l>  Who strung thy feeble arms with might unknown,</l>
+<l>  How great thy conquest, and how bright thy crown!</l>
+<l>  War with each princedom, throne, and pow'r is o'er,</l>
+<l>  The scene is ended to return no more.</l>
+<l>  O could my muse thy seat on high behold,</l>
+<l>  How deckt with laurel, how enrich'd with gold!</l>
+<l>  O could she hear what praise thine harp employs,</l>
+<l>  How sweet thine anthems, how divine thy joys!</l>
+<l>  What heav'nly grandeur should exalt her strain!</l>
+<l>  What holy raptures in her numbers reign!</l>
+<l>  To sooth the troubles of the mind to peace,</l>
+<l>  To still the tumult of life's tossing seas,</l>
+<l>  To ease the anguish of the parents heart,</l>
+<l>  What shall my sympathizing verse impart?</l>
+<l>  Where is the balm to heal so deep a wound?</l>
+<l>  Where shall a sov'reign remedy be found?</l>
+<l>  Look, gracious Spirit, from thine heav'nly bow'r,</l>
+<l>  And thy full joys into their bosoms pour;</l>
+<l>  The raging tempest of their grief control,</l>
+<l>  And spread the dawn of glory through the soul,</l>
+<l>  To eye the path the saint departed trod,</l>
+<l>  And trace him to the bosom of his God.</l>
+</lg>
+</div>
+
+<div>
+<head>To a Lady on the Death of her Husband.</head>
+<lg>
+<l>  GRIM monarch! see, depriv'd of vital breath,</l>
+<l>  A young physician in the dust of death:</l>
+<l>  Dost thou go on incessant to destroy,</l>
+<l>  Our griefs to double, and lay waste our joy?</l>
+<l>  Enough thou never yet wast known to say,</l>
+<l>  Though millions die, the vassals of thy sway:</l>
+<l>  Nor youth, nor science, not the ties of love,</l>
+<l>  Nor ought on earth thy flinty heart can move.</l>
+<l>  The friend, the spouse from his dire dart to save,</l>
+<l>  In vain we ask the sovereign of the grave.</l>
+<l>  Fair mourner, there see thy lov'd Leonard laid,</l>
+<l>  And o'er him spread the deep impervious shade.</l>
+<l>  Clos'd are his eyes, and heavy fetters keep</l>
+<l>  His senses bound in never-waking sleep,</l>
+<l>  Till time shall cease, till many a starry world</l>
+<l>  Shall fall from heav'n, in dire confusion hurl'd</l>
+<l>  Till nature in her final wreck shall lie,</l>
+<l>  And her last groan shall rend the azure sky:</l>
+<l>  Not, not till then his active soul shall claim</l>
+<l>  His body, a divine immortal frame.</l>
+<l>    But see the softly-stealing tears apace</l>
+<l>  Pursue each other down the mourner's face;</l>
+<l>  But cease thy tears, bid ev'ry sigh depart,</l>
+<l>  And cast the load of anguish from thine heart:</l>
+<l>  From the cold shell of his great soul arise,</l>
+<l>  And look beyond, thou native of the skies;</l>
+<l>  There fix thy view, where fleeter than the wind</l>
+<l>  Thy Leonard mounts, and leaves the earth behind.</l>
+<l>  Thyself prepare to pass the vale of night</l>
+<l>  To join for ever on the hills of light:</l>
+<l>  To thine embrace this joyful spirit moves</l>
+<l>  To thee, the partner of his earthly loves;</l>
+<l>  He welcomes thee to pleasures more refin'd,</l>
+<l>  And better suited to th' immortal mind.</l>
+</lg>
+</div>
+
+<div>
+<head>G O L I A T H   O F   G A T H.</head>
+<head type="sub">      1 SAMUEL, Chap. xvii.</head>
+<lg>
+<l>  YE martial pow'rs, and all ye tuneful nine,</l>
+<l>  Inspire my song, and aid my high design.</l>
+<l>  The dreadful scenes and toils of war I write,</l>
+<l>  The ardent warriors, and the fields of fight:</l>
+<l>  You best remember, and you best can sing</l>
+<l>  The acts of heroes to the vocal string:</l>
+<l>  Resume the lays with which your sacred lyre,</l>
+<l>  Did then the poet and the sage inspire.</l>
+<l>    Now front to front the armies were display'd,</l>
+<l>  Here Israel rang'd, and there the foes array'd;</l>
+<l>  The hosts on two opposing mountains stood,</l>
+<l>  Thick as the foliage of the waving wood;</l>
+<l>  Between them an extensive valley lay,</l>
+<l>  O'er which the gleaming armour pour'd the day,</l>
+<l>  When from the camp of the Philistine foes,</l>
+<l>  Dreadful to view, a mighty warrior rose;</l>
+<l>  In the dire deeds of bleeding battle skill'd,</l>
+<l>  The monster stalks the terror of the field.</l>
+<l>  From Gath he sprung, Goliath was his name,</l>
+<l>  Of fierce deportment, and gigantic frame:</l>
+<l>  A brazen helmet on his head was plac'd,</l>
+<l>  A coat of mail his form terrific grac'd,</l>
+<l>  The greaves his legs, the targe his shoulders prest:</l>
+<l>  Dreadful in arms high-tow'ring o'er the rest</l>
+<l>  A spear he proudly wav'd, whose iron head,</l>
+<l>  Strange to relate, six hundred shekels weigh'd;</l>
+<l>  He strode along, and shook the ample field,</l>
+<l>  While Phoebus blaz'd refulgent on his shield:</l>
+<l>  Through Jacob's race a chilling horror ran,</l>
+<l>  When thus the huge, enormous chief began:</l>
+<l>    "Say, what the cause that in this proud array</l>
+<l>  "You set your battle in the face of day?</l>
+<l>  "One hero find in all your vaunting train,</l>
+<l>  "Then see who loses, and who wins the plain;</l>
+<l>  "For he who wins, in triumph may demand</l>
+<l>  "Perpetual service from the vanquish'd land:</l>
+<l>  "Your armies I defy, your force despise,</l>
+<l>  "By far inferior in Philistia's eyes:</l>
+<l>  "Produce a man, and let us try the fight,</l>
+<l>  "Decide the contest, and the victor's right."</l>
+<l>    Thus challeng'd he: all Israel stood amaz'd,</l>
+<l>  And ev'ry chief in consternation gaz'd;</l>
+<l>  But Jesse's son in youthful bloom appears,</l>
+<l>  And warlike courage far beyond his years:</l>
+<l>  He left the folds, he left the flow'ry meads,</l>
+<l>  And soft recesses of the sylvan shades.</l>
+<l>  Now Israel's monarch, and his troops arise,</l>
+<l>  With peals of shouts ascending to the skies;</l>
+<l>  In Elah's vale the scene of combat lies.</l>
+<l>    When the fair morning blush'd with orient red,</l>
+<l>  What David's fire enjoin'd the son obey'd,</l>
+<l>  And swift of foot towards the trench he came,</l>
+<l>  Where glow'd each bosom with the martial flame.</l>
+<l>  He leaves his carriage to another's care,</l>
+<l>  And runs to greet his brethren of the war.</l>
+<l>  While yet they spake the giant-chief arose,</l>
+<l>  Repeats the challenge, and insults his foes:</l>
+<l>  Struck with the sound, and trembling at the view,</l>
+<l>  Affrighted Israel from its post withdrew.</l>
+<l>  "Observe ye this tremendous foe, they cry'd,</l>
+<l>  "Who in proud vaunts our armies hath defy'd:</l>
+<l>  "Whoever lays him prostrate on the plain,</l>
+<l>  "Freedom in Israel for his house shall gain;</l>
+<l>  "And on him wealth unknown the king will pour,</l>
+<l>  "And give his royal daughter for his dow'r."</l>
+<l>    Then Jesse's youngest hope: "My brethren say,</l>
+<l>  "What shall be done for him who takes away</l>
+<l>  "Reproach from Jacob, who destroys the chief.</l>
+<l>  "And puts a period to his country's grief.</l>
+<l>  "He vaunts the honours of his arms abroad,</l>
+<l>  "And scorns the armies of the living God."</l>
+<l>    Thus spoke the youth, th' attentive people ey'd</l>
+<l>  The wond'rous hero, and again reply'd:</l>
+<l>  "Such the rewards our monarch will bestow,</l>
+<l>  "On him who conquers, and destroys his foe."</l>
+<l>    Eliab heard, and kindled into ire</l>
+<l>  To hear his shepherd brother thus inquire,</l>
+<l>  And thus begun: "What errand brought thee? say</l>
+<l>  "Who keeps thy flock? or does it go astray?</l>
+<l>  "I know the base ambition of thine heart,</l>
+<l>  "But back in safety from the field depart."</l>
+<l>    Eliab thus to Jesse's youngest heir,</l>
+<l>  Express'd his wrath in accents most severe.</l>
+<l>  When to his brother mildly he reply'd.</l>
+<l>  "What have I done? or what the cause to chide?</l>
+<l>    The words were told before the king, who sent</l>
+<l>  For the young hero to his royal tent:</l>
+<l>  Before the monarch dauntless he began,</l>
+<l>  "For this Philistine fail no heart of man:</l>
+<l>  "I'll take the vale, and with the giant fight:</l>
+<l>  "I dread not all his boasts, nor all his might."</l>
+<l>  When thus the king: "Dar'st thou a stripling go,</l>
+<l>  "And venture combat with so great a foe?</l>
+<l>  "Who all his days has been inur'd to fight,</l>
+<l>  "And made its deeds his study and delight:</l>
+<l>  "Battles and bloodshed brought the monster forth,</l>
+<l>  "And clouds and whirlwinds usher'd in his birth."</l>
+<l>  When David thus: "I kept the fleecy care,</l>
+<l>  "And out there rush'd a lion and a bear;</l>
+<l>  "A tender lamb the hungry lion took,</l>
+<l>  "And with no other weapon than my crook</l>
+<l>  "Bold I pursu'd, and chas d him o'er the field,</l>
+<l>  "The prey deliver'd, and the felon kill'd:</l>
+<l>  "As thus the lion and the bear I slew,</l>
+<l>  "So shall Goliath fall, and all his crew:</l>
+<l>  "The God, who sav'd me from these beasts of prey,</l>
+<l>  "By me this monster in the dust shall lay."</l>
+<l>  So David spoke.  The wond'ring king reply'd;</l>
+<l>  "Go thou with heav'n and victory on thy side:</l>
+<l>  "This coat of mail, this sword gird on," he said,</l>
+<l>  And plac'd a mighty helmet on his head:</l>
+<l>  The coat, the sword, the helm he laid aside,</l>
+<l>  Nor chose to venture with those arms untry'd,</l>
+<l>  Then took his staff, and to the neighb'ring brook</l>
+<l>  Instant he ran, and thence five pebbles took.</l>
+<l>  Mean time descended to Philistia's son</l>
+<l>  A radiant cherub, and he thus begun:</l>
+<l>  "Goliath, well thou know'st thou hast defy'd</l>
+<l>  "Yon Hebrew armies, and their God deny'd:</l>
+<l>  "Rebellious wretch! audacious worm! forbear,</l>
+<l>  "Nor tempt the vengeance of their God too far:</l>
+<l>  "Them, who with his Omnipotence contend,</l>
+<l>  "No eye shall pity, and no arm defend:</l>
+<l>  "Proud as thou art, in short liv'd glory great,</l>
+<l>  "I come to tell thee thine approaching fate.</l>
+<l>  "Regard my words.  The Judge of all the gods,</l>
+<l>  "Beneath whose steps the tow'ring mountain nods,</l>
+<l>  "Will give thine armies to the savage brood,</l>
+<l>  "That cut the liquid air, or range the wood.</l>
+<l>  "Thee too a well-aim'd pebble shall destroy,</l>
+<l>  "And thou shalt perish by a beardless boy:</l>
+<l>  "Such is the mandate from the realms above,</l>
+<l>  "And should I try the vengeance to remove,</l>
+<l>  "Myself a rebel to my king would prove.</l>
+<l>  "Goliath say, shall grace to him be shown,</l>
+<l>  "Who dares heav'ns Monarch, and insults his throne?"</l>
+<l>    "Your words are lost on me," the giant cries,</l>
+<l>  While fear and wrath contended in his eyes,</l>
+<l>  When thus the messenger from heav'n replies:</l>
+<l>  "Provoke no more Jehovah's awful hand</l>
+<l>  "To hurl its vengeance on thy guilty land:</l>
+<l>  "He grasps the thunder, and, he wings the storm,</l>
+<l>  "Servants their sov'reign's orders to perform."</l>
+<l>    The angel spoke, and turn'd his eyes away,</l>
+<l>  Adding new radiance to the rising day.</l>
+<l>    Now David comes: the fatal stones demand</l>
+<l>  His left, the staff engag'd his better hand:</l>
+<l>  The giant mov'd, and from his tow'ring height</l>
+<l>  Survey'd the stripling, and disdain'd the fight,</l>
+<l>  And thus began: "Am I a dog with thee?</l>
+<l>  "Bring'st thou no armour, but a staff to me?</l>
+<l>  "The gods on thee their vollied curses pour,</l>
+<l>  "And beasts and birds of prey thy flesh devour."</l>
+<l>    David undaunted thus, "Thy spear and shield</l>
+<l>  "Shall no protection to thy body yield:</l>
+<l>  "Jehovah's name------no other arms I bear,</l>
+<l>  "I ask no other in this glorious war.</l>
+<l>  "To-day the Lord of Hosts to me will give</l>
+<l>  "Vict'ry, to-day thy doom thou shalt receive;</l>
+<l>  "The fate you threaten shall your own become,</l>
+<l>  "And beasts shall be your animated tomb,</l>
+<l>  "That all the earth's inhabitants may know</l>
+<l>  "That there's a God, who governs all below:</l>
+<l>  "This great assembly too shall witness stand,</l>
+<l>  "That needs nor sword, nor spear, th' Almighty's</l>
+<l>    hand:</l>
+<l>  "The battle his, the conquest he bestows,</l>
+<l>  "And to our pow'r consigns our hated foes."</l>
+<l>    Thus David spoke; Goliath heard and came</l>
+<l>  To meet the hero in the field of fame.</l>
+<l>  Ah! fatal meeting to thy troops and thee,</l>
+<l>  But thou wast deaf to the divine decree;</l>
+<l>  Young David meets thee, meets thee not in vain;</l>
+<l>  'Tis thine to perish on th' ensanguin'd plain.</l>
+<l>    And now the youth the forceful pebble slung</l>
+<l>  Philistia trembled as it whizz'd along:</l>
+<l>  In his dread forehead, where the helmet ends,</l>
+<l>  Just o'er the brows the well-aim'd stone descends,</l>
+<l>  It pierc'd the skull, and shatter'd all the brain,</l>
+<l>  Prone on his face he tumbled to the plain:</l>
+<l>  Goliath's fall no smaller terror yields</l>
+<l>  Than riving thunders in aerial fields:</l>
+<l>  The soul still ling'red in its lov'd abode,</l>
+<l>  Till conq'ring David o'er the giant strode:</l>
+<l>  Goliath's sword then laid its master dead,</l>
+<l>  And from the body hew'd the ghastly head;</l>
+<l>  The blood in gushing torrents drench'd the plains,</l>
+<l>  The soul found passage through the spouting veins.</l>
+<l>    And now aloud th' illustrious victor said,</l>
+<l>  "Where are your boastings now your champion's</l>
+<l>    "dead?"</l>
+<l>  Scarce had he spoke, when the Philistines fled:</l>
+<l>  But fled in vain; the conqu'ror swift pursu'd:</l>
+<l>  What scenes of slaughter! and what seas of blood!</l>
+<l>  There Saul thy thousands grasp'd th' impurpled sand</l>
+<l>  In pangs of death the conquest of thine hand;</l>
+<l>  And David there were thy ten thousands laid:</l>
+<l>  Thus Israel's damsels musically play'd.</l>
+<l>    Near Gath and Edron many an hero lay,</l>
+<l>  Breath'd out their souls, and curs'd the light of day:</l>
+<l>  Their fury, quench'd by death, no longer burns,</l>
+<l>  And David with Goliath's head returns,</l>
+<l>  To Salem brought, but in his tent he plac'd</l>
+<l>  The load of armour which the giant grac'd.</l>
+<l>  His monarch saw him coming from the war,</l>
+<l>  And thus demanded of the son of Ner.</l>
+<l>  "Say, who is this amazing youth?" he cry'd,</l>
+<l>  When thus the leader of the host reply'd;</l>
+<l>  "As lives thy soul I know not whence he sprung,</l>
+<l>  "So great in prowess though in years so young:"</l>
+<l>  "Inquire whose son is he," the sov'reign said,</l>
+<l>  "Before whose conq'ring arm Philistia fled."</l>
+<l>  Before the king behold the stripling stand,</l>
+<l>  Goliath's head depending from his hand:</l>
+<l>  To him the king: "Say of what martial line</l>
+<l>  "Art thou, young hero, and what sire was thine?"</l>
+<l>  He humbly thus; "The son of Jesse I:</l>
+<l>  "I came the glories of the field to try.</l>
+<l>  "Small is my tribe, but valiant in the fight;</l>
+<l>  "Small is my city, but thy royal right."</l>
+<l>  "Then take the promis'd gifts," the monarch cry'd,</l>
+<l>  Conferring riches and the royal bride:</l>
+<l>  "Knit to my soul for ever thou remain</l>
+<l>  "With me, nor quit my regal roof again."</l>
+</lg>
+</div>
+
+<div>
+<head>Thoughts on the WORKS OF PROVIDENCE.</head>
+<lg>
+<l>  A R I S E, my soul, on wings enraptur'd, rise</l>
+<l>  To praise the monarch of the earth and skies,</l>
+<l>  Whose goodness and benificence appear</l>
+<l>  As round its centre moves the rolling year,</l>
+<l>  Or when the morning glows with rosy charms,</l>
+<l>  Or the sun slumbers in the ocean's arms:</l>
+<l>  Of light divine be a rich portion lent</l>
+<l>  To guide my soul, and favour my intend.</l>
+<l>  Celestial muse, my arduous flight sustain</l>
+<l>  And raise my mind to a seraphic strain!</l>
+<l>    Ador'd for ever be the God unseen,</l>
+<l>  Which round the sun revolves this vast machine,</l>
+<l>  Though to his eye its mass a point appears:</l>
+<l>  Ador'd the God that whirls surrounding spheres,</l>
+<l>  Which first ordain'd that mighty Sol should reign</l>
+<l>  The peerless monarch of th' ethereal train:</l>
+<l>  Of miles twice forty millions is his height,</l>
+<l>  And yet his radiance dazzles mortal sight</l>
+<l>  So far beneath--from him th' extended earth</l>
+<l>  Vigour derives, and ev'ry flow'ry birth:</l>
+<l>  Vast through her orb she moves with easy grace</l>
+<l>  Around her Phoebus in unbounded space;</l>
+<l>  True to her course th' impetuous storm derides,</l>
+<l>  Triumphant o'er the winds, and surging tides.</l>
+<l>    Almighty, in these wond'rous works of thine,</l>
+<l>  What Pow'r, what Wisdom, and what Goodness shine!</l>
+<l>  And are thy wonders, Lord, by men explor'd,</l>
+<l>  And yet creating glory unador'd!</l>
+<l>    Creation smiles in various beauty gay,</l>
+<l>  While day to night, and night succeeds to day:</l>
+<l>  That Wisdom, which attends Jehovah's ways,</l>
+<l>  Shines most conspicuous in the solar rays:</l>
+<l>  Without them, destitute of heat and light,</l>
+<l>  This world would be the reign of endless night:</l>
+<l>  In their excess how would our race complain,</l>
+<l>  Abhorring life! how hate its length'ned chain!</l>
+<l>  From air adust what num'rous ills would rise?</l>
+<l>  What dire contagion taint the burning skies?</l>
+<l>  What pestilential vapours, fraught with death,</l>
+<l>  Would rise, and overspread the lands beneath?</l>
+<l>    Hail, smiling morn, that from the orient main</l>
+<l>  Ascending dost adorn the heav'nly plain!</l>
+<l>  So rich, so various are thy beauteous dies,</l>
+<l>  That spread through all the circuit of the skies,</l>
+<l>  That, full of thee, my soul in rapture soars,</l>
+<l>  And thy great God, the cause of all adores.</l>
+<l>    O'er beings infinite his love extends,</l>
+<l>  His Wisdom rules them, and his Pow'r defends.</l>
+<l>  When tasks diurnal tire the human frame,</l>
+<l>  The spirits faint, and dim the vital flame,</l>
+<l>  Then too that ever active bounty shines,</l>
+<l>  Which not infinity of space confines.</l>
+<l>  The sable veil, that Night in silence draws,</l>
+<l>  Conceals effects, but shows th' Almighty Cause,</l>
+<l>  Night seals in sleep the wide creation fair,</l>
+<l>  And all is peaceful but the brow of care.</l>
+<l>  Again, gay Phoebus, as the day before,</l>
+<l>  Wakes ev'ry eye, but what shall wake no more;</l>
+<l>  Again the face of nature is renew'd,</l>
+<l>  Which still appears harmonious, fair, and good.</l>
+<l>  May grateful strains salute the smiling morn,</l>
+<l>  Before its beams the eastern hills adorn!</l>
+<l>    Shall day to day, and night to night conspire</l>
+<l>  To show the goodness of the Almighty Sire?</l>
+<l>  This mental voice shall man regardless hear,</l>
+<l>  And never, never raise the filial pray'r?</l>
+<l>  To-day, O hearken, nor your folly mourn</l>
+<l>  For time mispent, that never will return.</l>
+<l>       But see the sons of vegetation rise,</l>
+<l>  And spread their leafy banners to the skies.</l>
+<l>  All-wise Almighty Providence we trace</l>
+<l>  In trees, and plants, and all the flow'ry race;</l>
+<l>  As clear as in the nobler frame of man,</l>
+<l>  All lovely copies of the Maker's plan.</l>
+<l>  The pow'r the same that forms a ray of light,</l>
+<l>  That call d creation from eternal night.</l>
+<l>  "Let there be light," he said: from his profound</l>
+<l>  Old Chaos heard, and trembled at the sound:</l>
+<l>  Swift as the word, inspir'd by pow'r divine,</l>
+<l>  Behold the light around its Maker shine,</l>
+<l>  The first fair product of th' omnific God,</l>
+<l>  And now through all his works diffus'd abroad.</l>
+<l>       As reason's pow'rs by day our God disclose,</l>
+<l>  So we may trace him in the night's repose:</l>
+<l>  Say what is sleep? and dreams how passing strange!</l>
+<l>  When action ceases, and ideas range</l>
+<l>  Licentious and unbounded o'er the plains,</l>
+<l>  Where Fancy's queen in giddy triumph reigns.</l>
+<l>  Hear in soft strains the dreaming lover sigh</l>
+<l>  To a kind fair, or rave in jealousy;</l>
+<l>  On pleasure now, and now on vengeance bent,</l>
+<l>  The lab'ring passions struggle for a vent.</l>
+<l>  What pow'r, O man! thy reason then restores,</l>
+<l>  So long suspended in nocturnal hours?</l>
+<l>  What secret hand returns the mental train,</l>
+<l>  And gives improv'd thine active pow'rs again?</l>
+<l>  From thee, O man, what gratitude should rise!</l>
+<l>  And, when from balmy sleep thou op'st thine eyes,</l>
+<l>  Let thy first thoughts be praises to the skies.</l>
+<l>  How merciful our God who thus imparts</l>
+<l>  O'erflowing tides of joy to human hearts,</l>
+<l>  When wants and woes might be our righteous lot,</l>
+<l>  Our God forgetting, by our God forgot!</l>
+<l>    Among the mental pow'rs a question rose,</l>
+<l>  "What most the image of th' Eternal shows?"</l>
+<l>  When thus to Reason (so let Fancy rove)</l>
+<l>  Her great companion spoke immortal Love.</l>
+<l>    "Say, mighty pow'r, how long shall strife prevail,</l>
+<l>  "And with its murmurs load the whisp'ring gale?</l>
+<l>  "Refer the cause to Recollection's shrine,</l>
+<l>  "Who loud proclaims my origin divine,</l>
+<l>  "The cause whence heav'n and earth began to be,</l>
+<l>  "And is not man immortaliz'd by me?</l>
+<l>  "Reason let this most causeless strife subside."</l>
+<l>  Thus Love pronounc'd, and Reason thus reply'd.</l>
+<l>    "Thy birth, coelestial queen! 'tis mine to own,</l>
+<l>  "In thee resplendent is the Godhead shown;</l>
+<l>  "Thy words persuade, my soul enraptur'd feels</l>
+<l>  "Resistless beauty which thy smile reveals."</l>
+<l>  Ardent she spoke, and, kindling at her charms,</l>
+<l>  She clasp'd the blooming goddess in her arms.</l>
+<l>    Infinite Love where'er we turn our eyes</l>
+<l>  Appears: this ev'ry creature's wants supplies;</l>
+<l>  This most is heard in Nature's constant voice,</l>
+<l>  This makes the morn, and this the eve rejoice;</l>
+<l>  This bids the fost'ring rains and dews descend</l>
+<l>  To nourish all, to serve one gen'ral end,</l>
+<l>  The good of man: yet man ungrateful pays</l>
+<l>  But little homage, and but little praise.</l>
+<l>  To him, whose works arry'd with mercy shine,</l>
+<l>  What songs should rise, how constant, how divine!</l>
+</lg>
+</div>
+
+<div>
+<head>  To a Lady on the Death of three Relations.</head>
+<lg>
+<l>  WE trace the pow'r of Death from tomb to tomb,</l>
+<l>  And his are all the ages yet to come.</l>
+<l>  'Tis his to call the planets from on high,</l>
+<l>  To blacken Phoebus, and dissolve the sky;</l>
+<l>  His too, when all in his dark realms are hurl'd,</l>
+<l>  From its firm base to shake the solid world;</l>
+<l>  His fatal sceptre rules the spacious whole,</l>
+<l>  And trembling nature rocks from pole to pole.</l>
+<l>    Awful he moves, and wide his wings are spread:</l>
+<l>  Behold thy brother number'd with the dead!</l>
+<l>  From bondage freed, the exulting spirit flies</l>
+<l>  Beyond Olympus, and these starry skies.</l>
+<l>  Lost in our woe for thee, blest shade, we mourn</l>
+<l>  In vain; to earth thou never must return.</l>
+<l>  Thy sisters too, fair mourner, feel the dart</l>
+<l>  Of Death, and with fresh torture rend thine heart.</l>
+<l>  Weep not for them, and leave the world behind.</l>
+<l>    As a young plant by hurricanes up torn,</l>
+<l>  So near its parent lies the newly born--</l>
+<l>  But 'midst the bright ehtereal train behold</l>
+<l>  It shines superior on a throne of gold:</l>
+<l>  Then, mourner, cease; let hope thy tears restrain,</l>
+<l>  Smile on the tomb, and sooth the raging pain.</l>
+<l>  On yon blest regions fix thy longing view,</l>
+<l>  Mindless of sublunary scenes below;</l>
+<l>  Ascend the sacred mount, in thought arise,</l>
+<l>  And seek substantial and immortal joys;</l>
+<l>  Where hope receives, where faith to vision springs,</l>
+<l>  And raptur'd seraphs tune th' immortal strings</l>
+<l>  To strains extatic.  Thou the chorus join,</l>
+<l>  And to thy father tune the praise divine.</l>
+</lg>
+</div>
+
+<div>
+<head>To a Clergyman on the Death of his Lady.</head>
+<lg>
+<l>  WHERE contemplation finds her sacred spring,</l>
+<l>  Where heav'nly music makes the arches ring,</l>
+<l>  Where virtue reigns unsully'd and divine,</l>
+<l>  Where wisdom thron'd, and all the graces shine,</l>
+<l>  There sits thy spouse amidst the radiant throng,</l>
+<l>  While praise eternal warbles from her tongue;</l>
+<l>  There choirs angelic shout her welcome round,</l>
+<l>  With perfect bliss, and peerless glory crown'd.</l>
+<l>    While thy dear mate, to flesh no more confin'd,</l>
+<l>  Exults a blest, an heav'n-ascended mind,</l>
+<l>  Say in thy breast shall floods of sorrow rise?</l>
+<l>  Say shall its torrents overwhelm thine eyes?</l>
+<l>  Amid the seats of heav'n a place is free,</l>
+<l>  And angels open their bright ranks for thee;</l>
+<l>  For thee they wait, and with expectant eye</l>
+<l>  Thy spouse leans downward from th' empyreal sky:</l>
+<l>  "O come away," her longing spirit cries,</l>
+<l>  "And share with me the raptures of the skies.</l>
+<l>  "Our bliss divine to mortals is unknown;</l>
+<l>  "Immortal life and glory are our own.</l>
+<l>  "There too may the dear pledges of our love</l>
+<l>  "Arrive, and taste with us the joys above;</l>
+<l>  "Attune the harp to more than mortal lays,</l>
+<l>  "And join with us the tribute of their praise</l>
+<l>  "To him, who dy'd stern justice to stone,</l>
+<l>  "And make eternal glory all our own.</l>
+<l>  "He in his death slew ours, and, as he rose,</l>
+<l>  "He crush'd the dire dominion of our foes;</l>
+<l>  "Vain were their hopes to put the God to flight,</l>
+<l>  "Chain us to hell, and bar the gates of light."</l>
+<l>    She spoke, and turn'd from mortal scenes her eyes,</l>
+<l>  Which beam'd celestial radiance o'er the skies.</l>
+<l>    Then thou dear man, no more with grief retire,</l>
+<l>  Let grief no longer damp devotion's fire,</l>
+<l>  But rise sublime, to equal bliss aspire,</l>
+<l>  Thy sighs no more be wafted by the wind,</l>
+<l>  No more complain, but be to heav'n resign'd</l>
+<l>  'Twas thine t' unfold the oracles divine,</l>
+<l>  To sooth our woes the task was also thine;</l>
+<l>  Now sorrow is incumbent on thy heart,</l>
+<l>  Permit the muse a cordial to impart;</l>
+<l>  Who can to thee their tend'rest aid refuse?</l>
+</lg>
+</div>
+
+<div>
+<head>An HYMN to the MORNING</head>
+<lg>
+<l>  ATTEND my lays, ye ever honour'd nine,</l>
+<l>  Assist my labours, and my strains refine;</l>
+<l>  In smoothest numbers pour the notes along,</l>
+<l>  For bright Aurora now demands my song.</l>
+<l>    Aurora hail, and all the thousand dies,</l>
+<l>  Which deck thy progress through the vaulted skies:</l>
+<l>  The morn awakes, and wide extends her rays,</l>
+<l>  On ev'ry leaf the gentle zephyr plays;</l>
+<l>  Harmonious lays the feather'd race resume,</l>
+<l>  Dart the bright eye, and shake the painted plume.</l>
+<l>    Ye shady groves, your verdant gloom display</l>
+<l>  To shield your poet from the burning day:</l>
+<l>  Calliope awake the sacred lyre,</l>
+<l>  While thy fair sisters fan the pleasing fire:</l>
+<l>  The bow'rs, the gales, the variegated skies</l>
+<l>  In all their pleasures in my bosom rise.</l>
+<l>    See in the east th' illustrious king of day!</l>
+<l>  His rising radiance drives the shades away--</l>
+<l>  But Oh! I feel his fervid beams too strong,</l>
+<l>  And scarce begun, concludes th' abortive song.</l>
+</lg>
+</div>
+
+<div>
+<head>An HYMN to the EVENING.</head>
+<lg>
+<l>  SOON as the sun forsook the eastern main</l>
+<l>  The pealing thunder shook the heav'nly plain;</l>
+<l>  Majestic grandeur!  From the zephyr's wing,</l>
+<l>  Exhales the incense of the blooming spring.</l>
+<l>  Soft purl the streams, the birds renew their notes,</l>
+<l>  And through the air their mingled music floats.</l>
+<l>    Through all the heav'ns what beauteous dies are spread!</l>
+<l>  But the west glories in the deepest red:</l>
+<l>  So may our breasts with ev'ry virtue glow,</l>
+<l>  The living temples of our God below!</l>
+<l>    Fill'd with the praise of him who gives the light,</l>
+<l>  And draws the sable curtains of the night,</l>
+<l>  Let placid slumbers sooth each weary mind,</l>
+<l>  At morn to wake more heav'nly, more refin'd;</l>
+<l>  So shall the labours of the day begin</l>
+<l>  More pure, more guarded from the snares of sin.</l>
+<l>    Night's leaden sceptre seals my drowsy eyes,</l>
+<l>  Then cease, my song, till fair Aurora rise.</l>
+</lg>
+</div>
+<div>
+<head>    ISAIAH lxiii. 1-8.</head>
+<lg>
+<l>  SAY, heav'nly muse, what king or mighty God,</l>
+<l>  That moves sublime from Idumea's road?</l>
+<l>  In Bosrah's dies, with martial glories join'd,</l>
+<l>  His purple vesture waves upon the wind.</l>
+<l>  Why thus enrob'd delights he to appear</l>
+<l>  In the dread image of the Pow'r of war?</l>
+<l>    Compres'd in wrath the swelling wine-press groan'd,</l>
+<l>  It bled, and pour'd the gushing purple round.</l>
+<l>    "Mine was the act," th' Almighty Saviour said,</l>
+<l>  And shook the dazzling glories of his head,</l>
+<l>  "When all forsook I trod the press alone,</l>
+<l>  "And conquer'd by omnipotence my own;</l>
+<l>  "For man's release sustain'd the pond'rous load,</l>
+<l>  "For man the wrath of an immortal God:</l>
+<l>  "To execute th' Eternal's dread command</l>
+<l>  "My soul I sacrific'd with willing hand;</l>
+<l>  "Sinless I stood before the avenging frown,</l>
+<l>  "Atoning thus for vices not my own."</l>
+<l>    His eye the ample field of battle round</l>
+<l>  Survey'd, but no created succours found;</l>
+<l>  His own omnipotence sustain'd the right,</l>
+<l>  His vengeance sunk the haughty foes in night;</l>
+<l>  Beneath his feet the prostrate troops were spread,</l>
+<l>  And round him lay the dying, and the dead.</l>
+<l>    Great God, what light'ning flashes from thine eyes?</l>
+<l>  What pow'r withstands if thou indignant rise?</l>
+<l>    Against thy Zion though her foes may rage,</l>
+<l>  And all their cunning, all their strength engage,</l>
+<l>  Yet she serenely on thy bosom lies,</l>
+<l>  Smiles at their arts, and all their force defies.</l>
+</lg>
+</div>
+<div>
+<head>    On RECOLLECTION.</head>
+<lg>
+<l>  MNEME begin.  Inspire, ye sacred nine,</l>
+<l>  Your vent'rous Afric in her great design.</l>
+<l>  Mneme, immortal pow'r, I trace thy spring:</l>
+<l>  Assist my strains, while I thy glories sing:</l>
+<l>  The acts of long departed years, by thee</l>
+<l>  Recover'd, in due order rang'd we see:</l>
+<l>  Thy pow'r the long-forgotten calls from night,</l>
+<l>  That sweetly plays before the fancy's sight.</l>
+<l>  Mneme in our nocturnal visions pours</l>
+<l>  The ample treasure of her secret stores;</l>
+<l>  Swift from above the wings her silent flight</l>
+<l>  Through Phoebe's realms, fair regent of the night;</l>
+<l>  And, in her pomp of images display'd,</l>
+<l>  To the high-raptur'd poet gives her aid,</l>
+<l>  Through the unbounded regions of the mind,</l>
+<l>  Diffusing light celestial and refin'd.</l>
+<l>  The heav'nly phantom paints the actions done</l>
+<l>  By ev'ry tribe beneath the rolling sun.</l>
+<l>    Mneme, enthron'd within the human breast,</l>
+<l>  Has vice condemn'd, and ev'ry virtue blest.</l>
+<l>  How sweet the sound when we her plaudit hear?</l>
+<l>  Sweeter than music to the ravish'd ear,</l>
+<l>  Sweeter than Maro's entertaining strains</l>
+<l>  Resounding through the groves, and hills, and plains.</l>
+<l>  But how is Mneme dreaded by the race,</l>
+<l>  Who scorn her warnings and despise her grace?</l>
+<l>  By her unveil'd each horrid crime appears,</l>
+<l>  Her awful hand a cup of wormwood bears.</l>
+<l>  Days, years mispent, O what a hell of woe!</l>
+<l>  Hers the worst tortures that our souls can know.</l>
+<l>    Now eighteen years their destin'd course have run,</l>
+<l>  In fast succession round the central sun.</l>
+<l>  How did the follies of that period pass</l>
+<l>  Unnotic'd, but behold them writ in brass!</l>
+<l>  In Recollection see them fresh return,</l>
+<l>  And sure 'tis mine to be asham'd, and mourn.</l>
+<l>    O Virtue, smiling in immortal green,</l>
+<l>  Do thou exert thy pow'r, and change the scene;</l>
+<l>  Be thine employ to guide my future days,</l>
+<l>  And mine to pay the tribute of my praise.</l>
+<l>    Of Recollection such the pow'r enthron'd</l>
+<l>  In ev'ry breast, and thus her pow'r is own'd.</l>
+<l>  The wretch, who dar'd the vengeance of the skies,</l>
+<l>  At last awakes in horror and surprise,</l>
+<l>  By her alarm'd, he sees impending fate,</l>
+<l>  He howls in anguish, and repents too late.</l>
+<l>  But O! what peace, what joys are hers t' impart</l>
+<l>  To ev'ry holy, ev'ry upright heart!</l>
+<l>  Thrice blest the man, who, in her sacred shrine,</l>
+<l>  Feels himself shelter'd from the wrath divine!</l>
+</lg>
+</div>
+<div>
+<head>    On IMAGINATION.</head>
+<lg>
+<l>  THY various works, imperial queen, we see,</l>
+<l>    How bright their forms! how deck'd with pomp</l>
+<l>      by thee!</l>
+<l>  Thy wond'rous acts in beauteous order stand,</l>
+<l>  And all attest how potent is thine hand.</l>
+<l>    From Helicon's refulgent heights attend,</l>
+<l>  Ye sacred choir, and my attempts befriend:</l>
+<l>  To tell her glories with a faithful tongue,</l>
+<l>  Ye blooming graces, triumph in my song.</l>
+<l>       Now here, now there, the roving Fancy flies,</l>
+<l>  Till some lov'd object strikes her wand'ring eyes,</l>
+<l>  Whose silken fetters all the senses bind,</l>
+<l>  And soft captivity involves the mind.</l>
+<l>    Imagination! who can sing thy force?</l>
+<l>  Or who describe the swiftness of thy course?</l>
+<l>  Soaring through air to find the bright abode,</l>
+<l>  Th' empyreal palace of the thund'ring God,</l>
+<l>  We on thy pinions can surpass the wind,</l>
+<l>  And leave the rolling universe behind:</l>
+<l>  From star to star the mental optics rove,</l>
+<l>  Measure the skies, and range the realms above.</l>
+<l>  There in one view we grasp the mighty whole,</l>
+<l>  Or with new worlds amaze th' unbounded soul.</l>
+<l>    Though Winter frowns to Fancy's raptur'd eyes</l>
+<l>  The fields may flourish, and gay scenes arise;</l>
+<l>  The frozen deeps may break their iron bands,</l>
+<l>  And bid their waters murmur o'er the sands.</l>
+<l>  Fair Flora may resume her fragrant reign,</l>
+<l>  And with her flow'ry riches deck the plain;</l>
+<l>  Sylvanus may diffuse his honours round,</l>
+<l>  And all the forest may with leaves be crown'd:</l>
+<l>  Show'rs may descend, and dews their gems disclose,</l>
+<l>  And nectar sparkle on the blooming rose.</l>
+<l>    Such is thy pow'r, nor are thine orders vain,</l>
+<l>  O thou the leader of the mental train:</l>
+<l>  In full perfection all thy works are wrought,</l>
+<l>  And thine the sceptre o'er the realms of thought.</l>
+<l>  Before thy throne the subject-passions bow,</l>
+<l>  Of subject-passions sov'reign ruler thou;</l>
+<l>  At thy command joy rushes on the heart,</l>
+<l>  And through the glowing veins the spirits dart.</l>
+<l>    Fancy might now her silken pinions try</l>
+<l>  To rise from earth, and sweep th' expanse on high:</l>
+<l>  From Tithon's bed now might Aurora rise,</l>
+<l>  Her cheeks all glowing with celestial dies,</l>
+<l>  While a pure stream of light o'erflows the skies.</l>
+<l>  The monarch of the day I might behold,</l>
+<l>  And all the mountains tipt with radiant gold,</l>
+<l>  But I reluctant leave the pleasing views,</l>
+<l>  Which Fancy dresses to delight the Muse;</l>
+<l>  Winter austere forbids me to aspire,</l>
+<l>  And northern tempests damp the rising fire;</l>
+<l>  They chill the tides of Fancy's flowing sea,</l>
+<l>  Cease then, my song, cease the unequal lay.</l>
+</lg>
+</div>
+<div>
+<head>    A Funeral POEM on the Death of C. E.</head>
+<l>      an Infant of Twelve Months.</l>
+<lg>
+<l>  THROUGH airy roads he wings his instant flight</l>
+<l>  To purer regions of celestial light;</l>
+<l>  Enlarg'd he sees unnumber'd systems roll,</l>
+<l>  Beneath him sees the universal whole,</l>
+<l>  Planets on planets run their destin'd round,</l>
+<l>  And circling wonders fill the vast profound.</l>
+<l>  Th' ethereal now, and now th' empyreal skies</l>
+<l>  With growing splendors strike his wond'ring eyes:</l>
+<l>  The angels view him with delight unknown,</l>
+<l>  Press his soft hand, and seat him on his throne;</l>
+<l>  Then smilling thus: "To this divine abode,</l>
+<l>  "The seat of saints, of seraphs, and of God,</l>
+<l>  "Thrice welcome thou."  The raptur'd babe replies,</l>
+<l>  "Thanks to my God, who snatch'd me to the skies,</l>
+<l>  "E'er vice triumphant had possess'd my heart,</l>
+<l>  "E'er yet the tempter had beguil d my heart,</l>
+<l>  "E'er yet on sin's base actions I was bent,</l>
+<l>  "E'er yet I knew temptation's dire intent;</l>
+<l>  "E'er yet the lash for horrid crimes I felt,</l>
+<l>  "E'er vanity had led my way to guilt,</l>
+<l>  "But, soon arriv'd at my celestial goal,</l>
+<l>  "Full glories rush on my expanding soul."</l>
+<l>  Joyful he spoke: exulting cherubs round</l>
+<l>  Clapt their glad wings, the heav'nly vaults resound.</l>
+<l>    Say, parents, why this unavailing moan?</l>
+<l>  Why heave your pensive bosoms with the groan?</l>
+<l>  To Charles, the happy subject of my song,</l>
+<l>  A brighter world, and nobler strains belong.</l>
+<l>  Say would you tear him from the realms above</l>
+<l>  By thoughtless wishes, and prepost'rous love?</l>
+<l>  Doth his felicity increase your pain?</l>
+<l>  Or could you welcome to this world again</l>
+<l>  The heir of bliss? with a superior air</l>
+<l>  Methinks he answers with a smile severe,</l>
+<l>  "Thrones and dominions cannot tempt me there."</l>
+<l>    But still you cry, "Can we the sigh forbear,</l>
+<l>  "And still and still must we not pour the tear?</l>
+<l>  "Our only hope, more dear than vital breath,</l>
+<l>  "Twelve moons revolv'd, becomes the prey of death;</l>
+<l>  "Delightful infant, nightly visions give</l>
+<l>  "Thee to our arms, and we with joy receive,</l>
+<l>  "We fain would clasp the Phantom to our breast,</l>
+<l>  "The Phantom flies, and leaves the soul unblest."</l>
+<l>    To yon bright regions let your faith ascend,</l>
+<l>  Prepare to join your dearest infant friend</l>
+<l>  In pleasures without measure, without end.</l>
+</lg>
+</div>
+<div>
+<head>    To Captain H-----D, of the 65th Regiment.</head>
+<lg>
+<l>  SAY, muse divine, can hostile scenes delight</l>
+<l>  The warrior's bosom in the fields of fight?</l>
+<l>  Lo! here the christian and the hero join</l>
+<l>  With mutual grace to form the man divine.</l>
+<l>  In H-----D see with pleasure and surprise,</l>
+<l>  Where valour kindles, and where virtue lies:</l>
+<l>  Go, hero brave, still grace the post of fame,</l>
+<l>  And add new glories to thine honour'd name,</l>
+<l>  Still to the field, and still to virtue true:</l>
+<l>  Britannia glories in no son like you.</l>
+</lg>
+</div>
+<div>
+<head>    To the Right Honourable WILLIAM, Earl<lb/>
+of DARTMOUTH, His Majesty's Principal<lb/>
+Secretary of State for North-America, &amp;c.</head>
+<lg>
+<l>  HAIL, happy day, when, smiling like the morn,</l>
+<l>  Fair Freedom rose New-England to adorn:</l>
+<l>  The northern clime beneath her genial ray,</l>
+<l>  Dartmouth, congratulates thy blissful sway:</l>
+<l>  Elate with hope her race no longer mourns,</l>
+<l>  Each soul expands, each grateful bosom burns,</l>
+<l>  While in thine hand with pleasure we behold</l>
+<l>  The silken reins, and Freedom's charms unfold.</l>
+<l>  Long lost to realms beneath the northern skies</l>
+<l>  She shines supreme, while hated faction dies:</l>
+<l>  Soon as appear'd the Goddess long desir'd,</l>
+<l>  Sick at the view, she languish'd and expir'd;</l>
+<l>  Thus from the splendors of the morning light</l>
+<l>  The owl in sadness seeks the caves of night.</l>
+<l>    No more, America, in mournful strain</l>
+<l>  Of wrongs, and grievance unredress'd complain,</l>
+<l>  No longer shalt thou dread the iron chain,</l>
+<l>  Which wanton Tyranny with lawless hand</l>
+<l>  Had made, and with it meant t' enslave the land.</l>
+<l>    Should you, my lord, while you peruse my song,</l>
+<l>  Wonder from whence my love of Freedom sprung,</l>
+<l>  Whence flow these wishes for the common good,</l>
+<l>  By feeling hearts alone best understood,</l>
+<l>  I, young in life, by seeming cruel fate</l>
+<l>  Was snatch'd from Afric's fancy'd happy seat:</l>
+<l>  What pangs excruciating must molest,</l>
+<l>  What sorrows labour in my parent's breast?</l>
+<l>  Steel'd was that soul and by no misery mov'd</l>
+<l>  That from a father seiz'd his babe belov'd:</l>
+<l>  Such, such my case.  And can I then but pray</l>
+<l>  Others may never feel tyrannic sway?</l>
+<l>    For favours past, great Sir, our thanks are due,</l>
+<l>  And thee we ask thy favours to renew,</l>
+<l>  Since in thy pow'r, as in thy will before,</l>
+<l>  To sooth the griefs, which thou did'st once deplore.</l>
+<l>  May heav'nly grace the sacred sanction give</l>
+<l>  To all thy works, and thou for ever live</l>
+<l>  Not only on the wings of fleeting Fame,</l>
+<l>  Though praise immortal crowns the patriot's name,</l>
+<l>  But to conduct to heav'ns refulgent fane,</l>
+<l>  May fiery coursers sweep th' ethereal plain,</l>
+<l>  And bear thee upwards to that blest abode,</l>
+<l>  Where, like the prophet, thou shalt find thy God.</l>
+</lg>
+</div>
+<div>
+<head>    O D E   T O   N E P T U N E.</head>
+<head type="sub">On Mrs. W-----'s Voyage to England.</head>
+<lg n="1">
+<l>                 I.</l>
+
+<l>  WHILE raging tempests shake the shore,</l>
+<l>  While AElus' thunders round us roar,</l>
+<l>  And sweep impetuous o'er the plain</l>
+<l>  Be still, O tyrant of the main;</l>
+<l>  Nor let thy brow contracted frowns betray,</l>
+<l>  While my Susanna skims the wat'ry way.</l>
+</lg>
+
+<lg n="II">
+   <l>                 II.</l>
+   
+<l>  The Pow'r propitious hears the lay,</l>
+<l>  The blue-ey'd daughters of the sea</l>
+<l>  With sweeter cadence glide along,</l>
+<l>  And Thames responsive joins the song.</l>
+<l>  Pleas'd with their notes Sol sheds benign his ray,</l>
+<l>  And double radiance decks the face of day.</l>
+</lg>
+
+<lg n="III">
+   <l>                 III.</l>
+   
+<l>  To court thee to Britannia's arms</l>
+<l>    Serene the climes and mild the sky,</l>
+<l>  Her region boasts unnumber'd charms,</l>
+<l>    Thy welcome smiles in ev'ry eye.</l>
+<l>  Thy promise, Neptune keep, record my pray'r,</l>
+<l>  Not give my wishes to the empty air.</l>
+
+<l>    Boston, October 12, 1772.</l>
+</lg>
+</div>
+<div>
+<head>    To a LADY on her coming to North-America</head>
+<l>    with her Son, for the Recovery of her Health.</l>
+<lg>
+<l>  INDULGENT muse! my grov'ling mind inspire,</l>
+<l>  And fill my bosom with celestial fire.</l>
+<l>  See from Jamaica's fervid shore she moves,</l>
+<l>  Like the fair mother of the blooming loves,</l>
+<l>  When from above the Goddess with her hand</l>
+<l>  Fans the soft breeze, and lights upon the land;</l>
+<l>  Thus she on Neptune's wat'ry realm reclin'd</l>
+<l>  Appear'd, and thus invites the ling'ring wind.</l>
+<l>    "Arise, ye winds, America explore,</l>
+<l>  "Waft me, ye gales, from this malignant shore;</l>
+<l>  "The Northern milder climes I long to greet,</l>
+<l>  "There hope that health will my arrival meet."</l>
+<l>  Soon as she spoke in my ideal view</l>
+<l>  The winds assented, and the vessel flew.</l>
+<l>    Madam, your spouse bereft of wife and son,</l>
+<l>  In the grove's dark recesses pours his moan;</l>
+<l>  Each branch, wide-spreading to the ambient sky,</l>
+<l>  Forgets its verdure, and submits to die.</l>
+<l>    From thence I turn, and leave the sultry plain,</l>
+<l>  And swift pursue thy passage o'er the main:</l>
+<l>  The ship arrives before the fav'ring wind,</l>
+<l>  And makes the Philadelphian port assign'd,</l>
+<l>  Thence I attend you to Bostonia's arms,</l>
+<l>  Where gen'rous friendship ev'ry bosom warms:</l>
+<l>  Thrice welcome here! may health revive again,</l>
+<l>  Bloom on thy cheek, and bound in ev'ry vein!</l>
+<l>  Then back return to gladden ev'ry heart,</l>
+<l>  And give your spouse his soul's far dearer part,</l>
+<l>  Receiv'd again with what a sweet surprise,</l>
+<l>  The tear in transport starting from his eyes!</l>
+<l>  While his attendant son with blooming grace</l>
+<l>  Springs to his father's ever dear embrace.</l>
+<l>  With shouts of joy Jamaica's rocks resound,</l>
+<l>  With shouts of joy the country rings around.</l>
+</lg>
+</div>
+<div>
+<head>    To a LADY on her remarkable Preservation</head>
+<l>      in an Hurricane in North-Carolina.</l>
+<lg>
+<l>  THOUGH thou did'st hear the tempest from afar,</l>
+<l>  And felt'st the horrors of the wat'ry war,</l>
+<l>  To me unknown, yet on this peaceful shore</l>
+<l>  Methinks I hear the storm tumultuous roar,</l>
+<l>  And how stern Boreas with impetuous hand</l>
+<l>  Compell'd the Nereids to usurp the land.</l>
+<l>  Reluctant rose the daughters of the main,</l>
+<l>  And slow ascending glided o'er the plain,</l>
+<l>  Till AEolus in his rapid chariot drove</l>
+<l>  In gloomy grandeur from the vault above:</l>
+<l>  Furious he comes.  His winged sons obey</l>
+<l>  Their frantic sire, and madden all the sea.</l>
+<l>  The billows rave, the wind's fierce tyrant roars,</l>
+<l>  And with his thund'ring terrors shakes the shores:</l>
+<l>  Broken by waves the vessel's frame is rent,</l>
+<l>  And strows with planks the wat'ry element.</l>
+<l>    But thee, Maria, a kind Nereid's shield</l>
+<l>  Preserv'd from sinking, and thy form upheld:</l>
+<l>  And sure some heav'nly oracle design'd</l>
+<l>  At that dread crisis to instruct thy mind</l>
+<l>  Things of eternal consequence to weigh,</l>
+<l>  And to thine heart just feelings to convey</l>
+<l>  Of things above, and of the future doom,</l>
+<l>  And what the births of the dread world to come.</l>
+<l>    From tossing seas I welcome thee to land.</l>
+<l>  "Resign her, Nereid," 'twas thy God's command.</l>
+<l>  Thy spouse late buried, as thy fears conceiv'd,</l>
+<l>  Again returns, thy fears are all reliev'd:</l>
+<l>  Thy daughter blooming with superior grace</l>
+<l>  Again thou see'st, again thine arms embrace;</l>
+<l>  O come, and joyful show thy spouse his heir,</l>
+<l>  And what the blessings of maternal care!</l>
+</lg>
+</div>
+<div>
+<head>    To a LADY and her Children, on the Death</head>
+<l>      of her Son and their Brother.</l>
+<lg>
+<l>  O'ERWHELMING sorrow now demands my song:</l>
+<l>  From death the overwhelming sorrow sprung.</l>
+<l>  What flowing tears?  What hearts with grief opprest?</l>
+<l>  What sighs on sighs heave the fond parent's breast?</l>
+<l>  The brother weeps, the hapless sisters join</l>
+<l>  Th' increasing woe, and swell the crystal brine;</l>
+<l>  The poor, who once his gen'rous bounty fed,</l>
+<l>  Droop, and bewail their benefactor dead.</l>
+<l>  In death the friend, the kind companion lies,</l>
+<l>  And in one death what various comfort dies!</l>
+<l>    Th' unhappy mother sees the sanguine rill</l>
+<l>  Forget to flow, and nature's wheels stand still,</l>
+<l>  But see from earth his spirit far remov'd,</l>
+<l>  And know no grief recals your best-belov'd:</l>
+<l>  He, upon pinions swifter than the wind,</l>
+<l>  Has left mortality's sad scenes behind</l>
+<l>  For joys to this terrestial state unknown,</l>
+<l>  And glories richer than the monarch's crown.</l>
+<l>  Of virtue's steady course the prize behold!</l>
+<l>  What blissful wonders to his mind unfold!</l>
+<l>  But of celestial joys I sing in vain:</l>
+<l>  Attempt not, muse, the too advent'rous strain.</l>
+<l>    No more in briny show'rs, ye friends around,</l>
+<l>  Or bathe his clay, or waste them on the ground:</l>
+<l>  Still do you weep, still wish for his return?</l>
+<l>  How cruel thus to wish, and thus to mourn?</l>
+<l>  No more for him the streams of sorrow pour,</l>
+<l>  But haste to join him on the heav'nly shore,</l>
+<l>  On harps of gold to tune immortal lays,</l>
+<l>  And to your God immortal anthems raise.</l>
+</lg>
+</div>
+<div>
+<head>    To a GENTLEMAN and LADY on the Death<lb/>
+of the Lady's Brother and Sister, and a<lb/>
+Child of the Name of Avis, aged one Year.</head>
+<lg>
+<l>  ON Death's domain intent I fix my eyes,</l>
+<l>  Where human nature in vast ruin lies:</l>
+<l>  With pensive mind I search the drear abode,</l>
+<l>  Where the great conqu'ror has his spoils bestow'd;</l>
+<l>  There where the offspring of six thousand years</l>
+<l>  In endless numbers to my view appears:</l>
+<l>  Whole kingdoms in his gloomy den are thrust,</l>
+<l>  And nations mix with their primeval dust:</l>
+<l>  Insatiate still he gluts the ample tomb;</l>
+<l>  His is the present, his the age to come.</l>
+<l>  See here a brother, here a sister spread,</l>
+<l>  And a sweet daughter mingled with the dead.</l>
+<l>    But, Madam, let your grief be laid aside,</l>
+<l>  And let the fountain of your tears be dry'd,</l>
+<l>  In vain they flow to wet the dusty plain,</l>
+<l>  Your sighs are wafted to the skies in vain,</l>
+<l>  Your pains they witness, but they can no more,</l>
+<l>  While Death reigns tyrant o'er this mortal shore.</l>
+<l>    The glowing stars and silver queen of light</l>
+<l>  At last must perish in the gloom of night:</l>
+<l>  Resign thy friends to that Almighty hand,</l>
+<l>  Which gave them life, and bow to his command;</l>
+<l>  Thine Avis give without a murm'ring heart,</l>
+<l>  Though half thy soul be fated to depart.</l>
+<l>  To shining guards consign thine infant care</l>
+<l>  To waft triumphant through the seas of air:</l>
+<l>  Her soul enlarg'd to heav'nly pleasure springs,</l>
+<l>  She feeds on truth and uncreated things.</l>
+<l>  Methinks I hear her in the realms above,</l>
+<l>  And leaning forward with a filial love,</l>
+<l>  Invite you there to share immortal bliss</l>
+<l>  Unknown, untasted in a state like this.</l>
+<l>  With tow'ring hopes, and growing grace arise,</l>
+<l>  And seek beatitude beyond the skies.</l>
+</lg>
+</div>
+<div>
+<head>    On the Death of Dr. SAMUEL MARSHALL.  1771.</head>
+<lg>
+<l>  THROUGH thickest glooms look back, immortal shade,</l>
+<l>  On that confusion which thy death has made:</l>
+<l>  Or from Olympus' height look down, and see</l>
+<l>  A Town involv'd in grief bereft of thee.</l>
+<l>  Thy Lucy sees thee mingle with the dead,</l>
+<l>  And rends the graceful tresses from her head,</l>
+<l>  Wild in her woe, with grief unknown opprest</l>
+<l>  Sigh follows sigh deep heaving from her breast.</l>
+<l>    Too quickly fled, ah! whither art thou gone?</l>
+<l>  Ah! lost for ever to thy wife and son!</l>
+<l>  The hapless child, thine only hope and heir,</l>
+<l>  Clings round his mother's neck, and weeps his sorrows there.</l>
+<l>  The loss of thee on Tyler's soul returns,</l>
+<l>  And Boston for her dear physician mourns.</l>
+<l>    When sickness call'd for Marshall's healing hand,</l>
+<l>  With what compassion did his soul expand?</l>
+<l>  In him we found the father and the friend:</l>
+<l>  In life how lov'd! how honour'd in his end!</l>
+<l>    And must not then our AEsculapius stay</l>
+<l>  To bring his ling'ring infant into day?</l>
+<l>  The babe unborn in the dark womb is tost,</l>
+<l>  And seems in anguish for its father lost.</l>
+<l>    Gone is Apollo from his house of earth,</l>
+<l>  But leaves the sweet memorials of his worth:</l>
+<l>  The common parent, whom we all deplore,</l>
+<l>  From yonder world unseen must come no more,</l>
+<l>  Yet 'midst our woes immortal hopes attend</l>
+<l>  The spouse, the sire, the universal friend.</l>
+</lg>
+</div>
+<div>
+<head>    To a GENTLEMAN on his Voyage to Great-Britain<lb/>
+for the Recovery of his Health.</head>
+<lg>
+<l>  WHILE others chant of gay Elysian scenes,</l>
+<l>  Of balmy zephyrs, and of flow'ry plains,</l>
+<l>  My song more happy speaks a greater name,</l>
+<l>  Feels higher motives and a nobler flame.</l>
+<l>  For thee, O R-----, the muse attunes her strings,</l>
+<l>  And mounts sublime above inferior things.</l>
+<l>    I sing not now of green embow'ring woods,</l>
+<l>  I sing not now the daughters of the floods,</l>
+<l>  I sing not of the storms o'er ocean driv'n,</l>
+<l>  And how they howl'd along the waste of heav'n.</l>
+<l>  But I to R----- would paint the British shore,</l>
+<l>  And vast Atlantic, not untry'd before:</l>
+<l>  Thy life impair'd commands thee to arise,</l>
+<l>  Leave these bleak regions and inclement skies,</l>
+<l>  Where chilling winds return the winter past,</l>
+<l>  And nature shudders at the furious blast.</l>
+<l>    O thou stupendous, earth-enclosing main</l>
+<l>  Exert thy wonders to the world again!</l>
+<l>  If ere thy pow'r prolong'd the fleeting breath,</l>
+<l>  Turn'd back the shafts, and mock'd the gates of death,</l>
+<l>  If ere thine air dispens'd an healing pow'r,</l>
+<l>  Or snatch'd the victim from the fatal hour,</l>
+<l>  This equal case demands thine equal care,</l>
+<l>  And equal wonders may this patient share.</l>
+<l>  But unavailing, frantic is the dream</l>
+<l>  To hope thine aid without the aid of him</l>
+<l>  Who gave thee birth and taught thee where to flow,</l>
+<l>  And in thy waves his various blessings show.</l>
+<l>    May R----- return to view his native shore</l>
+<l>  Replete with vigour not his own before,</l>
+<l>  Then shall we see with pleasure and surprise,</l>
+<l>  And own thy work, great Ruler of the skies!</l>
+</lg>
+</div>
+<div>
+<head>    To the Rev. DR. THOMAS AMORY, on<lb/>
+reading his Sermons on DAILY DEVOTION,<lb/>
+in which that Duty is recommended and<lb/>
+assisted.</head>
+<lg>
+<l>  TO cultivate in ev'ry noble mind</l>
+<l>  Habitual grace, and sentiments refin'd,</l>
+<l>  Thus while you strive to mend the human heart,</l>
+<l>  Thus while the heav'nly precepts you impart,</l>
+<l>  O may each bosom catch the sacred fire,</l>
+<l>  And youthful minds to Virtue's throne aspire!</l>
+<l>    When God's eternal ways you set in sight,</l>
+<l>  And Virtue shines in all her native light,</l>
+<l>  In vain would Vice her works in night conceal,</l>
+<l>  For Wisdom's eye pervades the sable veil.</l>
+<l>    Artists may paint the sun's effulgent rays,</l>
+<l>  But Amory's pen the brighter God displays:</l>
+<l>  While his great works in Amory's pages shine,</l>
+<l>  And while he proves his essence all divine,</l>
+<l>  The Atheist sure no more can boast aloud</l>
+<l>  Of chance, or nature, and exclude the God;</l>
+<l>  As if the clay without the potter's aid</l>
+<l>  Should rise in various forms, and shapes self-made,</l>
+<l>  Or worlds above with orb o'er orb profound</l>
+<l>  Self-mov'd could run the everlasting round.</l>
+<l>  It cannot be--unerring Wisdom guides</l>
+<l>  With eye propitious, and o'er all presides.</l>
+<l>    Still prosper, Amory! still may'st thou receive</l>
+<l>  The warmest blessings which a muse can give,</l>
+<l>  And when this transitory state is o'er,</l>
+<l>  When kingdoms fall, and fleeting Fame's no more,</l>
+<l>  May Amory triumph in immortal fame,</l>
+<l>  A nobler title, and superior name!</l>
+</lg>
+</div>
+<div>
+<head>    On the Death of J. C. an Infant.</head>
+<lg>
+<l>  NO more the flow'ry scenes of pleasure rife,</l>
+<l>  Nor charming prospects greet the mental eyes,</l>
+<l>  No more with joy we view that lovely face</l>
+<l>  Smiling, disportive, flush'd with ev'ry grace.</l>
+<l>    The tear of sorrow flows from ev'ry eye,</l>
+<l>  Groans answer groans, and sighs to sighs reply;</l>
+<l>  What sudden pangs shot thro' each aching heart,</l>
+<l>  When, Death, thy messenger dispatch'd his dart?</l>
+<l>  Thy dread attendants, all-destroying Pow'r,</l>
+<l>  Hurried the infant to his mortal hour.</l>
+<l>  Could'st thou unpitying close those radiant eyes?</l>
+<l>  Or fail'd his artless beauties to surprise?</l>
+<l>  Could not his innocence thy stroke controul,</l>
+<l>  Thy purpose shake, and soften all thy soul?</l>
+<l>    The blooming babe, with shades of Death o'er-spread,</l>
+<l>  No more shall smile, no more shall raise its head,</l>
+<l>  But, like a branch that from the tree is torn,</l>
+<l>  Falls prostrate, wither'd, languid, and forlorn.</l>
+<l>  "Where flies my James?" 'tis thus I seem to hear</l>
+<l>  The parent ask, "Some angel tell me where</l>
+<l>  "He wings his passage thro' the yielding air?"</l>
+<l>  Methinks a cherub bending from the skies</l>
+<l>  Observes the question, and serene replies,</l>
+<l>  "In heav'ns high palaces your babe appears:</l>
+<l>  "Prepare to meet him, and dismiss your tears."</l>
+<l>  Shall not th' intelligence your grief restrain,</l>
+<l>  And turn the mournful to the cheerful strain?</l>
+<l>  Cease your complaints, suspend each rising sigh,</l>
+<l>  Cease to accuse the Ruler of the sky.</l>
+<l>  Parents, no more indulge the falling tear:</l>
+<l>  Let Faith to heav'n's refulgent domes repair,</l>
+<l>  There see your infant, like a seraph glow:</l>
+<l>  What charms celestial in his numbers flow</l>
+<l>  Melodious, while the foul-enchanting strain</l>
+<l>  Dwells on his tongue, and fills th' ethereal plain?</l>
+<l>  Enough--for ever cease your murm'ring breath;</l>
+<l>  Not as a foe, but friend converse with Death,</l>
+<l>  Since to the port of happiness unknown</l>
+<l>  He brought that treasure which you call your own.</l>
+<l>  The gift of heav'n intrusted to your hand</l>
+<l>  Cheerful resign at the divine command:</l>
+<l>  Not at your bar must sov'reign Wisdom stand.</l>
+</lg>
+</div>
+<div>
+<head>    An H Y M N to H U M A N I T Y.<lb/>
+         To S. P. G. Esq;</head>
+<lg>
+<l>                 I.</l>
+
+<l>  LO! for this dark terrestrial ball</l>
+<l>  Forsakes his azure-paved hall</l>
+<l>      A prince of heav'nly birth!</l>
+<l>  Divine Humanity behold,</l>
+<l>  What wonders rise, what charms unfold</l>
+<l>      At his descent to earth!</l>
+</lg>
+   <lg>
+<l>                 II.</l>
+
+<l>  The bosoms of the great and good</l>
+<l>  With wonder and delight he view'd,</l>
+<l>      And fix'd his empire there:</l>
+<l>  Him, close compressing to his breast,</l>
+<l>  The sire of gods and men address'd,</l>
+<l>      "My son, my heav'nly fair!</l>
+</lg>
+<lg><l>                 III.
+</l>
+<l>  "Descend to earth, there place thy throne;</l>
+<l>  "To succour man's afflicted son</l>
+<l>      "Each human heart inspire:</l>
+<l>  "To act in bounties unconfin'd</l>
+<l>  "Enlarge the close contracted mind,</l>
+<l>      "And fill it with thy fire."</l>
+</lg>
+<lg><l>                 IV.</l>
+
+<l>  Quick as the word, with swift career</l>
+<l>  He wings his course from star to star,</l>
+<l>      And leaves the bright abode.</l>
+<l>  The Virtue did his charms impart;</l>
+<l>  Their G-----! then thy raptur'd heart</l>
+<l>      Perceiv'd the rushing God:</l>
+</lg>
+<lg><l>                 V.</l>
+
+<l>  For when thy pitying eye did see</l>
+<l>  The languid muse in low degree,</l>
+<l>      Then, then at thy desire</l>
+<l>  Descended the celestial nine;</l>
+<l>  O'er me methought they deign'd to shine,</l>
+<l>      And deign'd to string my lyre.</l>
+</lg>
+<lg><l>                VI.</l>
+
+<l>  Can Afric's muse forgetful prove?</l>
+<l>  Or can such friendship fail to move</l>
+<l>      A tender human heart?</l>
+<l>  Immortal Friendship laurel-crown'd</l>
+<l>  The smiling Graces all surround</l>
+<l>      With ev'ry heav'nly Art.</l>
+</lg>
+</div>
+<div>
+<head>    To the Honourable T. H. Esq; on the Death<lb/>
+               of his Daughter.</head>
+<lg>
+<l>  WHILE deep you mourn beneath the cypress-shade</l>
+<l>  The hand of Death, and your dear daughter laid</l>
+<l>  In dust, whose absence gives your tears to flow,</l>
+<l>  And racks your bosom with incessant woe,</l>
+<l>  Let Recollection take a tender part,</l>
+<l>  Assuage the raging tortures of your heart,</l>
+<l>  Still the wild tempest of tumultuous grief,</l>
+<l>  And pour the heav'nly nectar of relief:</l>
+<l>  Suspend the sigh, dear Sir, and check the groan,</l>
+<l>  Divinely bright your daughter's Virtues shone:</l>
+<l>  How free from scornful pride her gentle mind,</l>
+<l>  Which ne'er its aid to indigence declin'd!</l>
+<l>  Expanding free, it sought the means to prove</l>
+<l>  Unfailing charity, unbounded love!</l>
+<l>    She unreluctant flies to see no more</l>
+<l>  Her dear-lov'd parents on earth's dusky shore:</l>
+<l>  Impatient heav'n's resplendent goal to gain,</l>
+<l>  She with swift progress cuts the azure plain,</l>
+<l>  Where grief subsides, where changes are no more,</l>
+<l>  And life's tumultuous billows cease to roar;</l>
+<l>  She leaves her earthly mansion for the skies,</l>
+<l>  Where new creations feast her wond'ring eyes.</l>
+<l>    To heav'n's high mandate cheerfully resign'd</l>
+<l>  She mounts, and leaves the rolling globe behind;</l>
+<l>  She, who late wish'd that Leonard might return,</l>
+<l>  Has ceas'd to languish, and forgot to mourn;</l>
+<l>  To the same high empyreal mansions come,</l>
+<l>  She joins her spouse, and smiles upon the tomb:</l>
+<l>  And thus I hear her from the realms above:</l>
+<l>  "Lo! this the kingdom of celestial love!</l>
+<l>  "Could ye, fond parents, see our present bliss,</l>
+<l>  "How soon would you each sigh, each fear dismiss?</l>
+<l>  "Amidst unutter'd pleasures whilst I play</l>
+<l>  "In the fair sunshine of celestial day,</l>
+<l>  "As far as grief affects an happy soul</l>
+<l>  "So far doth grief my better mind controul,</l>
+<l>  "To see on earth my aged parents mourn,</l>
+<l>  "And secret wish for T-----! to return:</l>
+<l>  "Let brighter scenes your ev'ning-hours employ:</l>
+<l>  "Converse with heav'n, and taste the promis'd joy"</l>
+</lg>
+</div>
+<div>
+<head>    NIOBE in Distress for her Children slain by<lb/>
+       APOLLO, from Ovid's Metamorphoses,<lb/>
+         Book VI. and from a view of the Painting<lb/>
+   of Mr. Richard Wilson.</head>
+<lg>
+<l>  APOLLO's wrath to man the dreadful spring</l>
+<l>  Of ills innum'rous, tuneful goddess, sing!</l>
+<l>  Thou who did'st first th' ideal pencil give,</l>
+<l>  And taught'st the painter in his works to live,</l>
+<l>  Inspire with glowing energy of thought,</l>
+<l>  What Wilson painted, and what Ovid wrote.</l>
+<l>  Muse! lend thy aid, nor let me sue in vain,</l>
+<l>  Tho' last and meanest of the rhyming train!</l>
+<l>  O guide my pen in lofty strains to show</l>
+<l>  The Phrygian queen, all beautiful in woe.</l>
+<l>    'Twas where Maeonia spreads her wide domain</l>
+<l>  Niobe dwelt, and held her potent reign:</l>
+<l>  See in her hand the regal sceptre shine,</l>
+<l>  The wealthy heir of Tantalus divine,</l>
+<l>  He most distinguish'd by Dodonean Jove,</l>
+<l>  To approach the tables of the gods above:</l>
+<l>  Her grandsire Atlas, who with mighty pains</l>
+<l>  Th' ethereal axis on his neck sustains:</l>
+<l>  Her other grandsire on the throne on high</l>
+<l>  Rolls the loud-pealing thunder thro' the sky.</l>
+<l>    Her spouse, Amphion, who from Jove too springs,</l>
+<l>  Divinely taught to sweep the sounding strings.</l>
+<l>    Seven sprightly sons the royal bed adorn,</l>
+<l>  Seven daughters beauteous as the op'ning morn,</l>
+<l>  As when Aurora fills the ravish'd sight,</l>
+<l>  And decks the orient realms with rosy light</l>
+<l>  From their bright eyes the living splendors play,</l>
+<l>  Nor can beholders bear the flashing ray.</l>
+<l>    Wherever, Niobe, thou turn'st thine eyes,</l>
+<l>  New beauties kindle, and new joys arise!</l>
+<l>  But thou had'st far the happier mother prov'd,</l>
+<l>  If this fair offspring had been less belov'd:</l>
+<l>  What if their charms exceed Aurora's teint.</l>
+<l>  No words could tell them, and no pencil paint,</l>
+<l>  Thy love too vehement hastens to destroy</l>
+<l>  Each blooming maid, and each celestial boy.</l>
+<l>    Now Manto comes, endu'd with mighty skill,</l>
+<l>  The past to explore, the future to reveal.</l>
+<l>  Thro' Thebes' wide streets Tiresia's daughter came,</l>
+<l>  Divine Latona's mandate to proclaim:</l>
+<l>  The Theban maids to hear the orders ran,</l>
+<l>  When thus Maeonia's prophetess began:</l>
+<l>    "Go, Thebans! great Latona's will obey,</l>
+<l>  "And pious tribute at her altars pay:</l>
+<l>  "With rights divine, the goddess be implor'd,</l>
+<l>  "Nor be her sacred offspring unador'd."</l>
+<l>  Thus Manto spoke.  The Theban maids obey,</l>
+<l>  And pious tribute to the goddess pay.</l>
+<l>  The rich perfumes ascend in waving spires,</l>
+<l>  And altars blaze with consecrated fires;</l>
+<l>  The fair assembly moves with graceful air,</l>
+<l>  And leaves of laurel bind the flowing hair.</l>
+<l>    Niobe comes with all her royal race,</l>
+<l>  With charms unnumber'd, and superior grace:</l>
+<l>  Her Phrygian garments of delightful hue,</l>
+<l>  Inwove with gold, refulgent to the view,</l>
+<l>  Beyond description beautiful she moves</l>
+<l>  Like heav'nly Venus, 'midst her smiles and loves:</l>
+<l>  She views around the supplicating train,</l>
+<l>  And shakes her graceful head with stern disdain,</l>
+<l>  Proudly she turns around her lofty eyes,</l>
+<l>  And thus reviles celestial deities:</l>
+<l>  "What madness drives the Theban ladies fair</l>
+<l>  "To give their incense to surrounding air?</l>
+<l>  "Say why this new sprung deity preferr'd?</l>
+<l>  "Why vainly fancy your petitions heard?</l>
+<l>  "Or say why Caeus offspring is obey'd,</l>
+<l>  "While to my goddesship no tribute's paid?</l>
+<l>  "For me no altars blaze with living fires,</l>
+<l>  "No bullock bleeds, no frankincense transpires,</l>
+<l>  "Tho' Cadmus' palace, not unknown to fame,</l>
+<l>  "And Phrygian nations all revere my name.</l>
+<l>  "Where'er I turn my eyes vast wealth I find,</l>
+<l>  "Lo! here an empress with a goddess join'd.</l>
+<l>  "What, shall a Titaness be deify'd,</l>
+<l>  "To whom the spacious earth a couch deny'd!</l>
+<l>  "Nor heav'n, nor earth, nor sea receiv'd your queen,</l>
+<l>  "Till pitying Delos took the wand'rer in.</l>
+<l>  "Round me what a large progeny is spread!</l>
+<l>  "No frowns of fortune has my soul to dread.</l>
+<l>  "What if indignant she decrease my train</l>
+<l>  "More than Latona's number will remain;</l>
+<l>  "Then hence, ye Theban dames, hence haste away,</l>
+<l>  "Nor longer off'rings to Latona pay;</l>
+<l>  "Regard the orders of Amphion's spouse,</l>
+<l>  "And take the leaves of laurel from your brows."</l>
+<l>  Niobe spoke.  The Theban maids obey'd,</l>
+<l>  Their brows unbound, and left the rights unpaid.</l>
+<l>    The angry goddess heard, then silence broke</l>
+<l>  On Cynthus' summit, and indignant spoke;</l>
+<l>  "Phoebus! behold, thy mother in disgrace,</l>
+<l>  "Who to no goddess yields the prior place</l>
+<l>  "Except to Juno's self, who reigns above,</l>
+<l>  "The spouse and sister of the thund'ring Jove.</l>
+<l>  "Niobe, sprung from Tantalus, inspires</l>
+<l>  "Each Theban bosom with rebellious fires;</l>
+<l>  "No reason her imperious temper quells,</l>
+<l>  "But all her father in her tongue rebels;</l>
+<l>  "Wrap her own sons for her blaspheming breath,</l>
+<l>  "Apollo! wrap them in the shades of death."</l>
+<l>  Latona ceas'd, and ardent thus replies</l>
+<l>  The God, whose glory decks th' expanded skies.</l>
+<l>    "Cease thy complaints, mine be the task assign'd</l>
+<l>  "To punish pride, and scourge the rebel mind."</l>
+<l>  This Phoebe join'd.--They wing their instant flight;</l>
+<l>  Thebes trembled as th' immortal pow'rs alight.</l>
+<l>    With clouds incompass'd glorious Phoebus stands;</l>
+<l>  The feather'd vengeance quiv'ring in his hands.</l>
+<l>       Near Cadmus' walls a plain extended lay,</l>
+<l>  Where Thebes' young princes pass'd in sport the day:</l>
+<l>  There the bold coursers bounded o'er the plains,</l>
+<l>  While their great masters held the golden reins.</l>
+<l>  Ismenus first the racing pastime led,</l>
+<l>  And rul'd the fury of his flying steed.</l>
+<l>  "Ah me," he sudden cries, with shrieking breath,</l>
+<l>  While in his breast he feels the shaft of death;</l>
+<l>  He drops the bridle on his courser's mane,</l>
+<l>  Before his eyes in shadows swims the plain,</l>
+<l>  He, the first-born of great Amphion's bed,</l>
+<l>  Was struck the first, first mingled with the dead.</l>
+<l>    Then didst thou, Sipylus, the language hear</l>
+<l>  Of fate portentous whistling in the air:</l>
+<l>  As when th' impending storm the sailor sees</l>
+<l>  He spreads his canvas to the fav'ring breeze,</l>
+<l>  So to thine horse thou gav'st the golden reins,</l>
+<l>  Gav'st him to rush impetuous o'er the plains:</l>
+<l>  But ah! a fatal shaft from Phoebus' hand</l>
+<l>  Smites thro' thy neck, and sinks thee on the sand.</l>
+<l>    Two other brothers were at wrestling found,</l>
+<l>  And in their pastime claspt each other round:</l>
+<l>  A shaft that instant from Apollo's hand</l>
+<l>  Transfixt them both, and stretcht them on the sand:</l>
+<l>  Together they their cruel fate bemoan'd,</l>
+<l>  Together languish'd, and together groan'd:</l>
+<l>  Together too th' unbodied spirits fled,</l>
+<l>  And sought the gloomy mansions of the dead.</l>
+<l>  Alphenor saw, and trembling at the view,</l>
+<l>  Beat his torn breast, that chang'd its snowy hue.</l>
+<l>  He flies to raise them in a kind embrace;</l>
+<l>  A brother's fondness triumphs in his face:</l>
+<l>  Alphenor fails in this fraternal deed,</l>
+<l>  A dart dispatch'd him (so the fates decreed:)</l>
+<l>  Soon as the arrow left the deadly wound,</l>
+<l>  His issuing entrails smoak'd upon the ground.</l>
+<l>    What woes on blooming Damasichon wait!</l>
+<l>  His sighs portend his near impending fate.</l>
+<l>  Just where the well-made leg begins to be,</l>
+<l>  And the soft sinews form the supple knee,</l>
+<l>  The youth sore wounded by the Delian god</l>
+<l>  Attempts t' extract the crime-avenging rod,</l>
+<l>  But, whilst he strives the will of fate t' avert,</l>
+<l>  Divine Apollo sends a second dart;</l>
+<l>  Swift thro' his throat the feather'd mischief flies,</l>
+<l>  Bereft of sense, he drops his head, and dies.</l>
+<l>    Young Ilioneus, the last, directs his pray'r,</l>
+<l>  And cries, "My life, ye gods celestial! spare."</l>
+<l>  Apollo heard, and pity touch'd his heart,</l>
+<l>  But ah! too late, for he had sent the dart:</l>
+<l>  Thou too, O Ilioneus, art doom'd to fall,</l>
+<l>  The fates refuse that arrow to recal.</l>
+<l>    On the swift wings of ever flying Fame</l>
+<l>  To Cadmus' palace soon the tidings came:</l>
+<l>  Niobe heard, and with indignant eyes</l>
+<l>  She thus express'd her anger and surprise:</l>
+<l>  "Why is such privilege to them allow'd?</l>
+<l>  "Why thus insulted by the Delian god?</l>
+<l>  "Dwells there such mischief in the pow'rs above?</l>
+<l>  "Why sleeps the vengeance of immortal Jove?"</l>
+<l>  For now Amphion too, with grief oppress'd,</l>
+<l>  Had plung'd the deadly dagger in his breast.</l>
+<l>  Niobe now, less haughty than before,</l>
+<l>  With lofty head directs her steps no more</l>
+<l>  She, who late told her pedigree divine,</l>
+<l>  And drove the Thebans from Latona's shrine,</l>
+<l>  How strangely chang'd!--yet beautiful in woe,</l>
+<l>  She weeps, nor weeps unpity'd by the foe.</l>
+<l>  On each pale corse the wretched mother spread</l>
+<l>  Lay overwhelm'd with grief, and kiss'd her dead,</l>
+<l>  Then rais'd her arms, and thus, in accents slow,</l>
+<l>  "Be sated cruel Goddess! with my woe;</l>
+<l>  "If I've offended, let these streaming eyes,</l>
+<l>  "And let this sev'nfold funeral suffice:</l>
+<l>  "Ah! take this wretched life you deign'd to save,</l>
+<l>  "With them I too am carried to the grave.</l>
+<l>  "Rejoice triumphant, my victorious foe,</l>
+<l>  "But show the cause from whence your triumphs flow?</l>
+<l>  "Tho' I unhappy mourn these children slain,</l>
+<l>  "Yet greater numbers to my lot remain."</l>
+<l>  She ceas'd, the bow string twang'd with awful sound,</l>
+<l>  Which struck with terror all th' assembly round,</l>
+<l>  Except the queen, who stood unmov'd alone,</l>
+<l>  By her distresses more presumptuous grown.</l>
+<l>  Near the pale corses stood their sisters fair</l>
+<l>  In sable vestures and dishevell'd hair;</l>
+<l>  One, while she draws the fatal shaft away,</l>
+<l>  Faints, falls, and sickens at the light of day.</l>
+<l>  To sooth her mother, lo! another flies,</l>
+<l>  And blames the fury of inclement skies,</l>
+<l>  And, while her words a filial pity show,</l>
+<l>  Struck dumb--indignant seeks the shades below.</l>
+<l>  Now from the fatal place another flies,</l>
+<l>  Falls in her flight, and languishes, and dies.</l>
+<l>  Another on her sister drops in death;</l>
+<l>  A fifth in trembling terrors yields her breath;</l>
+<l>  While the sixth seeks some gloomy cave in vain,</l>
+<l>  Struck with the rest, and mingled with the slain.</l>
+<l>    One only daughter lives, and she the least;</l>
+<l>  The queen close clasp'd the daughter to her breast:</l>
+<l>  "Ye heav'nly pow'rs, ah spare me one," she cry'd,</l>
+<l>  "Ah! spare me one," the vocal hills reply'd:</l>
+<l>  In vain she begs, the Fates her suit deny,</l>
+<l>  In her embrace she sees her daughter die.</l>
+<l>    * "The queen of all her family bereft,</l>
+<l>  "Without or husband, son, or daughter left,</l>
+<l>  "Grew stupid at the shock.  The passing air</l>
+<l>  "Made no impression on her stiff'ning hair.</l>
+
+<l>  * This Verse to the End is the Work of another Hand.</l>
+
+<l>  "The blood forsook her face: amidst the flood</l>
+<l>  "Pour'd from her cheeks, quite fix'd her eye-balls</l>
+<l>    "stood.</l>
+<l>  "Her tongue, her palate both obdurate grew,</l>
+<l>  "Her curdled veins no longer motion knew;</l>
+<l>  "The use of neck, and arms, and feet was gone,</l>
+<l>  "And ev'n her bowels hard'ned into stone:</l>
+<l>  "A marble statue now the queen appears,</l>
+<l>  "But from the marble steal the silent tears."</l>
+</lg>
+</div>
+<div>
+<head>    To S. M. a young African Painter, on seeing his Works.</head>
+<lg>
+<l>  TO show the lab'ring bosom's deep intent,</l>
+<l>  And thought in living characters to paint,</l>
+<l>  When first thy pencil did those beauties give,</l>
+<l>  And breathing figures learnt from thee to live,</l>
+<l>  How did those prospects give my soul delight,</l>
+<l>  A new creation rushing on my sight?</l>
+<l>  Still, wond'rous youth! each noble path pursue,</l>
+<l>  On deathless glories fix thine ardent view:</l>
+<l>  Still may the painter's and the poet's fire</l>
+<l>  To aid thy pencil, and thy verse conspire!</l>
+<l>  And may the charms of each seraphic theme</l>
+<l>  Conduct thy footsteps to immortal fame!</l>
+<l>  High to the blissful wonders of the skies</l>
+<l>  Elate thy soul, and raise thy wishful eyes.</l>
+<l>  Thrice happy, when exalted to survey</l>
+<l>  That splendid city, crown'd with endless day,</l>
+<l>  Whose twice six gates on radiant hinges ring:</l>
+<l>  Celestial Salem blooms in endless spring.</l>
+<l>    Calm and serene thy moments glide along,</l>
+<l>  And may the muse inspire each future song!</l>
+<l>  Still, with the sweets of contemplation bless'd,</l>
+<l>  May peace with balmy wings your soul invest!</l>
+<l>  But when these shades of time are chas'd away,</l>
+<l>  And darkness ends in everlasting day,</l>
+<l>  On what seraphic pinions shall we move,</l>
+<l>  And view the landscapes in the realms above?</l>
+<l>  There shall thy tongue in heav'nly murmurs flow,</l>
+<l>  And there my muse with heav'nly transport glow:</l>
+<l>  No more to tell of Damon's tender sighs,</l>
+<l>  Or rising radiance of Aurora's eyes,</l>
+<l>  For nobler themes demand a nobler strain,</l>
+<l>  And purer language on th' ethereal plain.</l>
+<l>  Cease, gentle muse! the solemn gloom of night</l>
+<l>  Now seals the fair creation from my sight.</l>
+</lg>
+</div>
+<div>
+<head>    To his Honour the Lieutenant-Governor, on<lb/>
+    the Death of his Lady.  March 24, 1773.</head>
+<lg>
+<l>  ALL-Conquering Death! by thy resistless pow'r,</l>
+<l>  Hope's tow'ring plumage falls to rise no more!</l>
+<l>  Of scenes terrestrial how the glories fly,</l>
+<l>  Forget their splendors, and submit to die!</l>
+<l>  Who ere escap'd thee, but the saint * of old</l>
+<l>  Beyond the flood in sacred annals told,</l>
+<l>  And the great sage, + whom fiery coursers drew</l>
+<l>  To heav'n's bright portals from Elisha's view;</l>
+<l>  Wond'ring he gaz'd at the refulgent car,</l>
+<l>  Then snatch'd the mantle floating on the air.</l>
+<l>  From Death these only could exemption boast,</l>
+<l>  And without dying gain'd th' immortal coast.</l>
+<l>  Not falling millions sate the tyrant's mind,</l>
+<l>  Nor can the victor's progress be confin'd.</l>
+<l>  But cease thy strife with Death, fond Nature, cease:</l>
+<l>  He leads the virtuous to the realms of peace;</l>
+
+<l>         * Enoch.        + Elijah.</l>
+
+<l>  His to conduct to the immortal plains,</l>
+<l>  Where heav'n's Supreme in bliss and glory reigns.</l>
+<l>    There sits, illustrious Sir, thy beauteous spouse;</l>
+<l>  A gem-blaz'd circle beaming on her brows.</l>
+<l>  Hail'd with acclaim among the heav'nly choirs,</l>
+<l>  Her soul new-kindling with seraphic fires,</l>
+<l>  To notes divine she tunes the vocal strings,</l>
+<l>  While heav'n's high concave with the music rings.</l>
+<l>  Virtue's rewards can mortal pencil paint?</l>
+<l>  No--all descriptive arts, and eloquence are faint;</l>
+<l>  Nor canst thou, Oliver, assent refuse</l>
+<l>  To heav'nly tidings from the Afric muse.</l>
+<l>    As soon may change thy laws, eternal fate,</l>
+<l>  As the saint miss the glories I relate;</l>
+<l>  Or her Benevolence forgotten lie,</l>
+<l>  Which wip'd the trick'ling tear from Misry's eye.</l>
+<l>  Whene'er the adverse winds were known to blow,</l>
+<l>  When loss to loss * ensu'd, and woe to woe,</l>
+<l>  Calm and serene beneath her father's hand</l>
+<l>  She sat resign'd to the divine command.</l>
+<l>    No longer then, great Sir, her death deplore,</l>
+<l>  And let us hear the mournful sigh no more,</l>
+<l>  Restrain the sorrow streaming from thine eye,</l>
+<l>  Be all thy future moments crown'd with joy!</l>
+<l>  Nor let thy wishes be to earth confin'd,</l>
+<l>  But soaring high pursue th' unbodied mind.</l>
+<l>  Forgive the muse, forgive th' advent'rous lays,</l>
+<l>  That fain thy soul to heav'nly scenes would raise.</l>
+</lg>
+</div>
+<div>
+<head>    A Farewel to AMERICA.  To Mrs. S. W.</head>
+<lg>
+<l>                 I.</l>
+
+<l>  ADIEU, New-England's smiling meads,</l>
+<l>      Adieu, the flow'ry plain:</l>
+<l>  I leave thine op'ning charms, O spring,</l>
+<l>      And tempt the roaring main.</l>
+
+<l>                 II.</l>
+
+<l>  In vain for me the flow'rets rise,</l>
+<l>      And boast their gaudy pride,</l>
+<l>  While here beneath the northern skies</l>
+<l>      I mourn for health deny'd.</l>
+
+<l>                 III.</l>
+
+<l>  Celestial maid of rosy hue,</l>
+<l>      O let me feel thy reign!</l>
+<l>  I languish till thy face I view,</l>
+<l>      Thy vanish'd joys regain.</l>
+
+<l>                 IV.</l>
+
+<l>  Susanna mourns, nor can I bear</l>
+<l>      To see the crystal show'r,</l>
+<l>  Or mark the tender falling tear</l>
+<l>      At sad departure's hour;</l>
+
+<l>                 V.</l>
+
+<l>  Not unregarding can I see</l>
+<l>      Her soul with grief opprest:</l>
+<l>  But let no sighs, no groans for me,</l>
+<l>      Steal from her pensive breast.</l>
+
+<l>                 VI.</l>
+
+<l>  In vain the feather'd warblers sing,</l>
+<l>      In vain the garden blooms,</l>
+<l>  And on the bosom of the spring</l>
+<l>      Breathes out her sweet perfumes.</l>
+
+<l>                 VII.</l>
+
+<l>  While for Britannia's distant shore</l>
+<l>      We sweep the liquid plain,</l>
+<l>  And with astonish'd eyes explore</l>
+<l>      The wide-extended main.</l>
+
+<l>                 VIII.</l>
+
+<l>  Lo! Health appears! celestial dame!</l>
+<l>      Complacent and serene,</l>
+<l>  With Hebe's mantle o'er her Frame,</l>
+<l>      With soul-delighting mein.</l>
+
+<l>                 IX.</l>
+
+<l>  To mark the vale where London lies</l>
+<l>      With misty vapours crown'd,</l>
+<l>  Which cloud Aurora's thousand dyes,</l>
+<l>      And veil her charms around.</l>
+   
+<l>                 X.</l>
+
+<l>  Why, Phoebus, moves thy car so slow?</l>
+<l>      So slow thy rising ray?</l>
+<l>  Give us the famous town to view,</l>
+<l>      Thou glorious king of day!</l>
+
+<l>                 XI.</l>
+
+<l>  For thee, Britannia, I resign</l>
+<l>      New-England's smiling fields;</l>
+<l>  To view again her charms divine,</l>
+<l>      What joy the prospect yields!</l>
+
+<l>                 XII.</l>
+
+<l>  But thou!  Temptation hence away,</l>
+<l>      With all thy fatal train,</l>
+<l>  Nor once seduce my soul away,</l>
+<l>      By thine enchanting strain.</l>
+
+<l>                 XIII.</l>
+
+<l>  Thrice happy they, whose heav'nly shield</l>
+<l>      Secures their souls from harms,</l>
+<l>  And fell Temptation on the field</l>
+<l>      Of all its pow'r disarms!</l>
+
+<l>    Boston, May 7, 1773.</l>
+</lg>
+</div>
+<div>
+<head>    A REBUS, by I. B.</head>
+<lg>
+<l>                 I.</l>
+
+<l>  A BIRD delicious to the taste,</l>
+<l>  On which an army once did feast,</l>
+<l>    Sent by an hand unseen;</l>
+<l>  A creature of the horned race,</l>
+<l>  Which Britain's royal standards grace;</l>
+<l>    A gem of vivid green;</l>
+<l>                II.
+</l>
+<l>  A town of gaiety and sport,</l>
+<l>  Where beaux and beauteous nymphs resort,</l>
+<l>    And gallantry doth reign;</l>
+<l>  A Dardan hero fam'd of old</l>
+<l>  For youth and beauty, as we're told,</l>
+<l>    And by a monarch slain;</l>
+
+<l>                 III.</l>
+<l>  A peer of popular applause,</l>
+<l>  Who doth our violated laws,</l>
+<l>    And grievances proclaim.</l>
+<l>  Th' initials show a vanquish'd town,</l>
+<l>  That adds fresh glory and renown</l>
+<l>    To old Britannia's fame.</l>
+</lg>
+</div>
+         <div>
+            
+<head>  An ANSWER to the Rebus, by the Author of these POEMS.</head>
+<lg>
+<l>  THE poet asks, and Phillis can't refuse</l>
+<l>  To show th' obedience of the Infant muse.</l>
+<l>  She knows the Quail of most inviting taste</l>
+<l>  Fed Israel's army in the dreary waste;</l>
+<l>  And what's on Britain's royal standard borne,</l>
+<l>  But the tall, graceful, rampant Unicorn?</l>
+<l>  The Emerald with a vivid verdure glows</l>
+<l>  Among the gems which regal crowns compose;</l>
+<l>  Boston's a town, polite and debonair,</l>
+<l>  To which the beaux and beauteous nymphs repair,</l>
+<l>  Each Helen strikes the mind with sweet surprise,</l>
+<l>  While living lightning flashes from her eyes,</l>
+<l>  See young Euphorbus of the Dardan line</l>
+<l>  By Manelaus' hand to death resign:</l>
+<l>  The well known peer of popular applause</l>
+<l>  Is C----m zealous to support our laws.</l>
+<l>  Quebec now vanquish'd must obey,</l>
+<l>  She too much annual tribute pay</l>
+<l>  To Britain of immortal fame.</l>
+<l>  And add new glory to her name.</l>
+</lg>
+</div>
+      </body>
+  </text>
+</TEI>
