@@ -13,6 +13,15 @@
          </publicationStmt>
          <sourceDesc>
             <p>Information about the source</p>
+            <imprint>
+               
+            </imprint>
+             
+            <imprint>
+               <extent link="http://www.gutenberg.org/cache/epub/409/pg409.txt">Project Gutenberg Online Text</extent>
+               <date>3 August 2008</date>
+               <note>Original plaintext sourced from Project Gutenberg and corrected against page images from Library of Congress.</note>
+            </imprint>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
