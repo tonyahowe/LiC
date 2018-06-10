@@ -63,7 +63,7 @@
                      <idno type="lcc">PR3765.W57 A1</idno>
                   </extent>
                </monogr>
-               <note>There are three different 1713 printings of this text.</note>
+               <note>There are three different 1713 printings of this text, including slight variations of the authorship statement--from the anonymous "written by a Lady" to a full statement of authorship by "Anne Finch, Countess of Winchelsea". The page image included with this poem is from the 1714 printing, a copy of which is in the Library of Congress. The 1714 printing by Barber is a reissue of the 1713 editions with a new title page. All page images are sourced from the Library of Congress.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -106,7 +106,7 @@
                <lb/>
             </docImprint>
          </titlePage>
-         <pb facs="TP.jpg"/>
+         <pb facs="images/TP-1714.jpg"/>
       </front>
       <body>
          <div1 type="poem">
@@ -119,7 +119,7 @@
                   <l n="5" rend="indent">Free as thine shall be my Song;</l>
                   <l n="6" rend="indent">As thy Musick, short, or long.</l>
                   <l n="7">Poets, wild as thee, were born,</l>
-                  <pb facs="finch-night-200.jpg"/>
+                  <pb facs="images/200.jpg"/>
                   <l n="8" rend="indent">Pleasing best when unconfin’d,</l>
                   <l n="9" rend="indent">When to Please is least design’d,</l>
                   <l n="10">Soothing but their Cares to rest;</l>
@@ -138,7 +138,7 @@
                      <l n="23" rend="indent">Let <ref target="#division">Division</ref> shake thy Throat.</l>
                         <l n="24">Hark! Division now she tries;</l>
                         <l n="25">Yet as far the Muse outflies </l>
-                        <pb facs="finch-night-201.jpg"/>
+                        <pb facs="images/201.jpg"/>
                         <l n="26" rend="indent">Cease then, prithee, cease thy Tune;</l>
                         <l n="27" rend="indent">Trifler, wilt thou sing till <hi rend="italic">June?</hi></l>
                         <l n="28">Till thy Bus’ness all lies waste,</l>
@@ -150,7 +150,7 @@
                         <l n="34">Criticize, reform, or preach,</l>
                         <l n="35">Or censure what we cannot reach. </l>
             </lg>
-            <pb facs="finch-night-202.jpg"/>
+            <pb facs="images/202.jpg"/>
             
          </div1>
       </body>

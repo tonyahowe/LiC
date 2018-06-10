@@ -26,9 +26,135 @@
       </fileDesc>
   </teiHeader>
   <text>
+     <front>
+        <titlepage>
+           
+        </titlepage>
+        <div1 type="dedication">
+           
+           TO THE RIGHT HONOURABLE THE
+           COUNTESS OF HUNTINGDON,
+           THE FOLLOWING
+           P O E M S
+           ARE MOST RESPECTFULLY INSCRIBED.
+           BY HER MUCH OBLIGED,
+           VERY HUMBLE
+           AND DEVOTED SERVANT.
+           PHILLIS WHEATLEY.
+           
+           BOSTON, JUNE 12, 1773.
+           <pb facs="004.JPG"/>
+           
+        </div1>
+           <div1 type="preface">
+           <head>PREFACE.</head>   
+          
+           <p>THE following POEMS were written originally for the Amusement of the
+           Author, as they were the Products of her leisure Moments.  She had no
+           Intention ever to have published them; nor would they now have made
+           their Appearance, but at the Importunity of many of her best, and most
+           generous Friends; to whom she considers herself, as under the greatest
+           Obligations.</p>
+           
+           <p>As her Attempts in Poetry are now sent into the World, it is hoped the
+           Critic will not severely censure their Defects; and we presume they
+           have too much Merit <pb facs="005.JPG"/>to be cast aside with Contempt, as worthless and
+           trifling Effusions.</p>
+           
+          <p> As to the Disadvantages she has laboured under, with Regard to Learning,
+           nothing needs to be offered, as her Master's Letter in the following
+           Page will sufficiently show the Difficulties in this Respect she had to
+           encounter.</p>
+           
+           <p>With all their Imperfections, the Poems are now humbly submitted to the
+           Perusal of the Public.</p><pb facs="006.JPG"/>
+           
+           </div1>
+        <div1 type="letter">
+           <floatingText>
+          <p> The following is a Copy of a LETTER sent by the Author's Master to the
+           Publisher.</p>
+           
+           <p>PHILLIS was brought from Africa to America, in the Year 1761, between
+           seven and eight Years of Age.  Without any Assistance from School
+           Education, and by only what she was taught in the Family, she, in
+           sixteen Months Time from her Arrival, attained the English language,
+           to which she was an utter Stranger before, to such a degree, as to
+           read any, the most difficult Parts of the Sacred Writings, to the
+           great Astonishment of all who heard her.</p>
+           
+           <p>As to her WRITING, her own Curiosity led her to it; and this she learnt
+           in so short a Time, that in the Year 1765, she wrote a Letter to the
+           Rev. Mr. OCCOM, the Indian Minister, while in England.</p>
+           
+           <p>She has a great Inclination to learn the Latin Tongue, and has made some
+           Progress in it.  This Relation is given by her Master who bought her,
+           and with whom she now lives.</p>
+           
+           <closer><signed>JOHN WHEATLEY.</signed>
+           
+          <dateline><placeName>Boston</placeName>, <date>Nov. 14, 1772</date>.</dateline></closer>
+           </floatingText>
+           <pb facs="007.JPG"/>
+        </div1>
+        <div1 type="attestation">
+           
+           <head>To the PUBLIC.</head>
+           
+           <p>AS it has been repeatedly suggested to the Publisher, by Persons, who
+           have seen the Manuscript, that Numbers would be ready to suspect they
+           were not really the Writings of PHILLIS, he has procured the following
+           Attestation, from the most respectable Characters in Boston, that none
+           might have the least Ground for disputing their Original.</p>
+           
+           <p>WE whose Names are under-written, do assure the World, that the POEMS
+           specified in the following Page,<ref>*</ref> were (as we verily believe) written
+           by Phillis, a young Negro Girl, who was but a few Years since, brought
+           an uncultivated Barbarian from Africa, and has ever since been, and
+           now is, under the Disadvantage of serving as a Slave in a Family in
+           this Town.  She has been examined by some of the best Judges, and is
+           thought qualified to write them.</p>
+           
+           <p>His Excellency THOMAS HUTCHINSON, Governor.
+           
+           The Hon. ANDREW OLIVER, Lieutenant-Governor.
+           
+           The Hon. Thomas Hubbard,  | The Rev. Charles Chauncey, D. D.
+           The Hon. John Erving,     | The Rev. Mather Byles, D. D.
+           The Hon. James Pitts,     | The Rev. Ed. Pemberton, D. D.
+           The Hon. Harrison Gray,   | The Rev. Andrew Elliot, D. D.
+           The Hon. James Bowdoin,   | The Rev. Samuel Cooper, D. D.
+           John Hancock, Esq;        | The Rev. Mr. Saumel Mather,
+           Joseph Green, Esq;        | The Rev. Mr. John Moorhead,
+           Richard Carey, Esq;       | Mr. John Wheat ey, her Master.</p>
+           
+           <p>N. B.  The original Attestation, signed by the above Gentlemen,
+           may be seen by applying to Archibald Bell, Bookseller,
+           No. 8, Aldgate-Street.</p>
+           
+           <graphic/>
+           
+           <p>*The Words "following Page," allude to the Contents
+           of the Manuscript Copy, with are wrote at the
+           Back of the above Attestation.</p>
+           <pb facs="008.JPG"/>
+        </div1>
+     </front>
+     
       <body>
-         <div>
-            <head>To  M AE C E N A S.</head>
+         <div1 type="shortTitle">
+               
+               <head>POEMS<lb/>
+                  
+                  ON<lb/>
+                  
+                  VARIOUS SUBJECTS.</head>
+               
+               <graphic/>
+               
+            </div1>
+            <div2>
+            <head type="poem">To  M AE C E N A S.</head>
 <lg>
 <l>  MAECENAS, you, beneath the myrtle shade,</l>
 <l>Read o'er what poets sung, and shepherds play'd.</l>
@@ -37,7 +163,7 @@
 <l> Their noble strains your equal genius shares</l>
 <l>  In softer language, and diviner airs.</l>
 <l>    While Homer paints, lo! circumfus'd in air,</l>
-<l>  Celestial Gods in mortal forms appear;</l>
+<l>  Celestial Gods in mortal forms appear;</l><pb facs="009.JPG"/>
 <l> Swift as they move hear each recess rebound,</l>
 <l>  Heav'n quakes, earth trembles, and the shores resound.</l>
 <l>  Great Sire of verse, before my mortal eyes,</l>
@@ -57,7 +183,7 @@
 <l>  Soon the same beauties should my mind adorn,</l>
 <l>  And the same ardors in my soul should burn:</l>
 <l>  Then should my song in bolder notes arise,</l>
-<l>  And all my numbers pleasingly surprise;</l>
+<l>  And all my numbers pleasingly surprise;</l><pb facs="010.JPG"/>
 <l>  But here I sit, and mourn a grov'ling mind,</l>
 <l>  That fain would mount, and ride upon the wind.</l>
 <l>    Not you, my friend, these plaintive strains become,</l>
@@ -74,12 +200,10 @@
 <l>  With the finest glory in the rolls of fame?</l>
 <l>    Thy virtues, great Maecenas! shall be sung</l>
 <l>  In praise of him, from whom those virtues sprung:</l>
+   <l>*He was an African by birth.</l><pb facs="011.JPG"/>
 <l>  While blooming wreaths around thy temples spread,</l>
 <l>  I'll snatch a laurel from thine honour'd head,</l>
 <l>  While you indulgent smile upon the deed.</l>
-
-<l>*He was an African by birth.</l>
-
 <l>    As long as Thames in streams majestic flows,</l>
 <l>  Or Naiads in their oozy beds repose</l>
 <l>  While Phoebus reigns above the starry train</l>
@@ -89,9 +213,10 @@
 <l>  Then grant, Maecenas, thy paternal rays,</l>
 <l>  Hear me propitious, and defend my lays.</l>
 </lg>
-</div>
-<div>
-<head>O N  V I R T U E.</head>
+               <pb facs="012.JPG"/>
+</div2>
+<div2>
+<head type="poem">O N  V I R T U E.</head>
 <lg>
 <l>  O Thou bright jewel in my aim I strive</l>
 <l>  To comprehend thee.  Thine own words declare</l>
@@ -115,9 +240,9 @@
 <l>  Teach me a better strain, a nobler lay,</l>
 <l>  O thou, enthron'd with Cherubs in the realms of day.</l>
 </lg>
-</div>
-<div>
-<head>TO THE UNIVERSITY OF CAMBRIDGE, IN NEW-ENGLAND.</head>
+</div2>
+<div2>
+<head type="poem">TO THE UNIVERSITY OF CAMBRIDGE, IN NEW-ENGLAND.</head>
 <lg>
 <l>  WHILE an intrinsic ardor prompts to write,</l>
 <l>  The muses promise to assist my pen;</l>
@@ -150,9 +275,9 @@
 <l>  Its transient sweetness turns to endless pain,</l>
 <l>  And in immense perdition sinks the soul.</l>
 </lg>
-</div>
-<div>
-<head>TO THE KING'S MOST EXCELLENT MAJESTY.  1768.</head>
+</div2>
+<div2>
+<head type="poem">TO THE KING'S MOST EXCELLENT MAJESTY.  1768.</head>
 <lg>
 <l>  YOUR subjects hope, dread Sire--</l>
 <l>  The crown upon your brows may flourish long,</l>
@@ -172,9 +297,9 @@
 
 <l>       * The Repeal of the Stamp Act.</l>
 </lg>
-</div>
-         <div>
-<head>On being brought from Africa to America.</head>
+</div2>
+         <div2>
+<head type="poem">On being brought from Africa to America.</head>
 <lg>
 <l>  'TWAS mercy brought me from my Pagan land,</l>
 <l>  Taught my benighted soul to understand</l>
@@ -185,10 +310,10 @@
 <l>  Remember, Christians, Negroes, black as Cain,</l>
 <l>  May be refin'd, and join th' angelic train.</l>
 </lg>
-</div>
+</div2>
 
-<div>
-<head> On the Death of the Rev. Dr. SEWELL, 1769.</head>
+<div2>
+<head type="poem"> On the Death of the Rev. Dr. SEWELL, 1769.</head>
 <lg>
 <l>  ERE yet the morn its lovely blushes spread,</l>
 <l>  See Sewell number'd with the happy dead.</l>
@@ -242,10 +367,10 @@
 <l>  "O when shall we to his blest state arrive?</l>
 <l>  "When the same graces in our bosoms thrive."</l>
 </lg>
-</div>
+</div2>
 
-<div>
-<head> On the Death of the Rev. Mr. GEORGE WHITEFIELD.  1770.</head>
+<div2>
+<head type="poem"> On the Death of the Rev. Mr. GEORGE WHITEFIELD.  1770.</head>
 <lg>
 <l>  HAIL, happy saint, on thine immortal throne,</l>
 <l>  Possest of glory, life, and bliss unknown;</l>
@@ -297,10 +422,10 @@
 
 <l> *The Countess of Huntingdon, to whom Mr. Whitefield was Chaplain.</l>
 </lg>
-</div>
+</div2>
 
-<div>
-<head>On the Death of a young Lady of Five Years of Age.</head>
+<div2>
+<head type="poem">On the Death of a young Lady of Five Years of Age.</head>
 <lg>
 <l>  FROM dark abodes to fair etherial light</l>
 <l>  Th' enraptur'd innocent has wing'd her flight;</l>
@@ -339,10 +464,10 @@
 <l>  Yourselves, safe landed on the blissful shore,</l>
 <l>  Shall join your happy babe to part no more.</l>
 </lg>
-</div>
+</div2>
 
-<div>
-<head> On the Death of a young Gentleman.</head>
+<div2>
+<head type="poem"> On the Death of a young Gentleman.</head>
 <lg>
 <l>  WHO taught thee conflict with the pow'rs of night,</l>
 <l>  To vanquish satan in the fields of light?</l>
@@ -369,10 +494,10 @@
 <l>  To eye the path the saint departed trod,</l>
 <l>  And trace him to the bosom of his God.</l>
 </lg>
-</div>
+</div2>
 
-<div>
-<head>To a Lady on the Death of her Husband.</head>
+<div2>
+<head type="poem">To a Lady on the Death of her Husband.</head>
 <lg>
 <l>  GRIM monarch! see, depriv'd of vital breath,</l>
 <l>  A young physician in the dust of death:</l>
@@ -409,10 +534,10 @@
 <l>  He welcomes thee to pleasures more refin'd,</l>
 <l>  And better suited to th' immortal mind.</l>
 </lg>
-</div>
+</div2>
 
-<div>
-<head>G O L I A T H   O F   G A T H.</head>
+<div2>
+<head type="poem">G O L I A T H   O F   G A T H.</head>
 <head type="sub">      1 SAMUEL, Chap. xvii.</head>
 <lg>
 <l>  YE martial pow'rs, and all ye tuneful nine,</l>
@@ -640,10 +765,10 @@
 <l>  "Knit to my soul for ever thou remain</l>
 <l>  "With me, nor quit my regal roof again."</l>
 </lg>
-</div>
+</div2>
 
-<div>
-<head>Thoughts on the WORKS OF PROVIDENCE.</head>
+<div2>
+<head type="poem">Thoughts on the WORKS OF PROVIDENCE.</head>
 <lg>
 <l>  A R I S E, my soul, on wings enraptur'd, rise</l>
 <l>  To praise the monarch of the earth and skies,</l>
@@ -777,10 +902,10 @@
 <l>  To him, whose works arry'd with mercy shine,</l>
 <l>  What songs should rise, how constant, how divine!</l>
 </lg>
-</div>
+</div2>
 
-<div>
-<head>  To a Lady on the Death of three Relations.</head>
+<div2>
+<head type="poem">  To a Lady on the Death of three Relations.</head>
 <lg>
 <l>  WE trace the pow'r of Death from tomb to tomb,</l>
 <l>  And his are all the ages yet to come.</l>
@@ -814,10 +939,10 @@
 <l>  To strains extatic.  Thou the chorus join,</l>
 <l>  And to thy father tune the praise divine.</l>
 </lg>
-</div>
+</div2>
 
-<div>
-<head>To a Clergyman on the Death of his Lady.</head>
+<div2>
+<head type="poem">To a Clergyman on the Death of his Lady.</head>
 <lg>
 <l>  WHERE contemplation finds her sacred spring,</l>
 <l>  Where heav'nly music makes the arches ring,</l>
@@ -862,10 +987,10 @@
 <l>  Permit the muse a cordial to impart;</l>
 <l>  Who can to thee their tend'rest aid refuse?</l>
 </lg>
-</div>
+</div2>
 
-<div>
-<head>An HYMN to the MORNING</head>
+<div2>
+<head type="poem">An HYMN to the MORNING</head>
 <lg>
 <l>  ATTEND my lays, ye ever honour'd nine,</l>
 <l>  Assist my labours, and my strains refine;</l>
@@ -888,10 +1013,10 @@
 <l>  But Oh! I feel his fervid beams too strong,</l>
 <l>  And scarce begun, concludes th' abortive song.</l>
 </lg>
-</div>
+</div2>
 
-<div>
-<head>An HYMN to the EVENING.</head>
+<div2>
+<head type="poem">An HYMN to the EVENING.</head>
 <lg>
 <l>  SOON as the sun forsook the eastern main</l>
 <l>  The pealing thunder shook the heav'nly plain;</l>
@@ -912,9 +1037,9 @@
 <l>    Night's leaden sceptre seals my drowsy eyes,</l>
 <l>  Then cease, my song, till fair Aurora rise.</l>
 </lg>
-</div>
-<div>
-<head>    ISAIAH lxiii. 1-8.</head>
+</div2>
+<div2>
+<head type="poem">    ISAIAH lxiii. 1-8.</head>
 <lg>
 <l>  SAY, heav'nly muse, what king or mighty God,</l>
 <l>  That moves sublime from Idumea's road?</l>
@@ -947,9 +1072,9 @@
 <l>  Yet she serenely on thy bosom lies,</l>
 <l>  Smiles at their arts, and all their force defies.</l>
 </lg>
-</div>
-<div>
-<head>    On RECOLLECTION.</head>
+</div2>
+<div2>
+<head type="poem">    On RECOLLECTION.</head>
 <lg>
 <l>  MNEME begin.  Inspire, ye sacred nine,</l>
 <l>  Your vent'rous Afric in her great design.</l>
@@ -1002,9 +1127,9 @@
 <l>  Thrice blest the man, who, in her sacred shrine,</l>
 <l>  Feels himself shelter'd from the wrath divine!</l>
 </lg>
-</div>
-<div>
-<head>    On IMAGINATION.</head>
+</div2>
+<div2>
+<head type="poem">    On IMAGINATION.</head>
 <lg>
 <l>  THY various works, imperial queen, we see,</l>
 <l>    How bright their forms! how deck'd with pomp</l>
@@ -1061,9 +1186,9 @@
 <l>  They chill the tides of Fancy's flowing sea,</l>
 <l>  Cease then, my song, cease the unequal lay.</l>
 </lg>
-</div>
-<div>
-<head>    A Funeral POEM on the Death of C. E.</head>
+</div2>
+<div2>
+<head type="poem">    A Funeral POEM on the Death of C. E.</head>
 <l>      an Infant of Twelve Months.</l>
 <lg>
 <l>  THROUGH airy roads he wings his instant flight</l>
@@ -1113,9 +1238,9 @@
 <l>  Prepare to join your dearest infant friend</l>
 <l>  In pleasures without measure, without end.</l>
 </lg>
-</div>
-<div>
-<head>    To Captain H-----D, of the 65th Regiment.</head>
+</div2>
+<div2>
+<head type="poem">    To Captain H-----D, of the 65th Regiment.</head>
 <lg>
 <l>  SAY, muse divine, can hostile scenes delight</l>
 <l>  The warrior's bosom in the fields of fight?</l>
@@ -1128,9 +1253,9 @@
 <l>  Still to the field, and still to virtue true:</l>
 <l>  Britannia glories in no son like you.</l>
 </lg>
-</div>
-<div>
-<head>    To the Right Honourable WILLIAM, Earl<lb/>
+</div2>
+<div2>
+<head type="poem">    To the Right Honourable WILLIAM, Earl<lb/>
 of DARTMOUTH, His Majesty's Principal<lb/>
 Secretary of State for North-America, &amp;c.</head>
 <lg>
@@ -1178,9 +1303,9 @@ Secretary of State for North-America, &amp;c.</head>
 <l>  And bear thee upwards to that blest abode,</l>
 <l>  Where, like the prophet, thou shalt find thy God.</l>
 </lg>
-</div>
-<div>
-<head>    O D E   T O   N E P T U N E.</head>
+</div2>
+<div2>
+<head type="poem">    O D E   T O   N E P T U N E.</head>
 <head type="sub">On Mrs. W-----'s Voyage to England.</head>
 <lg n="1">
 <l>                 I.</l>
@@ -1216,9 +1341,9 @@ Secretary of State for North-America, &amp;c.</head>
 
 <l>    Boston, October 12, 1772.</l>
 </lg>
-</div>
-<div>
-<head>    To a LADY on her coming to North-America</head>
+</div2>
+<div2>
+<head type="poem">    To a LADY on her coming to North-America</head>
 <l>    with her Son, for the Recovery of her Health.</l>
 <lg>
 <l>  INDULGENT muse! my grov'ling mind inspire,</l>
@@ -1256,9 +1381,9 @@ Secretary of State for North-America, &amp;c.</head>
 <l>  With shouts of joy Jamaica's rocks resound,</l>
 <l>  With shouts of joy the country rings around.</l>
 </lg>
-</div>
-<div>
-<head>    To a LADY on her remarkable Preservation</head>
+</div2>
+<div2>
+<head type="poem">    To a LADY on her remarkable Preservation</head>
 <l>      in an Hurricane in North-Carolina.</l>
 <lg>
 <l>  THOUGH thou did'st hear the tempest from afar,</l>
@@ -1294,9 +1419,9 @@ Secretary of State for North-America, &amp;c.</head>
 <l>  O come, and joyful show thy spouse his heir,</l>
 <l>  And what the blessings of maternal care!</l>
 </lg>
-</div>
-<div>
-<head>    To a LADY and her Children, on the Death</head>
+</div2>
+<div2>
+<head type="poem">    To a LADY and her Children, on the Death</head>
 <l>      of her Son and their Brother.</l>
 <lg>
 <l>  O'ERWHELMING sorrow now demands my song:</l>
@@ -1330,9 +1455,9 @@ Secretary of State for North-America, &amp;c.</head>
 <l>  On harps of gold to tune immortal lays,</l>
 <l>  And to your God immortal anthems raise.</l>
 </lg>
-</div>
-<div>
-<head>    To a GENTLEMAN and LADY on the Death<lb/>
+</div2>
+<div2>
+<head type="poem">    To a GENTLEMAN and LADY on the Death<lb/>
 of the Lady's Brother and Sister, and a<lb/>
 Child of the Name of Avis, aged one Year.</head>
 <lg>
@@ -1371,9 +1496,9 @@ Child of the Name of Avis, aged one Year.</head>
 <l>  With tow'ring hopes, and growing grace arise,</l>
 <l>  And seek beatitude beyond the skies.</l>
 </lg>
-</div>
-<div>
-<head>    On the Death of Dr. SAMUEL MARSHALL.  1771.</head>
+</div2>
+<div2>
+<head type="poem">    On the Death of Dr. SAMUEL MARSHALL.  1771.</head>
 <lg>
 <l>  THROUGH thickest glooms look back, immortal shade,</l>
 <l>  On that confusion which thy death has made:</l>
@@ -1404,9 +1529,9 @@ Child of the Name of Avis, aged one Year.</head>
 <l>  Yet 'midst our woes immortal hopes attend</l>
 <l>  The spouse, the sire, the universal friend.</l>
 </lg>
-</div>
-<div>
-<head>    To a GENTLEMAN on his Voyage to Great-Britain<lb/>
+</div2>
+<div2>
+<head type="poem">    To a GENTLEMAN on his Voyage to Great-Britain<lb/>
 for the Recovery of his Health.</head>
 <lg>
 <l>  WHILE others chant of gay Elysian scenes,</l>
@@ -1442,9 +1567,9 @@ for the Recovery of his Health.</head>
 <l>  Then shall we see with pleasure and surprise,</l>
 <l>  And own thy work, great Ruler of the skies!</l>
 </lg>
-</div>
-<div>
-<head>    To the Rev. DR. THOMAS AMORY, on<lb/>
+</div2>
+<div2>
+<head type="poem">    To the Rev. DR. THOMAS AMORY, on<lb/>
 reading his Sermons on DAILY DEVOTION,<lb/>
 in which that Duty is recommended and<lb/>
 assisted.</head>
@@ -1478,9 +1603,9 @@ assisted.</head>
 <l>  May Amory triumph in immortal fame,</l>
 <l>  A nobler title, and superior name!</l>
 </lg>
-</div>
-<div>
-<head>    On the Death of J. C. an Infant.</head>
+</div2>
+<div2>
+<head type="poem">    On the Death of J. C. an Infant.</head>
 <lg>
 <l>  NO more the flow'ry scenes of pleasure rife,</l>
 <l>  Nor charming prospects greet the mental eyes,</l>
@@ -1525,9 +1650,9 @@ assisted.</head>
 <l>  Cheerful resign at the divine command:</l>
 <l>  Not at your bar must sov'reign Wisdom stand.</l>
 </lg>
-</div>
-<div>
-<head>    An H Y M N to H U M A N I T Y.<lb/>
+</div2>
+<div2>
+<head type="poem">    An H Y M N to H U M A N I T Y.<lb/>
          To S. P. G. Esq;</head>
 <lg>
 <l>                 I.</l>
@@ -1585,9 +1710,9 @@ assisted.</head>
 <l>  The smiling Graces all surround</l>
 <l>      With ev'ry heav'nly Art.</l>
 </lg>
-</div>
-<div>
-<head>    To the Honourable T. H. Esq; on the Death<lb/>
+</div2>
+<div2>
+<head type="poem">    To the Honourable T. H. Esq; on the Death<lb/>
                of his Daughter.</head>
 <lg>
 <l>  WHILE deep you mourn beneath the cypress-shade</l>
@@ -1631,9 +1756,9 @@ assisted.</head>
 <l>  "Let brighter scenes your ev'ning-hours employ:</l>
 <l>  "Converse with heav'n, and taste the promis'd joy"</l>
 </lg>
-</div>
-<div>
-<head>    NIOBE in Distress for her Children slain by<lb/>
+</div2>
+<div2>
+<head type="poem">    NIOBE in Distress for her Children slain by<lb/>
        APOLLO, from Ovid's Metamorphoses,<lb/>
          Book VI. and from a view of the Painting<lb/>
    of Mr. Richard Wilson.</head>
@@ -1867,9 +1992,9 @@ assisted.</head>
 <l>  "A marble statue now the queen appears,</l>
 <l>  "But from the marble steal the silent tears."</l>
 </lg>
-</div>
-<div>
-<head>    To S. M. a young African Painter, on seeing his Works.</head>
+</div2>
+<div2>
+<head type="poem">    To S. M. a young African Painter, on seeing his Works.</head>
 <lg>
 <l>  TO show the lab'ring bosom's deep intent,</l>
 <l>  And thought in living characters to paint,</l>
@@ -1906,9 +2031,9 @@ assisted.</head>
 <l>  Cease, gentle muse! the solemn gloom of night</l>
 <l>  Now seals the fair creation from my sight.</l>
 </lg>
-</div>
-<div>
-<head>    To his Honour the Lieutenant-Governor, on<lb/>
+</div2>
+<div2>
+<head type="poem">    To his Honour the Lieutenant-Governor, on<lb/>
     the Death of his Lady.  March 24, 1773.</head>
 <lg>
 <l>  ALL-Conquering Death! by thy resistless pow'r,</l>
@@ -1959,9 +2084,9 @@ assisted.</head>
 <l>  Forgive the muse, forgive th' advent'rous lays,</l>
 <l>  That fain thy soul to heav'nly scenes would raise.</l>
 </lg>
-</div>
-<div>
-<head>    A Farewel to AMERICA.  To Mrs. S. W.</head>
+</div2>
+<div2>
+<head type="poem">    A Farewel to AMERICA.  To Mrs. S. W.</head>
 <lg>
 <l>                 I.</l>
 
@@ -2056,9 +2181,9 @@ assisted.</head>
 
 <l>    Boston, May 7, 1773.</l>
 </lg>
-</div>
-<div>
-<head>    A REBUS, by I. B.</head>
+</div2>
+<div2>
+<head type="poem">    A REBUS, by I. B.</head>
 <lg>
 <l>                 I.</l>
 
@@ -2085,8 +2210,8 @@ assisted.</head>
 <l>  That adds fresh glory and renown</l>
 <l>    To old Britannia's fame.</l>
 </lg>
-</div>
-         <div>
+</div2>
+         <div2>
             
 <head>  An ANSWER to the Rebus, by the Author of these POEMS.</head>
 <lg>
@@ -2111,7 +2236,7 @@ assisted.</head>
 <l>  To Britain of immortal fame.</l>
 <l>  And add new glory to her name.</l>
 </lg>
-</div>
+</div2>
       </body>
   </text>
 </TEI>
