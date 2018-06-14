@@ -43,7 +43,7 @@
            PHILLIS WHEATLEY.
            
            BOSTON, JUNE 12, 1773.
-           <pb facs="004.JPG"/>
+           <pb n="iv" facs="004.JPG"/>
            
         </div1>
            <div1 type="preface">
@@ -58,7 +58,7 @@
            
            <p>As her Attempts in Poetry are now sent into the World, it is hoped the
            Critic will not severely censure their Defects; and we presume they
-           have too much Merit <pb facs="005.JPG"/>to be cast aside with Contempt, as worthless and
+           have too much Merit <pb n="v" facs="005.JPG"/>to be cast aside with Contempt, as worthless and
            trifling Effusions.</p>
            
           <p> As to the Disadvantages she has laboured under, with Regard to Learning,
@@ -67,14 +67,14 @@
            encounter.</p>
            
            <p>With all their Imperfections, the Poems are now humbly submitted to the
-           Perusal of the Public.</p><pb facs="006.JPG"/>
+           Perusal of the Public.</p><pb n="vi" facs="006.JPG"/>
            
            </div1>
         <div1 type="letter">
            <floatingText>
-          <p> The following is a Copy of a LETTER sent by the Author's Master to the
-           Publisher.</p>
-           
+           <head>The following is a Copy of a LETTER sent by the Author's Master to the
+           Publisher</head>.
+           <body>
            <p>PHILLIS was brought from Africa to America, in the Year 1761, between
            seven and eight Years of Age.  Without any Assistance from School
            Education, and by only what she was taught in the Family, she, in
@@ -93,9 +93,9 @@
            
            <closer><signed>JOHN WHEATLEY.</signed>
            
-          <dateline><placeName>Boston</placeName>, <date>Nov. 14, 1772</date>.</dateline></closer>
+          <dateline><placeName>Boston</placeName>, <date>Nov. 14, 1772</date>.</dateline></closer></body>
            </floatingText>
-           <pb facs="007.JPG"/>
+           <pb n="vii" facs="007.JPG"/>
         </div1>
         <div1 type="attestation">
            
@@ -137,7 +137,8 @@
            <p>*The Words "following Page," allude to the Contents
            of the Manuscript Copy, with are wrote at the
            Back of the above Attestation.</p>
-           <pb facs="008.JPG"/>
+           <pb n="viii" facs="008.JPG"/>
+           
         </div1>
      </front>
      
@@ -171,8 +172,8 @@
 <l>  And, as the thunder shakes the heav'nly plains,</l>
 <l>  A deep felt horror thrills through all my veins.</l>
 <l>  When gentler strains demand thy graceful song,</l>
-<l>  The length'ning line moves languishing along.</l>
-<l>  When great Patroclus courts Achilles' aid,</l>
+<l n="49">  The length'ning line moves languishing along.</l>
+<l n="50">  When great Patroclus courts Achilles' aid, <fw type="lineNum">50</fw></l>
 <l>  The grateful tribute of my tears is paid;</l>
 <l>  Prone on the shore he feels the pangs of love,</l>
 <l>  And stern Pelides tend'rest passions move.</l>
