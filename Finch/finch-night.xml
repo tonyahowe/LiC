@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "file:/Users/tonya-mariehowe/Documents/GitHub/LiC/poetry_prose.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="finch-night">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">"To the Nightingale"</title>
+            <author>
+               <persName>Winchilsea, Anne Kingsmill Finch, Countess of, 1661-1720</persName>
+            </author>
+            <editor>
+               <persName type="orcid" key="0000-0002-7400-4093">Tonya Howe</persName>
+            </editor>
+            <respStmt>
+               <resp>Transcription, correction, editorial commentary, and markup</resp>
+               <persName>Students of Marymount University</persName>
+               <persName>James West</persName>
+               <persName>Amy Ridderhof</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Literature in Context</publisher>
+            <distributor>
+               <orgName>Novels in Context</orgName>
+               <address>
+                  <addrLine>Marymount University Department of Literature and Languages</addrLine>
+                  <addrLine>2807 N. Glebe Road</addrLine>
+                  <addrLine>Arlington, VA </addrLine>
+                  <addrLine>22207</addrLine>
+               </address>
+               <email>thowe@marymount.edu</email>
+            </distributor>
+            <authority>
+               <idno>finch-night</idno> <!-- we need to develop a plan for these identifications -->
+            </authority>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Published by
+                  Literature in Context under a Creative Commons Attribution-ShareAlike
+                  4.0 Unported License </licence>
+            </availability>
+            <date when="2018-06-05"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>"To the Nightingale"</title>
+               </analytic>
+               <monogr>
+                  <author><persName>Winchilsea, Anne Kingsmill Finch, Countess of, 1661-1720</persName></author>
+                  <title type="marc245a">Miscellany Poems</title>
+                  <title type="marc245b">On Several Occasions</title>
+                  <title type="marc245c">Written by a Lady.</title>
+                  <imprint>
+                     <pubPlace type="marc260a"><placeName type="tgn" key="7011781">London</placeName></pubPlace>
+                     <publisher type="marc260b">Printed by John Barber on Lambeth-Hill</publisher>
+                     <publisher type="marc260b">Sold by John Morphew near Stationer's Hall</publisher>
+                     <date type="marc260c" when="1713">1713</date>
+                  </imprint>
+                  <biblScope>pp 200-202</biblScope>
+                  <extent type="marc300">[8],390p. ; 8°
+                     <idno type="lcc">PR3765.W57 A1</idno>
+                  </extent>
+               </monogr>
+               <note>There are three different 1713 printings of this text, including slight variations of the authorship statement--from the anonymous "written by a Lady" to a full statement of authorship by "Anne Finch, Countess of Winchelsea". The page image included with this poem is from the 1714 printing, a copy of which is in the Library of Congress. The 1714 printing by Barber is a reissue of the 1713 editions with a new title page. All page images are sourced from the Library of Congress.</note>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Literature in Context, a project funded by the National Endowment for the Humanities, is an open-access, curated, classroom-sourced digital anthology of British and American literature for use by students, teachers, and the general public.</p>
+            <p>Annotation has been restricted to broad reference rather than interpretation.</p>
+            <p>Page breaks have been retained as in the 1713-1714 editions.</p>
+            <p>Hyphenations have been silently elided at line breaks, and retained when necessary for the sense of the sentence.</p>
+            <p>Capitalization and italics have been retained, though small caps have been indicated in the plaintext as all caps.</p>
+         </editorialDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="div">Numbered divs used.</tagUsage>
+            </namespace>
+         </tagsDecl>
+         <classDecl>
+            <taxonomy xml:id="LCCN">
+               <bibl>Library of Congress Name Authority File</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCC">
+               <bibl>Library of Congress Classification</bibl>
+            </taxonomy>
+            <taxonomy xml:id="TGN">
+               <bibl>Getty Thesaurus of Geographic Names</bibl>
+            </taxonomy>
+            <taxonomy xml:id="ORCID">
+               <bibl>Open Researcher and Contributor ID</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <pb facs="images/TP-1714.jpg"/>
+            <titlePart>MISCELLANY <lb/>POEMS,<lb/></titlePart>
+            <titlePart>ON<lb/> Several Occasions.<lb/></titlePart>
+            <titlePart><ref target="#finch" xml:id="finchA">Written by a LADY.</ref><lb/></titlePart>        
+            <docImprint>
+               <pubPlace><placeName type="tgn" key="7011781">LONDON</placeName></pubPlace>:
+               <lb/>
+               Printed for <publisher rend="caps">JOHN BARBER</publisher> on <pubPlace>Lambeth-hill</pubPlace>; and sold by <publisher>JOHN MORPHEW</publisher>, <pubPlace>Near Stationers-Hall</pubPlace>. <docDate>1713</docDate>.
+               <lb/>
+            </docImprint>
+         </titlePage>
+      </front>
+      <body>
+         <div1 type="poem">
+            <pb facs="images/200.jpg"/>
+            <head type="title"><hi rend="italic">To the </hi>NIGHTINGALE.</head>
+            <lg type="rhymed couplets">
+               <l n="1">EXert thy Voice, Sweet Harbinger of Spring</l>
+               <l n="2" rend="indent">This Moment is thy Time to Sing,</l>
+               <l n="3" rend="indent">This Moment I attend to Praise,</l>
+               <l n="4">And <ref target="#numbers">set my Numbers</ref> to thy <ref target="#layes">Layes</ref>.</l>
+                  <l n="5" rend="indent">Free as thine shall be my Song;</l>
+                  <l n="6" rend="indent">As thy Musick, short, or long.</l>
+                  <l n="7">Poets, wild as thee, were born,</l>
+               <pb facs="images/201.jpg"/>
+                  <l n="8" rend="indent">Pleasing best when unconfin’d,</l>
+                  <l n="9" rend="indent">When to Please is least design’d,</l>
+                  <l n="10">Soothing but their Cares to rest;</l>
+                  <l n="11" rend="indent">Cares do still their Thoughts molest,</l>
+                  <l n="12" rend="indent">And still th’unhappy Poet’s Breast,</l>
+                  <l n="13">Like thine, when best he sings, is plac’d against a Thorn. </l>
+                  <l n="14">She begins, Let all be still!</l>
+                  <l n="15" rend="indent"><ref target="#muse">Muse</ref>, thy Promise now fulfill!</l>
+                     <l n="16">Sweet, oh! sweet, still sweeter yet</l>
+                     <l n="17">Can thy Words such Accents fit,</l>
+                     <l n="18">Canst thou Syllables refine, </l>
+                     <l n="19">Melt a Sense that shall retain</l>
+                     <l n="20">Still some Spirit of the Brain,</l>
+                     <l n="21">Till with Sounds like these it join.</l>
+                     <l n="22" rend="indent">‘Twill not be ! then change thy Note; </l>
+                     <l n="23" rend="indent">Let <ref target="#division">Division</ref> shake thy Throat.</l>
+                        <l n="24">Hark! Division now she tries;</l>
+                        <l n="25">Yet as far the Muse outflies </l>
+               <pb facs="images/202.jpg"/>
+                        <l n="26" rend="indent">Cease then, prithee, cease thy Tune;</l>
+                        <l n="27" rend="indent">Trifler, wilt thou sing till <hi rend="italic">June?</hi></l>
+                        <l n="28">Till thy Bus’ness all lies waste,</l>
+                        <l n="29">And the Time of Building’s past !</l>
+                        <l n="30" rend="indent">Thus we Poets that have Speech,</l>
+                        <l n="31">Unlike what thy Forests teach,</l>
+                        <l n="32" rend="indent">If a fluent Vein be shown</l>
+                        <l n="33" rend="indent">That’s transcendent to our own,</l>
+                        <l n="34">Criticize, reform, or preach,</l>
+                        <l n="35">Or censure what we cannot reach. </l>
+            </lg>
+            
+            
+         </div1>
+      </body>
+      <back>
+         <div1 type="annotations">
+            <head>Annotations</head>
+            <note xml:id="finch" type="editorial" resp="JW"><p>Here's the text of my author annotation. The image to the right shows a <ref target="https://www.npg.org.uk/collections/search/portrait/mw06861">miniature watercolor portrait of Anne Finch by Peter Cross</ref>, housed in the National Portrait Gallery, London. <graphic url="https://collectionimages.npg.org.uk/large/mw06861/Anne-Finch-Countess-of-Winchilsea.jpg" width="300"/><ptr target="#finchA"/></p></note>
+            <note xml:id="division" type="editorial" resp="JW"><p>According to the <ref target="https://www.britannica.com/art/ornamentation-music"><hi rend="italic">Encyclopedia Britannica</hi> entry on ornamentation</ref>, division refers to a technique, popular in early modern music theory, characterized by dividing longer notes into a series of shorter note groupings. This is an early form of improvisation. For more information, please see “meter and time signatures" in the <ref target=" http://openmusictheory.com/meter.html">Open Music Theory</ref> textbook.</p></note>
+             <note xml:id="muse" type="editorial" resp="JW"><p>According to <ref target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DM%3Aentry+group%3D31%3Aentry%3Dmusae-bio-1"><hi rend="italic">A Dictionary of Greek and Roman Biography and Mythology</hi></ref>, the Muses are “inspiring goddesses of song" who “presid[e] over the different kinds of poetry, and over the arts and sciences." In this poem, Finch positions the nightingale as her muse and rival.</p></note>
+             <note xml:id="layes" type="editiorial" resp="JW"><p>According to the <ref target=" https://www.britannica.com/art/lay"><hi rend="italic">  Encyclopedia Britanica</hi></ref> , a “Lay" refers to a song or story in song. Finch in this instance is seeking to create a poem that mirrors the song of the Nightingale.</p></note>
+              <note xml:id="numbers" type="editorial" resp="TH"><p>“Numbers" refers to the metrical quality of poetic verse; it also <ref url="https://www.poetryfoundation.org/learn/glossary-terms/metonymy">metonymically</ref> signifies poetry in general. In <ref url="https://andromeda.rutgers.edu/~jlynch/Texts/arbuthnot.html">Alexander Pope’s “Epistle to Arbuthnot,"</ref> he says that he “lisp’d in numbers, for the numbers came" (128), suggesting that he spoke in poetic form even as a child. Poetry is associated with music because of the metrical quality of both. Finch’s use of the word “set" in this line emphasizes musicality, specifically the setting of words to music (see OED “set" v1, 73.a).</p></note>
+         </div1>
+      </back>
+   </text>
+</TEI>
