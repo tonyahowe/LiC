@@ -1,0 +1,135 @@
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date type CDATA #IMPLIED>
+<!ATTLIST date when CDATA #IMPLIED>
+<!ATTLIST date instant CDATA #IMPLIED>
+<!ELEMENT extent (#PCDATA | idno)*>
+<!ATTLIST extent type CDATA #IMPLIED>
+<!ELEMENT hi (#PCDATA | bibl | placeName | title | a)*>
+<!ATTLIST hi rend CDATA #IMPLIED>
+<!ELEMENT tooltip_notes (#PCDATA | div1)*>
+<!ELEMENT docTitle (#PCDATA | titlePart)*>
+<!ELEMENT taxonomy (#PCDATA | bibl)*>
+<!ATTLIST taxonomy xml:id CDATA #IMPLIED>
+<!ELEMENT fileDesc (#PCDATA | titleStmt | editionStmt | publicationStmt | sourceDesc)*>
+<!ELEMENT body (#PCDATA | div1 | opener | p | closer)*>
+<!ELEMENT respStmt (#PCDATA | resp | persName)*>
+<!ELEMENT ref (#PCDATA | lg | placeName | hi | i)*>
+<!ATTLIST ref xml:id CDATA #IMPLIED>
+<!ATTLIST ref rend CDATA #IMPLIED>
+<!ATTLIST ref target CDATA #IMPLIED>
+<!ATTLIST ref url CDATA #IMPLIED>
+<!ELEMENT quote (#PCDATA | rs | lb | bibl | lg)*>
+<!ELEMENT pubPlace (#PCDATA | placeName)*>
+<!ATTLIST pubPlace type CDATA #IMPLIED>
+<!ELEMENT text (#PCDATA | front | body | back | tooltip_notes)*>
+<!ELEMENT tagsDecl (#PCDATA | namespace)*>
+<!ELEMENT licence (#PCDATA)>
+<!ATTLIST licence target CDATA #IMPLIED>
+<!ELEMENT orgName (#PCDATA)>
+<!ELEMENT teiHeader (#PCDATA | fileDesc | encodingDesc)*>
+<!ATTLIST teiHeader xml:lang CDATA #IMPLIED>
+<!ELEMENT author (#PCDATA | persName)*>
+<!ELEMENT classDecl (#PCDATA | taxonomy)*>
+<!ELEMENT signed (#PCDATA | persName)*>
+<!ELEMENT idno (#PCDATA)>
+<!ATTLIST idno type CDATA #IMPLIED>
+<!ELEMENT editorialDecl (#PCDATA | p)*>
+<!ELEMENT editionStmt (#PCDATA | p)*>
+<!ELEMENT opener (#PCDATA | hi | placeName | dateline | persName | salute)*>
+<!ELEMENT titlePage (#PCDATA | docTitle | titlePart | epigraph | docImprint | pb)*>
+<!ELEMENT authority (#PCDATA | idno)*>
+<!ELEMENT publisher (#PCDATA | rs)*>
+<!ATTLIST publisher rend CDATA #IMPLIED>
+<!ATTLIST publisher type CDATA #IMPLIED>
+<!ELEMENT publicationStmt (#PCDATA | publisher | distributor | authority | availability | date)*>
+<!ELEMENT biblStruct (#PCDATA | monogr | analytic | note)*>
+<!ELEMENT note (#PCDATA | a | p | ptr)*>
+<!ATTLIST note xml:id CDATA #IMPLIED>
+<!ATTLIST note type CDATA #IMPLIED>
+<!ATTLIST note resp CDATA #IMPLIED>
+<!ELEMENT rs (#PCDATA | ref | placeName | l)*>
+<!ATTLIST rs content CDATA #IMPLIED>
+<!ELEMENT img (#PCDATA)>
+<!ATTLIST img src CDATA #IMPLIED>
+<!ATTLIST img width CDATA #IMPLIED>
+<!ELEMENT dateline (#PCDATA | rs)*>
+<!ELEMENT docImprint (#PCDATA | pubPlace | lb | publisher | docDate)*>
+<!ELEMENT imprint (#PCDATA | pubPlace | publisher | date | extent | note)*>
+<!ELEMENT back (#PCDATA | div1)*>
+<!ELEMENT availability (#PCDATA | licence)*>
+<!ATTLIST availability status CDATA #IMPLIED>
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title type CDATA #IMPLIED>
+<!ELEMENT tagUsage (#PCDATA)>
+<!ATTLIST tagUsage gi CDATA #IMPLIED>
+<!ELEMENT salute (#PCDATA | said)*>
+<!ELEMENT foreign (#PCDATA)>
+<!ELEMENT head (#PCDATA | lb | hi)*>
+<!ATTLIST head type CDATA #IMPLIED>
+<!ELEMENT trailer (#PCDATA)>
+<!ELEMENT addrLine (#PCDATA)>
+<!ELEMENT encodingDesc (#PCDATA | editorialDecl | tagsDecl | classDecl)*>
+<!ELEMENT titlePart (#PCDATA | lb | rs | ref)*>
+<!ATTLIST titlePart type CDATA #IMPLIED>
+<!ELEMENT floatingText (#PCDATA | body)*>
+<!ELEMENT said (#PCDATA | persName | rs | p | quote | title | said | floatingText | placeName | foreign)*>
+<!ATTLIST said aloud CDATA #IMPLIED>
+<!ELEMENT graphic (#PCDATA)>
+<!ATTLIST graphic style CDATA #IMPLIED>
+<!ATTLIST graphic width CDATA #IMPLIED>
+<!ATTLIST graphic url CDATA #IMPLIED>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT monogr (#PCDATA | author | title | imprint | biblScope | extent | analytic)*>
+<!ELEMENT analytic (#PCDATA | author | title | imprint)*>
+<!ELEMENT editor (#PCDATA | persName)*>
+<!ELEMENT a (#PCDATA | i | hi)*>
+<!ATTLIST a href CDATA #IMPLIED>
+<!ELEMENT address (#PCDATA | addrLine)*>
+<!ELEMENT resp (#PCDATA)>
+<!ELEMENT i (#PCDATA)>
+<!ELEMENT docDate (#PCDATA)>
+<!ELEMENT l (#PCDATA | ref | hi)*>
+<!ATTLIST l rend CDATA #IMPLIED>
+<!ATTLIST l n CDATA #IMPLIED>
+<!ATTLIST l part CDATA #IMPLIED>
+<!ELEMENT distributor (#PCDATA | orgName | address | email)*>
+<!ELEMENT epigraph (#PCDATA | quote)*>
+<!ELEMENT div2 (#PCDATA | head | opener | p | closer | said | lg)*>
+<!ATTLIST div2 n CDATA #IMPLIED>
+<!ATTLIST div2 type CDATA #IMPLIED>
+<!ELEMENT div1 (#PCDATA | p | pb | head | div2 | trailer | note | span | lg)*>
+<!ATTLIST div1 n CDATA #IMPLIED>
+<!ATTLIST div1 type CDATA #IMPLIED>
+<!ATTLIST div1 class CDATA #IMPLIED>
+<!ELEMENT closer (#PCDATA | salute | signed | placeName | date)*>
+<!ELEMENT ptr (#PCDATA)>
+<!ATTLIST ptr target CDATA #IMPLIED>
+<!ELEMENT p (#PCDATA | persName | hi | rs | placeName | date | said | quote | dateline | foreign | graphic | ref | ptr | i | a)*>
+<!ELEMENT titleStmt (#PCDATA | title | author | editor | respStmt)*>
+<!ELEMENT pb (#PCDATA)>
+<!ATTLIST pb facs CDATA #IMPLIED>
+<!ELEMENT sourceDesc (#PCDATA | biblStruct)*>
+<!ELEMENT lb (#PCDATA)>
+<!ELEMENT namespace (#PCDATA | tagUsage)*>
+<!ATTLIST namespace name CDATA #IMPLIED>
+<!ELEMENT TEI (#PCDATA | teiHeader | text)*>
+<!ATTLIST TEI xmlns CDATA #IMPLIED>
+<!ATTLIST TEI xml:id CDATA #IMPLIED>
+<!ELEMENT persName (#PCDATA | rs | hi)*>
+<!ATTLIST persName type CDATA #IMPLIED>
+<!ATTLIST persName key CDATA #IMPLIED>
+<!ATTLIST persName cert CDATA #IMPLIED>
+<!ELEMENT front (#PCDATA | titlePage | div1)*>
+<!ELEMENT lg (#PCDATA | l | rs | pb)*>
+<!ATTLIST lg type CDATA #IMPLIED>
+<!ATTLIST lg part CDATA #IMPLIED>
+<!ATTLIST lg org CDATA #IMPLIED>
+<!ATTLIST lg sample CDATA #IMPLIED>
+<!ELEMENT placeName (#PCDATA)>
+<!ATTLIST placeName cert CDATA #IMPLIED>
+<!ATTLIST placeName type CDATA #IMPLIED>
+<!ATTLIST placeName key CDATA #IMPLIED>
+<!ELEMENT bibl (#PCDATA | rs)*>
+<!ELEMENT biblScope (#PCDATA)>
+<!ELEMENT span (#PCDATA | img | p | a | i | hi | ref)*>
+<!ATTLIST span id CDATA #IMPLIED>

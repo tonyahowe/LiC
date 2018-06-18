@@ -1,0 +1,107 @@
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date type CDATA #IMPLIED>
+<!ATTLIST date when CDATA #IMPLIED>
+<!ATTLIST date instant CDATA #IMPLIED>
+<!ELEMENT extent (#PCDATA | idno)*>
+<!ATTLIST extent type CDATA #IMPLIED>
+<!ELEMENT hi (#PCDATA)>
+<!ATTLIST hi rend CDATA #IMPLIED>
+<!ELEMENT taxonomy (#PCDATA | bibl)*>
+<!ATTLIST taxonomy xml:id CDATA #IMPLIED>
+<!ELEMENT fileDesc (#PCDATA | titleStmt | publicationStmt | sourceDesc)*>
+<!ELEMENT body (#PCDATA | div1)*>
+<!ELEMENT respStmt (#PCDATA | resp | persName)*>
+<!ELEMENT ref (#PCDATA | hi)*>
+<!ATTLIST ref xml:id CDATA #IMPLIED>
+<!ATTLIST ref target CDATA #IMPLIED>
+<!ATTLIST ref url CDATA #IMPLIED>
+<!ELEMENT pubPlace (#PCDATA | placeName)*>
+<!ATTLIST pubPlace type CDATA #IMPLIED>
+<!ELEMENT text (#PCDATA | front | body | back)*>
+<!ELEMENT tagsDecl (#PCDATA | namespace)*>
+<!ELEMENT licence (#PCDATA)>
+<!ATTLIST licence target CDATA #IMPLIED>
+<!ELEMENT orgName (#PCDATA)>
+<!ELEMENT teiHeader (#PCDATA | fileDesc | encodingDesc)*>
+<!ATTLIST teiHeader xml:lang CDATA #IMPLIED>
+<!ELEMENT author (#PCDATA | persName)*>
+<!ELEMENT classDecl (#PCDATA | taxonomy)*>
+<!ELEMENT idno (#PCDATA)>
+<!ATTLIST idno type CDATA #IMPLIED>
+<!ELEMENT editorialDecl (#PCDATA | p)*>
+<!ATTLIST editorialDecl default CDATA #IMPLIED>
+<!ELEMENT titlePage (#PCDATA | titlePart | docImprint)*>
+<!ELEMENT authority (#PCDATA | idno)*>
+<!ELEMENT publisher (#PCDATA)>
+<!ATTLIST publisher type CDATA #IMPLIED>
+<!ATTLIST publisher rend CDATA #IMPLIED>
+<!ELEMENT publicationStmt (#PCDATA | publisher | distributor | authority | availability | date)*>
+<!ELEMENT biblStruct (#PCDATA | analytic | monogr | note)*>
+<!ELEMENT biblScope (#PCDATA)>
+<!ELEMENT note (#PCDATA | p)*>
+<!ATTLIST note xml:id CDATA #IMPLIED>
+<!ATTLIST note type CDATA #IMPLIED>
+<!ATTLIST note resp CDATA #IMPLIED>
+<!ATTLIST note anchored CDATA #IMPLIED>
+<!ELEMENT docImprint (#PCDATA | pubPlace | lb | publisher | date)*>
+<!ELEMENT imprint (#PCDATA | pubPlace | publisher | date)*>
+<!ELEMENT back (#PCDATA | div1)*>
+<!ELEMENT availability (#PCDATA | licence)*>
+<!ATTLIST availability status CDATA #IMPLIED>
+<!ATTLIST availability default CDATA #IMPLIED>
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title type CDATA #IMPLIED>
+<!ELEMENT tagUsage (#PCDATA)>
+<!ATTLIST tagUsage gi CDATA #IMPLIED>
+<!ELEMENT head (#PCDATA | hi)*>
+<!ATTLIST head type CDATA #IMPLIED>
+<!ELEMENT addrLine (#PCDATA)>
+<!ELEMENT encodingDesc (#PCDATA | editorialDecl | tagsDecl | classDecl)*>
+<!ELEMENT titlePart (#PCDATA | lb | ref)*>
+<!ATTLIST titlePart type CDATA #IMPLIED>
+<!ELEMENT graphic (#PCDATA)>
+<!ATTLIST graphic url CDATA #IMPLIED>
+<!ATTLIST graphic width CDATA #IMPLIED>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT monogr (#PCDATA | author | title | imprint | biblScope | extent)*>
+<!ELEMENT editor (#PCDATA | persName)*>
+<!ELEMENT address (#PCDATA | addrLine)*>
+<!ELEMENT resp (#PCDATA)>
+<!ELEMENT l (#PCDATA | ref | hi)*>
+<!ATTLIST l rend CDATA #IMPLIED>
+<!ATTLIST l n CDATA #IMPLIED>
+<!ATTLIST l part CDATA #IMPLIED>
+<!ELEMENT distributor (#PCDATA | orgName | address | email)*>
+<!ELEMENT div1 (#PCDATA | head | lg | pb | note)*>
+<!ATTLIST div1 type CDATA #IMPLIED>
+<!ELEMENT ptr (#PCDATA)>
+<!ATTLIST ptr target CDATA #IMPLIED>
+<!ELEMENT p (#PCDATA | ref | graphic | ptr)*>
+<!ATTLIST p part CDATA #IMPLIED>
+<!ELEMENT titleStmt (#PCDATA | title | author | editor | respStmt)*>
+<!ELEMENT pb (#PCDATA)>
+<!ATTLIST pb facs CDATA #IMPLIED>
+<!ELEMENT sourceDesc (#PCDATA | biblStruct)*>
+<!ATTLIST sourceDesc default CDATA #IMPLIED>
+<!ELEMENT lb (#PCDATA)>
+<!ELEMENT namespace (#PCDATA | tagUsage)*>
+<!ATTLIST namespace name CDATA #IMPLIED>
+<!ELEMENT TEI (#PCDATA | teiHeader | text)*>
+<!ATTLIST TEI xmlns CDATA #IMPLIED>
+<!ATTLIST TEI xml:id CDATA #IMPLIED>
+<!ELEMENT persName (#PCDATA)>
+<!ATTLIST persName type CDATA #IMPLIED>
+<!ATTLIST persName key CDATA #IMPLIED>
+<!ELEMENT front (#PCDATA | titlePage | pb)*>
+<!ELEMENT lg (#PCDATA | l | pb)*>
+<!ATTLIST lg type CDATA #IMPLIED>
+<!ATTLIST lg part CDATA #IMPLIED>
+<!ATTLIST lg org CDATA #IMPLIED>
+<!ATTLIST lg sample CDATA #IMPLIED>
+<!ELEMENT analytic (#PCDATA | title)*>
+<!ELEMENT placeName (#PCDATA)>
+<!ATTLIST placeName type CDATA #IMPLIED>
+<!ATTLIST placeName key CDATA #IMPLIED>
+<!ELEMENT bibl (#PCDATA)>
+<!ATTLIST bibl default CDATA #IMPLIED>
+<!ATTLIST bibl status CDATA #IMPLIED>
