@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI SYSTEM "file:/Users/tonya-mariehowe/Documents/GitHub/LiC/poetry_prose.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="finch-night">
    <teiHeader xml:lang="en">
       <fileDesc>
@@ -90,26 +88,30 @@
             <taxonomy xml:id="TGN">
                <bibl>Getty Thesaurus of Geographic Names</bibl>
             </taxonomy>
+            <taxonomy xml:id="ORCID">
+               <bibl>Open Researcher and Contributor ID</bibl>
+            </taxonomy>
          </classDecl>
       </encodingDesc>
    </teiHeader>
    <text>
       <front>
          <titlePage>
+            <pb facs="images/TP-1714.jpg"/>
             <titlePart>MISCELLANY <lb/>POEMS,<lb/></titlePart>
             <titlePart>ON<lb/> Several Occasions.<lb/></titlePart>
             <titlePart><ref target="#finch" xml:id="finchA">Written by a LADY.</ref><lb/></titlePart>        
             <docImprint>
                <pubPlace><placeName type="tgn" key="7011781">LONDON</placeName></pubPlace>:
                <lb/>
-               Printed for <publisher rend="caps">JOHN BARBER</publisher> on <pubPlace>Lambeth-hill</pubPlace>; and sold by <publisher>JOHN MORPHEW</publisher>, <pubPlace>Near Stationers-Hall</pubPlace>. <date>1713</date>.
+               Printed for <publisher rend="caps">JOHN BARBER</publisher> on <pubPlace>Lambeth-hill</pubPlace>; and sold by <publisher>JOHN MORPHEW</publisher>, <pubPlace>Near Stationers-Hall</pubPlace>. <docDate>1713</docDate>.
                <lb/>
             </docImprint>
          </titlePage>
-         <pb facs="images/TP-1714.jpg"/>
       </front>
       <body>
          <div1 type="poem">
+            <pb facs="images/200.jpg"/>
             <head type="title"><hi rend="italic">To the </hi>NIGHTINGALE.</head>
             <lg type="rhymed couplets">
                <l n="1">EXert thy Voice, Sweet Harbinger of Spring</l>
@@ -119,7 +121,7 @@
                   <l n="5" rend="indent">Free as thine shall be my Song;</l>
                   <l n="6" rend="indent">As thy Musick, short, or long.</l>
                   <l n="7">Poets, wild as thee, were born,</l>
-                  <pb facs="images/200.jpg"/>
+               <pb facs="images/201.jpg"/>
                   <l n="8" rend="indent">Pleasing best when unconfin’d,</l>
                   <l n="9" rend="indent">When to Please is least design’d,</l>
                   <l n="10">Soothing but their Cares to rest;</l>
@@ -138,7 +140,7 @@
                      <l n="23" rend="indent">Let <ref target="#division">Division</ref> shake thy Throat.</l>
                         <l n="24">Hark! Division now she tries;</l>
                         <l n="25">Yet as far the Muse outflies </l>
-                        <pb facs="images/201.jpg"/>
+               <pb facs="images/202.jpg"/>
                         <l n="26" rend="indent">Cease then, prithee, cease thy Tune;</l>
                         <l n="27" rend="indent">Trifler, wilt thou sing till <hi rend="italic">June?</hi></l>
                         <l n="28">Till thy Bus’ness all lies waste,</l>
@@ -150,7 +152,7 @@
                         <l n="34">Criticize, reform, or preach,</l>
                         <l n="35">Or censure what we cannot reach. </l>
             </lg>
-            <pb facs="images/202.jpg"/>
+            
             
          </div1>
       </body>
