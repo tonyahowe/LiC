@@ -6,16 +6,16 @@
          <titleStmt>
             <title type="main">"To the Nightingale"</title>
             <author>
-               <persName>Winchilsea, Anne Kingsmill Finch, Countess of, 1661-1720</persName>
+               <persName>Winchilsea, <forename>Anne</forename> Kingsmill <surname>Finch</surname>, Countess of, 1661-1720</persName>
             </author>
             <editor>
                <persName type="orcid" key="0000-0002-7400-4093">Tonya Howe</persName>
             </editor>
             <respStmt>
                <resp>Transcription, correction, editorial commentary, and markup</resp>
-               <persName>Students of Marymount University</persName>
-               <persName>James West</persName>
-               <persName>Amy Ridderhof</persName>
+               <name>Students of Marymount University</name>
+               <name>James West</name>
+               <name>Amy Ridderhof</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -38,6 +38,9 @@
                   Literature in Context under a Creative Commons Attribution-ShareAlike
                   4.0 Unported License </licence>
             </availability>
+            <textDesc>
+               <constitution status="incomplete">This text is incomplete and reqiures further correction, annotation, and standardization.</constitution>
+            </textDesc>
             <date when="2018-06-05"/>
          </publicationStmt>
          <sourceDesc>
@@ -46,11 +49,15 @@
                   <title>"To the Nightingale"</title>
                </analytic>
                <monogr>
-                  <author><persName>Winchilsea, Anne Kingsmill Finch, Countess of, 1661-1720</persName></author>
+                  <author>
+                     <persName>Winchilsea, Anne Kingsmill Finch, Countess of, 1661-1720</persName>
+                  </author>
                   <title type="marc245a">Poems on Several Occasions...</title>
                   <title type="marc245c">Written by the Right Honourable Anne, countess of Winchelsea.</title>
                   <imprint>
-                     <pubPlace type="marc260a"><placeName type="tgn" key="7011781">London</placeName></pubPlace>
+                     <pubPlace type="marc260a">
+                        <placeName type="tgn" key="7011781">London</placeName>
+                     </pubPlace>
                      <publisher type="marc260b">Printed by J[ohn] B[arber]</publisher>
                      <publisher type="marc260b">sold by W. Taylor [etc.]</publisher>
                      <date type="marc260c" when="1714">1714</date>
@@ -60,7 +67,9 @@
                      <note>This book first appeared in 1713 undert the imprints of John Barber and John Morphew, and there seem to be three different 1713 printings of this text--each 1713 printing includes slight variations of the authorship statement on the title page--from the anonymous "written by a Lady" to a full statement of authorship by "Anne Finch, Countess of Winchelsea." This digital edition uses the 1714 printing by Barber, housed in the Library of Congress. This 1714 printing is a reissue of the 1713 editions with a new title page. All page images are sourced from the Library of Congress.</note>
                   </imprint>
                   <imprint>
-                     <pubPlace type="marc260a"><placeName type="tgn" key="7011781">London</placeName></pubPlace>
+                     <pubPlace type="marc260a">
+                        <placeName type="tgn" key="7011781">London</placeName>
+                     </pubPlace>
                      <publisher type="marc260b">Printed by John Barber on Lambeth-Hill</publisher>
                      <publisher type="marc260b">Sold by John Morphew near Stationer's Hall</publisher>
                      <date type="marc260c" when="1713">1713</date>
@@ -78,12 +87,16 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
+         <projectDesc>
+            This text is prepared as part of the <i>Literature in Context</i> project, which provides an accessible, curated, and marked-up selection of primary sources relevant to the study and the teaching of British and American literature of the 18th century. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.
+         </projectDesc>
          <editorialDecl>
-            <p>Literature in Context, a project funded by the National Endowment for the Humanities, is an open-access, curated, classroom-sourced digital anthology of British and American literature for use by students, teachers, and the general public.</p>
-            <p>Annotation has been restricted to broad reference rather than interpretation.</p>
-            <p>Page breaks have been retained as in the 1713-1714 editions.</p>
-            <p>Hyphenations have been silently elided at line breaks, and retained when necessary for the sense of the sentence.</p>
-            <p>Capitalization and italics have been retained, though small caps have been indicated in the plaintext as all caps.</p>
+            <interpretation>Research informing these annotations draws on publicly-accessible resources, with links provided where possible. Annotations have also included common knowledge, defined as information that can be found in multiple reliable sources. If you notice an error in these annotations, please contact lic.open.anthology@gmail.com.
+            </interpretation>
+            <normalization>Original spelling and capitalization is retained, though the long s has been silently modernized and ligatured forms are not encoded.</normalization>
+            <hyphenation>Hyphenation has not been retained, except where necessary for the sense of the word.</hyphenation>
+            <segmentation>Page breaks have been retained. Catchwords, signatures, and running headers have not.</segmentation>
+            <correction>Materials have been transcribed from and checked against first editions, where possible. See the Sources section.</correction>
          </editorialDecl>
          <tagsDecl>
             <namespace name="http://www.tei-c.org/ns/1.0">

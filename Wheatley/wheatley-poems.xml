@@ -4,16 +4,19 @@
          <titleStmt>
             <title type="main">Poems on Various Subjects, Religious and Moral </title>
             <author>
-               <persName type="lccn" key="n50016726">Phillis Wheatley</persName>
+               <persName type="lccn" key="n50016726">
+                  <forename>Phillis</forename>
+                  <surname>Wheatley</surname>
+               </persName>
             </author>
             <editor>
                <persName type="orcid" key="0000-0002-7400-4093">Tonya Howe</persName>
             </editor>
             <respStmt>
                <resp>Transcription, correction, editorial commentary, and markup</resp>
-               <persName>Students of Marymount University</persName>
-               <persName>James West</persName>
-               <persName>Amy Ridderhof</persName>
+               <name>Students of Marymount University</name>
+               <name>James West</name>
+               <name>Amy Ridderhof</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -37,19 +40,26 @@
                   Literature in Context under a Creative Commons Attribution-ShareAlike 4.0 Unported
                   License </licence>
             </availability>
-            <textDesc>This text is incomplete and in further need of editing and annotation.</textDesc>
+            <textDesc>
+               <constitution status="incomplete">
+                  This text is incomplete and in further need of editing and annotation.</constitution>
+            </textDesc>
             <date when="2018-06-18"/>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <author><persName>Wheatley, Phillis, 1753-1784</persName></author>
+                  <author>
+                     <persName>Wheatley, Phillis, 1753-1784</persName>
+                  </author>
                   <title type="marc245a">Poems on various subjects, Religious and Moral</title>
                   <imprint>
-                     <extent type="marc300">[9],124p., 18cm <idno tpye="lcc">PS886.W5 1773</idno>
+                     <extent type="marc300">[9],124p., 18cm
                      </extent>
-                     <pubPlace type="marc260a"><placeName type="TGN" key="7011781"
-                           >London</placeName></pubPlace>
+                     <idno tpye="lcc">PS886.W5 1773</idno>
+                     <pubPlace type="marc260a">
+                        <placeName type="TGN" key="7011781">London</placeName>
+                     </pubPlace>
                      <publisher type="marc260b">Printed for A. Bell</publisher>
                      <publisher type="marc260b">bookseller, Aldgate</publisher>
                      <date type="marc260c" when="1773">1773</date>
@@ -57,11 +67,11 @@
                         Congress.</note>
                   </imprint>
                   <imprint>
-                     <extent link="https://quod.lib.umich.edu/a/amverse/BAP5379.0001.001?view=toc"
-                        >Online SGML edition</extent>
+                     <extent type="online">https://quod.lib.umich.edu/a/amverse/BAP5379.0001.001?view=toc</extent>
                      <pubPlace>Ann Arbor, MI</pubPlace>
                      <publisher>University of Michigan Humanities Text Initiative</publisher>
-                     <note>SGML markup edited to conform to LiC parameters, including changes to
+                     <date when="1999">1999</date>
+                     <note>Online SGML text. SGML markup edited to conform to LiC parameters, including changes to
                         element and attribute case, ligatures, and other special html
                         characters.</note>
                   </imprint>
@@ -96,7 +106,6 @@
          </classDecl>
       </encodingDesc>
    </teiHeader>
-
    <text>
       <front>
          <div1 type="frontispiece" id="DIV1.187">

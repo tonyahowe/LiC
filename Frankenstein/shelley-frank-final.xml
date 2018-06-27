@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shelley-frank">
-   <teiHeader xml:lang="en">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Frankenstein; or, The Modern Prometheus</title>
+            <title type="statusBar">Frankenstein, or The Modern Prometheus</title>
             <author>
-               <persName type="lccn" key="n79061063"> Shelley, Mary Wollstonecraft,
-                  1797-1851</persName>
+               <person xml:id="MS" sex="F">
+                  <forename>Mary</forename>
+                  <surname>Shelley</surname>
+                  <birth when="1797-08-30">1797 August 30</birth>
+                  <death when="1851-02-01">1851 February 01 </death>
+                  <occupation>Writer</occupation>
+                  <trait type="Marital Status">Married</trait>
+                  <nationality>British</nationality>
+               </person>
             </author>
-            <editor>
-               <persName type="orcid" key="0000-0002-7400-4093">Tonya Howe</persName>
-            </editor>
-            <editor>
-               <persName>Allyson Freeland</persName>
-            </editor>
             <respStmt>
                <resp>Transcription, correction, editorial commentary, and markup</resp>
-               <persName>Students of Marymount University</persName>
-               <persName>Allyson Freeland</persName>
-               <persName>Safa Alhathani</persName>
-               <persName>Nhu-Phuong Duong</persName>
-               <persName>Amy Ridderhof</persName>
+               <name>Students of Marymount University</name>
+               <name>Ally Freeland</name>
+               <name>Safa Alhathani</name>
+               <name>Nhu Phuong-Duong</name>
+               <name>Amy Ridderhof</name>
             </respStmt>
          </titleStmt>
-         <editionStmt>
-            <p/>
-         </editionStmt>
          <publicationStmt>
             <publisher>Literature in Context</publisher>
             <distributor>
@@ -40,87 +38,88 @@
                <email>thowe@marymount.edu</email>
             </distributor>
             <authority>
-               <idno>shelley-frank</idno>
-               <!-- we need to develop a plan for these identifications -->
+               <idno>shelley-frank</idno> <!-- we need to develop a plan for these identifications -->
             </authority>
             <availability status="free">
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Published by
-                  Literature in Context under a Creative Commons Attribution-ShareAlike 4.0 Unported
-                  License </licence>
+                  Literature in Context under a Creative Commons Attribution-ShareAlike
+                  4.0 Unported License </licence>
             </availability>
-            <date when="2018-04-17"/>
+            <textDesc>
+               <constitution status="incomplete">This text is incomplete and reqiures further correction, annotation, and standardization.</constitution>
+            </textDesc>
+            <date>2018</date>
          </publicationStmt>
+         <encodingDesc>
+            <projectDesc>
+               This text is prepared as part of the <i>Literature in Context</i> project, which provides an accessible, curated, and marked-up selection of primary sources relevant to the study and the teaching of British and American literature of the 18th century. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.
+            </projectDesc>
+            <editorialDecl>
+               <interpretation>Research informing these annotations draws on publicly-accessible resources, with links provided where possible. Annotations have also included common knowledge, defined as information that can be found in multiple reliable sources. If you notice an error in these annotations, please contact lic.open.anthology@gmail.com.
+               </interpretation>
+               <normalization>Original spelling and capitalization is retained, though the long s has been silently modernized and ligatured forms are not encoded.</normalization>
+               <hyphenation>Hyphenation has not been retained, except where necessary for the sense of the word.</hyphenation>
+               <segmentation>Page breaks have been retained. Catchwords, signatures, and running headers have not.</segmentation>
+               <correction>Materials have been transcribed from and checked against first editions, where possible. See the Sources section.</correction>
+            </editorialDecl>
+            <tagsDecl>
+               <namespace name="http://www.tei-c.org/ns/1.0">
+                  <tagUsage gi="div">Numbered divs used.</tagUsage>
+               </namespace>
+            </tagsDecl>
+            <classDecl>
+               <taxonomy xml:id="LCCN">
+                  <bibl>Library of Congress Name Authority File</bibl>
+               </taxonomy>
+               <taxonomy xml:id="LCC">
+                  <bibl>Library of Congress Classification</bibl>
+               </taxonomy>
+               <taxonomy xml:id="TGN">
+                  <bibl>Getty Thesaurus of Geographic Names</bibl>
+               </taxonomy>
+               <taxonomy xml:id="ORCID">
+                  <bibl>Open Researcher and Contributor ID</bibl>
+               </taxonomy>
+            </classDecl>
+         </encodingDesc>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <author><persName type="lccn" key="n79061063"> Shelley, Mary Wollstonecraft,
-                        1797-1851</persName></author>
+                  <author>
+                     <persName type="lccn" key="n79061063"> Shelley, Mary Wollstonecraft, 1797-1851</persName>
+                  </author>
                   <title type="marc245a">Frankenstein</title>
                   <title type="marc245b">; or, The Modern Prometheus</title>
                   <imprint>
-                     <pubPlace><placeName type="tgn" key="7011781">London</placeName></pubPlace>
-                     <publisher>Printed for Lackington, Hughes, Harding, Mavor, &amp;
-                        Jones</publisher>
+                     <pubPlace>
+                        <placeName type="tgn" key="7011781">London</placeName>
+                     </pubPlace>
+                     <publisher>Printed for Lackington, Hughes, Harding, Mavor, &amp; Jones</publisher>
                      <date when="1818">1818</date>
-                     <extent>3 v. 19 cm.</extent>
-                     <note>Page images are sourced from <a href="https://lccn.loc.gov/53051218"> the
-                           first edition of the text housed in the Rare Books Collection of Library
-                           of Congress</a>.</note>
+                     <extent>3 v. 19 cm.
+                        <idno type="lcc">PR5397 F7 1818</idno>
+                     </extent>
+                     <note>Page images are sourced from <a href="https://lccn.loc.gov/53051218"> the first edition of the text housed in the Rare Books Collection of Library of Congress</a>.</note>
                   </imprint>
                   <imprint>
                      <pubPlace>Public domain electronic facsimile copy</pubPlace>
                      <publisher>Romantic Circles</publisher>
-                     <extent type="online"
-                        >https://www.rc.umd.edu/editions/frankenstein/1818_contents</extent>
+                     <extent type="online">https://www.rc.umd.edu/editions/frankenstein/1818_contents</extent>
                      <date>2009-05</date>
-                     <note> The Romantic Circles edition, edited by Stuart Curran, was employed as a
-                        base plaintext. Minor corrections were made to correct inconsistencies with
-                        the original text. </note>
+                     <note>
+                        Minor corrections were made to the text to correct inconsistencies with the original text.
+                     </note>
                   </imprint>
                   <imprint>
                      <pubPlace>Ontario, Canada</pubPlace>
                      <publisher>Broadview Press</publisher>
                      <date when="2012">2012</date>
-                     <note>The 3rd Broadview edition, edited by D.L. Macdonald and Kathleen Scherf,
-                        was employed as a base reading text.</note>
+                     <note>3rd edition, edited by D.L. Macdonald and Kathleen Scherf, employed as a base reading text.</note>
                   </imprint>
                </monogr>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <editorialDecl>
-            <p>Literature in Context, a project funded by the National Endowment for the Humanities,
-               is an open-access, curated, classroom-sourced digital anthology of British and
-               American literature for use by students, teachers, and the general public.</p>
-            <p>Annotation has been restricted to broad reference rather than interpretation.</p>
-            <p>Page breaks have been retained as in the 1818 edition.</p>
-            <p>Hyphenations have been silently elided at line breaks, and retained when necessary
-               for the sense of the sentence.</p>
-            <p>Quotation marks?</p>
-            <p>Capitalization and italics have been retained, though small caps have been indicated
-               in the plaintext as all caps.</p>
-         </editorialDecl>
-         <tagsDecl>
-            <namespace name="http://www.tei-c.org/ns/1.0">
-               <tagUsage gi="div">Numbered divs used.</tagUsage>
-            </namespace>
-         </tagsDecl>
-         <classDecl>
-            <taxonomy xml:id="LCCN">
-               <bibl>Library of Congress Name Authority File</bibl>
-            </taxonomy>
-            <taxonomy xml:id="LCC">
-               <bibl>Library of Congress Classification</bibl>
-            </taxonomy>
-            <taxonomy xml:id="TGN">
-               <bibl>Getty Thesaurus of Geographic Names</bibl>
-            </taxonomy>
-            <taxonomy xml:id="ORCID">
-               <bibl>Open Researcher and Contributor ID</bibl>
-            </taxonomy>
-         </classDecl>
-      </encodingDesc>
    </teiHeader>
 
 
