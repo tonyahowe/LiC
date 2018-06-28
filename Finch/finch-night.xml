@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI SYSTEM "file:/Users/tonya-mariehowe/Documents/GitHub/LiC/poetry_prose.dtd">
+<?xml-model href="finch-night.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="finch-night">
    <teiHeader xml:lang="en">
       <fileDesc>
          <titleStmt>
             <title type="main">"To the Nightingale"</title>
             <author>
-               <persName>Winchilsea, <forename>Anne</forename> Kingsmill <surname>Finch</surname>, Countess of, 1661-1720</persName>
+               <persName type="lccn">Winchilsea, <forename>Anne</forename> Kingsmill <surname>Finch</surname>, Countess of, 1661-1720</persName>
             </author>
             <editor>
                <persName type="orcid" key="0000-0002-7400-4093">Tonya Howe</persName>

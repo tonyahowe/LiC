@@ -1,107 +1,329 @@
-<!ELEMENT date (#PCDATA)>
-<!ATTLIST date type CDATA #IMPLIED>
-<!ATTLIST date when CDATA #IMPLIED>
-<!ATTLIST date instant CDATA #IMPLIED>
-<!ELEMENT extent (#PCDATA | idno)*>
-<!ATTLIST extent type CDATA #IMPLIED>
-<!ELEMENT hi (#PCDATA)>
-<!ATTLIST hi rend CDATA #IMPLIED>
-<!ELEMENT taxonomy (#PCDATA | bibl)*>
-<!ATTLIST taxonomy xml:id CDATA #IMPLIED>
-<!ELEMENT fileDesc (#PCDATA | titleStmt | publicationStmt | sourceDesc)*>
-<!ELEMENT body (#PCDATA | div1)*>
-<!ELEMENT respStmt (#PCDATA | resp | persName)*>
-<!ELEMENT ref (#PCDATA | hi)*>
-<!ATTLIST ref xml:id CDATA #IMPLIED>
-<!ATTLIST ref target CDATA #IMPLIED>
-<!ATTLIST ref url CDATA #IMPLIED>
-<!ELEMENT pubPlace (#PCDATA | placeName)*>
-<!ATTLIST pubPlace type CDATA #IMPLIED>
-<!ELEMENT text (#PCDATA | front | body | back)*>
-<!ELEMENT tagsDecl (#PCDATA | namespace)*>
-<!ELEMENT licence (#PCDATA)>
-<!ATTLIST licence target CDATA #IMPLIED>
-<!ELEMENT orgName (#PCDATA)>
-<!ELEMENT teiHeader (#PCDATA | fileDesc | encodingDesc)*>
-<!ATTLIST teiHeader xml:lang CDATA #IMPLIED>
-<!ELEMENT author (#PCDATA | persName)*>
-<!ELEMENT classDecl (#PCDATA | taxonomy)*>
-<!ELEMENT idno (#PCDATA)>
-<!ATTLIST idno type CDATA #IMPLIED>
-<!ELEMENT editorialDecl (#PCDATA | p)*>
-<!ATTLIST editorialDecl default CDATA #IMPLIED>
-<!ELEMENT titlePage (#PCDATA | titlePart | docImprint)*>
-<!ELEMENT authority (#PCDATA | idno)*>
-<!ELEMENT publisher (#PCDATA)>
-<!ATTLIST publisher type CDATA #IMPLIED>
-<!ATTLIST publisher rend CDATA #IMPLIED>
-<!ELEMENT publicationStmt (#PCDATA | publisher | distributor | authority | availability | date)*>
-<!ELEMENT biblStruct (#PCDATA | analytic | monogr | note)*>
-<!ELEMENT biblScope (#PCDATA)>
-<!ELEMENT note (#PCDATA | p)*>
-<!ATTLIST note xml:id CDATA #IMPLIED>
-<!ATTLIST note type CDATA #IMPLIED>
-<!ATTLIST note resp CDATA #IMPLIED>
-<!ATTLIST note anchored CDATA #IMPLIED>
-<!ELEMENT docImprint (#PCDATA | pubPlace | lb | publisher | date)*>
-<!ELEMENT imprint (#PCDATA | pubPlace | publisher | date)*>
-<!ELEMENT back (#PCDATA | div1)*>
-<!ELEMENT availability (#PCDATA | licence)*>
-<!ATTLIST availability status CDATA #IMPLIED>
-<!ATTLIST availability default CDATA #IMPLIED>
-<!ELEMENT title (#PCDATA)>
-<!ATTLIST title type CDATA #IMPLIED>
-<!ELEMENT tagUsage (#PCDATA)>
-<!ATTLIST tagUsage gi CDATA #IMPLIED>
-<!ELEMENT head (#PCDATA | hi)*>
-<!ATTLIST head type CDATA #IMPLIED>
-<!ELEMENT addrLine (#PCDATA)>
-<!ELEMENT encodingDesc (#PCDATA | editorialDecl | tagsDecl | classDecl)*>
-<!ELEMENT titlePart (#PCDATA | lb | ref)*>
-<!ATTLIST titlePart type CDATA #IMPLIED>
-<!ELEMENT graphic (#PCDATA)>
-<!ATTLIST graphic url CDATA #IMPLIED>
-<!ATTLIST graphic width CDATA #IMPLIED>
-<!ELEMENT email (#PCDATA)>
-<!ELEMENT monogr (#PCDATA | author | title | imprint | biblScope | extent)*>
-<!ELEMENT editor (#PCDATA | persName)*>
-<!ELEMENT address (#PCDATA | addrLine)*>
-<!ELEMENT resp (#PCDATA)>
-<!ELEMENT l (#PCDATA | ref | hi)*>
-<!ATTLIST l rend CDATA #IMPLIED>
-<!ATTLIST l n CDATA #IMPLIED>
-<!ATTLIST l part CDATA #IMPLIED>
-<!ELEMENT distributor (#PCDATA | orgName | address | email)*>
-<!ELEMENT div1 (#PCDATA | head | lg | pb | note)*>
-<!ATTLIST div1 type CDATA #IMPLIED>
-<!ELEMENT ptr (#PCDATA)>
-<!ATTLIST ptr target CDATA #IMPLIED>
-<!ELEMENT p (#PCDATA | ref | graphic | ptr)*>
-<!ATTLIST p part CDATA #IMPLIED>
-<!ELEMENT titleStmt (#PCDATA | title | author | editor | respStmt)*>
-<!ELEMENT pb (#PCDATA)>
-<!ATTLIST pb facs CDATA #IMPLIED>
-<!ELEMENT sourceDesc (#PCDATA | biblStruct)*>
-<!ATTLIST sourceDesc default CDATA #IMPLIED>
-<!ELEMENT lb (#PCDATA)>
-<!ELEMENT namespace (#PCDATA | tagUsage)*>
-<!ATTLIST namespace name CDATA #IMPLIED>
-<!ELEMENT TEI (#PCDATA | teiHeader | text)*>
-<!ATTLIST TEI xmlns CDATA #IMPLIED>
-<!ATTLIST TEI xml:id CDATA #IMPLIED>
-<!ELEMENT persName (#PCDATA)>
-<!ATTLIST persName type CDATA #IMPLIED>
-<!ATTLIST persName key CDATA #IMPLIED>
-<!ELEMENT front (#PCDATA | titlePage | pb)*>
-<!ELEMENT lg (#PCDATA | l | pb)*>
-<!ATTLIST lg type CDATA #IMPLIED>
-<!ATTLIST lg part CDATA #IMPLIED>
-<!ATTLIST lg org CDATA #IMPLIED>
-<!ATTLIST lg sample CDATA #IMPLIED>
-<!ELEMENT analytic (#PCDATA | title)*>
-<!ELEMENT placeName (#PCDATA)>
-<!ATTLIST placeName type CDATA #IMPLIED>
-<!ATTLIST placeName key CDATA #IMPLIED>
-<!ELEMENT bibl (#PCDATA)>
-<!ATTLIST bibl default CDATA #IMPLIED>
-<!ATTLIST bibl status CDATA #IMPLIED>
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT ns1:TEI (ns1:teiHeader,ns1:text)>
+<!ATTLIST ns1:TEI
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  xml:id NMTOKEN #REQUIRED>
+
+<!ELEMENT ns1:teiHeader (ns1:fileDesc,ns1:encodingDesc)>
+<!ATTLIST ns1:teiHeader
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  xml:lang NMTOKEN #REQUIRED>
+
+<!ELEMENT ns1:text (ns1:front,ns1:body,ns1:back)>
+<!ATTLIST ns1:text
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:fileDesc (ns1:titleStmt,ns1:publicationStmt,
+                        ns1:sourceDesc)>
+<!ATTLIST ns1:fileDesc
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:encodingDesc (ns1:projectDesc,ns1:editorialDecl,
+                            ns1:tagsDecl,ns1:classDecl)>
+<!ATTLIST ns1:encodingDesc
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:front (ns1:titlePage)>
+<!ATTLIST ns1:front
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:body (ns1:div1)>
+<!ATTLIST ns1:body
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:back (ns1:div1)>
+<!ATTLIST ns1:back
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:titleStmt (ns1:title,ns1:author,ns1:editor,ns1:respStmt)>
+<!ATTLIST ns1:titleStmt
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:publicationStmt (ns1:publisher,ns1:distributor,
+                               ns1:authority,ns1:availability,
+                               ns1:textDesc,ns1:date)>
+<!ATTLIST ns1:publicationStmt
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:sourceDesc (ns1:biblStruct)>
+<!ATTLIST ns1:sourceDesc
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:projectDesc (#PCDATA|ns1:i)*>
+<!ATTLIST ns1:projectDesc
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:editorialDecl (ns1:interpretation,ns1:normalization,
+                             ns1:hyphenation,ns1:segmentation,
+                             ns1:correction)>
+<!ATTLIST ns1:editorialDecl
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:tagsDecl (ns1:namespace)>
+<!ATTLIST ns1:tagsDecl
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:classDecl (ns1:taxonomy)+>
+<!ATTLIST ns1:classDecl
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:titlePage (ns1:pb,(ns1:p|ns1:titlePart)+,ns1:docImprint)>
+<!ATTLIST ns1:titlePage
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:editor (ns1:persName)>
+<!ATTLIST ns1:editor
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:respStmt (ns1:resp,ns1:name+)>
+<!ATTLIST ns1:respStmt
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:distributor (ns1:orgName,ns1:address,ns1:email)>
+<!ATTLIST ns1:distributor
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:authority (ns1:idno)>
+<!ATTLIST ns1:authority
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:availability (ns1:licence)>
+<!ATTLIST ns1:availability
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  status NMTOKEN #REQUIRED>
+
+<!ELEMENT ns1:textDesc (ns1:constitution)>
+<!ATTLIST ns1:textDesc
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:biblStruct (ns1:analytic,ns1:monogr)>
+<!ATTLIST ns1:biblStruct
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:i (#PCDATA)>
+<!ATTLIST ns1:i
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:interpretation (#PCDATA)>
+<!ATTLIST ns1:interpretation
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:normalization (#PCDATA)>
+<!ATTLIST ns1:normalization
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:hyphenation (#PCDATA)>
+<!ATTLIST ns1:hyphenation
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:segmentation (#PCDATA)>
+<!ATTLIST ns1:segmentation
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:correction (#PCDATA)>
+<!ATTLIST ns1:correction
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:namespace (ns1:tagUsage)>
+<!ATTLIST ns1:namespace
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  name CDATA #REQUIRED>
+
+<!ELEMENT ns1:taxonomy (ns1:bibl)>
+<!ATTLIST ns1:taxonomy
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  xml:id NMTOKEN #REQUIRED>
+
+<!ELEMENT ns1:titlePart (#PCDATA|ns1:hi|ns1:lb|ns1:ref)*>
+<!ATTLIST ns1:titlePart
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:docImprint (#PCDATA|ns1:lb|ns1:pubPlace|ns1:publisher
+                          |ns1:docDate)*>
+<!ATTLIST ns1:docImprint
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:resp (#PCDATA)>
+<!ATTLIST ns1:resp
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:name (#PCDATA)>
+<!ATTLIST ns1:name
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:orgName (#PCDATA)>
+<!ATTLIST ns1:orgName
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:address (ns1:addrLine)+>
+<!ATTLIST ns1:address
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:email (#PCDATA)>
+<!ATTLIST ns1:email
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:licence (#PCDATA)>
+<!ATTLIST ns1:licence
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  target CDATA #REQUIRED>
+
+<!ELEMENT ns1:constitution (#PCDATA)>
+<!ATTLIST ns1:constitution
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  status NMTOKEN #REQUIRED>
+
+<!ELEMENT ns1:analytic (ns1:title)>
+<!ATTLIST ns1:analytic
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:monogr (ns1:author,ns1:title+,ns1:imprint+,ns1:biblScope)>
+<!ATTLIST ns1:monogr
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:tagUsage (#PCDATA)>
+<!ATTLIST ns1:tagUsage
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  gi NMTOKEN #REQUIRED>
+
+<!ELEMENT ns1:bibl (#PCDATA)>
+<!ATTLIST ns1:bibl
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:docDate (#PCDATA)>
+<!ATTLIST ns1:docDate
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:addrLine (#PCDATA)>
+<!ATTLIST ns1:addrLine
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:imprint (ns1:pubPlace,ns1:publisher+,ns1:date,ns1:extent,
+                       ns1:note?)>
+<!ATTLIST ns1:imprint
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:biblScope (#PCDATA)>
+<!ATTLIST ns1:biblScope
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:extent (#PCDATA|ns1:idno)*>
+<!ATTLIST ns1:extent
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT ns1:title (#PCDATA)>
+<!ATTLIST ns1:title
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT ns1:author (ns1:persName)>
+<!ATTLIST ns1:author
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:persName (#PCDATA|ns1:forename|ns1:surname)*>
+<!ATTLIST ns1:persName
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  key NMTOKEN #IMPLIED
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT ns1:forename (#PCDATA)>
+<!ATTLIST ns1:forename
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:surname (#PCDATA)>
+<!ATTLIST ns1:surname
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:publisher (#PCDATA|ns1:hi)*>
+<!ATTLIST ns1:publisher
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT ns1:idno (#PCDATA)>
+<!ATTLIST ns1:idno
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT ns1:date (#PCDATA)>
+<!ATTLIST ns1:date
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  type NMTOKEN #IMPLIED
+  when NMTOKEN #REQUIRED>
+
+<!ELEMENT ns1:pubPlace (#PCDATA|ns1:hi|ns1:placeName)*>
+<!ATTLIST ns1:pubPlace
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT ns1:placeName (#PCDATA)>
+<!ATTLIST ns1:placeName
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  key CDATA #REQUIRED
+  type NMTOKEN #REQUIRED>
+
+<!ELEMENT ns1:note (#PCDATA|ns1:p)*>
+<!ATTLIST ns1:note
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  resp NMTOKEN #IMPLIED
+  type NMTOKEN #IMPLIED
+  xml:id NMTOKEN #IMPLIED>
+
+<!ELEMENT ns1:pb EMPTY>
+<!ATTLIST ns1:pb
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  facs CDATA #REQUIRED
+  n CDATA #IMPLIED>
+
+<!ELEMENT ns1:lb EMPTY>
+<!ATTLIST ns1:lb
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:hi (#PCDATA)>
+<!ATTLIST ns1:hi
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  rend NMTOKEN #REQUIRED>
+
+<!ELEMENT ns1:ref (#PCDATA|ns1:hi|ns1:lb)*>
+<!ATTLIST ns1:ref
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  target CDATA #REQUIRED
+  xml:id NMTOKEN #IMPLIED>
+
+<!ELEMENT ns1:p (#PCDATA|ns1:ref|ns1:graphic|ns1:ptr)*>
+<!ATTLIST ns1:p
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'>
+
+<!ELEMENT ns1:graphic EMPTY>
+<!ATTLIST ns1:graphic
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  style NMTOKEN #REQUIRED
+  url CDATA #REQUIRED
+  width CDATA #REQUIRED>
+
+<!ELEMENT ns1:ptr EMPTY>
+<!ATTLIST ns1:ptr
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  target CDATA #REQUIRED>
+
+<!ELEMENT ns1:div1 (ns1:pb?,ns1:head,(ns1:lg|ns1:note+))>
+<!ATTLIST ns1:div1
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  type NMTOKEN #REQUIRED>
+
+<!ELEMENT ns1:head (#PCDATA|ns1:hi|ns1:ref)*>
+<!ATTLIST ns1:head
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT ns1:lg (ns1:pb|ns1:l)+>
+<!ATTLIST ns1:lg
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  type CDATA #REQUIRED>
+
+<!ELEMENT ns1:l (#PCDATA|ns1:hi|ns1:ref)*>
+<!ATTLIST ns1:l
+  xmlns:ns1 CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+  n CDATA #REQUIRED
+  rend NMTOKEN #IMPLIED>
