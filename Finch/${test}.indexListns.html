@@ -1,0 +1,611 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Schema documentation for </title>
+      <link rel="stylesheet" href="docHtml.css" type="text/css" /><script type="text/javascript">
+         <!--
+        
+      
+        var button_prefix = 'button_';
+        
+        /**
+        * Returns an element in the current HTML document.
+        *
+        * @param elementID Identifier of HTML element
+        * @return               HTML element object
+        */
+        function getElementObject(elementID) {
+            var elemObj = null;
+            if (document.getElementById) {
+                elemObj = document.getElementById(elementID);
+            }
+            return elemObj;
+        }
+        
+        /**
+        * Switches the state of a collapseable box, e.g.
+        * if it's opened, it'll be closed, and vice versa.
+        *
+        * @param boxID Identifier of box
+        */
+        function switchState(boxID) {
+            var boxObj = getElementObject(boxID);
+            var buttonObj = getElementObject(button_prefix + boxID);
+            if (boxObj == null || buttonObj == null) {
+                // Box or button not found
+            } else if (boxObj.style.display == "none") {
+                // Box is closed, so open it
+                openBox(boxObj, buttonObj);
+            } else if (boxObj.style.display == "block") {
+                // Box is opened, so close it
+                closeBox(boxObj, buttonObj);
+            }
+        }
+        
+        /**
+        * Opens a collapseable box.
+        *
+        * @param boxObj       Collapseable box
+        * @param buttonObj Button controlling box
+        */
+        function openBox(boxObj, buttonObj) {
+            if (boxObj == null || buttonObj == null) {
+                // Box or button not found
+            } else {
+                // Change 'display' CSS property of box
+                boxObj.style.display = "block";
+                
+                // Change text of button
+                if (boxObj.style.display == "block") {
+                    buttonObj.src = "img/btM.gif";
+                }
+            }
+        }
+        
+        /**
+        * Closes a collapseable box.
+        *
+        * @param boxObj       Collapseable box
+        * @param buttonObj Button controlling box
+        */
+        function closeBox(boxObj, buttonObj) {
+            if (boxObj == null || buttonObj == null) {
+                // Box or button not found
+            } else {
+                // Change 'display' CSS property of box
+                boxObj.style.display = "none";
+                
+                // Change text of button
+                if (boxObj.style.display == "none") {
+                    buttonObj.src = "img/btP.gif";
+                }
+            }
+        }
+    
+       function switchStateForAll(buttonObj, boxList) {
+            if (buttonObj == null) {
+                // button not found
+            } else if (buttonObj.value == "+") {
+                // Expand all
+                expandAll(boxList);
+                buttonObj.value = "-";
+            } else if (buttonObj.value == "-") {
+                // Collapse all
+                collapseAll(boxList);
+                buttonObj.value = "+";
+            }
+        }
+        
+        /**
+        * Closes all boxes in a given list.
+        *
+        * @param boxList Array of box IDs
+        */
+        function collapseAll(boxList) {
+            var idx;
+            for (idx = 0; idx < boxList.length; idx++) {
+                var boxObj = getElementObject(boxList[idx]);
+                var buttonObj = getElementObject(button_prefix + boxList[idx]);
+                closeBox(boxObj, buttonObj);
+            }
+        }
+            
+        /**
+        * Open all boxes in a given list.
+        *
+        * @param boxList Array of box IDs
+        */
+        function expandAll(boxList) {
+            var idx;
+            for (idx = 0; idx < boxList.length; idx++) {
+                var boxObj = getElementObject(boxList[idx]);
+                var buttonObj = getElementObject(button_prefix + boxList[idx]);
+                openBox(boxObj, buttonObj);
+            }
+        }
+        
+        /**
+         * Update the message presented in the title of the html page.
+         * - If the documentation was splited by namespace we present something like: "Documentation for namespace 'ns'"
+         * - If the documentation was splited by location we present somehing like: "Documentation for 'Schema.xsd'"
+         * - If no split we always present: "Documentation for 'MainSchema.xsd'"
+         */
+        function updatePageTitle(message) {
+            top.document.title = message;
+        }
+        
+          
+                    
+         /**
+          * Finds an HTML element by its ID and makes it floatable over the normal content.
+          *
+          * @param x_displacement The difference in pixels to the right side of the window from 
+          *           the left side of the element.
+          * @param y_displacement The difference in pixels to the right side of the window from 
+          *           the top of the element.          
+          */
+         function findAndFloat(id, x_displacement, y_displacement){
+
+            var element = getElementObject(id);            
+            
+            window[id + "_obj"] = element;
+            
+            if(document.layers) {
+               element.style = element;
+            }
+            
+            element.current_y = y_displacement;      
+            element.first_time = true;
+         
+            element.floatElement = function(){
+               // It may be closed by an user action.
+                
+               // Target X and Y coordinates.
+               var x, y;
+               
+               var myWidth = 0, myHeight = 0;
+               if( typeof( window.innerWidth ) == 'number' ) {
+                  //Non-IE
+                  myWidth = window.innerWidth;
+                  myHeight = window.innerHeight;
+               } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+                  //IE 6+ in 'standards compliant mode'
+                  myWidth = document.documentElement.clientWidth;
+                  myHeight = document.documentElement.clientHeight;
+               } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+                  //IE 4 compatible
+                  myWidth = document.body.clientWidth;
+                  myHeight = document.body.clientHeight;
+               }
+               
+               
+               x = myWidth - x_displacement;
+               
+               var ns = (navigator.appName.indexOf("Netscape") != -1);               
+               y = ns ? pageYOffset : document.documentElement && document.documentElement.scrollTop ? 
+                  document.documentElement.scrollTop : document.body.scrollTop;               
+               y = y + y_displacement;               
+               
+               // The current y is the current coordinate of the floating element.
+               // This should be at the limit the y target coordinate.
+               this.current_y += (y - this.current_y)/1.25;
+               
+               // Add the pixels constant after the values
+               // and move the element.
+               var px = document.layers ? "" : "px";
+               this.style.left =  x + px;
+               this.style.top =  this.current_y + px;
+                              
+               setTimeout(this.id + "_obj.floatElement()", 100);
+            }
+            
+            element.floatElement();
+            return element;
+          }
+
+         /**
+          * Finds an HTML element by its ID and makes it floatable over the normal content.
+          *
+          * @param x_displacement The difference in pixels to the right side of the window from 
+          *           the left side of the element.
+          * @param y_displacement The difference in pixels to the right side of the window from 
+          *           the top of the element.          
+          */
+         function selectTOCGroupBy(id, isChunked, indexFileLocation, indexFileNamespace, indexFileComponent){
+
+            if (!isChunked) {
+             var selectIds = new Array('toc_group_by_namespace', 'toc_group_by_location', 'toc_group_by_component_type');
+             // Make all the tabs invisible.
+               for (i = 0; i < 3; i++){
+                  var tab = getElementObject(selectIds[i]);
+                  tab.style.display = 'none';
+               }
+               var selTab = getElementObject(id);
+               selTab.style.display = 'block';
+            } else {
+             if (id == 'toc_group_by_namespace') {
+               parent.indexFrame.location = indexFileNamespace;
+             } else  if (id == 'toc_group_by_location') {
+               parent.indexFrame.location = indexFileLocation;
+             } else  if (id == 'toc_group_by_component_type') {
+              parent.indexFrame.location = indexFileComponent;
+             }
+            }
+         }
+          
+
+    
+                        //--></script></head>
+   <body>
+      <h2><a id="INDEX">Table of Contents</a></h2>
+      <p><a href="${test}.indexList.html">Components</a><span> | </span><a href="schHierarchy.html">Resource Hierarchy</a></p>
+      <hr />
+      <div class="toc">
+         <form action="none">
+            <div><span> Group by: <select id="selectTOC" onchange="selectTOCGroupBy(this.options[this.selectedIndex].value, true, '${test}.indexList.html', '${test}.indexListns.html', '${test}.indexListcomp.html');">
+                     <option value="toc_group_by_namespace" selected="selected">Namespace</option>
+                     <option value="toc_group_by_location">Location</option>
+                     <option value="toc_group_by_component_type">Component Type</option></select></span></div>
+         </form>
+         <div class="level1" id="toc_group_by_namespace" style="display:block">
+            <div>
+               <div class="level2">
+                  <p><input id="button_boxIdNamespace1" type="image" value="-" src="img/btM.gif" onclick="switchState('boxIdNamespace1');" class="control" /><span class="indexGroupTitle">http://www.tei-c.org/ns/1.0</span></p>
+                  <div id="boxIdNamespace1" style="display:block">
+                     <div class="horizontalLayout">
+                        <table class="rt">
+                           <tr>
+                              <td class="rt_cornerTopLeft"></td>
+                              <td class="rt_lineTop"></td>
+                              <td class="rt_cornerTopRight"></td>
+                           </tr>
+                           <tr>
+                              <td class="rt_lineLeft"></td>
+                              <td class="rt_content">
+                                 <table class="componentGroup">
+                                    <tbody>
+                                       <tr>
+                                          <td class="componentGroup"><input id="button_boxIdNamespace1Main_schema" type="image" value="-" src="img/btM.gif" onclick="switchState('boxIdNamespace1Main_schema');" class="control" /></td>
+                                          <td class="componentGroup">
+                                             <div class="componentGroupTitle">Main Schema</div>
+                                          </td>
+                                       </tr>
+                                       <tr>
+                                          <td class="componentGroup"></td>
+                                          <td class="componentGroup">
+                                             <div id="boxIdNamespace1Main_schema" class="componentGroup" style="display:block">
+                                                <div><b><a href="finch-night_xsd.html#finch-night.xsd" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">finch-night.xsd</a></b></div>
+                                             </div>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                              <td class="rt_lineRight"></td>
+                           </tr>
+                           <tr>
+                              <td class="rt_cornerBottomLeft"></td>
+                              <td class="rt_lineBottom"></td>
+                              <td class="rt_cornerBottomRight"></td>
+                           </tr>
+                        </table>
+                     </div>
+                     <div class="horizontalLayout">
+                        <table class="rt">
+                           <tr>
+                              <td class="rt_cornerTopLeft"></td>
+                              <td class="rt_lineTop"></td>
+                              <td class="rt_cornerTopRight"></td>
+                           </tr>
+                           <tr>
+                              <td class="rt_lineLeft"></td>
+                              <td class="rt_content">
+                                 <table class="componentGroup">
+                                    <tbody>
+                                       <tr>
+                                          <td class="componentGroup"><input id="button_boxIdNamespace1Element" type="image" value="-" src="img/btM.gif" onclick="switchState('boxIdNamespace1Element');" class="control" /></td>
+                                          <td class="componentGroup">
+                                             <div class="componentGroupTitle">Elements</div>
+                                          </td>
+                                       </tr>
+                                       <tr>
+                                          <td class="componentGroup"></td>
+                                          <td class="componentGroup">
+                                             <div id="boxIdNamespace1Element" class="componentGroup" style="display:block">
+                                                <div><b><a href="finch-night_xsd.html#TEI" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:TEI</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#addrLine" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:addrLine</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#address" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:address</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#analytic" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:analytic</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#author" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:author</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#authority" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:authority</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#availability" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:availability</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#back" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:back</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#bibl" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:bibl</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#biblScope" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:biblScope</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#biblStruct" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:biblStruct</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#body" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:body</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#classDecl" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:classDecl</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#constitution" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:constitution</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#correction" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:correction</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#date" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:date</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#distributor" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:distributor</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#http___www.tei-c.org_ns_1.0_div1" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:div1</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#docDate" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:docDate</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#docImprint" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:docImprint</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#editor" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:editor</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#editorialDecl" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:editorialDecl</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#email" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:email</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#encodingDesc" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:encodingDesc</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#extent" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:extent</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#fileDesc" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:fileDesc</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#forename" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:forename</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#front" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:front</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#graphic" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:graphic</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#head" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:head</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#hi" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:hi</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#hyphenation" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:hyphenation</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#i" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:i</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#idno" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:idno</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#imprint" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:imprint</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#interpretation" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:interpretation</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#l" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:l</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#lb" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:lb</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#lg" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:lg</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#licence" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:licence</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#monogr" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:monogr</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#name" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:name</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#namespace" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:namespace</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#normalization" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:normalization</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#note" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:note</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#orgName" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:orgName</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#p" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:p</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#pb" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:pb</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#http___www.tei-c.org_ns_1.0_persName" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:persName</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#placeName" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:placeName</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#projectDesc" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:projectDesc</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#ptr" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:ptr</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#pubPlace" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:pubPlace</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#publicationStmt" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:publicationStmt</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#publisher" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:publisher</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#ref" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:ref</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#resp" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:resp</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#respStmt" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:respStmt</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#segmentation" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:segmentation</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#sourceDesc" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:sourceDesc</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#surname" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:surname</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#tagUsage" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:tagUsage</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#tagsDecl" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:tagsDecl</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#taxonomy" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:taxonomy</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#teiHeader" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:teiHeader</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#text" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:text</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#textDesc" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:textDesc</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#title" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:title</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#titlePage" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:titlePage</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#titlePart" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:titlePart</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#titleStmt" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:titleStmt</a></b></div>
+                                             </div>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                              <td class="rt_lineRight"></td>
+                           </tr>
+                           <tr>
+                              <td class="rt_cornerBottomLeft"></td>
+                              <td class="rt_lineBottom"></td>
+                              <td class="rt_cornerBottomRight"></td>
+                           </tr>
+                        </table>
+                     </div>
+                     <div class="horizontalLayout">
+                        <table class="rt">
+                           <tr>
+                              <td class="rt_cornerTopLeft"></td>
+                              <td class="rt_lineTop"></td>
+                              <td class="rt_cornerTopRight"></td>
+                           </tr>
+                           <tr>
+                              <td class="rt_lineLeft"></td>
+                              <td class="rt_content">
+                                 <table class="componentGroup">
+                                    <tbody>
+                                       <tr>
+                                          <td class="componentGroup"><input id="button_boxIdNamespace1Complex_Type" type="image" value="-" src="img/btM.gif" onclick="switchState('boxIdNamespace1Complex_Type');" class="control" /></td>
+                                          <td class="componentGroup">
+                                             <div class="componentGroupTitle">Complex Types</div>
+                                          </td>
+                                       </tr>
+                                       <tr>
+                                          <td class="componentGroup"></td>
+                                          <td class="componentGroup">
+                                             <div id="boxIdNamespace1Complex_Type" class="componentGroup" style="display:block">
+                                                <div><b><a href="finch-night_xsd.html#div1" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:div1</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#persName" target="mainFrame" title="http://www.tei-c.org/ns/1.0" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:persName</a></b></div>
+                                             </div>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                              <td class="rt_lineRight"></td>
+                           </tr>
+                           <tr>
+                              <td class="rt_cornerBottomLeft"></td>
+                              <td class="rt_lineBottom"></td>
+                              <td class="rt_cornerBottomRight"></td>
+                           </tr>
+                        </table>
+                     </div>
+                     <div style="clear:left"></div>
+                  </div>
+               </div>
+               <div class="level2">
+                  <p><input id="button_boxIdNamespace2" type="image" value="-" src="img/btM.gif" onclick="switchState('boxIdNamespace2');" class="control" /><span class="indexGroupTitle">http://www.w3.org/XML/1998/namespace</span></p>
+                  <div id="boxIdNamespace2" style="display:block">
+                     <div class="horizontalLayout">
+                        <table class="rt">
+                           <tr>
+                              <td class="rt_cornerTopLeft"></td>
+                              <td class="rt_lineTop"></td>
+                              <td class="rt_cornerTopRight"></td>
+                           </tr>
+                           <tr>
+                              <td class="rt_lineLeft"></td>
+                              <td class="rt_content">
+                                 <table class="componentGroup">
+                                    <tbody>
+                                       <tr>
+                                          <td class="componentGroup"><input id="button_boxIdNamespace2Imported_schema" type="image" value="-" src="img/btM.gif" onclick="switchState('boxIdNamespace2Imported_schema');" class="control" /></td>
+                                          <td class="componentGroup">
+                                             <div class="componentGroupTitle">Imported Schemas</div>
+                                          </td>
+                                       </tr>
+                                       <tr>
+                                          <td class="componentGroup"></td>
+                                          <td class="componentGroup">
+                                             <div id="boxIdNamespace2Imported_schema" class="componentGroup" style="display:block">
+                                                <div><b><a href="xml_xsd.html#xml.xsd" target="mainFrame" title="http://www.w3.org/XML/1998/namespace" onclick="updatePageTitle('Schema documentation for xml.xsd')">xml.xsd</a></b></div>
+                                             </div>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                              <td class="rt_lineRight"></td>
+                           </tr>
+                           <tr>
+                              <td class="rt_cornerBottomLeft"></td>
+                              <td class="rt_lineBottom"></td>
+                              <td class="rt_cornerBottomRight"></td>
+                           </tr>
+                        </table>
+                     </div>
+                     <div class="horizontalLayout">
+                        <table class="rt">
+                           <tr>
+                              <td class="rt_cornerTopLeft"></td>
+                              <td class="rt_lineTop"></td>
+                              <td class="rt_cornerTopRight"></td>
+                           </tr>
+                           <tr>
+                              <td class="rt_lineLeft"></td>
+                              <td class="rt_content">
+                                 <table class="componentGroup">
+                                    <tbody>
+                                       <tr>
+                                          <td class="componentGroup"><input id="button_boxIdNamespace2Attribute" type="image" value="-" src="img/btM.gif" onclick="switchState('boxIdNamespace2Attribute');" class="control" /></td>
+                                          <td class="componentGroup">
+                                             <div class="componentGroupTitle">Attributes</div>
+                                          </td>
+                                       </tr>
+                                       <tr>
+                                          <td class="componentGroup"></td>
+                                          <td class="componentGroup">
+                                             <div id="boxIdNamespace2Attribute" class="componentGroup" style="display:block">
+                                                <div><b><a href="xml_xsd.html#id" target="mainFrame" title="http://www.w3.org/XML/1998/namespace" onclick="updatePageTitle('Schema documentation for xml.xsd')">@xml:id</a></b></div>
+                                                <div><b><a href="xml_xsd.html#lang" target="mainFrame" title="http://www.w3.org/XML/1998/namespace" onclick="updatePageTitle('Schema documentation for xml.xsd')">@xml:lang</a></b></div>
+                                             </div>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                              <td class="rt_lineRight"></td>
+                           </tr>
+                           <tr>
+                              <td class="rt_cornerBottomLeft"></td>
+                              <td class="rt_lineBottom"></td>
+                              <td class="rt_cornerBottomRight"></td>
+                           </tr>
+                        </table>
+                     </div>
+                     <div style="clear:left"></div>
+                  </div>
+               </div>
+               <div class="level2">
+                  <p><input id="button_boxIdNamespace3" type="image" value="-" src="img/btM.gif" onclick="switchState('boxIdNamespace3');" class="control" /><span class="indexGroupTitle">No namespace</span></p>
+                  <div id="boxIdNamespace3" style="display:block">
+                     <div class="horizontalLayout">
+                        <table class="rt">
+                           <tr>
+                              <td class="rt_cornerTopLeft"></td>
+                              <td class="rt_lineTop"></td>
+                              <td class="rt_cornerTopRight"></td>
+                           </tr>
+                           <tr>
+                              <td class="rt_lineLeft"></td>
+                              <td class="rt_content">
+                                 <table class="componentGroup">
+                                    <tbody>
+                                       <tr>
+                                          <td class="componentGroup"><input id="button_boxIdNamespace3Attribute" type="image" value="-" src="img/btM.gif" onclick="switchState('boxIdNamespace3Attribute');" class="control" /></td>
+                                          <td class="componentGroup">
+                                             <div class="componentGroupTitle">Attributes</div>
+                                          </td>
+                                       </tr>
+                                       <tr>
+                                          <td class="componentGroup"></td>
+                                          <td class="componentGroup">
+                                             <div id="boxIdNamespace3Attribute" class="componentGroup" style="display:block">
+                                                <div><b><a href="finch-night_xsd.html#availability_status" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:availability/@status</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#constitution_status" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:constitution/@status</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#date_type" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:date/@type</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#date_when" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:date/@when</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#http___www.tei-c.org_ns_1.0_div1_type" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:div1/@type</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#extent_type" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:extent/@type</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#graphic_style" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:graphic/@style</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#graphic_url" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:graphic/@url</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#graphic_width" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:graphic/@width</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#head_type" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:head/@type</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#hi_rend" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:hi/@rend</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#idno_type" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:idno/@type</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#l_n" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:l/@n</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#l_rend" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:l/@rend</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#lg_type" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:lg/@type</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#licence_target" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:licence/@target</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#namespace_name" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:namespace/@name</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#note_resp" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:note/@resp</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#note_type" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:note/@type</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#pb_facs" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:pb/@facs</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#pb_n" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:pb/@n</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#http___www.tei-c.org_ns_1.0_persName_key" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:persName/@key</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#http___www.tei-c.org_ns_1.0_persName_type" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:persName/@type</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#placeName_key" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:placeName/@key</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#placeName_type" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:placeName/@type</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#ptr_target" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:ptr/@target</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#pubPlace_type" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:pubPlace/@type</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#publisher_type" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:publisher/@type</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#ref_target" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:ref/@target</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#tagUsage_gi" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:tagUsage/@gi</a></b></div>
+                                                <div><b><a href="finch-night_xsd.html#title_type" target="mainFrame" title="No namespace" onclick="updatePageTitle('Schema documentation for finch-night.xsd')">ns1:title/@type</a></b></div>
+                                             </div>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                              <td class="rt_lineRight"></td>
+                           </tr>
+                           <tr>
+                              <td class="rt_cornerBottomLeft"></td>
+                              <td class="rt_lineBottom"></td>
+                              <td class="rt_cornerBottomRight"></td>
+                           </tr>
+                        </table>
+                     </div>
+                     <div style="clear:left"></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="footer">
+         <hr />
+         <div align="center">XML Schema documentation generated by <a href="http://www.oxygenxml.com" target="_parent"><span class="oXygenLogo"><span class="redX">&lt;</span>o<span class="redX">X</span>ygen<span class="redX">/&gt;</span></span></a><sup>®</sup> XML Editor.
+         </div>
+      </div>
+   </body>
+</html>
