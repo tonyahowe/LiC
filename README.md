@@ -5,8 +5,8 @@ New working space for Literature in Context.
 Some questions we're working on...
 
 ## Manifold
-It seems to me that Manifold is great for straightforward group annotate-able stand-alone texts, though it seems that one can make “collections” which might be useful for us. However, out of the box it doesn’t allow:
-Page images (at least, from the html; see the Frankenstein TP as an example. The [page] link that ought to work in the HTML doesn’t, and the added resource was just that--added)
+Manifold is great for straightforward group annotate-able stand-alone texts, and the “collections” feature might be useful for us. However, out of the box it doesn’t allow: 
+page images (at least, from the html or xml; see the Frankenstein TP as an example. The [page] link that ought to work in the HTML doesn’t, and the added resource was just that--added)
 selecting-->coursepacks/anthologies
 working directly from/with the TEI files. (The Frankenstein text is created from the HTML that Oxygen created when I transformed from XML)
 
