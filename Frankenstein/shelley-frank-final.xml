@@ -179,7 +179,7 @@
          <div1 type="preface">
             <pb n="[vii]" facs="images/vii.jpg"/>
             <head>Preface.</head>
-            <p>THE event on which this fiction is founded has been supposed, by Dr. <persName
+            <p>THE <rs content="#circumstance"><ref target="#circumstance">event</ref></rs> on which this fiction is founded has been supposed, by Dr. <persName
                   type="lccn" key="n50037924"><rs content="#darwin"><ref target="#darwin"
                         xml:id="darwinA">Darwin</ref></rs></persName>, and some of the physiological
                writers of <placeName type="tgn" key="7000084">Germany</placeName>, as not of
@@ -195,8 +195,8 @@
             <p>I have thus endeavoured to preserve the truth of the elementary principles of human
                nature, while I have not scrupled to innovate upon their combinations. <hi
                   rend="italic"><bibl><rs content="#iliad"><ref target="#iliad" xml:id="iliadA">The
-                           Iliad</ref></rs></bibl></hi>, <rs content="#greek_tragic_poetry"><ref
-                     target="#greek_tragic_poetry" xml:id="greek_tragic_poetryA">the tragic poetry
+                           Iliad</ref></rs></bibl></hi>, <rs content="#greek_tragedies"><ref
+                     target="#greek_tragedies" xml:id="greek_tragediesA">the tragic poetry
                      of <placeName type="tgn" key="1000074">Greece</placeName></ref></rs>, <persName
                   type="lccn" key="n78095332"><rs content="#shakespeare"><ref target="#shakespeare"
                         xml:id="shakespeareA">Shakespeare</ref></rs></persName>, in the <hi
@@ -6817,11 +6817,7 @@
                   Gallery, <placeName type="tgn" key="7011781">London</placeName>.<ptr
                      target="#authorA"/></p>
             </note>
-            <note xml:id="PL-TP" type="editorial" resp="AF">
-               <p>This epigraph quotes <ref
-                     target="http://www.gutenberg.org/ebooks/26?msg=welcome_stranger"><hi
-                        rend="italic">Paradise Lost</hi></ref> (X.743-745), where Adam laments his
-                  expulsion from Eden. Milton’s epic poem is one of many texts that had a profound
+            <note xml:id="PL-TP" type="editorial" resp="AF"><p>This epigraph quotes <ref target="http://www.gutenberg.org/ebooks/26?msg=welcome_stranger"><hi rend="italic">Paradise Lost</hi></ref> (X.743-745), where Adam laments his expulsion from Eden. Milton’s epic poem is one of many texts that had a profound
                   effect on Mary Shelley. Its influence can be seen throughout the novel,
                   particularly in relation to the creature’s self-education, and it is one of the
                   books that he finds and reads while he is living near the De Lacey’s cottage
@@ -6875,8 +6871,10 @@
                      target="http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199935338.001.0001/oxfordhb-9780199935338-e-47"
                      >"Revisiting William Godwin"</ref> from Oxford Handbooks Online. <ptr
                      target="#caleb_williamsA"/></p></note>
-            <note xml:id="political_justice"><p>Note on Godwin's <hi rend="italic">Political
-                     Justice</hi><ptr target="#political_justiceA"/></p></note>
+            
+            <note xml:id="political_justice" type="editorial" resp="AF"><p>Published in 1793, William Godwin’s <ref target="http://oll.libertyfund.org/titles/godwin-an-enquiry-concerning-political-justice-vol-i"><hi rend="italic">Enquiry Concerning Political Justice and its Influence on Morals and Happiness</hi></ref> is a philosophical text concerning politics. Written after the French Revolution, a ten-year period of political upheaval in France culminating in the overthrow of the monarchy and the creation of a republic, Godwin’s <hi rend="italic">Enquiry</hi> also responds to Edmund Burke’s <hi rend="italic">Reflections on the Revolution in France</hi> and Thomas Paine’s <hi rend="italic">Rights of Man</hi>--specifically, on questions of authority. Godwin wrote the <hi rend="italic">Enquiry</hi> to advocate for the Enlightenment project of social improvement. His radical writing resonated deeply with Romantic authors, especially Samuel Taylor Coleridge and Percy Bysshe Shelley. For a more in-depth look at how this work affected the authors of the Romantic Period see <ref target="https://www.litencyc.com/">Andrew McCann’s "William Godwin: Enquiry Concerning Political Justice and its Influence on Modern Morals and Manners"</ref>, and for more information about Godwin’s influence on Mary Shelley, see <ref target="http://shelleysghost.bodleian.ox.ac.uk/william-godwin-and-mary-shelley">an online exhibit <hi rend="italic">Shelley’s Ghost</hi>, developed by the Bodleian Libraries.</ref></p><ptr target="political_justiceA"/></note>
+            
+       
             <note xml:id="enthusiasm" type="editorial" resp="TH"><p>Enthusiasm is an important
                   concept in the development of Romanticism. Deriving from the Greek word "enthous,"
                   meannig possessed or inspired by a god, the concept of enthusiasm was linked to
@@ -6904,10 +6902,8 @@
                   date of the author's birth and her mother Mary Wollstonecraft's death. <ptr
                      target="#dateA"/></p>
             </note>
-            <note xml:id="greek_tragic_poetry" type="editorial" resp="">Note on greek tragedy. <ptr
-                  target="#greek_tragic_poetryA"/></note>
-            <note xml:id="iliad" type="editorial" resp="">Note on Homer's Iliad. <ptr
-                  target="#iliadA"/></note>
+
+
             <note xml:id="electromagnetism" type="editorial" resp="TH">
                <p><graphic style="float:right"
                      url="https://commons.wikimedia.org/wiki/File:Br%C3%BAjula_azimutal_espa%C3%B1ola_s.XVIII_(M.A.N._Madrid)_01.jpg"
@@ -6983,14 +6979,17 @@
                      >Seamus Perry’s introduction at the British Library."</ref>
                </p><ptr target="#rime1A"/>
             </note>
-            <note xml:id="tempest" type="editorial" resp="">Note on The Tempest. <ptr
-                  target="#tempestA"/></note>
+            <note xml:id="tempest" type="editorial" resp="AF"><p><hi rend="italic"><ref target="http://shakespeare.mit.edu/tempest/full.html">The Tempest</ref></hi> is a comedy written in 1610 by <ref target="https://www.poets.org/poetsorg/poet/william-shakespeare">William Shakespeare</ref> telling the story of the banished Duke of Milan, Prospero, who has recreated his home on an island using magic--and usurped the native inhabitants of the island to do so, imprisoning Sycorax and enslaving her son, Caliban. Prospero causes the shipwreck of the King of Naples, Alonso, and his brother, Antonio, who, twelve years earlier had conspired for Prospero’s position thus banishing him from the kingdom. During the tale, Miranda, Prospero’s daughter, and Ferdinand, Alonso’s son, fall in love, but must survive the tests placed upon them by Prospero. Other castaways from the shipwreck land on the island and conspire to destroy Prospero but in the end common ground and love triumph. Explore more of the text on the <ref target="https://www.folger.edu/tempest">Folger Shakespeare Library</ref>.</p><ptr target="tempestA"/></note>
+            
             <note xml:id="milton" type="editorial" resp="">Note on Milton. <ptr target="#miltonA"
                /></note>
             <note xml:id="PL" type="editorial" resp="">Note on PL. <ptr target="#PLA"/></note>
             <note xml:id="novelist" type="editorial" resp="">Note on "novel writing". <ptr
                   target="#novelistA"/></note>
-            <note xml:id="shakespeare" type="editorial" resp=""><p>Note on Shakespeare. </p><ptr
+            <note xml:id="shakespeare" type="editorial" resp="AF"><p><graphic url="https://www.folger.edu/sites/default/files/TitlePageFirstFolio_005198.jpg" width="300"/>
+               William Shakespeare (1564-1616) is one of the greatest writers in the English language, known for composing 37 plays, 154 sonnets, and two long narrative poems (pictured above is a digital print of Earl of Warwick’s 1623 first folio of William Shakespeare’s works via the Folger Shakespeare Library). Shakespeare’s works, known for his innovative, vivid use of language and his exploration of individual subjectivity, were of special interest to the Romantics. <ref target="http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198129943.001.0001/acprof-9780198129943">As Jonathan Bate argues in <hi rend="italic">Shakespeare and the English Romantic Imagination</hi> (1989)</ref>, the idea of natural genius and the veneration of the creative imagination was essential to the Romantic ideology, and Shakespeare became a key sign of natural creative genius. The "bardolatry" that began in the mid-eighteenth century, <ref target="https://www.britishcouncil.org/voices-magazine/how-one-actor-forever-changed-way-we-see-shakespeare">particularly through the actor David Garrick’s (1717-1779) energies</ref>, came to a head in the Romantic era, and has in many ways persisted to this day. For more information on the role of Shakespeare in the Romantic era, see Bate’s important monograph as well as <ref target="https://books.google.com/books?id=Zz5B2BP0lvAC">Joseph M. Ortiz’s edited collection, <hi rend="italic">Shakespeare and the Culture of Romanticism
+               </hi></ref>. Mary Shelley would have been familiar with his works both through her education at the hands of her father, William Godwin, and through her close relationship with Byron, Shelley, Polidori, and other Romantics. <ref target="http://exhibitions.nypl.org/biblion/outsiders/outsiders/story/storygodwinjuvenile">Godwin, with his second wife Mary Jane Clairmont, created and published works in a juvenlie library series for the improvement of young readers’ imaginations that included, among  histories of Greece and bible stories, <hi rend="italic">Tales From Shakespeare</hi></ref>.. All of these authors influenced her writing, and Shakespeare colored her entire life; Shelley had lines from <hi rend="italic">The Tempest</hi> carved into her husband’s tombstone. To read more about Shakespeare’s influence on Mary Shelley’s life and writing see Robert Sawyer’s article <a href="http://www.jstor.org/stable/27784706
+                  ">"Mary Shelley and Shakespeare: Monstrous Creations"</a> or David Lee Clark’s article, <a href="http://www.jstor.org/stable/458637">"Shelley and Shakespeare"</a>. For a full list of Shakespeare’s works, as well as summaries and criticisms, see the <a href="https://www.folger.edu/shakespeares-works">Folger Shakespeare Library</a>.</p><ptr
                   target="#shakespeareA"/></note>
             <note xml:id="midsummer_nights_dream" type="editorial" resp=""><p>Note on MSD. </p><ptr
                   target="#midsummer_nights_dreamA"/></note>
@@ -7107,11 +7106,12 @@
                   Nottingham Castle ostensibly illustrating King Richard the Lionheart marrying
                   Robin Hood and Maid Marian.</p><ptr target="#robin_hoodA"/>
             </note>
-            <note xml:id="amadis" type="editorial" resp=""><p>Note on Amadis de Gaul </p><ptr
+            <note xml:id="amadis" type="editorial" resp="AF"><p><graphic style="float:right" url="https://cdn.britannica.com/668x448/59/143359-004-9F9322AE.jpg" width="300"/>
+               <ref target="https://www.britannica.com/topic/Amadis-of-Gaul">Amadís de Gaula</ref> is a prose romance composed in Spain or Portugal in the 13th or 14th century (title page of the 1533 Spanish edition by Olaf Simons pictured above). The story’s protagonist is Amadís, the bravest and most just of knights, who falls in love with Oriana, the daughter of Lisuarte, the king of England. Amadís is an orphan who was separated from his English parents at birth, but through this hardship becomes a better man. Arthurian in nature, the story is one of chivalry, though more chaste and romanticized than the Celtic tales of knights it was most likely based on. According to <ref target="https://www.rc.umd.edu/editions/frankenstein/V1notes/amadis">Romantic Circles</ref>, Mary Shelley was reading Robert Southey’s translation of the poem while writing <hi rend="italic">Frankenstein</hi>. The full text of the <ref target="https://www.wdl.org/en/item/7330/">1520 edition</ref> printed by Juan Cromberger can be found online at the National Library of Spain. </p><ptr
                   target="#amadisA"/>
             </note>
-            <note xml:id="st_george" type="editorial" resp=""><p>Note on St. George </p><ptr
-                  target="#st_georgeA"/>
+            <note xml:id="st_george" type="editorial" resp="AF"><p><graphic style="float:right" url="https://www.nga.gov/collection/art-object-page.50662.html" width="300"/>
+               St. George, a converted Roman soldier martyred for his newfound Christian faith, is often depicted slaying a dragon, a symbolic rendering of the triumph of Christianity over evil. Not only is St. George the patron saint of England, but by the 14th century, he had been declared both the patron saint and protector of the <ref target="https://trove.nla.gov.au/work/6849528">royal family</ref>. For more information on St. George, see <hi rend="italic"><ref target="https://www.pitt.edu/~dash/stgeorge2.html">Reliques of Ancient English Poetry</ref></hi> collected by Thomas Percy and edited by D.L. Ashliman. Pictured above is Saint George and the Dragon (c. 1432) by Rogier van Der Weyden from the National Gallery of Art, Washington, D.C.</p><ptr target="#st_georgeA"/>
             </note>
             <note xml:id="natural_philosophy" type="editorial" resp=""><p>Note on natural philosophy
                   </p><ptr target="#natural_philosophyA"/>
@@ -7382,10 +7382,20 @@
                         Intellect</hi> (2001)</ref>, especially chapter 3, "The Monstrous Body of
                   Knowledge in <hi rend="italic">Frankenstein</hi>" Pictured above is Vincenzo
                   Onofri’s bust of Sant’ Alberto Magno (c. 1493), via Wikimedia Commons. </p><ptr
-                  target="#albertus_magnusA"/>
-            </note>
+                  target="#albertus_magnusA"/></note>
+            
+            <note xml:id="darwin" type="editorial" resp="AF"><p><graphic style="float:right" url="https://collectionimages.npg.org.uk/large/mw01731/Erasmus-Darwin.jpg" width="300"/>
+               
+               <ref target="https://www.britannica.com/biography/Erasmus-Darwin">Erasmus Darwin</ref> (1731-1802), grandfather of Charles Darwin, was a physician and poet (pictured above is a reprint in the National Portrait Gallery, London by Joseph Wright based on a work from the 1770’s). An industrialist, free thinker, and inventor, he is well known for his for his classification novel, <ref target="http://www.gutenberg.org/files/15707/15707-h/15707-h.htm"><hi rend="italic">Zoonomia, Or, The Laws Of Organic Life</hi></ref> which created classes and categories for animals, and discussed pathology, anatomy, and psychology. His works influenced many Romantic authors, such as William Wordsworth, who referenced Darwin in <ref target="https://books.google.com/books/about/Lyrical_Ballads_1798.html?id=n_kLiR3LSxQC">"The Tale of Goody Blake and Harry Gill."</ref> For more information, see Gavin Budge’s article <ref target="https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1754-0208.2007.tb00337.x">"Erasmus Darwin and the Poetics of William Wordsworth: ‘Excitement without the Application of Gross and Violent Stimulants’"</ref>. A radical thinker for the time, Erasmus Darwin posited the development  of life from "one living filament" (Section XXXIX, Line 8); Darwin’s arguments  would later be seen precursors to the theory of evolution. Darwin also wrote poetry about nature and science, most notably, <hi rend="italic"><ref target="https://quod.lib.umich.edu/e/ecco/004850944.0001.000?view=toc">The Loves of the Plants</ref></hi>, <hi rend="italic">Economy of Vegetation</hi>, and <hi rend="italic"><ref target="http://www.rc.umd.edu/editions/darwin_temple/index.html">The Temple of Nature</ref></hi>. His views on living organisms and the creation of life gives authority to] Victor’s ability to create life and  offers a litmus for the Romantic era skepticism about "playing God." For more information on Erasmus Darwin in general see Michon Scott’s website <ref target="https://www.strangescience.net/erasmus.htm">Strange Science</ref>;  to see Darwin’s influence on both Romantic and Victorian writers, see Thomas Hart’s article on <ref target="http://www.victorianweb.org/science/edarwin.html">The Victorian Web</ref>.</p><ptr target="darwinA"/></note>
+            
+            <note xml:id="circumstance" type="editorial" resp="AF"><p><hi rend="italic">Frankenstein</hi> was created on a rainy afternoon in 1816 when Mary Godwin (soon to be Mary Shelley), <ref target="https://www.poets.org/poetsorg/poet/percy-bysshe-shelley">Percy Bysshe Shelley</ref>, <ref target="https://www.poetryfoundation.org/poets/lord-byron">Lord Byron</ref>, and others  were vacationing in Geneva. Lord Byron suggested a gothic ghost story contest to alleviate their cabin fever--as 1816 was known as the <ref target="https://www.biography.com/news/mary-shelley-frankenstein-i-frankenstein-movie">"year without a summer"</ref> due to a <ref target="https://www.npr.org/2007/08/13/12688403/did-climate-inspire-the-birth-of-a-monster">volcanic explosion</ref> in the Dutch East Indies, causing a long winter in most of the world. After working their way through established German ghost stories, the group decided to try their hand at writing their own. For more information on the circumstances of the creation of <hi rend="italic">Frankenstein</hi> and how it affected the development of the text, see Marshall Brown’s <ref target="http://www.jstor.org/stable/1346124">"Frankenstein": A Child’s Tale"</ref>, and for <ref target="http://shelleygodwinarchive.org/contents/frankenstein/">images</ref> of Shelley’s manuscript for <hi rend="italic">Frankenstein</hi> see the <hi rend="italic">Shelley-Godwin Archive</hi>.</p><ptr target="circumstanceA"/></note>
+               
+            <note xml:id="iliad" type="editorial" resp="AF"><p><hi rend="italic">The Iliad</hi>, composed in approximately the 9th century BCE, is an epic poem in elevated and formal verse, narrating the events that occurred in the ninth year of the attack on Troy. The story begins with Agamemnon, the <hi rend="italic"><lang id="grc">wanax</lang></hi> of Mycenae and commander of the various independent Achaean kingdoms, insulting Achilles. Turmoil ensues among the Achaeans, who have been laying siege to the City of Troy for nearly ten years. The story includes the death of Achilles’ closest friend Patroclus, which causes Achilles to defeat and defile his murderer, Hector, Prince of Troy. The story concludes with Achilles surrendering Hector’s body to King Priam, father of Hector, and his recognition of a kinship between them through grief. See MIT’s <ref target="http://classics.mit.edu/Homer/iliad.html">full text</ref> version of <hi rend="italic">The Iliad</hi> translated by Samuel Butler.</p><ptr target="iliadA"></ptr></note>  
+            
+            <note xml:id="greek_tragedies" type="editorial" resp="AF"><p>Tragedy is an elevated literary form that originated in ancient Greece. According to Aristotle’s <hi rend="italic"><ref target="http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0086.tlg034.perseus-eng1https://www.stmarys-ca.edu/sites/default/files/attachments/files/Poetics.pdf">Poetics</ref></hi>, <quote>"Tragedy is, then, a representation of an action that is heroic and complete and of a certain magnitude—by means of language enriched with all kinds of ornament, each used separately in the different parts of the play: it represents men in action and does not use narrative, and through pity and fear it effects relief to these and similar emotions."</quote> (1449b), Romantic authors were <ref target="https://www.britannica.com/art/tragedy-literature/Romantic-theories">greatly influenced</ref> by the ancient tragedies of <ref target="http://www.ancient-literature.com/greece_aeschylus.html">Aeschylus</ref>, <ref target="https://www.ancient.eu/sophocles/">Sophocles</ref>, and <ref target="https://www.britannica.com/biography/Euripides">Euripides</ref>, however they often turned the genre on its head. While tragedy in the original sense featured a hero of noble birth, the Romantics, like <ref target="https://www.poets.org/poetsorg/poet/samuel-taylor-coleridge">Samuel Taylor Coleridge</ref>, preferred to consider the common man. Often, Romantics turned the argument inward, invoking Shakespeare’s tragedies in lieu of Ancient ones (<hi rend="italic">Macbeth</hi>,<hi rend="italic">Hamlet</hi>, <hi rend="italic">Othello</hi>).</p><ptr target="greek_tragediesA"/></note>
 
-
+            <note xml:id="homer" type="editorial" resp="AF"><p><ref target="https://www.ancient.eu/homer/">Homer</ref> is the figure credited with the composition of two epic poems, <hi rend="italic">The Iliad</hi> and <hi rend="italic">The Odyssey</hi>, considered to be the first extant works of Greek literature. Though modern scholarship questions the existence of a single person called "Homer," the idea of such authorship has had an enduring interpretive effect from ancient times to the present. Known as the "Father of Western Literature," Homer is credited with a number of hymns and lesser works in addition to <hi rend="italic">The Iliad</hi> and <hi rend="italic">The Odyssey</hi>. If such an individual existed, scholars have suggested his floruit as anywhere between the 9th to 7th centuries BCE. To learn more about Homer, see Suzanne Saïd’s entry in the <ref target="http://classics.oxfordre.com">Oxford Classical Dictionary</ref>.</p><ptr target="homerA"/></note>
+               
          </div1>
       </back>
       <tooltip_notes>
