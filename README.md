@@ -6,9 +6,9 @@ Some questions we're working on...
 
 ## Manifold
 Manifold is great for straightforward group annotate-able stand-alone texts, and the “collections” feature might be useful for us. However, out of the box it doesn’t allow: 
-page images (at least, from the html or xml; see the Frankenstein TP as an example. The [page] link that ought to work in the HTML doesn’t, and the added resource was just that--added)
-selecting-->coursepacks/anthologies
-working directly from/with the TEI files. (The Frankenstein text is created from the HTML that Oxygen created when I transformed from XML)
+- page images (at least, from the html or xml; see the Frankenstein TP as an example. The [page] link that ought to work in the HTML doesn’t, and the added resource was just that--added)
+- selecting-->coursepacks/anthologies
+- working directly from/with the TEI files. (The Frankenstein text is created from the HTML that Oxygen created when I transformed from XML)
 
 These three things seem to be really important for us, and I’m not sure we want to give up these goals. On the other hand, Manifold offers a beautiful reading interface, crowdsourced annotations, and the possibility of building the reading text online. 
 
