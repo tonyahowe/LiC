@@ -41,8 +41,8 @@
                   License </licence>
             </availability>
             <textDesc>
-               <constitution status="incomplete">
-                  This text is incomplete and in further need of editing and annotation.</constitution>
+               <constitution status="incomplete"> This text is incomplete and in further need of
+                  editing and annotation.</constitution>
             </textDesc>
             <date when="2018-06-18"/>
          </publicationStmt>
@@ -54,8 +54,7 @@
                   </author>
                   <title type="marc245a">Poems on various subjects, Religious and Moral</title>
                   <imprint>
-                     <extent type="marc300">[9],124p., 18cm
-                     </extent>
+                     <extent type="marc300">[9],124p., 18cm </extent>
                      <idno tpye="lcc">PS886.W5 1773</idno>
                      <pubPlace type="marc260a">
                         <placeName type="TGN" key="7011781">London</placeName>
@@ -67,13 +66,14 @@
                         Congress.</note>
                   </imprint>
                   <imprint>
-                     <extent type="online">https://quod.lib.umich.edu/a/amverse/BAP5379.0001.001?view=toc</extent>
+                     <extent type="online"
+                        >https://quod.lib.umich.edu/a/amverse/BAP5379.0001.001?view=toc</extent>
                      <pubPlace>Ann Arbor, MI</pubPlace>
                      <publisher>University of Michigan Humanities Text Initiative</publisher>
                      <date when="1999">1999</date>
-                     <note>Online SGML text. SGML markup edited to conform to LiC parameters, including changes to
-                        element and attribute case, ligatures, and other special html
-                        characters.</note>
+                     <note>Online SGML text. SGML markup edited to conform to LiC parameters,
+                        including changes to element and attribute case, ligatures, and other
+                        special html characters.</note>
                   </imprint>
                </monogr>
             </biblStruct>
@@ -116,14 +116,16 @@
             <docTitle>
                <titlePart>POEMS <lb/>ON <lb/>VARIOUS SUBJECTS, <lb/>RELIGIOUS AND MORAL.</titlePart>
             </docTitle>
-            <byline>BY</byline>
-            <docAuthor><hi rend="italic">PHILLIS WHEATLEY</hi>,</docAuthor>
+            <byline>BY</byline><lb/>
+            <docAuthor><hi rend="italic">PHILLIS WHEATLEY</hi>,</docAuthor><lb/>
             <docAuthor><title>NEGRO SERVANT to Mr. JOHN WHEATLEY, <lb/>of BOSTON, in NEW
-                  ENGLAND.</title></docAuthor>
-            <docImprint><pubPlace><hi rend="italic">LONDON:</hi></pubPlace><publisher>Printed for A.
+                  ENGLAND.</title></docAuthor><lb/>
+            <docImprint><pubPlace><hi rend="italic">LONDON:</hi></pubPlace><lb/>
+               <publisher>Printed for A.
                   BELL, Bookseller, Aldgate; and sold by<lb/>Messrs. COX and BERRY, King-Street, <hi
-                     rend="italic">BOSTON.</hi></publisher><date>M DCC LXXIII.</date><pb n="[ii]"
-                  id="P445"/><hi rend="italic">Entered at Stationer's Hall.</hi></docImprint>
+                     rend="italic">BOSTON.</hi></publisher><date>M DCC LXXIII.</date>
+               <pb n="[ii]" id="P445" facs="images/WP-ii.png"/>
+                  <head type="subhead"><hi rend="italic">Entered at Stationer's Hall.</hi></head></docImprint>
          </titlePage>
          <div1 type="Contents" id="DIV1.188">
             <pb n="[125]" facs="images/WP-0125.png"/>
@@ -413,20 +415,25 @@
          </div1>
          <pb n="15" facs="images/WP-0015.png"/>
          <div1 type="poem" id="DIV1.195">
-            <head>TO THE UNIVERSITY OF CAMBRIDGE, IN NEW-ENGLAND.</head>
-
+            <head>TO THE <ref target="#cambridge" xml:id="cambridgeA"><rs link="#" content="#cambridge"
+               >UNIVERSITY OF CAMBRIDGE</rs></ref>, IN NEW-ENGLAND.</head>
+            
             <lg type="verse" id="LG1289">
-               <l id="L6482">WHILE an intrinsic ardor prompts to write,</l>
-               <l id="L6483">The muses promise to assist my pen;</l>
+               <l id="L6482">WHILE an <ref target="#ardor" xml:id="ardorA"><rs link="#" content="#ardor"
+                  >intrinsic ardor</rs></ref> prompts to write,</l>
+               <l id="L6483">The <ref target="#muse" xml:id="museA"><rs link="#" content="#muse"
+                  >muses</rs></ref> promise to assist my pen;</l>
                <l id="L6484">'Twas not long since I left my native shore</l>
-               <l id="L6485">The land of errors, and <hi rend="italic">Egyptian</hi> gloom:</l>
+               <l id="L6485">The land of errors, and <ref target="#egypt" xml:id="egyptA"><rs
+                  content="#egypt"><hi rend="italic">Egyptian</hi> gloom</rs></ref>:</l>
                <l id="L6486">Father of mercy, 'twas thy gracious hand</l>
                <l id="L6487">Brought me in safety from those dark abodes.</l>
             </lg>
             <lg type="verse" id="LG1290">
                <l rend="indent" id="L6488">Students, to you 'tis giv'n to scan the heights</l>
                <l id="L6489">Above, to traverse the ethereal space,</l>
-               <l id="L6490">And mark the systems of revolving worlds.</l>
+               <l id="L6490">And mark the <ref target="#systems" xml:id="systemsA"><rs
+                  content="#systems">systems of revolving worlds</rs></ref>.</l>
                <l id="L6491">Still more, ye sons of science ye receive</l>
                <l id="L6492">The blissful news by messengers from heav'n,</l>
                <l id="L6493">How <hi rend="italic">Jesus</hi>' blood for your redemption flows.</l>
@@ -435,8 +442,9 @@
                <l id="L6496">He hears revilers, nor resents their scorn:</l>
                <l id="L6497">What matchless mercy in the Son of God!</l>
                <l id="L6498">When the whole human race by sin had fall'n,</l>
-               <pb n="16" facs="images/WP-0016.png"/>
-               <l id="L6499">He deign'd to die that they might rise again,</l>
+               <pb n="16" facs="WP-0016.png"/>
+               <l id="L6499">He <ref target="#deign" xml:id="deignA"><rs link="#" content="#deign"
+                  >deign'd</rs></ref> to die that they might rise again,</l>
                <l id="L6500">And share with him in the sublimest skies,</l>
                <l id="L6501">Life without death, and glory without end.</l>
             </lg>
@@ -448,11 +456,14 @@
                <l id="L6506">By you be shunn'd, nor once remit your guard;</l>
                <l id="L6507">Suppress the deadly serpent in its egg.</l>
                <l id="L6508">Ye blooming plants of human race divine,</l>
-               <l id="L6509">An <hi rend="italic">Ethiop</hi> tells you 'tis your greatest foe;</l>
+               <l id="L6509">An <ref target="#ethiop" xml:id="ethiopA"><rs link="#" content="#ethiop"><hi
+                  rend="italic">Ethiop</hi></rs></ref> tells you 'tis your greatest
+                  foe;</l>
                <l id="L6510">Its transient sweetness turns to endless pain,</l>
-               <l id="L6511">And in immense perdition sinks the soul.</l>
+               <l id="L6511">And in immense <ref target="#perdition" xml:id="perditionA"><rs
+                  content="#perdition">perdition</rs></ref> sinks the soul.</l>
             </lg>
-
+            
          </div1>
          <div1 type="poem" id="DIV1.196">
             <pb n="17" facs="images/WP-0017.png"/>
@@ -484,21 +495,24 @@
 
          </div1>
          <div1 type="poem" id="DIV1.197">
-
-            <pb n="18" facs="images/WP-0018.png"/>
-            <head>On being brought from AFRICA to AMERICA.</head>
-
+            
+            <pb n="18" facs="WP-0018.png"/>
+            <head><ref target="#brought" xml:id="broughtA"><rs link="#" content="#brought">On being brought from AFRICA to
+               AMERICA.</rs></ref></head>
+            
             <l id="L6527">'TWAS mercy brought me from my <hi rend="italic">Pagan</hi> land,</l>
             <l id="L6528">Taught my benighted soul to understand</l>
             <l id="L6529">That there's a God, that there's a <hi rend="italic">Saviour</hi> too:</l>
             <l id="L6530">Once I redemption neither sought nor knew.</l>
-            <l id="L6531">Some view our sable race with scornful eye,</l>
+            <l id="L6531"><ref target="#view" xml:id="viewA"><rs link="#" content="#view">Some view</rs></ref> our sable race with
+               scornful eye,</l>
             <l id="L6532">"Their colour is a diabolic die."</l>
             <l id="L6533">Remember, <hi rend="italic">Christians</hi>, <hi rend="italic"
-               >Negros</hi>, black as <hi rend="italic">Cain</hi>,</l>
+               >Negros</hi>, <ref target="#cain" xml:id="cainA"><rs link="#" content="#cain">black as <hi rend="italic"
+                  >Cain</hi></rs></ref>,</l>
             <l id="L6534">May be refin'd, and join th' angelic train.</l>
-
-
+            
+            
          </div1>
          <div1 type="poem" id="DIV1.198">
             <pb n="19" facs="images/WP-0019.png"/>
@@ -2924,6 +2938,266 @@
          </div1>
          <closer>FINIS.</closer>
       </body>
+      <back>
+         <div1>
+            <head>Editorial Annotations</head>
+            <div2>
+               <head>"TO THE UNIVERSITY OF CAMBRIDGE, IN NEW-ENGLAND"</head>
+               <note xml:id="cambridge" type="editorial" resp="JW"><p>After describing her own
+                     educational journey, Wheatley advises students at the University of Cambridge
+                     in New England to appreciate and "[i]mprove" (21) the privilege of their
+                     education by "shunn[ing]" (25) the "transient sweetness" (29) of sin using a
+                     variety of religious images. The University of Cambridge in New England is now
+                     known as <ref
+                        target="https://www.harvard.edu/about-harvard/harvard-glance/history/historical-facts"
+                        >Harvard University</ref>. <ref
+                        target="https://books.google.com/books?id=pyf-VckC5PgC">According to
+                        Katherine Clay Bassard</ref>, Wheatley wrote this poem when she was about
+                     fourteen years old (41). For more information on women's writing in the early
+                        .<ptr target="#cambridgeA"/></p></note>
+               <note xml:id="ardor" type="editorial" resp="JW"><p>Wheatley works from the premise,
+                     commonly used among early women writers and the enslaved who were restricted
+                     from intellectual pursuits like writing, that her desire to write is
+                     "intrinsic" (1) or God-given, and therefore appropriate. The word "ardor" also
+                     connotes physical desire and flame-like passion, according to the OED (n.3). <ptr target="#ardorA"/>
+                  </p></note>
+               <note xml:id="muse" type="editorial" resp="JW"><p>According to <ref
+                        target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DM%3Aentry+group%3D31%3Aentry%3Dmusae-bio-1"
+                           ><hi rend="italic">A Dictionary of Greek and Roman Biography and
+                           Mythology</hi></ref>, the Muses are “inspiring goddesses of song" who
+                     “presid[e] over the different kinds of poetry, and over the arts and sciences."
+                     The “invocation of the muse” to aid the poet's work is often used by
+                     neoclassical authors like those whom Wheatley has clearly read and was
+                     influenced by, including Milton and Pope. However, Hilene Flanzenbaum suggests
+                     that Wheatley’s notably frequent invocation of the muse is more significant
+                     than formulaic or imitative--it is “the very means by which she usurps power
+                     for herself and claims a berth for her own thoughts, emotions and desires. And
+                     while some may claim that these functions accompany any appearance of the muse,
+                     when the muses bestow their power on a black female slave, they transport
+                     Wheatley to a domain surprisingly free of restriction and previously forbidden”
+                        (<ref target="">“Unprecedented Liberties” 75</ref>). <ptr target="#museA"/></p></note>
+               <note xml:id="egyptian" type="editorial" resp="JW"><p>Wheatley here alludes to
+                        <ref target="">Exodus 10:21-22</ref>, wherein the ninth plague of darkness
+                     is visited upon Egypt. This reference is also in line with contemporary
+                     Orientalist notions about Egypt and Egyptian religiosity, which was believed to
+                     be full of occult practices. Early nineteenth-century British historian and
+                     scholar Thomas Maurice explores these ideas of idolatry and superstition in
+                        <ref target="https://books.google.com/books?id=aItPAAAAYAAJ">Observations on
+                        the Remains of Ancient Egyptian Grandeur and Superstition</ref>. A detailed
+                     focus on the Egyptian religious practices can be found in the chapter
+                     "Strictures on the superstitious rites of the Egyptians, particularly on the
+                     Nefarious Worship paid to Beasts, Esteemed Sacred, and called in Scripture the
+                     Abominations of Egypt" (74-83). <ptr target="#egyptA"/></p></note>
+               <note xml:id="systems" type="editorial" resp="JW"><p>The sixteenth- and
+                     seventeenth-century development of the microscope and the telescope had made
+                     great scientific advancements possible, especially in astronomy. Possibly an
+                     allusion to Alexander Pope's 1733-34 <ref
+                        target="https://rpo.library.utoronto.ca/poems/essay-man-epistle-i"><hi
+                           rend="italic">Essay on Man</hi> (I.23-28)</ref>, Wheatley here references
+                     contemporary scientific belief about the plurality of worlds. <ptr
+                        target="#systemsA"/></p></note>
+                  <note xml:id="deign" type="editorial" resp="JW"><p> According to the Oxford
+                        English Dictionary <ref target="http://www.oed.com/view/Entry/49189"
+                           >deign</ref> means "to think it worthy of oneself" or "to think fit"
+                        (n.1a). Today, it typically has a negative connotation, though it does not
+                        here. <ptr target="#deignA"/></p></note>
+                  <note xml:id="ethiop" type="editorial" resp="JW">
+                     <p> According to the OED, the word <ref target="http://www.oed.com"
+                           >Ethiop</ref> would have been used during Wheatley's time most often to
+                        refer to "[a] black or dark-skinned person; a black African," and only
+                        occasionally to the country of Ethiopia, specifically (n.A). <ptr
+                           target="#ethiopA"/></p></note>
+                  <note xml:id="perdition" type="editorial" resp="JW"><p>In theological discussion,
+                        the word <ref target="http://www.oed.com/view/Entry/140642">perdition</ref>
+                        means "the state of final spiritual ruin or damnation; the consignment of
+                        the unredeemed or wicked and impenitent soul to hell; the fate of those in
+                        hell; eternal death" (OED, "perdition" xxx). <ptr target="#perditionA"
+                     /></p></note>
+            </div2>
+            <div2>
+               <head>"On being brought from AFRICA to AMERICA"</head>
+               <note xml:id="view" type="editorial" resp="TH"><p>Wheatley's description of those who
+                     "view our sable race with scornful eye" (5) is a clear rejection of what <ref
+                        target="https://books.google.com/books?id=pxaTAgAAQBAJ">Lena Hill describes
+                        as "ignorant" interpretations of "visual blackness" (37-38)</ref>, as is her
+                     attribution of speech in direct discourse: "'Their color is a diabolic die'"
+                     (6). Henry Louis Gates argues that Wheatley's very presence as an author
+                     complicated assumptions of "natural" inferiority. For more about this topic,
+                     see Gates' <hi rend="italic"><ref
+                           target="https://books.google.com/books?id=vzXnCwAAQBAJ">Figures in
+                           Black</ref></hi> and Walt Nott's discussion of Wheatley's public persona
+                     in <ref target="https://www.jstor.org/stable/468063">"From 'Uncultivated
+                        Barbarian' to 'Poetical Genius': The Public Presence of Phillis
+                        Wheatley."</ref>
+                     <ptr target="#viewA"/></p></note>
+               <note xml:id="brought" type="editorial" resp="JW"><p>The title of one Wheatley's most
+                     (in)famous poems, "On being brought from AFRICA to AMERICA" alludes to the
+                     experiences of many Africans who became subject to the <ref
+                        target="http://www.unesco.org/new/en/social-and-human-sciences/themes/slave-route/transatlantic-slave-trade/"
+                        >transatlantic slave trade</ref>. Wheatley uses biblical references and
+                     direct address to appeal to a Christian audience, while also defending the
+                     ability of her "sable race" to become "refin'd" through Christian theology.
+                     Henry Louis Gates, who in <ref target=""><hi rend="italic">Figures in Black:
+                           Words, Signs, and the "Racial" Self</hi></ref> (1989) situates Wheatley
+                     as an important voice in the eighteenth-century debate about natural human
+                     rights, summarizes the "recurrent suggestion that Wheatley has remained aloof
+                     from matters that were in any sense racial, or more correctly, 'positively'
+                     racial," as a "misreading" (74-75). Notable for the complexity of its brief
+                     discussion of blackness in the Christian slaveholding American republic, this
+                     poem in particular is frequently criticized for its apparent rejection of
+                     Africa and African-ness. However, Wheatley was working within a non-free
+                     context, and her critique of slavery is mediated by Christianity acquired as
+                     part of her enslavement. For a fuller exploration of Wheatley’s poem, see <ref
+                        target=""><hi rend="italic">Authority and Female Authorship in Colonial
+                           America</hi>, by William Scheick (especially chapter 4)</ref>. <ptr
+                        target="#broughtA"/></p></note>
+               <note xml:id="cain" type="editorial" resp="JW"><p>The phrase "black as Cain" is a
+                     distortion of the biblical idea of the mark of Cain <ref
+                        target="https://www.kingjamesbibleonline.org/Genesis-4-15/">(Genesis
+                        4:15)</ref> and was used as justification for the enslavement of people of
+                     color. Many scholars point out that this was Wheatley's "most maligned poem,"
+                        <ref target="https://books.google.com/books?id=pxaTAgAAQBAJ">(Hill 37)</ref>
+                     which is ultimately about the inclusion of Africans in the "Christian family"
+                     and her critique of "ignorant" interpretations of "visual blackness" <ref
+                        target="https://books.google.com/books?id=pxaTAgAAQBAJ">(37-38)</ref>. For
+                     an interesting contemporary read of the mark of Cain in anti-abolitionist
+                     discourse, see Josiah Priest's <ref
+                        target="https://books.google.com/books?id=nLgJAAAAIAAJ"><hi rend="italic"
+                           >Slavery as it Relates to the Negro</hi> (1843)</ref>, where he rejects
+                     the possibility that dark-skinned peoples could be related to Adam by blood
+                        <ref target="https://archive.org/details/slaveryasitrela00priegoog"
+                        >(134-136)</ref>. For a larger reading of Wheatley's use of blackness and
+                     the role of blackness in the early American imagination, see Lena Hill's
+                     chapter "Witnessing Moral Authority in Pre-Abolition Literature," from <hi
+                        rend="italic"><ref target="https://books.google.com/books?id=nLgJAAAAIAAJ"
+                           >Visualizing Blackness and the Creation of the African American Literary
+                           Tradition</ref></hi> (2014)<ptr target="#cainA"/></p>
+               </note>
+            </div2>
+         </div1>
+      </back>
+      <tooltip_notes>
+         <div1 class="tooltip_templates">
+            <span id="cambridge" type="editorial" resp="JW"><p>After describing her own
+               educational journey, Wheatley advises students at the University of Cambridge
+               in New England to appreciate and "[i]mprove" (21) the privilege of their
+               education by "shunn[ing]" (25) the "transient sweetness" (29) of sin using a
+               variety of religious images. The University of Cambridge in New England is now
+               known as <a href="https://www.harvard.edu/about-harvard/harvard-glance/history/historical-facts"
+                  >Harvard University</a>. <a href="https://books.google.com/books?id=pyf-VckC5PgC">According to
+                     Katherine Clay Bassard</a>, Wheatley wrote this poem when she was about
+               fourteen years old (41). For more information on women's writing in the early
+               .<ptr target="#cambridgeA"/></p></span>
+            <span id="ardor" type="editorial" resp="JW"><p>Wheatley works from the premise,
+               commonly used among early women writers and the enslaved who were restricted
+               from intellectual pursuits like writing, that her desire to write is
+               "intrinsic" (1) or God-given, and therefore appropriate. The word "ardor" also
+               connotes physical desire and flame-like passion, according to the OED (n.3). <ptr target="#ardorA"/>
+            </p></span>
+            <span id="muse" type="editorial" resp="JW"><p>According to <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DM%3Aentry+group%3D31%3Aentry%3Dmusae-bio-1"
+               ><hi rend="italic">A Dictionary of Greek and Roman Biography and
+                  Mythology</hi></a>, the Muses are “inspiring goddesses of song" who
+               “presid[e] over the different kinds of poetry, and over the arts and sciences."
+               The “invocation of the muse” to aid the poet's work is often used by
+               neoclassical authors like those whom Wheatley has clearly read and was
+               influenced by, including Milton and Pope. However, Hilene Flanzenbaum suggests
+               that Wheatley’s notably frequent invocation of the muse is more significant
+               than formulaic or imitative--it is “the very means by which she usurps power
+               for herself and claims a berth for her own thoughts, emotions and desires. And
+               while some may claim that these functions accompany any appearance of the muse,
+               when the muses bestow their power on a black female slave, they transport
+               Wheatley to a domain surprisingly free of restriction and previously forbidden”
+               (<a href="">“Unprecedented Liberties” 75</a>). </p></span>
+            <span id="egyptian" type="editorial" resp="JW"><p>Wheatley here alludes to
+               <a href="">Exodus 10:21-22</a>, wherein the ninth plague of darkness
+               is visited upon Egypt. This reference is also in line with contemporary
+               Orientalist notions about Egypt and Egyptian religiosity, which was believed to
+               be full of occult practices. Early nineteenth-century British historian and
+               scholar Thomas Maurice explores these ideas of idolatry and superstition in
+               <a href="https://books.google.com/books?id=aItPAAAAYAAJ">Observations on
+                  the Remains of Ancient Egyptian Grandeur and Superstition</a>. A detailed
+               focus on the Egyptian religious practices can be found in the chapter
+               "Strictures on the superstitious rites of the Egyptians, particularly on the
+               Nefarious Worship paid to Beasts, Esteemed Sacred, and called in Scripture the
+               Abominations of Egypt" (74-83). <ptr target="#egyptA"/></p></span>
+            <span id="systems" type="editorial" resp="JW"><p>The sixteenth- and
+               seventeenth-century development of the microscope and the telescope had made
+               great scientific advancements possible, especially in astronomy. Possibly an
+               allusion to Alexander Pope's 1733-34 <a href="https://rpo.library.utoronto.ca/poems/essay-man-epistle-i"><hi
+                     rend="italic">Essay on Man</hi> (I.23-28)</a>, Wheatley here references
+               contemporary scientific belief about the plurality of worlds. <ptr
+                  target="#systemsA"/></p></span>
+            <span id="deign" type="editorial" resp="JW"><p> According to the Oxford
+               English Dictionary <a href="http://www.oed.com/view/Entry/49189"
+                  >deign</a> means "to think it worthy of oneself" or "to think fit"
+               (n.1a). Today, it typically has a negative connotation, though it does not
+               here. <ptr target="#deignA"/></p></span>
+            <span id="ethiop" type="editorial" resp="JW">
+               <p> According to the OED, the word <a href="http://www.oed.com"
+                  >Ethiop</a> would have been used during Wheatley's time most often to
+                  refer to "[a] black or dark-skinned person; a black African," and only
+                  occasionally to the country of Ethiopia, specifically (n.A). <ptr
+                     target="#ethiopA"/></p></span>
+            <span id="perdition" type="editorial" resp="JW"><p>In theological discussion,
+               the word <a href="http://www.oed.com/view/Entry/140642">perdition</a>
+               means "the state of final spiritual ruin or damnation; the consignment of
+               the unredeemed or wicked and impenitent soul to hell; the fate of those in
+               hell; eternal death" (OED, "perdition" xxx). <ptr target="#perditionA"
+               /></p></span>
+               
+               
+               <span id="view" type="editorial" resp="TH"><p>Wheatley's description of those who
+                  "view our sable race with scornful eye" (5) is a clear rejection of what <a href="https://books.google.com/books?id=pxaTAgAAQBAJ">Lena Hill describes
+                     as "ignorant" interpretations of "visual blackness" (37-38)</a>, as is her
+                  attribution of speech in direct discourse: "'Their color is a diabolic die'"
+                  (6). Henry Louis Gates argues that Wheatley's very presence as an author
+                  complicated assumptions of "natural" inferiority. For more about this topic,
+                  see Gates' <hi rend="italic"><a href="https://books.google.com/books?id=vzXnCwAAQBAJ">Figures in
+                     Black</a></hi> and Walt Nott's discussion of Wheatley's public persona
+                  in <a href="https://www.jstor.org/stable/468063">"From 'Uncultivated
+                     Barbarian' to 'Poetical Genius': The Public Presence of Phillis
+                     Wheatley."</a>
+                  <ptr target="#viewA"/></p></span>
+               <span id="brought" type="editorial" resp="JW"><p>The title of one Wheatley's most
+                  (in)famous poems, "On being brought from AFRICA to AMERICA" alludes to the
+                  experiences of many Africans who became subject to the <a href="http://www.unesco.org/new/en/social-and-human-sciences/themes/slave-route/transatlantic-slave-trade/"
+                     >transatlantic slave trade</a>. Wheatley uses biblical references and
+                  direct address to appeal to a Christian audience, while also defending the
+                  ability of her "sable race" to become "refin'd" through Christian theology.
+                  Henry Louis Gates, who in <a href=""><hi rend="italic">Figures in Black:
+                     Words, Signs, and the "Racial" Self</hi></a> (1989) situates Wheatley
+                  as an important voice in the eighteenth-century debate about natural human
+                  rights, summarizes the "recurrent suggestion that Wheatley has remained aloof
+                  from matters that were in any sense racial, or more correctly, 'positively'
+                  racial," as a "misreading" (74-75). Notable for the complexity of its brief
+                  discussion of blackness in the Christian slaveholding American republic, this
+                  poem in particular is frequently criticized for its apparent rejection of
+                  Africa and African-ness. However, Wheatley was working within a non-free
+                  context, and her critique of slavery is mediated by Christianity acquired as
+                  part of her enslavement. For a fuller exploration of Wheatley’s poem, see <a href=""><hi rend="italic">Authority and Female Authorship in Colonial
+                        America</hi>, by William Scheick (especially chapter 4)</a>. <ptr
+                           target="#broughtA"/></p></span>
+               <span id="cain" type="editorial" resp="JW"><p>The phrase "black as Cain" is a
+                  distortion of the biblical idea of the mark of Cain <a href="https://www.kingjamesbibleonline.org/Genesis-4-15/">(Genesis
+                     4:15)</a> and was used as justification for the enslavement of people of
+                  color. Many scholars point out that this was Wheatley's "most maligned poem,"
+                  <a href="https://books.google.com/books?id=pxaTAgAAQBAJ">(Hill 37)</a>
+                  which is ultimately about the inclusion of Africans in the "Christian family"
+                  and her critique of "ignorant" interpretations of "visual blackness" <a href="https://books.google.com/books?id=pxaTAgAAQBAJ">(37-38)</a>. For
+                  an interesting contemporary read of the mark of Cain in anti-abolitionist
+                  discourse, see Josiah Priest's <a href="https://books.google.com/books?id=nLgJAAAAIAAJ"><hi rend="italic"
+                        >Slavery as it Relates to the Negro</hi> (1843)</a>, where he rejects
+                  the possibility that dark-skinned peoples could be related to Adam by blood
+                  <a href="https://archive.org/details/slaveryasitrela00priegoog"
+                     >(134-136)</a>. For a larger reading of Wheatley's use of blackness and
+                  the role of blackness in the early American imagination, see Lena Hill's
+                  chapter "Witnessing Moral Authority in Pre-Abolition Literature," from <hi
+                     rend="italic"><a href="https://books.google.com/books?id=nLgJAAAAIAAJ"
+                        >Visualizing Blackness and the Creation of the African American Literary
+                        Tradition</a></hi> (2014)<ptr target="#cainA"/></p>
+               </span>
+         </div1>
+      </tooltip_notes>
    </text>
 
 
