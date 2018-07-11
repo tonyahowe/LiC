@@ -335,16 +335,6 @@
       <xs:attribute name="type" type="xs:NCName"/>
     </xs:complexType>
   </xs:element>
-  <xs:element name="placeName">
-    <xs:complexType>
-      <xs:simpleContent>
-        <xs:extension base="xs:NCName">
-          <xs:attribute name="key" use="required" type="xs:integer"/>
-          <xs:attribute name="type" use="required" type="xs:NCName"/>
-        </xs:extension>
-      </xs:simpleContent>
-    </xs:complexType>
-  </xs:element>
   <xs:element name="note">
     <xs:complexType mixed="true">
       <xs:sequence>
@@ -366,6 +356,9 @@
   </xs:element>
   <xs:element name="hi">
     <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:ref"/>
+      </xs:sequence>
       <xs:attribute name="rend" use="required" type="xs:NCName"/>
     </xs:complexType>
   </xs:element>
@@ -375,13 +368,16 @@
         <xs:element ref="ns1:hi"/>
         <xs:element ref="ns1:lb"/>
       </xs:choice>
-      <xs:attribute name="target" use="required" type="xs:anyURI"/>
+      <xs:attribute name="target" type="xs:anyURI"/>
+      <xs:attribute name="url" type="xs:anyURI"/>
       <xs:attribute ref="xml:id"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="p">
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:hi"/>
+        <xs:element ref="ns1:placeName"/>
         <xs:element ref="ns1:ref"/>
         <xs:element ref="ns1:graphic"/>
         <xs:element ref="ns1:ptr"/>
@@ -444,6 +440,16 @@
       </xs:choice>
       <xs:attribute name="n" use="required" type="xs:integer"/>
       <xs:attribute name="rend" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="placeName">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:NCName">
+          <xs:attribute name="key" use="required" type="xs:integer"/>
+          <xs:attribute name="type" use="required" type="xs:NCName"/>
+        </xs:extension>
+      </xs:simpleContent>
     </xs:complexType>
   </xs:element>
 </xs:schema>
