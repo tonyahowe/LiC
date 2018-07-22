@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar ns="http://www.tei-c.org/ns/1.0" xmlns="http://relaxng.org/ns/structure/1.0"
-  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+<grammar ns="http://www.tei-c.org/ns/1.0" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
   <start>
     <element name="TEI">
       <attribute>
@@ -301,15 +300,7 @@
         <choice>
           <text/>
           <ref name="hi"/>
-          <element name="placeName">
-            <attribute name="key">
-              <data type="integer"/>
-            </attribute>
-            <attribute name="type">
-              <data type="NCName"/>
-            </attribute>
-            <data type="NCName"/>
-          </element>
+          <ref name="placeName"/>
         </choice>
       </oneOrMore>
     </element>
@@ -358,14 +349,26 @@
       <attribute name="rend">
         <data type="NCName"/>
       </attribute>
-      <text/>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="ref"/>
+        </choice>
+      </oneOrMore>
     </element>
   </define>
   <define name="ref">
     <element name="ref">
-      <attribute name="target">
-        <data type="anyURI"/>
-      </attribute>
+      <optional>
+        <attribute name="target">
+          <data type="anyURI"/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="url">
+          <data type="anyURI"/>
+        </attribute>
+      </optional>
       <optional>
         <attribute>
           <name ns="http://www.w3.org/XML/1998/namespace">id</name>
@@ -386,6 +389,8 @@
       <oneOrMore>
         <choice>
           <text/>
+          <ref name="hi"/>
+          <ref name="placeName"/>
           <ref name="ref"/>
           <element name="graphic">
             <attribute name="style">
@@ -457,6 +462,17 @@
           <ref name="note"/>
         </oneOrMore>
       </choice>
+    </element>
+  </define>
+  <define name="placeName">
+    <element name="placeName">
+      <attribute name="key">
+        <data type="integer"/>
+      </attribute>
+      <attribute name="type">
+        <data type="NCName"/>
+      </attribute>
+      <data type="NCName"/>
     </element>
   </define>
 </grammar>
