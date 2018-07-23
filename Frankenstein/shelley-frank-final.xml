@@ -179,7 +179,7 @@
          <div1 type="preface">
             <pb n="[vii]" facs="images/vii.jpg"/>
             <head>Preface.</head>
-            <p>THE <rs content="#circumstance"><ref target="#circumstance">event</ref></rs> on which this fiction is founded has been supposed, by Dr. <persName
+            <p>THE <rs content="#circumstance"><ref target="#circumstance" xml:id="circumstanceA">event</ref></rs> on which this fiction is founded has been supposed, by Dr. <persName
                   type="lccn" key="n50037924"><rs content="#darwin"><ref target="#darwin"
                         xml:id="darwinA">Darwin</ref></rs></persName>, and some of the physiological
                writers of <placeName type="tgn" key="7000084">Germany</placeName>, as not of
@@ -685,7 +685,7 @@
                         as I once did; and I ardently hope that the gratification of your wishes may
                         not be a serpent to sting you, as mine has been.</rs> I do not know that the
                         relation of my misfortunes will be useful to you, yet, if you are inclined, <pb n="[36]" facs="images/36.jpg"/> <rs
-                        content="rime_storytelling">listen to my tale</rs>. I believe that the
+                        content="rime_storytelling" xml:id="rime_storytellingA">listen to my tale</rs>. I believe that the
                      strange incidents connected with it will afford a view of nature, which may
                      enlarge your faculties and understanding. You will hear of powers and
                      occurrences, such as you have been accustomed to believe impossible: but I do
@@ -870,7 +870,7 @@
                         type="tgn" key="1035867">Thonon</placeName>: the inclemency of the weather
                      obliged us to remain a day confined to the inn. In this house I chanced to find
                      a volume of the works of <persName type="lccn" key="n80043375"><rs
-                           content="#agrippa">Cornelius Agrippa</rs></persName>. I opened it with
+                           content="#agrippa" xml:id="agrippaA">Cornelius Agrippa</rs></persName>. I opened it with
                      apathy; the theory which he attempts to demonstrate, and the <pb n="[52]" facs="images/52.jpg"/> wonderful facts
                      which he relates, soon changed this feeling into <rs content="#enthusiasm"
                         >enthusiasm</rs>. A new light seemed to dawn upon my mind; and, bounding
@@ -997,7 +997,7 @@
                <pb n="[61]" facs="images/61.jpg"/>
                <head>Chapter II</head>
                <said><p>WHEN I had attained the age of seventeen, my parents resolved that I should
-                     become a student at the university of <rs content="#ingolstadt"><placeName
+                     become a student at the university of <rs content="#ingolstadt" xml:id="ingolstadtA"><placeName
                            type="tgn" key="7017035">Ingolstadt</placeName></rs>. I had hitherto
                      attended the schools of <placeName type="tgn" key="7003746">Geneva</placeName>;
                      but my father thought it necessary, for the completion of my education, that I
@@ -2002,7 +2002,7 @@
                         them time is the only consolation. Those maxims of the Stoics, that death
                         was no evil, and that the mind of man ought to be superior to despair on the
                         eternal absence of a beloved object, ought not to be urged. <rs
-                           content="#cato">Even Cato wept over the dead body of his
+                           content="#cato" xml:id="catoA">Even Cato wept over the dead body of his
                         brother</rs>."</said></p>
                   <p><persName>Clerval</persName> spoke thus as we hurried through the streets; the
                      words impressed themselves on my mind, and I remembered them afterwards in
@@ -2481,7 +2481,7 @@
                         by you, dear lady, and your cousin."</said></p>
                   <p>Thus the poor sufferer tried to comfort others and herself. She indeed gained
                      the resignation she desired. But I, the true murderer, felt the <rs
-                        content="#worm">never-dying worm</rs> alive in my bosom, which allowed of no
+                        content="#worm" xml:id="wormA">never-dying worm</rs> alive in my bosom, which allowed of no
                      hope or consolation. <persName>Elizabeth</persName> also wept, and was unhappy;
                      but her's also was the misery of innocence, which, like a cloud that passes
                      over the fair moon, for a while hides, <pb n="[180]" facs="images/180.jpg"/> but cannot tarnish its brightness.
