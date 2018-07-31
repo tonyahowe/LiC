@@ -1,20 +1,21 @@
  <?xml version="1.0" encoding="UTF-8"?>
  
        <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="behn-oroonoko">
-         <teiHeader>
+         
+     
+ <teiHeader>
             <fileDesc>
                <titleStmt>
                   <title type="statusBar">Oroonoko, or, The royal slave: A True History</title>
                   <author>
-                     <person xml:id="MS" sex="F">
+                        <trait type="gender"><desc>Female</desc></trait>
                         <forename>Aphra</forename>
                         <surname>Behn</surname>
-                        <birth when="1640-12-14?">1640 December 14?</birth>
-                        <death when="1689-04-16">1689 April 16</death>
-                        <occupation>Writer</occupation>
-                        <trait type="Marital Status">Married</trait>
-                        <nationality>British</nationality>
-                     </person>
+                        <date when="1640-12-14">Birth: 1640 December 14?</date>
+                        <date when="1689-04-16">Death: 1689 April 16</date>
+                        <roleName>Writer</roleName>
+                        <affiliation>Married</affiliation>
+                        <country>British</country>
                   </author>
                   <respStmt>
                      <resp>Transcription, correction, editorial commentary, and markup</resp>
@@ -47,79 +48,77 @@
                      <idno>behn-oroonoko</idno> 
                   </authority>
                   <availability status="free">
-                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Published by
-                        Literature in Context under a Creative Commons Attribution-ShareAlike
-                        4.0 Unported License </licence>
+                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Published by Literature in Context under a Creative Commons Attribution-ShareAlike 4.0 Unported License </licence>
+                     <p>This text is incomplete and requires standardization of its annotation scheme; also, page images of the first edition would be a nice thing to have, but have not been sourced yet.</p>
                   </availability>
-                  <textDesc>
-                     <constitution status="incomplete">This text is incomplete and requires standardization of its annotation scheme; also, page images of the first edition would be a nice thing to have, but have not been sourced yet.</constitution>
-                  </textDesc>
                   <date>2018</date>
-               </publicationStmt>
-               <encodingDesc>
-                  <projectDesc>
-                     This text is prepared as part of the <i>Literature in Context</i> project, which provides an accessible, curated, edited, and marked-up selection of primary sources relevant to the study and the teaching of British and American literature of the 17th, 18th, and 19th centuries. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.
-                  </projectDesc>
-                  <editorialDecl>
-                     <interpretation>Research informing these annotations draws on publicly-accessible resources, with links provided where possible. Annotations have also included common knowledge, defined as information that can be found in multiple reliable sources. If you notice an error in these annotations, please contact lic.open.anthology@gmail.com.
-                     </interpretation>
-                     <normalization>Original spelling and capitalization is retained, though the long s has been silently modernized and ligatured forms are not encoded.</normalization>
-                     <hyphenation>Hyphenation has not been retained, except where necessary for the sense of the word.</hyphenation>
-                     <segmentation>Page breaks have been retained. Catchwords, signatures, and running headers have not.</segmentation>
-                     <correction>Materials have been transcribed from and checked against first editions, where possible. See the Sources section.</correction>
-                  </editorialDecl>
-                  <tagsDecl>
-                     <namespace name="http://www.tei-c.org/ns/1.0">
-                        <tagUsage gi="div">Unnumbered divs used.</tagUsage>
-                     </namespace>
-                  </tagsDecl>
-                  <classDecl>
-                     <taxonomy xml:id="LCCN">
-                        <bibl>Library of Congress Name Authority File</bibl>
-                     </taxonomy>
-                     <taxonomy xml:id="LCC">
-                        <bibl>Library of Congress Classification</bibl>
-                        <taxonomy xml:id="LCC">
-                      <bibl>English Short Title Catalogue Classification</bibl>
-                     <taxonomy xml:id="ESTC">
-                     <taxonomy xml:id="TGN">
-                        <bibl>Getty Thesaurus of Geographic Names</bibl>
-                     </taxonomy>
-                     <taxonomy xml:id="ORCID">
-                        <bibl>Open Researcher and Contributor ID</bibl>
-                     <taxonomy xml:id="SNAC">
-                           <bibl>Social Network in Archival Context ID</bibl>
-                     </taxonomy>
-                  </classDecl>
-               </encodingDesc>
+               </publicationStmt>             
                <sourceDesc>
-                  <biblStruct>
+                  <bibl>This edition has been prepared from the edition undertaken by the Oxford Text Archive, which reproduces the copy of the first edition in the Huntington Library, San Marino, California. This is Oxford Text Archive record number A27305. We corrected errors in the Oxford Text Archive against the Google Books digitized page images of the first edition: 
+                     <extent>[14], 239 [i.e. 223] p.</extent>
+                  </bibl>
+                  <biblStruct>                   
                      <monogr>
                         <author>
-                           <persName type="lccn" key="n 50006616"> Behn, Aphra, 1640-1689</persName>
-                           <persName type="snac" key="32579720"> Behn, Aphra, 1640-1689</persName>
+                           <persName type="lastFirst" key="behnA"> Behn, Aphra, 1640-1689</persName>                         
                         </author>
-                        <title type="marc245a">Oroonoko</title>
-                        <title type="marc245b">; or, The Royal Slave; a True History</title>
+                        <title type="main">Oroonoko</title>
+                        <title type="sub">; or, The Royal Slave; a True History</title>
                         <imprint>
                            <pubPlace>
-                              <placeName type="tgn" key="7011781">London</placeName>
+                              <placeName type="city" key="lon">London</placeName>
                            </pubPlace>
                            <publisher>Printed for Will. Canning</publisher>
                            <date when="1688">1688</date>
-                           <extent>[14], 239 [i.e. 223] p.   
-                           </extent>
+                           
                         </imprint>
-                     <sources>This edition has been prepared from the edition undertaken by the Oxford Text Archive, which reproduces the copy of the first edition in the Huntington Library, San Marino, California. This is Oxford Text Archive record number A27305. We corrected errors in the Oxford Text Archive against the Google Books digitized page images of the first edition: https://books.google.com/books?id=wehmAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage%26q%26f=false</sources>
+                     
                      </monogr>
                   </biblStruct>
                </sourceDesc>
             </fileDesc>
+            <encodingDesc>
+               <projectDesc> <p>
+                  This text is prepared as part of the <hi>Literature in Context</hi> project, which provides an accessible, curated, edited, and marked-up selection of primary sources relevant to the study and the teaching of British and American literature of the 17th, 18th, and 19th centuries. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.</p>
+               </projectDesc>
+               <editorialDecl>
+                  <interpretation><p>Research informing these annotations draws on publicly-accessible resources, with links provided where possible. Annotations have also included common knowledge, defined as information that can be found in multiple reliable sources. If you notice an error in these annotations, please contact lic.open.anthology@gmail.com.</p>
+                  </interpretation>
+                  <normalization><p>Original spelling and capitalization is retained, though the long s has been silently modernized and ligatured forms are not encoded.</p></normalization>
+                  <hyphenation><p>Hyphenation has not been retained, except where necessary for the sense of the word.</p></hyphenation>
+                  <segmentation><p>Page breaks have been retained. Catchwords, signatures, and running headers have not.</p></segmentation>
+                  <correction><p>Materials have been transcribed from and checked against first editions, where possible. See the Sources section.</p></correction>
+               </editorialDecl>
+               <tagsDecl>
+                  <namespace name="http://www.tei-c.org/ns/1.0">
+                     <tagUsage gi="div">Unnumbered divs used.</tagUsage>
+                  </namespace>
+               </tagsDecl>
+               <classDecl>
+                  <taxonomy xml:id="LCCN">
+                     <bibl>Library of Congress Name Authority File</bibl>
+                  </taxonomy>
+                  <taxonomy xml:id="LCC">
+                     <bibl>Library of Congress Classification</bibl>
+                  </taxonomy>
+                  <taxonomy xml:id="ESTC">
+                     <bibl>English Short Title Catalogue Classification</bibl>
+                  </taxonomy>
+                  
+                  <taxonomy xml:id="TGN">
+                     <bibl>Getty Thesaurus of Geographic Names</bibl>
+                  </taxonomy>
+                  <taxonomy xml:id="ORCID">
+                     <bibl>Open Researcher and Contributor ID</bibl>
+                  </taxonomy>
+                  <taxonomy xml:id="SNAC">
+                     <bibl>Social Network in Archival Context ID</bibl>
+                  </taxonomy>
+               </classDecl>
+            </encodingDesc>
          </teiHeader>
-     
-   </teiHeader>
    <text xml:lang="eng">
-      
+      <front>
          <div type="title_page">
             <p>OROONOKO: OR, THE Royal Slave.
 	A TRUE HISTORY.</p>
@@ -144,6 +143,7 @@ Your Lordship's most oblig'd and obedient Servant,
             </closer>
          </div>
       </front>
+      
       <pb/>
       <body>
       <div type="audio">[soundcloud url="https://api.soundcloud.com/playlists/232039842" params="auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" width="100%" height="450" iframe="true" /]</div>
