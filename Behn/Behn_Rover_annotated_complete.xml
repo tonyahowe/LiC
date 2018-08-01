@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-    Work on Extent and Taxonomy
+
+<!-- 
+    Extent
+    Taxonomy
 -->
-      
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>            
+    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="statusBar">A Modest Proposal</title>
-                
+                <title>The Rover, or, The Banished Cavaliers</title>
+               
                 <author>
-                    <trait type="gender"><desc>Male</desc></trait>
-                    <forename>Jonathan</forename>
-                    <surname>Swift</surname>
-                    <date when="1667-11-30">Birth: 1667 November 30</date>
-                    <date when="1745-10-19">Death: 1745 October 19</date>           
-                    <roleName>Priest, Writer, and Political Pamphleteer</roleName>
-                    <affiliation>"Single, but rumored to have secretly married"</affiliation>
-                    <country>Ireland</country>       
+                    <trait type="gender"><desc>Female</desc></trait>
+                    <forename>Aphra</forename>
+                    <surname>Behn</surname>
+                    <date when="1640-12-14">Birth: 1640 December 14?</date>
+                    <date when="1689-04-16">Death: 1689 April 16</date>
+                    <roleName>Writer</roleName>
+                    <affiliation>Married</affiliation>
+                    <country>Britain</country>               
                 </author>
-                
+               
                 <respStmt>
-                    <resp>Transcription, correction, editorial commentary, and markup</resp>
-                    <name>Staff and Research Assistants at The University of Virginia</name>
+                   <resp>Transcription, correction, editorial commentary, and markup</resp> 
+                    <name>Staff and Research Assistants at the University of Virginia</name>
+                    <name>Sara Brunstetter</name>   
                     <name>John O'Brien</name>
-                    <name>Sara Brunstetter</name>                  
-                </respStmt>
+                </respStmt> 
             </titleStmt>
-            
-            <publicationStmt>               
-                <publisher>Literature in Context</publisher>
+           
+            <publicationStmt>      
+               <publisher>Literature in Context</publisher>
                 <distributor>
-                    <orgName>Literature in Context</orgName>
+                   <orgName>Literature in Context</orgName>
                     <address>
                         <addrLine>Department of English, The University of Virginia</addrLine>
                         <addrLine>P. O. Box 400121</addrLine>
@@ -42,39 +43,54 @@
                     <email>jobrien@virginia.edu</email>
                 </distributor>
                 <authority>
-                    <idno>swift-aModest</idno> 
+                    <idno>behn-rover</idno>
                 </authority>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">                           Published by Literature in Context under a Creative Commons                             Attribution-ShareAlike 4.0 Unported License 
+                    <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Published by Literature in Context under a Creative Commons Attribution-ShareAlike 4.0 Unported License
                     </licence>
-                    <p>While free, this text is still incomplete and requires                                   standardization of its annotation scheme.
-                    </p>
-                </availability>           
+                    <p>This text is incomplete and requires standardization of its annotation scheme; also, page images of the first edition would be a nice thing to have, but have not been sourced yet.
+                    </p> 
+                </availability>
                 <date>2018</date>
-            </publicationStmt>    
-            
-            <sourceDesc>
-                <bibl>This edition has been prepared from the Project Gutenberg online e-text.
-                    <extent></extent>
-                </bibl>
+            </publicationStmt>
+           
+            <sourceDesc>  
+               <bibl>
+                  Originally published by the Text Creation Partnership; this edition has been annotated and edited for use in the Open Anthology of Literature by students in ENEC 3400, Restoration and Eighteenth Century British Theatre, in fall 2016.
+                  <extent>
+                     
+                  </extent>
+               </bibl>
                 <biblStruct>
                     <monogr>
                         <author>
-                            <persName type="lastFirst" key="swiftJ"> Swift, Johnathan, 1667-1745</persName>
+                            <persName type="lastFirst" key="behnA">
+                                Behn, Aphra; 1640-1689
+                            </persName>
                         </author>
-                        <title type="main">A Modest Proposal</title>
-                        <title type="sub">For preventing the Children of Poor People From being a Burthen to Their Parents or Country, and For making them Beneficial to the Publick</title>
+                        <title type="main">The Rover</title>
+                        <title type="sub">The Banished Cavaliers</title>
                         <imprint>
                             <pubPlace>
-                                <placeName type="country" key="ire">Ireland</placeName>
-                            </pubPlace>                           
-                            <date when="1729">1729</date>
-                        </imprint>                    
+                                <placeName type="city" key="lon">
+                                    London
+                                </placeName>
+                            </pubPlace>
+                            <publisher>
+                                Printed for John Amery et al.
+                            </publisher>
+                            <date when="1677">
+                                1677
+                            </date>
+                        </imprint>
                     </monogr>
-                </biblStruct>    
+                        <note>
+                            Behn adapted this play and its sequel, The Rover, Part 2, from Thomas Killigrew's Thomaso
+                        </note>                    
+                </biblStruct>              
             </sourceDesc>
         </fileDesc>
-        
+       
         <encodingDesc>
             <projectDesc> <p>
                 This text is prepared as part of the <hi>Literature in Context</hi> project, which provides an accessible, curated, edited, and marked-up selection of primary sources relevant to the study and the teaching of British and American literature of the 17th, 18th, and 19th centuries. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.</p>
@@ -93,11 +109,28 @@
                 </namespace>
             </tagsDecl>
             <classDecl>
-                <taxonomy xml:id="PLACEHOLDER">
-                    <bibl></bibl>
+                <taxonomy xml:id="LCCN">
+                    <bibl>Library of Congress Name Authority File</bibl>
+                </taxonomy>
+                <taxonomy xml:id="LCC">
+                    <bibl>Library of Congress Classification</bibl>
+                </taxonomy>
+                <taxonomy xml:id="ESTC">
+                    <bibl>English Short Title Catalogue Classification</bibl>
+                </taxonomy>
+                
+                <taxonomy xml:id="TGN">
+                    <bibl>Getty Thesaurus of Geographic Names</bibl>
+                </taxonomy>
+                <taxonomy xml:id="ORCID">
+                    <bibl>Open Researcher and Contributor ID</bibl>
+                </taxonomy>
+                <taxonomy xml:id="SNAC">
+                    <bibl>Social Network in Archival Context ID</bibl>
                 </taxonomy>
             </classDecl>
         </encodingDesc>
+        <profileDesc/>
     </teiHeader>
    
     <text>
