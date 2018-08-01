@@ -1,52 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Work on Extent and Taxonomy
+-->
+      
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
+    <teiHeader>            
         <fileDesc>
             <titleStmt>
-                <title>The Rover, or, The Banished Cavaliers</title>
-                <author>Aphra Behn</author>
- 
+                <title type="statusBar">A Modest Proposal</title>
+                
+                <author>
+                    <trait type="gender"><desc>Male</desc></trait>
+                    <forename>Jonathan</forename>
+                    <surname>Swift</surname>
+                    <date when="1667-11-30">Birth: 1667 November 30</date>
+                    <date when="1745-10-19">Death: 1745 October 19</date>           
+                    <roleName>Priest, Writer, and Political Pamphleteer</roleName>
+                    <affiliation>"Single, but rumored to have secretly married"</affiliation>
+                    <country>Ireland</country>       
+                </author>
+                
+                <respStmt>
+                    <resp>Transcription, correction, editorial commentary, and markup</resp>
+                    <name>Staff and Research Assistants at The University of Virginia</name>
+                    <name>John O'Brien</name>
+                    <name>Sara Brunstetter</name>                  
+                </respStmt>
             </titleStmt>
-            <publicationStmt>
+            
+            <publicationStmt>               
+                <publisher>Literature in Context</publisher>
                 <distributor>
-                    <name>Originally published by the Text Creation Partnership; this edition has been annotated and edited for use in the Open Anthology of Literature by students in ENEC 3400, Restoration and Eighteenth Century British Theatre, in fall 2016</name>
+                    <orgName>Literature in Context</orgName>
                     <address>
-                        <addrLine>University of Virginia Department of English</addrLine>
+                        <addrLine>Department of English, The University of Virginia</addrLine>
                         <addrLine>P. O. Box 400121</addrLine>
                         <addrLine>Charlottesville, VA </addrLine>
                         <addrLine>22904-4121</addrLine>
                     </address>
                     <email>jobrien@virginia.edu</email>
                 </distributor>
+                <authority>
+                    <idno>swift-aModest</idno> 
+                </authority>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed by
-                        the University of Virginia under a Creative Commons Attribution-ShareAlike
-                        3.0 Unported License </licence>
-                </availability>
-            </publicationStmt>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">                           Published by Literature in Context under a Creative Commons                             Attribution-ShareAlike 4.0 Unported License 
+                    </licence>
+                    <p>While free, this text is still incomplete and requires                                   standardization of its annotation scheme.
+                    </p>
+                </availability>           
+                <date>2018</date>
+            </publicationStmt>    
+            
             <sourceDesc>
-                <biblFull>
-                    <titleStmt>
-                        <title>The Rover, or, The Banished Cavaliers</title>
-                        <author>Behn, Aphra, 1640-1689</author>
-                    </titleStmt>
-                    <editionStmt>
-                        <p/>
-                    </editionStmt>
-                    <publicationStmt>
-                        <publisher>Printed for John Amery et al.</publisher>
-                        <pubPlace>London</pubPlace>
-                        <date>1677</date>
-                        <idno type="isbn"/>
-                    </publicationStmt>
-                    <notesStmt>
-                        <note>Behn adapted this play and its sequel, The Rover, Part 2, from Thomas Killigrew's Thomaso</note>
-                    </notesStmt>
-                </biblFull>
+                <bibl>This edition has been prepared from the Project Gutenberg online e-text.
+                    <extent></extent>
+                </bibl>
+                <biblStruct>
+                    <monogr>
+                        <author>
+                            <persName type="lastFirst" key="swiftJ"> Swift, Johnathan, 1667-1745</persName>
+                        </author>
+                        <title type="main">A Modest Proposal</title>
+                        <title type="sub">For preventing the Children of Poor People From being a Burthen to Their Parents or Country, and For making them Beneficial to the Publick</title>
+                        <imprint>
+                            <pubPlace>
+                                <placeName type="country" key="ire">Ireland</placeName>
+                            </pubPlace>                           
+                            <date when="1729">1729</date>
+                        </imprint>                    
+                    </monogr>
+                </biblStruct>    
             </sourceDesc>
         </fileDesc>
-        <profileDesc/>
+        
+        <encodingDesc>
+            <projectDesc> <p>
+                This text is prepared as part of the <hi>Literature in Context</hi> project, which provides an accessible, curated, edited, and marked-up selection of primary sources relevant to the study and the teaching of British and American literature of the 17th, 18th, and 19th centuries. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.</p>
+            </projectDesc>
+            <editorialDecl>
+                <interpretation><p>Research informing these annotations draws on publicly-accessible resources, with links provided where possible. Annotations have also included common knowledge, defined as information that can be found in multiple reliable sources. If you notice an error in these annotations, please contact lic.open.anthology@gmail.com.</p>
+                </interpretation>
+                <normalization><p>Original spelling and capitalization is retained, though the long s has been silently modernized and ligatured forms are not encoded.</p></normalization>
+                <hyphenation><p>Hyphenation has not been retained, except where necessary for the sense of the word.</p></hyphenation>
+                <segmentation><p>Page breaks have been retained. Catchwords, signatures, and running headers have not.</p></segmentation>
+                <correction><p>Materials have been transcribed from and checked against first editions, where possible. See the Sources section.</p></correction>
+            </editorialDecl>
+            <tagsDecl>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi="div">Unnumbered divs used.</tagUsage>
+                </namespace>
+            </tagsDecl>
+            <classDecl>
+                <taxonomy xml:id="PLACEHOLDER">
+                    <bibl></bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
     </teiHeader>
+   
     <text>
         
         <front>
