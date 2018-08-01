@@ -1,28 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+   Extent
+   Taxonomy
+-->
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title type="main"> The rape of the Lock: an heroi-comical poem in five canto's </title>
-            <author>Pope, Alexander, 1688-1744</author>
+            
+            <author>
+               <trait type="gender"><desc>Male</desc></trait>
+               <forename>Alexander</forename>
+               <surname>Pope</surname>
+               <date when="1688">Birth: 1688 May 21</date>
+               <date when="1744">Death: 1744 May 30</date>
+               <roleName>Writer and Poet</roleName>
+               <affiliation>Single</affiliation>
+               <country>England</country>
+            </author>
+            
             <respStmt>
-               <resp>creation of machine-readable version</resp>
-               <name>Burnard, Lou</name>
+               <resp>
+                  A: Creation of machine-readable version 
+                  <lb/>
+                  B: Transcription, correction, editorial commentary, and markup
+               </resp>
+               <name>A: Burnard, Lou</name>
+               <name>B: John O'Brien</name>
+               <name>B: Sara Brunstetter</name>             
             </respStmt>
          </titleStmt>
+         
+         
          <publicationStmt>
-            <authority xml:id="burlo1"> deposited by <name type="person">Burnard, Lou</name>
-               <address>
-                  <addrLine>
-                     <name key="oucs" type="organisation">Originally produced by Oxford University
-                        Computing Services, revised and annotated for the Open Anthology of
-                        Literature at the University of Virginia</name>
-                  </addrLine>
-                  <addrLine>13 Banbury Road</addrLine>
-                  <addrLine>Oxford</addrLine>
-                  <addrLine>OX2 6NN</addrLine>
-               </address>
-            </authority>
+            <publisher>Literature in Context</publisher>            
             <distributor>
                <name>Open Anthology of Literature</name>
                <address>
@@ -33,60 +46,66 @@
                </address>
                <email>jobrien@virginia.edu</email>
             </distributor>
-
+            <authority xml:id="burlo1"> 
+               <idno>pope-rape</idno>
+               <name type="person">Deposited by Burnard, Lou</name>
+               <address>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+            </authority>
             <availability status="free">
-               <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed by the
-                  University of Virginia under a Creative Commons Attribution-ShareAlike 3.0
-                  Unported License </licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Published by Literature in Context under a Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+               <p>While free, this text is still incomplete and requires standardization of its annotation scheme</p>
             </availability>
          </publicationStmt>
+         
          <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title> The rape of the Lock : an heroi-comical poem in five canto's </title>
-                  <author>Pope, Alexander, 1688-1744</author>
-               </titleStmt>
-               <editionStmt>
-                  <p>A Scolar Press facsimile of the edition of 1714</p>
-               </editionStmt>
-               <publicationStmt>
-                  <publisher>Scolar Press</publisher>
-                  <pubPlace>Menston</pubPlace>
-                  <date>1969</date>
-                  <idno type="isbn">854170634</idno>
-               </publicationStmt>
-               <notesStmt>
-                  <note>1714 ed.</note>
-               </notesStmt>
-            </biblFull>
+            <bibl>
+               Originally produced by Oxford University Computing Services (13 Banbury Road, Oxford), revised and annotated for the Open Anthology of Literature at the University of Virginia.
+               <extent></extent>
+            </bibl>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName type="lastFirst" key="PopeA">Alexander Pope; 1688-1744</persName>
+                  </author>
+                  <title type="main">The Rape of the Lock</title>
+                  <title type="sub">An heroi-comical poem in five canto's</title>
+                  <imprint>
+                     <pubPlace>
+                        <placeName type="country" key="lon">London</placeName>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>              
          </sourceDesc>
       </fileDesc>
+      
       <encodingDesc>
+         <projectDesc> <p>
+            This text is prepared as part of the <hi>Literature in Context</hi> project, which provides an accessible, curated, edited, and marked-up selection of primary sources relevant to the study and the teaching of British and American literature of the 17th, 18th, and 19th centuries. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.</p>
+         </projectDesc>
+         <editorialDecl>
+            <interpretation><p>Research informing these annotations draws on publicly-accessible resources, with links provided where possible. Annotations have also included common knowledge, defined as information that can be found in multiple reliable sources. If you notice an error in these annotations, please contact lic.open.anthology@gmail.com.</p>
+            </interpretation>
+            <normalization><p>Original spelling and capitalization is retained, though the long s has been silently modernized and ligatured forms are not encoded.</p></normalization>
+            <hyphenation><p>Hyphenation has not been retained, except where necessary for the sense of the word.</p></hyphenation>
+            <segmentation><p>Page breaks have been retained. Catchwords, signatures, and running headers have not.</p></segmentation>
+            <correction><p>Materials have been transcribed from and checked against first editions, where possible. See the Sources section.</p></correction>
+         </editorialDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="div">Unnumbered divs used.</tagUsage>
+            </namespace>
+         </tagsDecl>
          <classDecl>
-            <taxonomy xml:id="OTASH">
-               <bibl>University of Oxford Text Archive Subject Headings</bibl>
-            </taxonomy>
-            <taxonomy xml:id="LCSH">
-               <bibl>Library of Congress Subject Headings</bibl>
+            <taxonomy xml:id="">
+               <bibl></bibl>
             </taxonomy>
          </classDecl>
       </encodingDesc>
-      <profileDesc>
-         <creation>
-            <date notAfter="1714"/>
-         </creation>
-         <langUsage>
-            <language ident="eng">English</language>
-         </langUsage>
-         <textClass>
-            <keywords scheme="#LCSH">
-               <term type="genre">English poetry -- 18th century</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="2010-09-27">Header normalised</change>
-      </revisionDesc>
    </teiHeader>
   <text>
    <body>
