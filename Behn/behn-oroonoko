@@ -3,10 +3,11 @@
        <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="behn-oroonoko">
          
      
- <teiHeader>
+          <teiHeader>
             <fileDesc>
                <titleStmt>
                   <title type="statusBar">Oroonoko, or, The royal slave: A True History</title>
+                  
                   <author>
                         <trait type="gender"><desc>Female</desc></trait>
                         <forename>Aphra</forename>
@@ -15,8 +16,9 @@
                         <date when="1689-04-16">Death: 1689 April 16</date>
                         <roleName>Writer</roleName>
                         <affiliation>Married</affiliation>
-                        <country>British</country>
+                        <country>Britain</country>
                   </author>
+                  
                   <respStmt>
                      <resp>Transcription, correction, editorial commentary, and markup</resp>
                      <name>Students of The University of Virginia</name>
@@ -29,9 +31,10 @@
                      <name>Simon Sarkodie</name>
                      <name>Kristian Smith</name>
                      <name>Michael Van Hoose</name>
-                     <name>Alissa Winn</name>
+                     <name>Alissa Winn</name>                   
                   </respStmt>
                </titleStmt>
+               
                <publicationStmt>
                   <publisher>Literature in Context</publisher>
                   <distributor>
@@ -52,7 +55,8 @@
                      <p>This text is incomplete and requires standardization of its annotation scheme; also, page images of the first edition would be a nice thing to have, but have not been sourced yet.</p>
                   </availability>
                   <date>2018</date>
-               </publicationStmt>             
+               </publicationStmt>    
+               
                <sourceDesc>
                   <bibl>This edition has been prepared from the edition undertaken by the Oxford Text Archive, which reproduces the copy of the first edition in the Huntington Library, San Marino, California. This is Oxford Text Archive record number A27305. We corrected errors in the Oxford Text Archive against the Google Books digitized page images of the first edition: 
                      <extent>[14], 239 [i.e. 223] p.</extent>
@@ -60,7 +64,9 @@
                   <biblStruct>                   
                      <monogr>
                         <author>
-                           <persName type="lastFirst" key="behnA"> Behn, Aphra, 1640-1689</persName>                         
+                           <persName type="lastFirst" key="behnA"> 
+                              Behn, Aphra; 1640-1689
+                           </persName>                         
                         </author>
                         <title type="main">Oroonoko</title>
                         <title type="sub">; or, The Royal Slave; a True History</title>
@@ -69,10 +75,8 @@
                               <placeName type="city" key="lon">London</placeName>
                            </pubPlace>
                            <publisher>Printed for Will. Canning</publisher>
-                           <date when="1688">1688</date>
-                           
-                        </imprint>
-                     
+                           <date when="1688">1688</date>                           
+                        </imprint>                    
                      </monogr>
                   </biblStruct>
                </sourceDesc>
@@ -117,6 +121,7 @@
                </classDecl>
             </encodingDesc>
          </teiHeader>
+	 
    <text xml:lang="eng">
       <front>
          <div type="title_page">
