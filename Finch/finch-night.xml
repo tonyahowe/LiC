@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="finch-night">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="finch-nightingale">
    <teiHeader xml:lang="en">
       <fileDesc>
          <titleStmt>
@@ -32,7 +32,7 @@
                <email>thowe@marymount.edu</email>
             </distributor>
             <authority>
-               <idno>finch-night</idno>
+               <idno>finch-nightingale</idno>
                <!-- we need to develop a plan for these identifications -->
             </authority>
             <availability status="free">
@@ -59,13 +59,13 @@
                   <title type="marc245c">Written by the Right Honourable Anne, countess of
                      Winchelsea.</title>
                   <imprint>
-                     <pubPlace type="marc260a">
+                     <pubPlace>
                         <placeName type="tgn" key="7011781">London</placeName>
                      </pubPlace>
-                     <publisher type="marc260b">Printed by J[ohn] B[arber]</publisher>
-                     <publisher type="marc260b">sold by W. Taylor [etc.]</publisher>
-                     <date type="marc260c" when="1714">1714</date>
-                     <extent type="marc300">4 p.l., 390 p. 19 cm. <idno type="lcc">PR3765.W57 A7
+                     <publisher>Printed by J[ohn] B[arber]</publisher>
+                     <publisher>sold by W. Taylor [etc.]</publisher>
+                     <date when="1714">1714</date>
+                     <extent>4 p.l., 390 p. 19 cm. <idno type="lcc">PR3765.W57 A7
                            1714</idno>
                      </extent>
                      <note>This book first appeared in 1713 undert the imprints of John Barber and
@@ -78,13 +78,13 @@
                         title page. All page images are sourced from the Library of Congress.</note>
                   </imprint>
                   <imprint>
-                     <pubPlace type="marc260a">
+                     <pubPlace>
                         <placeName type="tgn" key="7011781">London</placeName>
                      </pubPlace>
-                     <publisher type="marc260b">Printed by John Barber on Lambeth-Hill</publisher>
-                     <publisher type="marc260b">Sold by John Morphew near Stationer's
+                     <publisher>Printed by John Barber on Lambeth-Hill</publisher>
+                     <publisher>Sold by John Morphew near Stationer's
                         Hall</publisher>
-                     <date type="marc260c" when="1713">1713</date>
+                     <date when="1713">1713</date>
                      <extent>[8],390p. ; 8°</extent>
                   </imprint>
                   <imprint>
@@ -99,25 +99,25 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <projectDesc> This text is prepared as part of the <i>Literature in Context</i> project,
+         <projectDesc> <p>This text is prepared as part of the <hi rend="italic">Literature in Context</hi> project,
             which provides an accessible, curated, and marked-up selection of primary sources
             relevant to the study and the teaching of British and American literature of the 18th
             century. This project is funded by the National Endowment for the Humanities and
-            developed by faculty at The University of Virginia and Marymount University. </projectDesc>
+            developed by faculty at The University of Virginia and Marymount University. </p></projectDesc>
          <editorialDecl>
-            <interpretation>Research informing these annotations draws on publicly-accessible
+            <interpretation><p>Research informing these annotations draws on publicly-accessible
                resources, with links provided where possible. Annotations have also included common
                knowledge, defined as information that can be found in multiple reliable sources. If
                you notice an error in these annotations, please contact
-               lic.open.anthology@gmail.com. </interpretation>
-            <normalization>Original spelling and capitalization is retained, though the long s has
-               been silently modernized and ligatured forms are not encoded.</normalization>
-            <hyphenation>Hyphenation has not been retained, except where necessary for the sense of
-               the word.</hyphenation>
-            <segmentation>Page breaks have been retained. Catchwords, signatures, and running
-               headers have not.</segmentation>
-            <correction>Materials have been transcribed from and checked against first editions,
-               where possible. See the Sources section.</correction>
+               lic.open.anthology@gmail.com. </p></interpretation>
+            <normalization><p>Original spelling and capitalization is retained, though the long s has
+               been silently modernized and ligatured forms are not encoded.</p></normalization>
+            <hyphenation><p>Hyphenation has not been retained, except where necessary for the sense of
+               the word.</p></hyphenation>
+            <segmentation><p>Page breaks have been retained. Catchwords, signatures, and running
+               headers have not.</p></segmentation>
+            <correction><p>Materials have been transcribed from and checked against first editions,
+               where possible. See the Sources section.</p></correction>
          </editorialDecl>
          <tagsDecl>
             <namespace name="http://www.tei-c.org/ns/1.0">
@@ -125,16 +125,16 @@
             </namespace>
          </tagsDecl>
          <classDecl>
-            <taxonomy xml:id="LCCN">
+            <taxonomy xml:id="lccn">
                <bibl>Library of Congress Name Authority File</bibl>
             </taxonomy>
-            <taxonomy xml:id="LCC">
+            <taxonomy xml:id="lcc">
                <bibl>Library of Congress Classification</bibl>
             </taxonomy>
-            <taxonomy xml:id="TGN">
+            <taxonomy xml:id="tgn">
                <bibl>Getty Thesaurus of Geographic Names</bibl>
             </taxonomy>
-            <taxonomy xml:id="ORCID">
+            <taxonomy xml:id="orcid">
                <bibl>Open Researcher and Contributor ID</bibl>
             </taxonomy>
          </classDecl>
@@ -166,7 +166,7 @@
          <div1 type="poem">
             <pb n="200" facs="images/FN-200.jpg"/>
             <head type="title"><hi rend="italic">To the </hi><ref target="#nightingale"
-                  xml:id="nightingaleA"><rs content="#nightingale">NIGHTINGALE</rs></ref>.</head>
+               xml:id="nightingaleA"><rs content="#nightingale">NIGHTINGALE</rs></ref>.</head>
             <lg type="rhymed couplets">
                <l n="1">EXert thy Voice, Sweet Harbinger of Spring</l>
                <l n="2" rend="indent">This Moment is thy Time to Sing,</l>
