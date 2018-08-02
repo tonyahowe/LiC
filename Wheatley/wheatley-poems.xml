@@ -52,16 +52,16 @@
                   <author>
                      <persName>Wheatley, Phillis, 1753-1784</persName>
                   </author>
-                  <title type="marc245a">Poems on various subjects, Religious and Moral</title>
+                  <title>Poems on various subjects, Religious and Moral</title>
                   <imprint>
-                     <extent type="marc300">[9],124p., 18cm </extent>
-                     <idno tpye="lcc">PS886.W5 1773</idno>
-                     <pubPlace type="marc260a">
+                     <extent>[9],124p., 18cm </extent>
+                     <idno>PS886.W5 1773</idno>
+                     <pubPlace>
                         <placeName type="TGN" key="7011781">London</placeName>
                      </pubPlace>
-                     <publisher type="marc260b">Printed for A. Bell</publisher>
-                     <publisher type="marc260b">bookseller, Aldgate</publisher>
-                     <date type="marc260c" when="1773">1773</date>
+                     <publisher>Printed for A. Bell</publisher>
+                     <publisher>bookseller, Aldgate</publisher>
+                     <date when="1773">1773</date>
                      <note>Page images sourced from the first edition housed in the Library of
                         Congress.</note>
                   </imprint>
@@ -101,16 +101,16 @@
                where possible. See the Sources section.</p></correction>
          </editorialDecl>
          <classDecl>
-            <taxonomy xml:id="LCCN">
+            <taxonomy xml:id="lccn">
                <bibl>Library of Congress Name Authority File</bibl>
             </taxonomy>
-            <taxonomy xml:id="LCC">
+            <taxonomy xml:id="lcc">
                <bibl>Library of Congress Classification</bibl>
             </taxonomy>
-            <taxonomy xml:id="TGN">
+            <taxonomy xml:id="tgn">
                <bibl>Getty Thesaurus of Geographic Names</bibl>
             </taxonomy>
-            <taxonomy xml:id="ORCID">
+            <taxonomy xml:id="orcid">
                <bibl>Open Researcher and Contributor ID</bibl>
             </taxonomy>
          </classDecl>
@@ -309,121 +309,121 @@
 
          <div1 type="poem" id="DIV1.193">
             <head>TO MAECENAS.</head>
-            <lg type="verse" id="LG1280">
-               <l id="L6406">MAECENAS, you, beneath the myrtle shade,</l>
-               <l id="L6407">Read o'er what poets sung, and shepherds play'd.</l>
-               <l id="L6408">What felt those poets but you feel the same?</l>
-               <l id="L6409">Does not your soul possess the sacred flame?</l>
-               <l id="L6410">Their noble strains your equal genius shares</l>
-               <l id="L6411">In softer language, and diviner airs.</l>
+            <lg type="heroic couplets" id="LG1280">
+               <l id="1">MAECENAS, you, beneath the myrtle shade,</l>
+               <l id="2">Read o'er what poets sung, and shepherds play'd.</l>
+               <l id="3">What felt those poets but you feel the same?</l>
+               <l id="4">Does not your soul possess the sacred flame?</l>
+               <l id="5">Their noble strains your equal genius shares</l>
+               <l id="6">In softer language, and diviner airs.</l>
             </lg>
-            <lg type="verse" id="LG1281">
-               <l rend="indent" id="L6412">While <hi rend="italic">Homer</hi> paints, lo!
+            <lg type="heroic couplets" id="LG1281">
+               <l rend="indent" id="7">While <hi rend="italic">Homer</hi> paints, lo!
                   circumfus'd in air,</l>
-               <l id="L6413">Celestial Gods in mortal forms appear;</l>
+               <l id="9">Celestial Gods in mortal forms appear;</l>
                <pb n="10" facs="images/WP-0010.png"/>
-               <l id="L6414">Swift as they move hear each recess rebound,</l>
-               <l id="L6415">Heav'n quakes, earth trembles, and the shores resound.</l>
-               <l id="L6416">Great Sire of verse, before my mortal eyes,</l>
-               <l id="L6417">The lightnings blaze across the vaulted skies,</l>
-               <l id="L6418">And, as the thunder shakes the heav'nly plains,</l>
-               <l id="L6419">A deep-felt horror thrills through all my veins.</l>
-               <l id="L6420">When gentler strains demand thy graceful song,</l>
-               <l id="L6421">The length'ning line moves languishing along.</l>
-               <l id="L6422">When great <hi rend="italic">Patroclus</hi> courts <hi rend="italic"
+               <l id="10">Swift as they move hear each recess rebound,</l>
+               <l id="11">Heav'n quakes, earth trembles, and the shores resound.</l>
+               <l id="12">Great Sire of verse, before my mortal eyes,</l>
+               <l id="12">The lightnings blaze across the vaulted skies,</l>
+               <l id="14">And, as the thunder shakes the heav'nly plains,</l>
+               <l id="15">A deep-felt horror thrills through all my veins.</l>
+               <l id="16">When gentler strains demand thy graceful song,</l>
+               <l id="17">The length'ning line moves languishing along.</l>
+               <l id="18">When great <hi rend="italic">Patroclus</hi> courts <hi rend="italic"
                      >Achilles'</hi> aid,</l>
-               <l id="L6423">The grateful tribute of my tears is paid;</l>
-               <l id="L6424">Prone on the shore he feels the pangs of love,</l>
-               <l id="L6425">And stern <hi rend="italic">Pelides</hi> tend'rest passions move.</l>
+               <l id="19">The grateful tribute of my tears is paid;</l>
+               <l id="20">Prone on the shore he feels the pangs of love,</l>
+               <l id="21">And stern <hi rend="italic">Pelides</hi> tend'rest passions move.</l>
             </lg>
-            <lg type="verse" id="LG1282">
-               <l rend="indent" id="L6426">Great <hi rend="italic">Maro's </hi>strain in heav'nly
+            <lg type="heroic couplets" id="LG1282">
+               <l rend="indent" id="22">Great <hi rend="italic">Maro's </hi>strain in heav'nly
                   numbers flows,</l>
-               <l id="L6427">The <hi rend="italic">Nine</hi> inspire, and all the bosom glows.</l>
-               <l id="L6428">O could I rival thine and <hi rend="italic">Virgil</hi>'s page,</l>
-               <l id="L6429">Or claim the <hi rend="italic">Muses</hi> with the <hi rend="italic"
+               <l id="23">The <hi rend="italic">Nine</hi> inspire, and all the bosom glows.</l>
+               <l id="24">O could I rival thine and <hi rend="italic">Virgil</hi>'s page,</l>
+               <l id="25">Or claim the <hi rend="italic">Muses</hi> with the <hi rend="italic"
                      >Mantuan</hi> Sage;</l>
-               <l id="L6430">Soon the same beauties should my mind adorn,</l>
-               <l id="L6431">And the same ardors in my soul should burn:</l>
-               <l id="L6432">Then should my song in bolder notes arise,</l>
-               <l id="L6433">And all my numbers pleasingly surprize;</l>
+               <l id="26">Soon the same beauties should my mind adorn,</l>
+               <l id="27">And the same ardors in my soul should burn:</l>
+               <l id="28">Then should my song in bolder notes arise,</l>
+               <l id="29">And all my numbers pleasingly surprize;</l>
                <pb n="11" facs="images/WP-0011.png"/>
-               <l id="L6434">But here I sit, and mourn a grov'ling mind,</l>
-               <l id="L6435">That fain would mount, and ride upon the wind.</l>
+               <l id="30">But here I sit, and mourn a grov'ling mind,</l>
+               <l id="31">That fain would mount, and ride upon the wind.</l>
             </lg>
-            <lg type="verse" id="LG1283">
+            <lg type="heroic couplets" id="LG1283">
                <l rend="indent" id="L6436">Not you, my friend, these plaintive strains become,</l>
-               <l id="L6437">Not you, whose bosom is the <hi rend="italic">Muses</hi> home;</l>
-               <l id="L6438">When they from tow'ring <hi rend="italic">Helicon</hi> retire,</l>
-               <l id="L6439">They fan in you the bright immortal fire,</l>
-               <l id="L6440">But I less happy, cannot raise the song,</l>
-               <l id="L6441">The fault'ring music dies upon my tongue.</l>
+               <l id="32">Not you, whose bosom is the <hi rend="italic">Muses</hi> home;</l>
+               <l id="33">When they from tow'ring <hi rend="italic">Helicon</hi> retire,</l>
+               <l id="34">They fan in you the bright immortal fire,</l>
+               <l id="35">But I less happy, cannot raise the song,</l>
+               <l id="36">The fault'ring music dies upon my tongue.</l>
             </lg>
-            <lg type="verse" id="LG1284">
-               <l rend="indent" id="L6442">The happier <hi rend="italic">Terence</hi>
+            <lg type="heroic couplets" id="LG1284">
+               <l rend="indent" id="37">The happier <hi rend="italic">Terence</hi>
                   <note n="*" id="p11.n1">He was an <hi rend="italic">African</hi> by birth.</note>
                   all the choir inspir'd,</l>
-               <l id="L6443">His soul replenish'd, and his bosom fir'd;</l>
-               <l id="L6444">But say, ye <hi rend="italic">Muses</hi>, why this partial grace,</l>
-               <l id="L6445">To one alone of <hi rend="italic">Afric</hi>'s sable race;</l>
-               <l id="L6446">From age to age transmitting thus his name</l>
-               <l id="L6447">With the first glory in the rolls of fame?</l>
+               <l id="38">His soul replenish'd, and his bosom fir'd;</l>
+               <l id="39">But say, ye <hi rend="italic">Muses</hi>, why this partial grace,</l>
+               <l id="40">To one alone of <hi rend="italic">Afric</hi>'s sable race;</l>
+               <l id="41">From age to age transmitting thus his name</l>
+               <l id="42">With the first glory in the rolls of fame?</l>
             </lg>
-            <lg type="verse" id="LG1285">
-               <l rend="indent" id="L6448">Thy virtues, great <hi rend="italic">Maecenas!</hi> shall
+            <lg type="heroic couplets" id="LG1285">
+               <l rend="indent" id="43">Thy virtues, great <hi rend="italic">Maecenas!</hi> shall
                   be sung</l>
-               <l id="L6449">In praise of him, from whom those virtues sprung:</l>
+               <l id="44">In praise of him, from whom those virtues sprung:</l>
                <pb n="12" facs="images/WP-0012.png"/>
-               <l id="L6450">While blooming wreaths around thy temples spread,</l>
-               <l id="L6451">I'll snatch a laurel from thine honour'd head,</l>
-               <l id="L6452">While you indulgent smile upon the deed.</l>
+               <l id="45">While blooming wreaths around thy temples spread,</l>
+               <l id="46">I'll snatch a laurel from thine honour'd head,</l>
+               <l id="47">While you indulgent smile upon the deed.</l>
             </lg>
 
 
 
-            <lg type="verse" id="LG1286">
-               <l rend="indent" id="L6453">As long as <hi rend="italic">Thames</hi> in streams
+            <lg type="heroic couplets" id="LG1286">
+               <l rend="indent" id="48">As long as <hi rend="italic">Thames</hi> in streams
                   majestic flows,</l>
-               <l id="L6454">Or <hi rend="italic">Naiads</hi> in their oozy beds repose</l>
-               <l id="L6455">While <hi rend="italic">Phoebus</hi> reigns above the starry train,</l>
-               <l id="L6456">While bright <hi rend="italic">Aurora</hi> purples o'er the main,</l>
-               <l id="L6457">So long, great Sir, the muse thy praise shall sing,</l>
-               <l id="L6458">So long thy praise shall make <hi rend="italic">Parnassus</hi>
+               <l id="48">Or <hi rend="italic">Naiads</hi> in their oozy beds repose</l>
+               <l id="50">While <hi rend="italic">Phoebus</hi> reigns above the starry train,</l>
+               <l id="51">While bright <hi rend="italic">Aurora</hi> purples o'er the main,</l>
+               <l id="52">So long, great Sir, the muse thy praise shall sing,</l>
+               <l id="53">So long thy praise shall make <hi rend="italic">Parnassus</hi>
                   ring:</l>
-               <l id="L6459">Then grant, <hi rend="italic">Maecenas</hi>, thy paternal rays,</l>
-               <l id="L6460">Hear me propitious, and defend my lays.</l>
+               <l id="54">Then grant, <hi rend="italic">Maecenas</hi>, thy paternal rays,</l>
+               <l id="55">Hear me propitious, and defend my lays.</l>
             </lg>
          </div1>
          <pb n="13" facs="images/WP-0013.png"/>
          <div1 type="poem" id="DIV1.194">
             <head>ON VIRTUE.</head>
 
-            <lg type="verse" id="LG1287">
-               <l id="L6461">O Thou bright jewel in my aim I strive</l>
-               <l id="L6462">To comprehend thee. Thine own words declare</l>
-               <l id="L6463">Wisdom is higher than a fool can reach.</l>
-               <l id="L6464">I cease to wonder, and no more attempt</l>
-               <l id="L6465">Thine height t' explore, or fathom thy profound.</l>
-               <l id="L6466">But, O my soul, sink not into despair,</l>
-               <l id="L6467"><hi rend="italic">Virtue</hi> is near thee, and with gentle hand</l>
-               <l id="L6468">Would now embrace thee, hovers o'er thine head.</l>
-               <l id="L6469">Fain would the heav'n-born soul with her converse,</l>
-               <l id="L6470">Then seek, then court her for her promis'd bliss.</l>
+            <lg type="blank verse" id="LG1287">
+               <l id="1">O Thou bright jewel in my aim I strive</l>
+               <l id="2">To comprehend thee. Thine own words declare</l>
+               <l id="3">Wisdom is higher than a fool can reach.</l>
+               <l id="4">I cease to wonder, and no more attempt</l>
+               <l id="5">Thine height t' explore, or fathom thy profound.</l>
+               <l id="6">But, O my soul, sink not into despair,</l>
+               <l id="7"><hi rend="italic">Virtue</hi> is near thee, and with gentle hand</l>
+               <l id="8">Would now embrace thee, hovers o'er thine head.</l>
+               <l id="9">Fain would the heav'n-born soul with her converse,</l>
+               <l id="10">Then seek, then court her for her promis'd bliss.</l>
             </lg>
-            <lg type="verse" id="LG1288">
-               <l rend="indent" id="L6471">Auspicious queen, thine heav'nly pinions spread,</l>
-               <l id="L6472">And lead celestial <hi rend="italic">Chastity</hi> along;</l>
-               <l id="L6473">Lo! now her sacred retinue descends,</l>
-               <l id="L6474">Array'd in glory from the orbs above.</l>
-               <l id="L6475">Attend me, <hi rend="italic">Virtue</hi>, thro' my youthful years!</l>
-               <l id="L6476">O leave me not to the false joys of time!</l>
-               <l id="L6477">But guide my steps to endless life and bliss.</l>
+            <lg type="blank verse" id="LG1288">
+               <l rend="indent" id="1">Auspicious queen, thine heav'nly pinions spread,</l>
+               <l id="2">And lead celestial <hi rend="italic">Chastity</hi> along;</l>
+               <l id="3">Lo! now her sacred retinue descends,</l>
+               <l id="4">Array'd in glory from the orbs above.</l>
+               <l id="5">Attend me, <hi rend="italic">Virtue</hi>, thro' my youthful years!</l>
+               <l id="6">O leave me not to the false joys of time!</l>
+               <l id="7">But guide my steps to endless life and bliss.</l>
                <pb n="14" facs="images/WP-0014.png"/>
-               <l id="L6478"><hi rend="italic">Greatness</hi>, or <hi rend="italic">Goodness</hi>,
+               <l id="8"><hi rend="italic">Greatness</hi>, or <hi rend="italic">Goodness</hi>,
                   say what I shall call thee,</l>
-               <l id="L6479">To give an higher appellation still,</l>
-               <l id="L6480">Teach me a better strain, a nobler lay,</l>
-               <l id="L6481">O thou, enthron'd with Cherubs in the realms of day!</l>
+               <l id="9">To give an higher appellation still,</l>
+               <l id="10">Teach me a better strain, a nobler lay,</l>
+               <l id="1">O thou, enthron'd with Cherubs in the realms of day!</l>
             </lg>
 
          </div1>
@@ -432,49 +432,49 @@
             <head>TO THE <ref target="#cambridge" xml:id="cambridgeA"><rs link="#"
                      content="#cambridge">UNIVERSITY OF CAMBRIDGE</rs></ref>, IN NEW-ENGLAND.</head>
 
-            <lg type="verse" id="LG1289">
-               <l id="L6482">WHILE an <ref target="#ardor" xml:id="ardorA"><rs link="#"
+            <lg type="heroic couplets" id="LG1289">
+               <l id="1">WHILE an <ref target="#ardor" xml:id="ardorA"><rs link="#"
                         content="#ardor">intrinsic ardor</rs></ref> prompts to write,</l>
-               <l id="L6483">The <ref target="#muse" xml:id="museA"><rs link="#" content="#muse"
+               <l id="2">The <ref target="#muse" xml:id="museA"><rs link="#" content="#muse"
                         >muses</rs></ref> promise to assist my pen;</l>
-               <l id="L6484">'Twas not long since I left my native shore</l>
-               <l id="L6485">The land of errors, and <ref target="#egypt" xml:id="egyptA"><rs
+               <l id="3">'Twas not long since I left my native shore</l>
+               <l id="4">The land of errors, and <ref target="#egypt" xml:id="egyptA"><rs
                         content="#egypt"><hi rend="italic">Egyptian</hi> gloom</rs></ref>:</l>
-               <l id="L6486">Father of mercy, 'twas thy gracious hand</l>
-               <l id="L6487">Brought me in safety from those dark abodes.</l>
+               <l id="5">Father of mercy, 'twas thy gracious hand</l>
+               <l id="6">Brought me in safety from those dark abodes.</l>
             </lg>
-            <lg type="verse" id="LG1290">
+            <lg type="heroic couplets" id="LG1290">
                <l rend="indent" id="L6488">Students, to you 'tis giv'n to scan the heights</l>
-               <l id="L6489">Above, to traverse the ethereal space,</l>
-               <l id="L6490">And mark the <ref target="#systems" xml:id="systemsA"><rs
+               <l id="7">Above, to traverse the ethereal space,</l>
+               <l id="8">And mark the <ref target="#systems" xml:id="systemsA"><rs
                         content="#systems">systems of revolving worlds</rs></ref>.</l>
-               <l id="L6491">Still more, ye sons of science ye receive</l>
-               <l id="L6492">The blissful news by messengers from heav'n,</l>
-               <l id="L6493">How <hi rend="italic">Jesus</hi>' blood for your redemption flows.</l>
-               <l id="L6494">See him with hands out-stretcht upon the cross;</l>
-               <l id="L6495">Immese compassion in his bosom glows;</l>
-               <l id="L6496">He hears revilers, nor resents their scorn:</l>
-               <l id="L6497">What matchless mercy in the Son of God!</l>
-               <l id="L6498">When the whole human race by sin had fall'n,</l>
+               <l id="9">Still more, ye sons of science ye receive</l>
+               <l id="10">The blissful news by messengers from heav'n,</l>
+               <l id="11">How <hi rend="italic">Jesus</hi>' blood for your redemption flows.</l>
+               <l id="12">See him with hands out-stretcht upon the cross;</l>
+               <l id="13">Immese compassion in his bosom glows;</l>
+               <l id="14">He hears revilers, nor resents their scorn:</l>
+               <l id="15">What matchless mercy in the Son of God!</l>
+               <l id="16">When the whole human race by sin had fall'n,</l>
                <pb n="16" facs="WP-0016.png"/>
-               <l id="L6499">He <ref target="#deign" xml:id="deignA"><rs link="#" content="#deign"
+               <l id="17">He <ref target="#deign" xml:id="deignA"><rs link="#" content="#deign"
                         >deign'd</rs></ref> to die that they might rise again,</l>
-               <l id="L6500">And share with him in the sublimest skies,</l>
-               <l id="L6501">Life without death, and glory without end.</l>
+               <l id="18">And share with him in the sublimest skies,</l>
+               <l id="19">Life without death, and glory without end.</l>
             </lg>
-            <lg type="verse" id="LG1291">
-               <l rend="indent" id="L6502">Improve your privileges while they stay,</l>
-               <l id="L6503">Ye pupils, and each hour redeem, that bears</l>
-               <l id="L6504">Or good or bad report of you to heav'n.</l>
-               <l id="L6505">Let sin, that baneful evil to the soul,</l>
-               <l id="L6506">By you be shunn'd, nor once remit your guard;</l>
-               <l id="L6507">Suppress the deadly serpent in its egg.</l>
-               <l id="L6508">Ye blooming plants of human race divine,</l>
-               <l id="L6509">An <ref target="#ethiop" xml:id="ethiopA"><rs link="#"
+            <lg type="heroic couplets" id="LG1291">
+               <l rend="indent" id="20">Improve your privileges while they stay,</l>
+               <l id="21">Ye pupils, and each hour redeem, that bears</l>
+               <l id="22">Or good or bad report of you to heav'n.</l>
+               <l id="23">Let sin, that baneful evil to the soul,</l>
+               <l id="24">By you be shunn'd, nor once remit your guard;</l>
+               <l id="25">Suppress the deadly serpent in its egg.</l>
+               <l id="26">Ye blooming plants of human race divine,</l>
+               <l id="27">An <ref target="#ethiop" xml:id="ethiopA"><rs link="#"
                         content="#ethiop"><hi rend="italic">Ethiop</hi></rs></ref> tells you 'tis
                   your greatest foe;</l>
-               <l id="L6510">Its transient sweetness turns to endless pain,</l>
-               <l id="L6511">And in immense <ref target="#perdition" xml:id="perditionA"><rs
+               <l id="28">Its transient sweetness turns to endless pain,</l>
+               <l id="29">And in immense <ref target="#perdition" xml:id="perditionA"><rs
                         content="#perdition">perdition</rs></ref> sinks the soul.</l>
             </lg>
 
@@ -484,27 +484,27 @@
             <head>To the KING's Most Excellent Majesty.</head>
             <opener>1768.</opener>
 
-            <lg type="verse" id="LG1292">
-               <l id="L6512">YOUR subjects hope, dread Sire --</l>
-               <l id="L6513">The crown upon your brows may flourish long,</l>
-               <l id="L6514">And that your arm may in your God be strong!</l>
-               <l id="L6515">O may your sceptre num'rous nations sway,</l>
-               <l id="L6516">And all with love and readiness obey!</l>
+            <lg type="heroic couplets" id="LG1292">
+               <l id="1">YOUR subjects hope, dread Sire --</l>
+               <l id="2">The crown upon your brows may flourish long,</l>
+               <l id="3">And that your arm may in your God be strong!</l>
+               <l id="4">O may your sceptre num'rous nations sway,</l>
+               <l id="5">And all with love and readiness obey!</l>
             </lg>
-            <lg type="verse" id="LG1293">
-               <l rend="indent" id="L6517">But how shall we the <hi rend="italic">British</hi> king
+            <lg type="heroic couplets" id="LG1293">
+               <l rend="indent" id="6">But how shall we the <hi rend="italic">British</hi> king
                   reward!</l>
-               <l id="L6518">Rule thou in peace, our father, and our lord!</l>
-               <l id="L6519">Midst the remembrance of thy favours past,</l>
-               <l id="L6520">The meanest peasants most admire the last.<note n="*" id="p17.n1">The
+               <l id="7">Rule thou in peace, our father, and our lord!</l>
+               <l id="8">Midst the remembrance of thy favours past,</l>
+               <l id="9">The meanest peasants most admire the last.<note n="*" id="p17.n1">The
                      Repeal of the Stamp Act.</note></l>
-               <l id="L6521">May <hi rend="italic">George</hi>, belov'd by all the nations
+               <l id="10">May <hi rend="italic">George</hi>, belov'd by all the nations
                   round,</l>
-               <l id="L6522">Live with heav'ns choicest constant blessings crown'd!</l>
-               <l id="L6523">Great God, direct, and guard him from on high</l>
-               <l id="L6524">And from his head let ev'ry evil fly!</l>
-               <l id="L6525">And may each clime with equal gladness see</l>
-               <l id="L6526">A monarch's smile can set his subjects free!</l>
+               <l id="11">Live with heav'ns choicest constant blessings crown'd!</l>
+               <l id="12">Great God, direct, and guard him from on high</l>
+               <l id="13">And from his head let ev'ry evil fly!</l>
+               <l id="14">And may each clime with equal gladness see</l>
+               <l id="15">A monarch's smile can set his subjects free!</l>
             </lg>
 
          </div1>
@@ -513,18 +513,18 @@
             <pb n="18" facs="WP-0018.png"/>
             <head><ref target="#brought" xml:id="broughtA"><rs link="#" content="#brought">On being
                      brought from AFRICA to AMERICA.</rs></ref></head>
-
-            <l id="L6527">'TWAS mercy brought me from my <hi rend="italic">Pagan</hi> land,</l>
-            <l id="L6528">Taught my benighted soul to understand</l>
-            <l id="L6529">That there's a God, that there's a <hi rend="italic">Saviour</hi> too:</l>
-            <l id="L6530">Once I redemption neither sought nor knew.</l>
-            <l id="L6531"><ref target="#view" xml:id="viewA"><rs link="#" content="#view">Some
+            <lg type="heroic couplets"></lg>
+            <l id="1">'TWAS mercy brought me from my <hi rend="italic">Pagan</hi> land,</l>
+            <l id="2">Taught my benighted soul to understand</l>
+            <l id="3">That there's a God, that there's a <hi rend="italic">Saviour</hi> too:</l>
+            <l id="4">Once I redemption neither sought nor knew.</l>
+            <l id="5"><ref target="#view" xml:id="viewA"><rs link="#" content="#view">Some
                      view</rs></ref> our sable race with scornful eye,</l>
-            <l id="L6532">"Their colour is a diabolic die."</l>
-            <l id="L6533">Remember, <hi rend="italic">Christians</hi>, <hi rend="italic"
+            <l id="6">"Their colour is a diabolic die."</l>
+            <l id="7">Remember, <hi rend="italic">Christians</hi>, <hi rend="italic"
                >Negros</hi>, <ref target="#cain" xml:id="cainA"><rs link="#" content="#cain">black
                      as <hi rend="italic">Cain</hi></rs></ref>,</l>
-            <l id="L6534">May be refin'd, and join th' angelic train.</l>
+            <l id="8">May be refin'd, and join th' angelic train.</l>
 
 
          </div1>
@@ -532,72 +532,72 @@
             <pb n="19" facs="images/WP-0019.png"/>
             <head>On the Death of the Rev. DR. SEWELL.</head>
             <opener>1769.</opener>
-            <lg type="verse" id="LG1294">
-               <l id="L6535">ERE yet the morn its lovely blushes spread,</l>
-               <l id="L6536">See <hi rend="italic">Sewell</hi> number'd with the happy dead.</l>
-               <l id="L6537">Hail, holy man, arriv'd th' immortal shore,</l>
-               <l id="L6538">Though we shall hear thy warning voice no more.</l>
-               <l id="L6539">Come, let us all behold with wishful eyes</l>
-               <l id="L6540">The saint ascending to his native skies;</l>
-               <l id="L6541">From hence the prophet wing'd his rapt'rous way</l>
-               <l id="L6542">To the blest mansions in eternal day.</l>
-               <l id="L6543">Then begging for the Spirit of our God,</l>
-               <l id="L6544">And panting eager for the same abode,</l>
-               <l id="L6545">Come, let us all with the same vigour rise,</l>
-               <l id="L6546">And take a prospect of the blissful skies;</l>
-               <l id="L6547">While on our minds <hi rend="italic">Christ's</hi> image is
+            <lg type="heroic couplets" id="LG1294">
+               <l id="1">ERE yet the morn its lovely blushes spread,</l>
+               <l id="2">See <hi rend="italic">Sewell</hi> number'd with the happy dead.</l>
+               <l id="3">Hail, holy man, arriv'd th' immortal shore,</l>
+               <l id="4">Though we shall hear thy warning voice no more.</l>
+               <l id="5">Come, let us all behold with wishful eyes</l>
+               <l id="6">The saint ascending to his native skies;</l>
+               <l id="7">From hence the prophet wing'd his rapt'rous way</l>
+               <l id="8">To the blest mansions in eternal day.</l>
+               <l id="9">Then begging for the Spirit of our God,</l>
+               <l id="10">And panting eager for the same abode,</l>
+               <l id="11">Come, let us all with the same vigour rise,</l>
+               <l id="12">And take a prospect of the blissful skies;</l>
+               <l id="13">While on our minds <hi rend="italic">Christ's</hi> image is
                   imprest,</l>
-               <l id="L6548">And the dear Saviour glows in ev'ry breast.</l>
-               <l id="L6549">Thrice happy saint! to find thy heav'n at last,</l>
-               <l id="L6550">What compensation for the evils past!</l>
+               <l id="14">And the dear Saviour glows in ev'ry breast.</l>
+               <l id="15">Thrice happy saint! to find thy heav'n at last,</l>
+               <l id="16">What compensation for the evils past!</l>
             </lg>
             <pb n="20" facs="images/WP-0020.png"/>
-            <lg type="verse" id="LG1295">
-               <l rend="indent" id="L6551">Great God, incomprehensible, unknown</l>
-               <l id="L6552">By sense, we bow at thine exalted throne.</l>
-               <l id="L6553">O, while we beg thine excellence to feel,</l>
-               <l id="L6554">Thy sacred Spirit to our hearts reveal,</l>
-               <l id="L6555">And give us of that mercy to partake,</l>
-               <l id="L6556">Which thou hast promis'd for the <hi rend="italic">Saviour</hi>'s
+            <lg type="heroic couplets" id="LG1295">
+               <l rend="indent" id="17">Great God, incomprehensible, unknown</l>
+               <l id="18">By sense, we bow at thine exalted throne.</l>
+               <l id="19">O, while we beg thine excellence to feel,</l>
+               <l id="20">Thy sacred Spirit to our hearts reveal,</l>
+               <l id="21">And give us of that mercy to partake,</l>
+               <l id="22">Which thou hast promis'd for the <hi rend="italic">Saviour</hi>'s
                   sake!</l>
             </lg>
-            <lg type="verse" id="LG1296">
-               <l rend="indent" id="L6557">"<hi rend="italic">Sewell</hi> is dead." Swift-pinion'd
+            <lg type="heroic couplets" id="LG1296">
+               <l rend="indent" id="23">"<hi rend="italic">Sewell</hi> is dead." Swift-pinion'd
                      <hi rend="italic">Fame</hi> thus cry'd.</l>
-               <l id="L6558">"Is <hi rend="italic">Sewell</hi> dead," my trembling tongue
+               <l id="24">"Is <hi rend="italic">Sewell</hi> dead," my trembling tongue
                   reply'd,</l>
-               <l id="L6559">O what a blessing in his flight deny'd!</l>
-               <l id="L6560">How oft for us the holy prophet pray'd!</l>
-               <l id="L6561">How oft to us the Word of Life convey'd!</l>
-               <l id="L6562">By duty urg'd my mournful verse to close,</l>
-               <l id="L6563">I for his tomb this epitaph compose.</l>
+               <l id="25">O what a blessing in his flight deny'd!</l>
+               <l id="26">How oft for us the holy prophet pray'd!</l>
+               <l id="27">How oft to us the Word of Life convey'd!</l>
+               <l id="28">By duty urg'd my mournful verse to close,</l>
+               <l id="29">I for his tomb this epitaph compose.</l>
             </lg>
-            <lg type="verse" id="LG1297">
-               <l rend="indent" id="L6564">"Lo, here a man, redeem'd by <hi rend="italic"
+            <lg type="heroic couplets" id="LG1297">
+               <l rend="indent" id="30">"Lo, here a man, redeem'd by <hi rend="italic"
                   >Jesus</hi>' blood,</l>
-               <l id="L6565">"A sinner once, but now a saint with God;</l>
-               <l id="L6566">"Behold ye rich, ye poor, ye fools, ye wise,</l>
-               <l id="L6567">"Nor let his monument your heart surprize;</l>
-               <l id="L6568">"'Twill tell you what this holy man has done,</l>
-               <l id="L6569">"Which gives him brighter lustre than the sun.</l>
+               <l id="31">"A sinner once, but now a saint with God;</l>
+               <l id="32">"Behold ye rich, ye poor, ye fools, ye wise,</l>
+               <l id="33">"Nor let his monument your heart surprize;</l>
+               <l id="34">"'Twill tell you what this holy man has done,</l>
+               <l id="35">"Which gives him brighter lustre than the sun.</l>
                <pb n="21" facs="images/WP-0012.png"/>
-               <l id="L6570">"Listen, ye happy, from your seats above.</l>
-               <l id="L6571">"I speak sincerely, while I speak and love,</l>
-               <l id="L6572">"He sought the paths of piety and truth,</l>
-               <l id="L6573">"By these made happy from his early youth!</l>
-               <l id="L6574">"In blooming years that grace divine he felt,</l>
-               <l id="L6575">"Which rescues sinners from the chains of guilt.</l>
-               <l id="L6576">"Mourn him, ye indigent, whom he has fed,</l>
-               <l id="L6577">"And henceforth seek, like him, for living bread;</l>
-               <l id="L6578">"Ev'n <hi rend="italic">Christ</hi>, the bread descending from
+               <l id="36">"Listen, ye happy, from your seats above.</l>
+               <l id="37">"I speak sincerely, while I speak and love,</l>
+               <l id="38">"He sought the paths of piety and truth,</l>
+               <l id="39">"By these made happy from his early youth!</l>
+               <l id="40">"In blooming years that grace divine he felt,</l>
+               <l id="41">"Which rescues sinners from the chains of guilt.</l>
+               <l id="42">"Mourn him, ye indigent, whom he has fed,</l>
+               <l id="43">"And henceforth seek, like him, for living bread;</l>
+               <l id="44">"Ev'n <hi rend="italic">Christ</hi>, the bread descending from
                   above,</l>
-               <l id="L6579">"And ask an int'rest in his saving love.</l>
-               <l id="L6580">"Mourn him, ye youth, to whom he oft has told</l>
-               <l id="L6581">"God's gracious wonders from the times of old.</l>
-               <l id="L6582">"I, too have cause this mighty loss to mourn,</l>
-               <l id="L6583">"For he my monitor will not return.</l>
-               <l id="L6584">"O when shall we to his blest state arrive?</l>
-               <l id="L6585">"When the same graces in our bosoms thrive."</l>
+               <l id="45">"And ask an int'rest in his saving love.</l>
+               <l id="46">"Mourn him, ye youth, to whom he oft has told</l>
+               <l id="47">"God's gracious wonders from the times of old.</l>
+               <l id="48">"I, too have cause this mighty loss to mourn,</l>
+               <l id="49">"For he my monitor will not return.</l>
+               <l id="50">"O when shall we to his blest state arrive?</l>
+               <l id="51">"When the same graces in our bosoms thrive."</l>
             </lg>
          </div1>
          <div1 type="poem" id="DIV1.199">
@@ -605,7 +605,7 @@
             <head>On the Death of the Rev. MR. GEORGE WHITEFIELD.</head>
             <opener>1770.</opener>
 
-            <lg type="verse" id="LG1298">
+            <lg type="heroic couplets" id="LG1298">
                <l id="L6586">HAIL, happy saint, on thine immortal throne,</l>
                <l id="L6587">Possest of glory, life, and bliss unknown;</l>
                <l id="L6588">We hear no more the music of thy tongue,</l>
@@ -617,7 +617,7 @@
                <l id="L6594">Unhappy we the setting sun deplore,</l>
                <l id="L6595">So glorious once, but ah! it shines no more.</l>
             </lg>
-            <lg type="verse" id="LG1299">
+            <lg type="heroic couplets" id="LG1299">
                <l rend="indent" id="L6596">Behold the prophet in his tow'ring flight!</l>
                <l id="L6597">He leaves the earth for heav'n's unmeasur'd height,</l>
                <l id="L6598">And worlds unknown receive him from our sight.</l>
@@ -638,7 +638,7 @@
                <l id="L6611">He freely offer'd to the num'rous throng,</l>
                <l id="L6612">That on his lips with list'ning pleasure hung.</l>
             </lg>
-            <lg type="verse" id="LG1300">
+            <lg type="heroic couplets" id="LG1300">
                <l rend="indent" id="L6613">"Take him, ye wretched, for your only good,</l>
                <l id="L6614">"Take him ye starving sinners, for your food;</l>
                <l id="L6615">"Ye thirsty, come to this life-giving stream,</l>
@@ -650,7 +650,7 @@
                <l id="L6621">"Wash'd in the fountain of redeeming blood,</l>
                <l id="L6622">"You shall be sons, and kings, and priests to God."</l>
             </lg>
-            <lg type="verse" id="LG1301">
+            <lg type="heroic couplets" id="LG1301">
                <pb n="24" facs="images/WP-0024.png"/>
                <l rend="indent" id="L6623">Great <hi rend="italic">Countess</hi>,<note n="*"
                      id="p24.n1">The Countess of <hi rend="italic">Huntingdon</hi>, to whom Mr. <hi
@@ -661,7 +661,7 @@
                      >Orphans</hi> mourn,</l>
                <l id="L6626">Their more than father will no more return.</l>
             </lg>
-            <lg type="verse" id="LG1302">
+            <lg type="heroic couplets" id="LG1302">
                <l rend="indent" id="L6627">But, though arrested by the hand of death,</l>
                <l id="L6628"><hi rend="italic">Whitefield</hi> no more exerts his lab'ring
                   breath,</l>
@@ -676,7 +676,7 @@
 
             <pb n="25" facs="images/WP-0025.png"/>
             <head>On the Death of a young Lady of Five Years of Age.</head>
-            <lg type="verse" id="LG1303">
+            <lg type="heroic couplets" id="LG1303">
                <l id="L6633">FROM dark abodes to fair etherial light</l>
                <l id="L6634">Th' enraptur'd innocent has wing'd her flight;</l>
                <l id="L6635">On the kind bosom of eternal love</l>
@@ -688,7 +688,7 @@
                <l id="L6641">Let then no tears for her henceforward flow,</l>
                <l id="L6642">No more distress'd in our dark vale below.</l>
             </lg>
-            <lg type="verse" id="LG1304">
+            <lg type="heroic couplets" id="LG1304">
                <l rend="indent" id="L6643">Her morning sun, which rose divinely bright,</l>
                <l id="L6644">Was quickly mantled with the gloom of night;</l>
                <l id="L6645">But hear in heav'n's blest bow'rs your <hi rend="italic">Nancy</hi>
@@ -702,7 +702,7 @@
                <l id="L6651">"To thee let all their graceful voices raise,</l>
                <l id="L6652">"And saints and angels join their songs of praise."</l>
             </lg>
-            <lg type="verse" id="LG1305">
+            <lg type="heroic couplets" id="LG1305">
                <l rend="indent" id="L6653">Perfect in bliss she from her heav'nly home</l>
                <l id="L6654">Looks down, and smiling beckons you to come;</l>
                <l id="L6655">Why then, fond parents, why these fruitless groans?</l>
@@ -757,7 +757,7 @@
             <pb n="29" facs="images/WP-0029.png"/>
             <head>To a Lady on the Death of her Husband.</head>
 
-            <lg type="verse" id="LG1306">
+            <lg type="heroic couplets" id="LG1306">
                <l id="L6693">GRIM monarch! see, depriv'd of vital breath,</l>
                <l id="L6694">A young physician in the dust of death:</l>
                <l id="L6695">Dost thou go on incessant to destroy,</l>
@@ -781,7 +781,7 @@
                <l id="L6711">Not, not till then his active soul shall claim</l>
                <l id="L6712">His body, a divine immortal frame.</l>
             </lg>
-            <lg type="verse" id="LG1307">
+            <lg type="heroic couplets" id="LG1307">
                <l rend="indent" id="L6713">But see the softly-stealing tears apace</l>
                <l id="L6714">Pursue each other down the mourner's face;</l>
                <l id="L6715">But cease thy tears, bid ev'ry sigh depart,</l>
@@ -807,7 +807,7 @@
 
 
 
-            <lg type="verse" id="LG1308">
+            <lg type="heroic couplets" id="LG1308">
                <l id="L6727">YE martial pow'rs, and all ye tuneful nine,</l>
                <l id="L6728">Inspire my song, and aid my high design.</l>
                <l id="L6729">The dreadful scenes and toils of war I write,</l>
@@ -817,7 +817,7 @@
                <l id="L6733">Resume the lays with which your sacred lyre,</l>
                <l id="L6734">Did then the poet and the sage inspire.</l>
             </lg>
-            <lg type="verse" id="LG1309">
+            <lg type="heroic couplets" id="LG1309">
                <l rend="indent" id="L6735">Now front to front the armies were display'd,</l>
                <l id="L6736">Here <hi rend="italic">Israel</hi> rang'd, and there the foes
                   array'd;</l>
@@ -845,7 +845,7 @@
                <l id="L6755">Through <hi rend="italic">Jacob's</hi> race a chilling horror ran,</l>
                <l id="L6756">When thus the huge, enormous chief began:</l>
             </lg>
-            <lg type="verse" id="LG1310">
+            <lg type="heroic couplets" id="LG1310">
                <l rend="indent" id="L6757">"Say, what the cause that in this proud array</l>
                <l id="L6758">"You set your battle in the face of day?</l>
                <l id="L6759">"One hero find in all your vaunting train,</l>
@@ -858,7 +858,7 @@
                <l id="L6765">"Produce a man, and let us try the fight,</l>
                <l id="L6766">"Decide the contest, and the victor's right."</l>
             </lg>
-            <lg type="verse" id="LG1311">
+            <lg type="heroic couplets" id="LG1311">
                <l rend="indent" id="L6767">Thus challeng'd he: all <hi rend="italic">Israel</hi>
                   stood amaz'd,</l>
                <l id="L6768">And ev'ry chief in consternation gaz'd;</l>
@@ -870,7 +870,7 @@
                <l id="L6774">With peals of shouts ascending to the skies;</l>
                <l id="L6775">In <hi rend="italic">Elah's</hi> vale the scene of combat lies.</l>
             </lg>
-            <lg type="verse" id="LG1312">
+            <lg type="heroic couplets" id="LG1312">
                <l rend="indent" id="L6776">When the fair morning blush'd with orient red,</l>
                <l id="L6777">What <hi rend="italic">David's</hi> sire enjoin'd the son obey'd,</l>
                <l id="L6778">And swift of foot towards the trench he came,</l>
@@ -889,7 +889,7 @@
                <l id="L6790">"And on him wealth unknown the king will pour,</l>
                <l id="L6791">"And give his royal daughter for his dow'r."</l>
             </lg>
-            <lg type="verse" id="LG1313">
+            <lg type="heroic couplets" id="LG1313">
                <l rend="indent" id="L6792">Then <hi rend="italic">Jesse's</hi> youngest hope: "My
                   brethren say,</l>
                <l id="L6793">"What shall be done for him who takes away</l>
@@ -899,14 +899,14 @@
                <l id="L6796">"He vaunts the honours of his arms abroad,</l>
                <l id="L6797">"And scorns the armies of the living God."</l>
             </lg>
-            <lg type="verse" id="LG1314">
+            <lg type="heroic couplets" id="LG1314">
                <l rend="indent" id="L6798">Thus spoke the youth, th' attentive people ey'd</l>
                <l id="L6799">The wond'rous hero, and again reply'd:</l>
                <l id="L6800">"Such the rewards our monarch will bestow,</l>
                <l id="L6801">"On him who conquers, and destroys his foe."</l>
             </lg>
             <pb n="35 [copy 2]" facs="images/WP-0035c2.png"/>
-            <lg type="verse" id="LG1315">
+            <lg type="heroic couplets" id="LG1315">
                <l rend="indent" id="L6802"><hi rend="italic">Eliab</hi> heard, and kindled into
                   ire</l>
                <l id="L6803">To hear his shepherd-brother thus inquire,</l>
@@ -915,14 +915,14 @@
                <l id="L6806">"I know the base ambition of thine heart,</l>
                <l id="L6807">"But back in safety from the field depart."</l>
             </lg>
-            <lg type="verse" id="LG1316">
+            <lg type="heroic couplets" id="LG1316">
                <l rend="indent" id="L6808"><hi rend="italic">Eliab</hi> thus to <hi rend="italic"
                      >Jesse's</hi> youngest heir,</l>
                <l id="L6809">Express'd his wrath in accents most severe.</l>
                <l id="L6810">When to his brother mildly he reply'd,</l>
                <l id="L6811">"What have I done? or what the cause to chide?"</l>
             </lg>
-            <lg type="verse" id="LG1317">
+            <lg type="heroic couplets" id="LG1317">
                <l rend="indent" id="L6812">The words were told before the king, who sent</l>
                <l id="L6813">For the young hero to his royal tent:</l>
                <l id="L6814">Before the monarch dauntless he began,</l>
@@ -978,7 +978,7 @@
                <l id="L6861">"<hi rend="italic">Goliath</hi> say, shall grace to him be shown,</l>
                <l id="L6862">"Who dares heav'ns monarch, and insults his throne?"</l>
             </lg>
-            <lg type="verse" id="LG1318">
+            <lg type="heroic couplets" id="LG1318">
                <l rend="indent" id="L6863">"Your words are lost on me," the giant cries,</l>
                <l id="L6864">While fear and wrath contended in his eyes,</l>
                <l id="L6865">When thus the messenger from heav'n replies:</l>
@@ -987,11 +987,11 @@
                <l id="L6868">"He grasps the thunder, and, he wings the storm,</l>
                <l id="L6869">"Servants their sov'reign's orders to perform."</l>
             </lg>
-            <lg type="verse" id="LG1319">
+            <lg type="heroic couplets" id="LG1319">
                <l rend="indent" id="L6870">The angel spoke, and turn'd his eyes away,</l>
                <l id="L6871">Adding new radiance to the rising day.</l>
             </lg>
-            <lg type="verse" id="LG1320">
+            <lg type="heroic couplets" id="LG1320">
                <l rend="indent" id="L6872">Now <hi rend="italic">David</hi> comes: the fatal stones
                   demand</l>
                <l id="L6873">His left, the staff engag'd his better hand</l>
@@ -1003,7 +1003,7 @@
                <l id="L6878">"The gods on thee their vollied curses pour,</l>
                <l id="L6879">"And beasts and birds of prey thy flesh devour."</l>
             </lg>
-            <lg type="verse" id="LG1321">
+            <lg type="heroic couplets" id="LG1321">
                <l rend="indent" id="L6880"><hi rend="italic">David</hi> undaunted thus, "Thy spear
                   and shield</l>
                <l id="L6881">"Shall no protection to thy body yield:</l>
@@ -1021,7 +1021,7 @@
                <l id="L6892">"The battle his, the conquest he bestows,</l>
                <l id="L6893">"And to our pow'r consigns our hated foes."</l>
             </lg>
-            <lg type="verse" id="LG1322">
+            <lg type="heroic couplets" id="LG1322">
                <l rend="indent" id="L6894">Thus <hi rend="italic">David</hi> spoke; <hi
                      rend="italic">Goliath</hi> heard and came</l>
                <l id="L6895">To meet the hero in the field of fame.</l>
@@ -1031,7 +1031,7 @@
                   vain;</l>
                <l id="L6899">'Tis thine to perish on th' ensanguin'd plain.</l>
             </lg>
-            <lg type="verse" id="LG1323">
+            <lg type="heroic couplets" id="LG1323">
                <l rend="indent" id="L6900">And now the youth the forceful pebble slung</l>
                <l id="L6901"><hi rend="italic">Philistia</hi> trembled as it whizz'd along:</l>
                <l id="L6902">In his dread forehead, where the helmet ends,</l>
@@ -1048,7 +1048,7 @@
                <l id="L6912">The blood in gushing torrents drench'd the plains,</l>
                <l id="L6913">The soul found passage through the spouting veins.</l>
             </lg>
-            <lg type="verse" id="LG1324">
+            <lg type="heroic couplets" id="LG1324">
                <l rend="indent" id="L6914">And now aloud th' illustrious victor said,</l>
                <l id="L6915">"Where are your boastings now your champion's dead?"</l>
                <l id="L6916">Scarce had he spoke, when the <hi rend="italic">Philistines</hi>
@@ -1061,7 +1061,7 @@
                <l id="L6921">And <hi rend="italic">David</hi> there were thy ten thousands laid:</l>
                <l id="L6922">Thus <hi rend="italic">Israel's</hi> damsels musically play'd.</l>
             </lg>
-            <lg type="verse" id="LG1325">
+            <lg type="heroic couplets" id="LG1325">
                <l rend="indent" id="L6923">Near <hi rend="italic">Gath</hi> and <hi rend="italic"
                      >Ekron</hi> many an hero lay,</l>
                <l id="L6924">Breath'd out their souls, and curs'd the light of day:</l>
@@ -1096,7 +1096,7 @@
          <div1 type="poem" id="DIV1.204">
             <pb n="43" facs="images/WP-0043.png"/>
             <head>Thoughts on the WORKS of PROVIDENCE.</head>
-            <lg type="verse" id="LG1326">
+            <lg type="heroic couplets" id="LG1326">
                <l id="L6949">ARISE, my soul, on wings enraptur'd, rise</l>
                <l id="L6950">To praise the monarch of the earth and skies,</l>
                <l id="L6951">Whose goodness and beneficence appear</l>
@@ -1108,7 +1108,7 @@
                <l id="L6957">Celestial muse, my arduous flight sustain,</l>
                <l id="L6958">And raise my mind to a seraphic strain!</l>
             </lg>
-            <lg type="verse" id="LG1327">
+            <lg type="heroic couplets" id="LG1327">
                <l rend="indent" id="L6959">Ador'd for ever be the God unseen,</l>
                <l id="L6960">Which round the sun revolves this vast machine,</l>
                <l id="L6961">Though to his eye its mass a point appears:</l>
@@ -1126,14 +1126,14 @@
                <l id="L6971">True to her course th' impetuous storm derides,</l>
                <l id="L6972">Triumphant o'er the winds, and surging tides.</l>
             </lg>
-            <lg type="verse" id="LG1328">
+            <lg type="heroic couplets" id="LG1328">
                <l rend="indent" id="L6973">Almighty, in these wond'rous works of thine,</l>
                <l id="L6974">What <hi rend="italic">Pow'r</hi>, what <hi rend="italic">Wisdom</hi>,
                   and what <hi rend="italic"><CORR SIC="Goodness">Goodnes</CORR></hi> shine?</l>
                <l id="L6975">And are thy wonders, Lord, by men explor'd,</l>
                <l id="L6976">And yet creating glory unador'd!</l>
             </lg>
-            <lg type="verse" id="LG1329">
+            <lg type="heroic couplets" id="LG1329">
                <l rend="indent" id="L6977">Creation smiles in various beauty gay,</l>
                <l id="L6978">While day to night, and night succeeds to day:</l>
                <l id="L6979">That <hi rend="italic">Wisdom</hi>, which attends <hi rend="italic"
@@ -1149,7 +1149,7 @@
                <l id="L6987">What pestilential vapours, fraught with death,</l>
                <l id="L6988">Would rise, and overspread the lands beneath?</l>
             </lg>
-            <lg type="verse" id="LG1330">
+            <lg type="heroic couplets" id="LG1330">
                <l rend="indent" id="L6989">Hail, smiling morn, that from the orient main</l>
                <l id="L6990">Ascending dost adorn the heav'nly plain!</l>
                <l id="L6991">So rich, so various are thy beauteous dies,</l>
@@ -1157,7 +1157,7 @@
                <l id="L6993">That, full of thee, my soul in rapture soars,</l>
                <l id="L6994">And thy great God, the cause of all adores.</l>
             </lg>
-            <lg type="verse" id="LG1331">
+            <lg type="heroic couplets" id="LG1331">
                <l rend="indent" id="L6995">O'er beings infinite his love extends,</l>
                <l id="L6996">His <hi rend="italic">Wisdom</hi> rules them, and his <hi rend="italic"
                      >Pow'r</hi> defends.</l>
@@ -1178,7 +1178,7 @@
                <l id="L7009">May grateful strains salute the smiling morn,</l>
                <l id="L7010">Before its beams the eastern hills adorn!</l>
             </lg>
-            <lg type="verse" id="LG1332">
+            <lg type="heroic couplets" id="LG1332">
                <l rend="indent" id="L7011">Shall day to day and night to night conspire</l>
                <l id="L7012">To show the goodness of the Almighty Sire?</l>
                <l id="L7013">This mental voice shall man regardless hear,</l>
@@ -1186,7 +1186,7 @@
                <l id="L7015">To-day, O hearken, nor your folly mourn</l>
                <l id="L7016">For time mispent, that never will return.</l>
             </lg>
-            <lg type="verse" id="LG1333">
+            <lg type="heroic couplets" id="LG1333">
                <l rend="indent" id="L7017">But see the sons of vegetation rise,</l>
                <l id="L7018">And spread their leafy banners to the skies.</l>
                <l id="L7019">All-wise Almighty Providence we trace</l>
@@ -1203,7 +1203,7 @@
                <l id="L7029">The first fair product of th' omnific God,</l>
                <l id="L7030">And now through all his works diffus'd abroad.</l>
             </lg>
-            <lg type="verse" id="LG1334">
+            <lg type="heroic couplets" id="LG1334">
                <l rend="indent" id="L7031">As reason's pow'rs by day our God disclose,</l>
                <l id="L7032">So we may trace him in the night's repose:</l>
                <l id="L7033">Say what is sleep? and dreams how passing strange!</l>
@@ -1227,14 +1227,14 @@
                <l id="L7050">When wants and woes might be our righteous lot,</l>
                <l id="L7051">Our God forgetting, by our God forgot!</l>
             </lg>
-            <lg type="verse" id="LG1335">
+            <lg type="heroic couplets" id="LG1335">
                <l rend="indent" id="L7052">Among the mental pow'rs a question rose,</l>
                <l id="L7053">"What most the image of th' Eternal shows?"</l>
                <l id="L7054">When thus to <hi rend="italic">Reason</hi> (so let <hi rend="italic"
                      >Fancy</hi> rove)</l>
                <l id="L7055">Her great companion spoke immortal <hi rend="italic">Love</hi>.</l>
             </lg>
-            <lg type="verse" id="LG1336">
+            <lg type="heroic couplets" id="LG1336">
                <l rend="indent" id="L7056">"Say, mighty pow'r, how long shall strife prevail,</l>
                <l id="L7057">"And with its murmurs load the whisp'ring gale?</l>
                <l id="L7058">"Refer the cause to <hi rend="italic">Recollection's</hi> shrine,</l>
@@ -1247,7 +1247,7 @@
                <l id="L7063">Thus <hi rend="italic">Love</hi> pronounc'd, and <hi rend="italic"
                      >Reason</hi> thus reply'd.</l>
             </lg>
-            <lg type="verse" id="LG1337">
+            <lg type="heroic couplets" id="LG1337">
                <l rend="indent" id="L7064">"Thy birth, celestial queen! 'tis mine to own,</l>
                <l id="L7065">"In thee resplendent is the Godhead shown;</l>
                <l id="L7066">"Thy words persuade, my soul enraptur'd feels</l>
@@ -1255,7 +1255,7 @@
                <l id="L7068">Ardent she spoke, and, kindling at her charms,</l>
                <l id="L7069">She clasp'd the blooming goddess in her arms.</l>
             </lg>
-            <lg type="verse" id="LG1338">
+            <lg type="heroic couplets" id="LG1338">
                <l rend="indent" id="L7070">Infinite <hi rend="italic">Love</hi> where'er we turn our
                   eyes</l>
                <l id="L7071">Appears: this ev'ry creature's wants supplies;</l>
@@ -1275,7 +1275,7 @@
             <pb n="51" facs="images/WP-0051.png"/>
             <head>To a Lady on the Death of Three Relations.</head>
 
-            <lg type="verse" id="LG1339">
+            <lg type="heroic couplets" id="LG1339">
                <l id="L7080">WE trace the pow'r of Death from tomb to tomb,</l>
                <l id="L7081">And his are all the ages yet to come.</l>
                <l id="L7082">'Tis his to call the planets from on high,</l>
@@ -1285,7 +1285,7 @@
                <l id="L7086">His fatal sceptre rules the spacious whole,</l>
                <l id="L7087">And trembling nature rocks from pole to pole.</l>
             </lg>
-            <lg type="verse" id="LG1340">
+            <lg type="heroic couplets" id="LG1340">
                <l rend="indent" id="L7088">Awful he moves, and wide his wings are spread:</l>
                <l id="L7089">Behold thy brother number'd with the dead!</l>
                <l id="L7090">From bondage freed, the exulting spirit flies</l>
@@ -1298,7 +1298,7 @@
                <l id="L7096">Weep not for them, who wish thine happy mind</l>
                <l id="L7097">To rise with them, and leave the world behind.</l>
             </lg>
-            <lg type="verse" id="LG1341">
+            <lg type="heroic couplets" id="LG1341">
                <l rend="indent" id="L7098">As a young plant by hurricanes up torn,</l>
                <l id="L7099">So near its parent lies the newly born --</l>
                <l id="L7100">But 'midst the bright ethereal train behold</l>
@@ -1319,7 +1319,7 @@
             <pb n="53" facs="images/WP-0053.png"/>
             <head>To a Clergyman on the Death of his Lady.</head>
 
-            <lg type="verse" id="LG1342">
+            <lg type="heroic couplets" id="LG1342">
                <l id="L7112">WHERE contemplation finds her sacred spring,</l>
                <l id="L7113">Where heav'nly music makes the arches ring,</l>
                <l id="L7114">Where virtue reigns unsully'd and divine,</l>
@@ -1329,7 +1329,7 @@
                <l id="L7118">There choirs angelic shout her welcome round,</l>
                <l id="L7119">With perfect bliss, and peerless glory crown'd.</l>
             </lg>
-            <lg type="verse" id="LG1343">
+            <lg type="heroic couplets" id="LG1343">
                <l rend="indent" id="L7120">While thy dear mate, to flesh no more confin'd,</l>
                <l id="L7121">Exults a blest, an heav'n-ascended mind,</l>
                <l id="L7122">Say in thy breast shall floods of sorrow rise?</l>
@@ -1354,11 +1354,11 @@
                <l id="L7140">"Vain were their hopes to put the God to flight,</l>
                <l id="L7141">"Chain us to hell, and bar the gates of light."</l>
             </lg>
-            <lg type="verse" id="LG1344">
+            <lg type="heroic couplets" id="LG1344">
                <l rend="indent" id="L7142">She spoke, and turn'd from mortal scenes her eyes,</l>
                <l id="L7143">Which beam'd celestial radiance o'er the skies.</l>
             </lg>
-            <lg type="verse" id="LG1345">
+            <lg type="heroic couplets" id="LG1345">
                <l rend="indent" id="L7144">Then thou dear man, no more with grief retire,</l>
                <l id="L7145">Let grief no longer damp devotion's fire,</l>
                <l id="L7146">But rise sublime, to equal bliss aspire.</l>
@@ -1377,13 +1377,13 @@
             <pb n="56" facs="images/WP-0056.png"/>
             <head>An HYMN to the MORNING.</head>
 
-            <lg type="verse" id="LG1346">
+            <lg type="heroic couplets" id="LG1346">
                <l id="L7155">ATTEND my lays, ye ever honour'd nine,</l>
                <l id="L7156">Assist my labours, and my strains refine;</l>
                <l id="L7157">In smoothest numbers pour the notes along,</l>
                <l id="L7158">For bright <hi rend="italic">Aurora</hi> now demands my song.</l>
             </lg>
-            <lg type="verse" id="LG1347">
+            <lg type="heroic couplets" id="LG1347">
                <l rend="indent" id="L7159"><hi rend="italic">Aurora</hi> hail, and all the thousands
                   dies,</l>
                <l id="L7160">Which deck thy progress through the vaulted skies:</l>
@@ -1392,7 +1392,7 @@
                <l id="L7163">Harmonious lays the feather'd race resume,</l>
                <l id="L7164">Dart the bright eye, and shake the painted plume.</l>
             </lg>
-            <lg type="verse" id="LG1348">
+            <lg type="heroic couplets" id="LG1348">
                <l rend="indent" id="L7165">Ye shady groves, your verdant gloom display</l>
                <l id="L7166">To shield your poet from the burning day:</l>
                <l id="L7167"><hi rend="italic">Calliope</hi> awake the sacred lyre,</l>
@@ -1401,7 +1401,7 @@
                <l id="L7169">The bow'rs, the gales, the variegated skies</l>
                <l id="L7170">In all their pleasures in my bosom rise.</l>
             </lg>
-            <lg type="verse" id="LG1349">
+            <lg type="heroic couplets" id="LG1349">
                <l rend="indent" id="L7171">See in the east th' illustrious king of day!</l>
                <l id="L7172">His rising radiance drives the shades away --</l>
                <l id="L7173">But Oh! I feel his fervid beams too strong,</l>
@@ -1412,7 +1412,7 @@
             <pb n="58" facs="images/WP-0058.png"/>
             <head>An HYMN to the EVENING.</head>
 
-            <lg type="verse" id="LG1350">
+            <lg type="heroic couplets" id="LG1350">
                <l id="L7175">SOON as the sun forsook the eastern main</l>
                <l id="L7176">The pealing thunder shook the heav'nly plain;</l>
                <l id="L7177">Majestic grandeur! From the zephyr's wing,</l>
@@ -1420,14 +1420,14 @@
                <l id="L7179">Soft purl the streams, the birds renew their notes,</l>
                <l id="L7180">And through the air their mingled music floats.</l>
             </lg>
-            <lg type="verse" id="LG1351">
+            <lg type="heroic couplets" id="LG1351">
                <l rend="indent" id="L7181">Through all the heav'ns what beauteous dies are
                   spread!</l>
                <l id="L7182">But the west glories in the deepest red:</l>
                <l id="L7183">So may our breasts with ev'ry virtue glow,</l>
                <l id="L7184">The living temples of our God below!</l>
             </lg>
-            <lg type="verse" id="LG1352">
+            <lg type="heroic couplets" id="LG1352">
                <l rend="indent" id="L7185">Fill'd with the praise of him who gives the light,</l>
                <l id="L7186">And draws the sable curtains of the night,</l>
                <pb n="59" facs="images/WP-0059.png"/>
@@ -1436,7 +1436,7 @@
                <l id="L7189">So shall the labours of the day begin</l>
                <l id="L7190">More pure, more guarded from the snares of sin.</l>
             </lg>
-            <lg type="verse" id="LG1353">
+            <lg type="heroic couplets" id="LG1353">
                <l rend="indent" id="L7191">Night's leaden sceptre seals my drowsy eyes,</l>
                <l id="L7192">Then cease, my song, till fair <hi rend="italic">Aurora</hi> rise.</l>
             </lg>
@@ -1445,7 +1445,7 @@
             <pb n="60" facs="images/WP-0060.png"/>
             <head>ISAIAH lxiii. I-8.</head>
 
-            <lg type="verse" id="LG1354">
+            <lg type="heroic couplets" id="LG1354">
                <l id="L7193">SAY, heav'nly muse, what king or mighty God,</l>
                <l id="L7194">That moves sublime from <hi rend="italic">Idumea's</hi> road?</l>
                <l id="L7195">In <hi rend="italic">Bozrah's</hi> dies, with martial glories
@@ -1454,11 +1454,11 @@
                <l id="L7197">Why thus enrob'd delights he to appear</l>
                <l id="L7198">In the dread image of the <hi rend="italic">Pow'r</hi> of war?</l>
             </lg>
-            <lg type="verse" id="LG1355">
+            <lg type="heroic couplets" id="LG1355">
                <l rend="indent" id="L7199">Compress'd in wrath the swelling wine-press groan'd,</l>
                <l id="L7200">It bled, and pour'd the gushing purple round.</l>
             </lg>
-            <lg type="verse" id="LG1356">
+            <lg type="heroic couplets" id="LG1356">
                <l rend="indent" id="L7201">"Mine was the act," th' Almighty Saviour said,</l>
                <l id="L7202">And shook the dazzling glories of his head,</l>
                <l id="L7203">"When all forsook I trod the press alone,</l>
@@ -1471,7 +1471,7 @@
                <l id="L7209">"Sinless I stood before the avenging frown,</l>
                <l id="L7210">"Atoning thus for vices not my own."</l>
             </lg>
-            <lg type="verse" id="LG1357">
+            <lg type="heroic couplets" id="LG1357">
                <l rend="indent" id="L7211">His eye the ample field of battle round</l>
                <l id="L7212">Survey'd, but no created succours found;</l>
                <l id="L7213">His own omnipotence sustain'd the fight,</l>
@@ -1479,11 +1479,11 @@
                <l id="L7215">Beneath his feet the prostrate troops were spread,</l>
                <l id="L7216">And round him lay the dying, and the dead.</l>
             </lg>
-            <lg type="verse" id="LG1358">
+            <lg type="heroic couplets" id="LG1358">
                <l rend="indent" id="L7217">Great God, what light'ning flashes from thine eyes?</l>
                <l id="L7218">What pow'r withstands if thou indignant rise?</l>
             </lg>
-            <lg type="verse" id="LG1359">
+            <lg type="heroic couplets" id="LG1359">
                <l rend="indent" id="L7219">Against thy <hi rend="italic">Zion</hi> though her foes
                   may rage,</l>
                <l id="L7220">And all their cunning, all their strength engage,</l>
@@ -1495,7 +1495,7 @@
             <pb n="62" facs="images/WP-0062.png"/>
             <head>On RECOLLECTION.</head>
 
-            <lg type="verse" id="LG1360">
+            <lg type="heroic couplets" id="LG1360">
                <l id="L7223">MNEME begin. Inspire, ye sacred nine,</l>
                <l id="L7224">Your vent'rous <hi rend="italic">Afric</hi> in her great design.</l>
                <l id="L7225"><hi rend="italic">Mneme</hi>, immortal pow'r, I trace thy spring:</l>
@@ -1505,7 +1505,7 @@
                <l id="L7229">Thy pow'r the long-forgotten calls from night,</l>
                <l id="L7230">That sweetly plays before the <hi rend="italic">fancy's</hi> sight.</l>
             </lg>
-            <lg type="verse" id="LG1361">
+            <lg type="heroic couplets" id="LG1361">
                <l rend="indent" id="L7231"><hi rend="italic">Mneme</hi> in our nocturnal visions
                   pours</l>
                <l id="L7232">The ample treasure of her secret stores;</l>
@@ -1520,7 +1520,7 @@
                <l id="L7239">The heav'nly <hi rend="italic">phantom</hi> paints the actions done</l>
                <l id="L7240">By ev'ry tribe beneath the rolling sun.</l>
             </lg>
-            <lg type="verse" id="LG1362">
+            <lg type="heroic couplets" id="LG1362">
                <l rend="indent" id="L7241"><hi rend="italic">Mneme</hi>, enthron'd within the human
                   breast,</l>
                <l id="L7242">Has vice condemn'd, and ev'ry virtue blest.</l>
@@ -1535,7 +1535,7 @@
                <l id="L7251">Days, years mispent, O what a hell of woe!</l>
                <l id="L7252">Hers the worst tortures that our souls can know.</l>
             </lg>
-            <lg type="verse" id="LG1363">
+            <lg type="heroic couplets" id="LG1363">
                <l rend="indent" id="L7253">Now eighteen years their destin'd course have run,</l>
                <l id="L7254">In fast succession round the central sun.</l>
                <l id="L7255">How did the follies of that period pass</l>
@@ -1544,14 +1544,14 @@
                <l id="L7257">In Recollection see them fresh return,</l>
                <l id="L7258">And sure 'tis mine to be asham'd, and mourn.</l>
             </lg>
-            <lg type="verse" id="LG1364">
+            <lg type="heroic couplets" id="LG1364">
                <l rend="indent" id="L7259">O <hi rend="italic">Virtue</hi>, smiling in immortal
                   green,</l>
                <l id="L7260">Do thou exert thy pow'r, and change the scene;</l>
                <l id="L7261">Be thine employ to guide my future days,</l>
                <l id="L7262">And mine to pay the tribute of my praise.</l>
             </lg>
-            <lg type="verse" id="LG1365">
+            <lg type="heroic couplets" id="LG1365">
                <l rend="indent" id="L7263">Of <hi rend="italic">Recollection</hi> such the pow'r
                   enthron'd</l>
                <l id="L7264">In ev'ry breast, and thus her pow'r is own'd.</l>
@@ -1569,20 +1569,20 @@
             <pb n="65" facs="images/WP-0065.png"/>
             <head>On IMAGINATION.</head>
 
-            <lg type="verse" id="LG1366">
+            <lg type="heroic couplets" id="LG1366">
                <l id="L7273">THY various works, imperial queen, we see,</l>
                <l id="L7274">How bright their forms! how deck'd with pomp by thee!</l>
                <l id="L7275">Thy wond'rous acts in beauteous order stand,</l>
                <l id="L7276">And all attest how potent is thine hand.</l>
             </lg>
-            <lg type="verse" id="LG1367">
+            <lg type="heroic couplets" id="LG1367">
                <l rend="indent" id="L7277">From <hi rend="italic">Helicon's</hi> refulgent heights
                   attend,</l>
                <l id="L7278">Ye sacred choir, and my attempts befriend:</l>
                <l id="L7279">To tell her glories with a faithful tongue,</l>
                <l id="L7280">Ye blooming graces, triumph in my song.</l>
             </lg>
-            <lg type="verse" id="LG1368">
+            <lg type="heroic couplets" id="LG1368">
                <l rend="indent" id="L7281">Now here, now there, the roving <hi rend="italic"
                      >Fancy</hi> flies,</l>
                <l id="L7282">Till some lov'd object strikes her wand'ring eyes,</l>
@@ -1590,7 +1590,7 @@
                <l id="L7284">And soft captivity involves the mind.</l>
             </lg>
             <pb n="66" id="P512"/>
-            <lg type="verse" id="LG1369">
+            <lg type="heroic couplets" id="LG1369">
                <l rend="indent" id="L7285"><hi rend="italic">Imagination!</hi> who can sing thy
                   force?</l>
                <l id="L7286">Or who describe the swiftness of thy course?</l>
@@ -1603,7 +1603,7 @@
                <l id="L7293">There in one view we grasp the mighty whole,</l>
                <l id="L7294">Or with new worlds amaze th' unbounded soul.</l>
             </lg>
-            <lg type="verse" id="LG1370">
+            <lg type="heroic couplets" id="LG1370">
                <l rend="indent" id="L7295">Though <hi rend="italic">Winter</hi> frowns to <hi
                      rend="italic">Fancy's</hi> raptur'd eyes</l>
                <l id="L7296">The fields may flourish, and gay scenes arise;</l>
@@ -1617,7 +1617,7 @@
                <l id="L7303">Show'rs may descend, and dews their gems disclose,</l>
                <l id="L7304">And nectar sparkle on the blooming rose.</l>
             </lg>
-            <lg type="verse" id="LG1371">
+            <lg type="heroic couplets" id="LG1371">
                <l rend="indent" id="L7305">Such is thy pow'r, nor are thine orders vain,</l>
                <l id="L7306">O thou the leader of the mental train:</l>
                <l id="L7307">In full perfection all thy works are wrought,</l>
@@ -1627,7 +1627,7 @@
                <l id="L7311">At thy command joy rushes on the heart,</l>
                <l id="L7312">And through the glowing veins the spirits dart.</l>
             </lg>
-            <lg type="verse" id="LG1372">
+            <lg type="heroic couplets" id="LG1372">
                <l rend="indent" id="L7313"><hi rend="italic">Fancy</hi> might now her silken pinions
                   try</l>
                <l id="L7314">To rise from earth, and sweep th' expanse on high;</l>
@@ -1651,7 +1651,7 @@
             <pb n="69" facs="images/WP-0069.png"/>
             <head>A Funeral POEM on the Death of C. E. an Infant of Twelve Months.</head>
 
-            <lg type="verse" id="LG1373">
+            <lg type="heroic couplets" id="LG1373">
                <l id="L7326">THROUGH airy roads he wings his instant flight</l>
                <l id="L7327">To purer regions of celestial light;</l>
                <l id="L7328">Enlarg'd he sees unnumber'd systems roll,</l>
@@ -1678,7 +1678,7 @@
                <l id="L7348">Joyful he spoke: exulting cherubs round</l>
                <l id="L7349">Clapt their glad wings, the heav'nly vaults resound.</l>
             </lg>
-            <lg type="verse" id="LG1374">
+            <lg type="heroic couplets" id="LG1374">
                <l rend="indent" id="L7350">Say, parents, why this unavailing moan?</l>
                <l id="L7351">Why heave your pensive bosoms with the groan?</l>
                <l id="L7352">To <hi rend="italic">Charles</hi>, the happy subject of my song,</l>
@@ -1692,7 +1692,7 @@
                <l id="L7360">"Thrones and dominions cannot tempt me there."</l>
             </lg>
             <pb n="71" facs="images/WP-0071.png"/>
-            <lg type="verse" id="LG1375">
+            <lg type="heroic couplets" id="LG1375">
                <l rend="indent" id="L7361">But still you cry, "Can we the sigh forbear,</l>
                <l id="L7362">"And still and still must we not pour the tear?</l>
                <l id="L7363">"Our only hope, more dear than vital breath,</l>
@@ -1704,7 +1704,7 @@
                <l id="L7368">"The <hi rend="italic">Phantom</hi> flies, and leaves the soul
                   unblest."</l>
             </lg>
-            <lg type="verse" id="LG1376">
+            <lg type="heroic couplets" id="LG1376">
                <l rend="indent" id="L7369">To yon bright regions let your faith ascend,</l>
                <l id="L7370">Prepare to join your dearest infant friend</l>
                <l id="L7371">In pleasures without measure, without end.</l>
@@ -1733,7 +1733,7 @@
             <head>To the Right Honourable WILLLAM, Earl of DARTMOUTH, His Majesty's Principal
                Secretary of State for North America, &amp;c.</head>
 
-            <lg type="verse" id="LG1377">
+            <lg type="heroic couplets" id="LG1377">
                <l id="L7382">HAIL, happy day, when, smiling like the morn,</l>
                <l id="L7383">Fair <hi rend="italic">Freedom</hi> rose <hi rend="italic"
                      >New-England</hi> to adorn:</l>
@@ -1753,7 +1753,7 @@
                <l id="L7395">The owl in sadness seeks the caves of night.</l>
             </lg>
             <pb n="74" facs="images/WP-0074.png"/>
-            <lg type="verse" id="LG1378">
+            <lg type="heroic couplets" id="LG1378">
                <l rend="indent" id="L7396">No more, <hi rend="italic">America</hi>, in mournful
                   strain</l>
                <l id="L7397">Of wrongs, and grievance unredress'd complain,</l>
@@ -1761,7 +1761,7 @@
                <l id="L7399">Which wanton <hi rend="italic">Tyranny</hi> with lawless hand</l>
                <l id="L7400">Had made, and with it meant t' enslave the land.</l>
             </lg>
-            <lg type="verse" id="LG1379">
+            <lg type="heroic couplets" id="LG1379">
                <l rend="indent" id="L7401">Should you, my lord, while you peruse my song,</l>
                <l id="L7402">Wonder from whence my love of <hi rend="italic">Freedom</hi>
                   sprung,</l>
@@ -1778,7 +1778,7 @@
                <l id="L7412">Others may never feel tyrannic sway?</l>
             </lg>
             <pb n="75" facs="images/WP-0075.png"/>
-            <lg type="verse" id="LG1380">
+            <lg type="heroic couplets" id="LG1380">
                <l rend="indent" id="L7413">For favours past, great Sir, our thanks are due,</l>
                <l id="L7414">And thee we ask thy favours to renew,</l>
                <l id="L7415">Since in thy pow'r, as in thy will before,</l>
@@ -1800,7 +1800,7 @@
 
             <opener>On Mrs. W--'s Voyage to England.</opener>
 
-            <lg type="verse" id="LG1381">
+            <lg type="heroic couplets" id="LG1381">
                <head type="verse">I.</head>
                <l id="L7425">WHILE raging tempests shake the shore,</l>
                <l id="L7426">While <hi rend="italic">AE'lus'</hi> thunders round us roar,</l>
@@ -1810,7 +1810,7 @@
                <l id="L7430">While my <hi rend="italic">Susannah</hi> skims the wat'ry way.</l>
             </lg>
 
-            <lg type="verse" id="LG1382">
+            <lg type="heroic couplets" id="LG1382">
                <head type="verse">II.</head>
                <l id="L7431">The <hi rend="italic">Pow'r</hi> propitious hears the lay,</l>
                <l id="L7432">The blue-ey'd daughters of the sea</l>
@@ -1821,7 +1821,7 @@
                <l id="L7436">And double radiance decks the face of day.</l>
             </lg>
             <pb n="77" facs="images/WP-0077.png"/>
-            <lg type="verse" id="LG1383">
+            <lg type="heroic couplets" id="LG1383">
                <head type="verse">III.</head>
                <l id="L7437">To court thee to <hi rend="italic">Britannia's</hi> arms</l>
                <l rend="indent" id="L7438">Serene the climes and mild the sky,</l>
@@ -1839,11 +1839,11 @@
             <head>To a LADY on her coming to North-America with her Son, for the Recovery of her
                Health.</head>
 
-            <lg type="verse" id="LG1384">
+            <lg type="heroic couplets" id="LG1384">
                <l id="L7443">INdulgent muse! my grov'ling mind inspire,</l>
                <l id="L7444">And fill my bosom with celestial fire.</l>
             </lg>
-            <lg type="verse" id="LG1385">
+            <lg type="heroic couplets" id="LG1385">
                <l rend="indent" id="L7445">See from <hi rend="italic">Jamaica's</hi> fervid shore
                   she moves,</l>
                <l id="L7446">Like the fair mother of the blooming loves,</l>
@@ -1852,7 +1852,7 @@
                <l id="L7449">Thus she on <hi rend="italic">Neptune's</hi> wat'ry realm reclin'd</l>
                <l id="L7450">Appear'd, and thus invites the ling'ring wind.</l>
             </lg>
-            <lg type="verse" id="LG1386">
+            <lg type="heroic couplets" id="LG1386">
                <l rend="indent" id="L7451">"Arise, ye winds, <hi rend="italic">America</hi>
                   explore,</l>
                <l id="L7452">"Waft me, ye gales, from this malignant shore;</l>
@@ -1862,13 +1862,13 @@
                <l id="L7456">The winds assented, and the vessel flew.</l>
             </lg>
             <pb n="79" facs="images/WP-0079.png"/>
-            <lg type="verse" id="LG1387">
+            <lg type="heroic couplets" id="LG1387">
                <l rend="indent" id="L7457">Madam, your spouse bereft of wife and son,</l>
                <l id="L7458">In the grove's dark recesses pours his moan;</l>
                <l id="L7459">Each branch, wide-spreading to the ambient sky,</l>
                <l id="L7460">Forgets its verdure, and submits to die.</l>
             </lg>
-            <lg type="verse" id="LG1388">
+            <lg type="heroic couplets" id="LG1388">
                <l rend="indent" id="L7461">From thence I turn, and leave the sultry plain,</l>
                <l id="L7462">And swift pursue thy passage o'er the main:</l>
                <l id="L7463">The ship arrives before the fav'ring wind,</l>
@@ -1892,7 +1892,7 @@
             <head>To a LADY on her remarkable Preservation in an Hurricane in <hi rend="italic"
                   >North-Carolina.</hi></head>
 
-            <lg type="verse" id="LG1389">
+            <lg type="heroic couplets" id="LG1389">
                <l id="L7477">THOUGH thou did'st hear the tempest from afar,</l>
                <l id="L7478">And felt'st the horrors of the wat'ry war,</l>
                <l id="L7479">To me unknown, yet on this peaceful shore</l>
@@ -1911,7 +1911,7 @@
                <l id="L7492">And strows with planks the wat'ry element.</l>
             </lg>
             <pb n="81" facs="images/WP-0081.png"/>
-            <lg type="verse" id="LG1390">
+            <lg type="heroic couplets" id="LG1390">
                <l rend="indent" id="L7493">But thee, <hi rend="italic">Maria</hi>, a kind <hi
                      rend="italic">Nereid's</hi> shield</l>
                <l id="L7494">Preserv'd from sinking, and thy form upheld:</l>
@@ -1922,7 +1922,7 @@
                <l id="L7499">Of things above, and of the future doom,</l>
                <l id="L7500">And what the births of the dread world to come.</l>
             </lg>
-            <lg type="verse" id="LG1391">
+            <lg type="heroic couplets" id="LG1391">
                <l rend="indent" id="L7501">From tossing seas I welcome thee to land.</l>
                <l id="L7502">"Resign her, <hi rend="italic">Nereid</hi>," 'twas thy God's
                   command.</l>
@@ -1939,7 +1939,7 @@
             <pb n="82" facs="images/WP-0082.png"/>
             <head>To a LADY and her Children, on the Death of her Son and their Brother.</head>
 
-            <lg type="verse" id="LG1392">
+            <lg type="heroic couplets" id="LG1392">
                <l id="L7509">O'Erwhelming sorrow now demands my song:</l>
                <l id="L7510">From death the overwhelming sorrow sprung.</l>
                <l id="L7511">What flowing tears? What hearts with grief opprest?</l>
@@ -1951,7 +1951,7 @@
                <l id="L7517">In death the friend, the kind companion lies,</l>
                <l id="L7518">And in one death what various comfort dies!</l>
             </lg>
-            <lg type="verse" id="LG1393">
+            <lg type="heroic couplets" id="LG1393">
                <l rend="indent" id="L7519">Th' unhappy mother sees the sanguine rill</l>
                <l id="L7520">Forget to flow, and nature's wheels stand still,</l>
                <l id="L7521">But see from earth his spirit far remov'd,</l>
@@ -1966,7 +1966,7 @@
                <l id="L7529">But of celestial joys I sing in vain:</l>
                <l id="L7530">Attempt not, muse, the too advent'rous strain.</l>
             </lg>
-            <lg type="verse" id="LG1394">
+            <lg type="heroic couplets" id="LG1394">
                <l rend="indent" id="L7531">No more in briny show'rs, ye friends around,</l>
                <l id="L7532">Or bathe his clay, or waste them on the ground:</l>
                <l id="L7533">Still do you weep, still wish for his return?</l>
@@ -1982,7 +1982,7 @@
             <head>To a GENTLEMAN and LADY on the Death of the Lady's Brother and Sister, and a Child
                of the Name <hi rend="italic">Avis</hi>, aged one Year.</head>
 
-            <lg type="verse" id="LG1395">
+            <lg type="heroic couplets" id="LG1395">
                <l id="L7539">ON <hi rend="italic">Death's</hi> domain intent I fix my eyes,</l>
                <l id="L7540">Where human nature in vast ruin lies,</l>
                <l id="L7541">With pensive mind I search the drear abode,</l>
@@ -1996,7 +1996,7 @@
                <l id="L7549">See here a brother, here a sister spread,</l>
                <l id="L7550">And a sweet daughter mingled with the dead.</l>
             </lg>
-            <lg type="verse" id="LG1396">
+            <lg type="heroic couplets" id="LG1396">
                <l rend="indent" id="L7551">But, <hi rend="italic">Madam</hi>, let your grief be laid
                   aside,</l>
                <l id="L7552">And let the fountain of your tears be dry'd,</l>
@@ -2007,7 +2007,7 @@
                <l id="L7556">While <hi rend="italic">Death</hi> reigns tyrant o'er this mortal
                   shore.</l>
             </lg>
-            <lg type="verse" id="LG1397">
+            <lg type="heroic couplets" id="LG1397">
                <l rend="indent" id="L7557">The glowing stars and silver queen of light</l>
                <l id="L7558">At last must perish in the gloom of night:</l>
                <l id="L7559">Resign thy friends to that Almighty hand,</l>
@@ -2032,7 +2032,7 @@
             <head>On the Death of Dr. SAMUEL MARSHALL.</head>
             <opener>1771.</opener>
 
-            <lg type="verse" id="LG1398">
+            <lg type="heroic couplets" id="LG1398">
                <l id="L7573">THROUGH thickest glooms look back, immortal shade,</l>
                <l id="L7574">On that confusion which thy death has made;</l>
                <l id="L7575">Or from <hi rend="italic">Olympus'</hi> height look down, and see</l>
@@ -2042,7 +2042,7 @@
                <l id="L7579">Wild in her woe, with grief unknown opprest</l>
                <l id="L7580">Sigh follows sigh deep heaving from her breast.</l>
             </lg>
-            <lg type="verse" id="LG1399">
+            <lg type="heroic couplets" id="LG1399">
                <l rend="indent" id="L7581">Too quickly fled, ah! whither art thou gone?</l>
                <l id="L7582">Ah! lost for ever to thy wife and son!</l>
                <l id="L7583">The hapless child, thine only hope and heir,</l>
@@ -2051,21 +2051,21 @@
                <l id="L7586">And <hi rend="italic">Boston</hi> for her dear physician mourns.</l>
             </lg>
             <pb n="87" facs="images/WP-0087.png"/>
-            <lg type="verse" id="LG1400">
+            <lg type="heroic couplets" id="LG1400">
                <l rend="indent" id="L7587">When sickness call'd for <hi rend="italic"
                      >Marshall's</hi> healing hand,</l>
                <l id="L7588">With what compassion did his soul expand?</l>
                <l id="L7589">In him we found the father and the friend:</l>
                <l id="L7590">In life how lov'd! how honour'd in his end!</l>
             </lg>
-            <lg type="verse" id="LG1401">
+            <lg type="heroic couplets" id="LG1401">
                <l rend="indent" id="L7591">And must not then our <hi rend="italic">AEsculapius</hi>
                   stay</l>
                <l id="L7592">To bring his ling'ring infant into day?</l>
                <l id="L7593">The babe unborn in the dark womb is tost,</l>
                <l id="L7594">And seems in anguish for its father lost.</l>
             </lg>
-            <lg type="verse" id="LG1402">
+            <lg type="heroic couplets" id="LG1402">
                <l rend="indent" id="L7595">Gone is <hi rend="italic">Apollo</hi> from his house of
                   earth,</l>
                <l id="L7596">But leaves the sweet memorials of his worth:</l>
@@ -2081,7 +2081,7 @@
             <head>To a GENTLEMAN on his Voyage to <hi rend="italic">Great-Britain</hi> for the
                Recovery of his Health.</head>
 
-            <lg type="verse" id="LG1403">
+            <lg type="heroic couplets" id="LG1403">
                <l id="L7601">WHILE others chant of gay <hi rend="italic">Elysian</hi> scenes,</l>
                <l id="L7602">Of balmy zephyrs, and of flow'ry plains,</l>
                <l id="L7603">My song more happy speaks a greater name,</l>
@@ -2089,7 +2089,7 @@
                <l id="L7605">For thee, OR --, the muse attunes her strings,</l>
                <l id="L7606">And mounts sublime above inferior things.</l>
             </lg>
-            <lg type="verse" id="LG1404">
+            <lg type="heroic couplets" id="LG1404">
                <l rend="indent" id="L7607">I sing not now of green embow'ring woods,</l>
                <l id="L7608">I sing not now the daughters of the floods,</l>
                <l id="L7609">I sing not of the storms o'er ocean driv'n,</l>
@@ -2102,7 +2102,7 @@
                <l id="L7616">And nature shudders at the furious blast.</l>
             </lg>
             <pb n="89" facs="images/WP-0089.png"/>
-            <lg type="verse" id="LG1405">
+            <lg type="heroic couplets" id="LG1405">
                <l rend="indent" id="L7617">O thou stupendous, earth-enclosing main</l>
                <l id="L7618">Exert thy wonders to the world again!</l>
                <l id="L7619">If ere thy pow'r prolong'd the fleeting breath,</l>
@@ -2116,7 +2116,7 @@
                <l id="L7627">Who gave thee birth, and taught thee where to flow,</l>
                <l id="L7628">And in thy waves his various blessings show.</l>
             </lg>
-            <lg type="verse" id="LG1406">
+            <lg type="heroic couplets" id="LG1406">
                <l rend="indent" id="L7629">May R-- return to view his native shore</l>
                <l id="L7630">Replete with vigour not his own before,</l>
                <l id="L7631">Then shall we see with pleasure and surprize,</l>
@@ -2128,7 +2128,7 @@
             <head>To the Rev. DR. THOMAS AMORY on reading his Sermons on DAILY DEVOTION, in which
                that Duty is recommended and assisted.</head>
 
-            <lg type="verse" id="LG1407">
+            <lg type="heroic couplets" id="LG1407">
                <l id="L7633">TO cultivate in ev'ry noble mind</l>
                <l id="L7634">Habitual grace, and sentiments refin'd,</l>
                <l id="L7635">Thus while you strive to mend the human heart,</l>
@@ -2137,14 +2137,14 @@
                <l id="L7638">And youthful minds to <hi rend="italic">Virtue's</hi> throne
                   aspire!</l>
             </lg>
-            <lg type="verse" id="LG1408">
+            <lg type="heroic couplets" id="LG1408">
                <l rend="indent" id="L7639">When God's eternal ways you set in sight,</l>
                <l id="L7640">And <hi rend="italic">Virtue</hi> shines in all her native light,</l>
                <l id="L7641">In vain would <hi rend="italic">Vice</hi> her works in night
                   conceal,</l>
                <l id="L7642">For <hi rend="italic">Wisdom's</hi> eye pervades the sable veil.</l>
             </lg>
-            <lg type="verse" id="LG1409">
+            <lg type="heroic couplets" id="LG1409">
                <l rend="indent" id="L7643">Artists may paint the sun's effulgent rays,</l>
                <l id="L7644">But <hi rend="italic">Amory's</hi> pen the brighter God displays:</l>
                <l id="L7645">While his great works in <hi rend="italic">Amory's</hi> pages
@@ -2160,7 +2160,7 @@
                <l id="L7653">It cannot be unerring <hi rend="italic">Wisdom</hi> guides</l>
                <l id="L7654">With eye propitious, and o'er all presides.</l>
             </lg>
-            <lg type="verse" id="LG1410">
+            <lg type="heroic couplets" id="LG1410">
                <l rend="indent" id="L7655">Still prosper, <hi rend="italic">Amory!</hi> still may'st
                   thou receive</l>
                <l id="L7656">The warmest blessings which a muse can give,</l>
@@ -2175,13 +2175,13 @@
             <pb n="92" facs="images/WP-0092.png"/>
             <head>On the Death of J. C. an Infant.</head>
 
-            <lg type="verse" id="LG1411">
+            <lg type="heroic couplets" id="LG1411">
                <l id="L7661">NO more the flow'ry scenes of pleasure rise,</l>
                <l id="L7662">Nor charming prospects greet the mental eyes,</l>
                <l id="L7663">No more with joy we view that lovely face</l>
                <l id="L7664">Smiling, disportive, flush'd with ev'ry grace.</l>
             </lg>
-            <lg type="verse" id="LG1412">
+            <lg type="heroic couplets" id="LG1412">
                <l rend="indent" id="L7665">The tear of sorrow flows from ev'ry eye,</l>
                <l id="L7666">Groans answer groans, and sighs to sighs reply;</l>
                <l id="L7667">What sudden pangs shot thro' each aching heart,</l>
@@ -2195,7 +2195,7 @@
                <l id="L7674">Thy purpose shake, and soften all thy soul?</l>
             </lg>
             <pb n="93" facs="images/WP-0093.png"/>
-            <lg type="verse" id="LG1413">
+            <lg type="heroic couplets" id="LG1413">
                <l rend="indent" id="L7675">The blooming babe, with shades of <hi rend="italic"
                      >Death</hi> o'erspread,</l>
                <l id="L7676">No more shall smile, no more shall raise its head,</l>
@@ -2236,7 +2236,7 @@
             <head>An HYMN to HUMANITY.</head>
             <opener>To S. P. G. Esq;</opener>
 
-            <lg type="verse" id="LG1414">
+            <lg type="heroic couplets" id="LG1414">
                <head type="verse">I.</head>
                <l id="L7703">LO! for this dark terrestrial ball</l>
                <l id="L7704">Forsakes his azure-paved hall</l>
@@ -2246,7 +2246,7 @@
                <l rend="indent" id="L7708">At his descent to earth!</l>
             </lg>
 
-            <lg type="verse" id="LG1415">
+            <lg type="heroic couplets" id="LG1415">
                <head type="verse">II.</head>
                <l id="L7709">The bosoms of the great and good</l>
                <l id="L7710">With wonder and delight he view'd,</l>
@@ -2256,7 +2256,7 @@
                <l rend="indent" id="L7714">"My son, my heav'nly fair!</l>
             </lg>
             <pb n="96" facs="images/WP-0096.png"/>
-            <lg type="verse" id="LG1416">
+            <lg type="heroic couplets" id="LG1416">
                <head type="verse">III.</head>
                <l id="L7715">"Descend to earth, there place thy throne;</l>
                <l id="L7716">"To succour man's afflicted son</l>
@@ -2266,7 +2266,7 @@
                <l rend="indent" id="L7720">"And fill it with thy fire."</l>
             </lg>
 
-            <lg type="verse" id="LG1417">
+            <lg type="heroic couplets" id="LG1417">
                <head type="verse">IV.</head>
                <l id="L7721">Quick as the word, with swift career</l>
                <l id="L7722">He wings his course from star to star,</l>
@@ -2276,7 +2276,7 @@
                <l rend="indent" id="L7726">Perceiv'd the rushing God:</l>
             </lg>
 
-            <lg type="verse" id="LG1418">
+            <lg type="heroic couplets" id="LG1418">
                <head type="verse">V.</head>
                <l id="L7727">For when thy pitying eye did see</l>
                <l id="L7728">The languid muse in low degree,</l>
@@ -2286,7 +2286,7 @@
                <l rend="indent" id="L7732">And deign'd to string my lyre.</l>
             </lg>
             <pb n="97" facs="images/WP-0097.png"/>
-            <lg type="verse" id="LG1419">
+            <lg type="heroic couplets" id="LG1419">
                <head type="verse">VI.</head>
                <l id="L7733">Can <hi rend="italic">Afric's</hi> muse forgetful prove?</l>
                <l id="L7734">Or can such friendship fail to move</l>
@@ -2300,7 +2300,7 @@
             <pb n="98" facs="images/WP-0098.png"/>
             <head>To the Honourable T. H. Esq; on the Deathof his Daughter.</head>
 
-            <lg type="verse" id="LG1420">
+            <lg type="heroic couplets" id="LG1420">
                <l id="L7739">WHILE deep you mourn beneath the cypress-shade</l>
                <l id="L7740">The hand of Death, and your dear daughter laid</l>
                <l id="L7741">In dust, whose absence gives your tears to flow,</l>
@@ -2317,7 +2317,7 @@
                <l id="L7751">Expanding free, it sought the means to prove</l>
                <l id="L7752">Unfailing charity, unbounded love!</l>
             </lg>
-            <lg type="verse" id="LG1421">
+            <lg type="heroic couplets" id="LG1421">
                <l rend="indent" id="L7753">She unreluctant flies to see no more</l>
                <l id="L7754">Her dear-lov'd parents on earth's dusky shore:</l>
                <pb n="99" facs="images/WP-0099.png"/>
@@ -2328,7 +2328,7 @@
                <l id="L7759">She leaves her earthly mansion for the skies,</l>
                <l id="L7760">Where new creations feast her wond'ring eyes.</l>
             </lg>
-            <lg type="verse" id="LG1422">
+            <lg type="heroic couplets" id="LG1422">
                <l rend="indent" id="L7761">To heav'n's high mandate chearfully resign'd</l>
                <l id="L7762">She mounts, and leaves the rolling globe behind;</l>
                <l id="L7763">She, who late wish'd that <hi rend="italic">Leonard</hi> might
@@ -2357,7 +2357,7 @@
                   >Ovid's</hi> Metamorphoses, Book VI. and from a view of the Painting of Mr. <hi
                   rend="italic">Richard Wilson.</hi></head>
 
-            <lg type="verse" id="LG1423">
+            <lg type="heroic couplets" id="LG1423">
                <l id="L7779">APOLLO's wrath to man the dreadful spring</l>
                <l id="L7780">Of ills innum'rous, tuneful goddess, sing!</l>
                <l id="L7781">Thou who did'st first th' ideal pencil give,</l>
@@ -2370,7 +2370,7 @@
                <l id="L7787">O guide my pen in lofty strains to show</l>
                <l id="L7788">The <hi rend="italic">Phrygian</hi> queen, all beautiful in woe.</l>
             </lg>
-            <lg type="verse" id="LG1424">
+            <lg type="heroic couplets" id="LG1424">
                <l rend="indent" id="L7789">'Twas where <hi rend="italic">Maeonia</hi> spreads her
                   wide domain</l>
                <l id="L7790"><hi rend="italic">Niobe</hi> dwelt, and held her potent reign:</l>
@@ -2385,12 +2385,12 @@
                   high</l>
                <l id="L7798">Rolls the loud-pealing thunder thro' the sky.</l>
             </lg>
-            <lg type="verse" id="LG1425">
+            <lg type="heroic couplets" id="LG1425">
                <l rend="indent" id="L7799">Her spouse, <hi rend="italic">Amphion</hi>, who from <hi
                      rend="italic">Jove</hi> too springs,</l>
                <l id="L7800">Divinely taught to sweep the sounding strings.</l>
             </lg>
-            <lg type="verse" id="LG1426">
+            <lg type="heroic couplets" id="LG1426">
                <l rend="indent" id="L7801">Seven sprightly sons the royal bed adorn,</l>
                <l id="L7802">Seven daughters beauteous as the op'ning morn,</l>
                <l id="L7803">As when <hi rend="italic">Aurora</hi> fills the ravish'd sight,</l>
@@ -2398,7 +2398,7 @@
                <l id="L7805">From their bright eyes the living splendors play,</l>
                <l id="L7806">Nor can beholders bear the flashing ray.</l>
             </lg>
-            <lg type="verse" id="LG1427">
+            <lg type="heroic couplets" id="LG1427">
                <l rend="indent" id="L7807">Wherever, <hi rend="italic">Niobe</hi>, thou turn'st
                   thine eyes,</l>
                <l id="L7808">New beauties kindle, and new joys arise!</l>
@@ -2410,7 +2410,7 @@
                <l id="L7813">Thy love too vehement hastens to destroy</l>
                <l id="L7814">Each blooming maid, and each celestial boy.</l>
             </lg>
-            <lg type="verse" id="LG1428">
+            <lg type="heroic couplets" id="LG1428">
                <l rend="indent" id="L7815">Now <hi rend="italic">Manto</hi> comes, endu'd with
                   mighty skill,</l>
                <l id="L7816">The past to explore, the future to reveal.</l>
@@ -2420,7 +2420,7 @@
                <l id="L7819">The Theban maids to hear the orders ran,</l>
                <l id="L7820">When thus <hi rend="italic">Maeonia's</hi> prophetess began:</l>
             </lg>
-            <lg type="verse" id="LG1429">
+            <lg type="heroic couplets" id="LG1429">
                <l rend="indent" id="L7821">"Go, <hi rend="italic">Thebans!</hi> great <hi
                      rend="italic">Latona's</hi> will obey,</l>
                <l id="L7822">"And pious tribute at her altars pay:</l>
@@ -2435,7 +2435,7 @@
                <l id="L7830">And leaves of laurel bind the flowing hair.</l>
             </lg>
             <pb n="104" facs="images/WP-0104.png"/>
-            <lg type="verse" id="LG1430">
+            <lg type="heroic couplets" id="LG1430">
                <l rend="indent" id="L7831"><hi rend="italic">Niobe</hi> comes with all her royal
                   race,</l>
                <l id="L7832">With charms unnumber'd, and superior grace:</l>
@@ -2477,7 +2477,7 @@
                   maids obey'd,</l>
                <l id="L7866">Their brows unbound, and left the rights unpaid.</l>
             </lg>
-            <lg type="verse" id="LG1431">
+            <lg type="heroic couplets" id="LG1431">
                <l rend="indent" id="L7867">The angry goddess heard, then silence broke</l>
                <l id="L7868">On <hi rend="italic">Cynthus'</hi> summit, and indignant spoke;</l>
                <pb n="106" facs="images/WP-0106.png"/>
@@ -2496,7 +2496,7 @@
                <l id="L7879"><hi rend="italic">Latona</hi> ceas'd, and ardent thus replies</l>
                <l id="L7880">The God, whose glory decks th' expanded skies.</l>
             </lg>
-            <lg type="verse" id="LG1432">
+            <lg type="heroic couplets" id="LG1432">
                <l rend="indent" id="L7881">"Cease thy complaints, mine be the task assign'd</l>
                <l id="L7882">"To punish pride, and scourge the rebel mind."</l>
                <l id="L7883">This <hi rend="italic">Phoebe</hi> join'd. -- They wing their instant
@@ -2504,13 +2504,13 @@
                <l id="L7884"><hi rend="italic">Thebes</hi> trembled as th' immortal pow'rs
                   alight.</l>
             </lg>
-            <lg type="verse" id="LG1433">
+            <lg type="heroic couplets" id="LG1433">
                <l rend="indent" id="L7885">With clouds incompass'd glorious <hi rend="italic"
                      >Phoebus</hi> stands;</l>
                <l id="L7886">The feather'd vengeance quiv'ring in his hands.</l>
             </lg>
             <pb n="107" facs="images/WP-0107.png"/>
-            <lg type="verse" id="LG1434">
+            <lg type="heroic couplets" id="LG1434">
                <l rend="indent" id="L7887">Near <hi rend="italic">Cadmus'</hi> walls a plain
                   extended lay,</l>
                <l id="L7888">Where <hi rend="italic">Thebes'</hi> young princes pass'd in sport the
@@ -2526,7 +2526,7 @@
                <l id="L7897">He, the first-born of great <hi rend="italic">Amphion's</hi> bed,</l>
                <l id="L7898">Was struck the first, first mingled with the dead.</l>
             </lg>
-            <lg type="verse" id="LG1435">
+            <lg type="heroic couplets" id="LG1435">
                <l rend="indent" id="L7899">Then didst thou, <hi rend="italic">Sipylus</hi>, the
                   language hear</l>
                <l id="L7900">Of fate portentous whistling in the air:</l>
@@ -2538,7 +2538,7 @@
                <l id="L7905">But ah! a fatal shaft from <hi rend="italic">Phoebus'</hi> hand</l>
                <l id="L7906">Smites through thy neck, and sinks thee on the sand.</l>
             </lg>
-            <lg type="verse" id="LG1436">
+            <lg type="heroic couplets" id="LG1436">
                <l rend="indent" id="L7907">Two other brothers were at <hi rend="italic"
                      >wrestling</hi> found,</l>
                <l id="L7908">And in their pastime claspt each other round:</l>
@@ -2549,7 +2549,7 @@
                <l id="L7913">Together too th' unbodied spirits fled,</l>
                <l id="L7914">And sought the gloomy mansions of the dead.</l>
             </lg>
-            <lg type="verse" id="LG1437">
+            <lg type="heroic couplets" id="LG1437">
                <l rend="indent" id="L7915"><hi rend="italic">Alphenor</hi> saw, and trembling at the
                   view,</l>
                <l id="L7916">Beat his torn breast, that chang'd its snowy hue.</l>
@@ -2561,7 +2561,7 @@
                <l id="L7921">Soon as the arrow left the deadly wound,</l>
                <l id="L7922">His issuing entrails smoak'd upon the ground.</l>
             </lg>
-            <lg type="verse" id="LG1438">
+            <lg type="heroic couplets" id="LG1438">
                <l rend="indent" id="L7923">What woes on blooming <hi rend="italic">Damasichon</hi>
                   wait!</l>
                <l id="L7924">His sighs portend his near impending fate.</l>
@@ -2574,7 +2574,7 @@
                <l id="L7931">Swift thro' his throat the feather'd mischief flies,</l>
                <l id="L7932">Bereft of sense, he drops his head, and dies.</l>
             </lg>
-            <lg type="verse" id="LG1439">
+            <lg type="heroic couplets" id="LG1439">
                <l rend="indent" id="L7933">Young <hi rend="italic">Ilioneus</hi>, the last, directs
                   his pray'r,</l>
                <l id="L7934">And cries, "My life, ye gods celestial! spare."</l>
@@ -2584,7 +2584,7 @@
                <l id="L7938">The fates refuse that arrow to recal.</l>
             </lg>
             <pb n="110" facs="images/WP-0110.png"/>
-            <lg type="verse" id="LG1440">
+            <lg type="heroic couplets" id="LG1440">
                <l rend="indent" id="L7939">On the swift wings of ever-flying <hi rend="italic"
                      >Fame</hi></l>
                <l id="L7940">To <hi rend="italic">Cadmus'</hi> palace soon the tidings came:</l>
@@ -2636,7 +2636,7 @@
                <l id="L7983">While the sixth seeks some gloomy cave in vain,</l>
                <l id="L7984">Struck with the rest, and mingl'd with the slain.</l>
             </lg>
-            <lg type="verse" id="LG1441">
+            <lg type="heroic couplets" id="LG1441">
                <l rend="indent" id="L7985">One only daughter lives, and she the least;</l>
                <l id="L7986">The queen close clasp'd the daughter to her breast:</l>
                <l id="L7987">"Ye heav'nly pow'rs, ah spare me one," she cry'd,</l>
@@ -2644,7 +2644,7 @@
                <l id="L7989">In vain she begs, the <hi rend="italic">Fates</hi> her suit deny,</l>
                <l id="L7990">In her embrace she sees her daughter die.</l>
             </lg>
-            <lg type="verse" id="LG1442">
+            <lg type="heroic couplets" id="LG1442">
                <l rend="indent" id="L7991"><note n="*" id="p112.n1">This Verse to the End is ther
                      Work of another Hand.</note> "The queen of all her family bereft,</l>
                <l id="L7992">"Without or husband, son, or daughter left,</l>
@@ -2666,7 +2666,7 @@
             <head>To S. M. a young <hi rend="italic">African</hi> Painter, on seeing his
                Works.</head>
 
-            <lg type="verse" id="LG1443">
+            <lg type="heroic couplets" id="LG1443">
                <l id="L8003">TO show the lab'ring bosom's deep intent,</l>
                <l id="L8004">And thought in living characters to paint,</l>
                <l id="L8005">When first thy pencil did those beauties give,</l>
@@ -2687,7 +2687,7 @@
                <l id="L8020">Celestial <hi rend="italic">Salem</hi> blooms in endless spring.</l>
             </lg>
             <pb n="115" facs="images/WP-0115.png"/>
-            <lg type="verse" id="LG1444">
+            <lg type="heroic couplets" id="LG1444">
                <l rend="indent" id="L8021">Calm and serene thy moments glide along,</l>
                <l id="L8022">And may the muse inspire each future song!</l>
                <l id="L8023">Still, with the sweets of contemplation bless'd,</l>
@@ -2710,7 +2710,7 @@
             <pb n="116" facs="images/WP-0116.png"/>
             <head>To His Honour the Lieutenant-Governor, on the Death of his Lady.</head>
             <opener><hi rend="italic">March</hi> 24, 1773.</opener>
-            <lg type="verse" id="LG1445">
+            <lg type="heroic couplets" id="LG1445">
                <l id="L8037">ALL-conquering Death! by thy resistless pow'r,</l>
                <l id="L8038">Hope's tow'ring plumage falls to rise no more!</l>
                <l id="L8039">Of scenes terrestrial how the glories fly,</l>
@@ -2736,7 +2736,7 @@
                <l id="L8053">His to conduct to the immortal plains,</l>
                <l id="L8054">Where heav'n's Supreme in bliss and glory reigns.</l>
             </lg>
-            <lg type="verse" id="LG1446">
+            <lg type="heroic couplets" id="LG1446">
                <l rend="indent" id="L8055">There sits, illustrious Sir, thy beauteous spouse;</l>
                <l id="L8056">A gem-blaz'd circle beaming on her brows.</l>
                <l id="L8057">Hail'd with acclaim among the heav'nly choirs,</l>
@@ -2748,7 +2748,7 @@
                <l id="L8063">Nor canst thou, <hi rend="italic">Oliver</hi>, assent refuse</l>
                <l id="L8064">To heav'nly tidings from the <hi rend="italic">Afric</hi> muse.</l>
             </lg>
-            <lg type="verse" id="LG1447">
+            <lg type="heroic couplets" id="LG1447">
                <l rend="indent" id="L8065">As soon may change thy laws, eternal <hi rend="italic"
                      >fate</hi>,</l>
                <l id="L8066">As the saint miss the glories I relate;</l>
@@ -2762,7 +2762,7 @@
                <l id="L8071">Calm and serene beneath her father's hand</l>
                <l id="L8072">She sat resign'd to the divine command.</l>
             </lg>
-            <lg type="verse" id="LG1448">
+            <lg type="heroic couplets" id="LG1448">
                <l rend="indent" id="L8073">No longer then, great Sir, her death deplore,</l>
                <l id="L8074">And let us hear the mournful sigh no more,</l>
                <l id="L8075">Restrain the sorrow streaming from thine eye,</l>
@@ -2777,7 +2777,7 @@
             <pb n="119" facs="images/WP-0119.png"/>
             <head>A Farewel to AMERICA.</head>
             <opener>To Mrs. S. W.</opener>
-            <lg type="verse" id="LG1449">
+            <lg type="heroic couplets" id="LG1449">
                <head type="verse">I.</head>
                <l id="L8081">ADIEU, <hi rend="italic">New-England's</hi> smiling meads,</l>
                <l rend="indent" id="L8082">Adieu, the flow'ry plain:</l>
@@ -2785,7 +2785,7 @@
                <l rend="indent" id="L8084">And tempt the roaring main.</l>
             </lg>
 
-            <lg type="verse" id="LG1450">
+            <lg type="heroic couplets" id="LG1450">
                <head type="verse">II.</head>
                <l id="L8085">In vain for me the flow'rets rise,</l>
                <l rend="indent" id="L8086">And boast their gaudy pride,</l>
@@ -2793,7 +2793,7 @@
                <l rend="indent" id="L8088">I mourn for <hi rend="italic">health</hi> deny'd.</l>
             </lg>
 
-            <lg type="verse" id="LG1451">
+            <lg type="heroic couplets" id="LG1451">
                <head type="verse">III.</head>
                <l id="L8089">Celestial maid of rosy hue,</l>
                <l rend="indent" id="L8090">O let me feel thy reign!</l>
@@ -2801,7 +2801,7 @@
                <l rend="indent" id="L8092">Thy vanish'd joys regain.</l>
             </lg>
             <pb n="120" facs="images/WP-0120.png"/>
-            <lg type="verse" id="LG1452">
+            <lg type="heroic couplets" id="LG1452">
                <head type="verse">IV.</head>
                <l id="L8093"><hi rend="italic">Susannah</hi> mourns, nor can I bear</l>
                <l rend="indent" id="L8094">To see the crystal show'r,</l>
@@ -2809,7 +2809,7 @@
                <l rend="indent" id="L8096">At sad departure's hour;</l>
             </lg>
 
-            <lg type="verse" id="LG1453">
+            <lg type="heroic couplets" id="LG1453">
                <head type="verse">V.</head>
                <l id="L8097">Not unregarding can I see</l>
                <l rend="indent" id="L8098">Her soul with grief opprest:</l>
@@ -2817,7 +2817,7 @@
                <l rend="indent" id="L8100">Steal from her pensive breast.</l>
             </lg>
 
-            <lg type="verse" id="LG1454">
+            <lg type="heroic couplets" id="LG1454">
                <head type="verse">VI.</head>
                <l id="L8101">In vain the feather'd warblers sing,</l>
                <l rend="indent" id="L8102">In vain the garden blooms,</l>
@@ -2825,7 +2825,7 @@
                <l rend="indent" id="L8104">Breathes out her sweet perfumes</l>
             </lg>
 
-            <lg type="verse" id="LG1455">
+            <lg type="heroic couplets" id="LG1455">
                <head type="verse">VII.</head>
                <l id="L8105">While for <hi rend="italic">Britannia's</hi> distant shore</l>
                <l rend="indent" id="L8106">We sweep the liquid plain,</l>
@@ -2833,7 +2833,7 @@
                <l rend="indent" id="L8108">The wide-extended main.</l>
             </lg>
             <pb n="121" facs="images/WP-0121.png"/>
-            <lg type="verse" id="LG1456">
+            <lg type="heroic couplets" id="LG1456">
                <head type="verse">VIII.</head>
                <l id="L8109">Lo! <hi rend="italic">Health</hi> appears! celestial dame!</l>
                <l rend="indent" id="L8110">Complacent and serene,</l>
@@ -2841,7 +2841,7 @@
                <l rend="indent" id="L8112">With soul-delighting mein.</l>
             </lg>
 
-            <lg type="verse" id="LG1457">
+            <lg type="heroic couplets" id="LG1457">
                <head type="verse">IX.</head>
                <l id="L8113">To mark the vale where <hi rend="italic">London</hi> lies</l>
                <l rend="indent" id="L8114">With misty vapours crown'd,</l>
@@ -2849,7 +2849,7 @@
                <l rend="indent" id="L8116">And veil her charms around,</l>
             </lg>
 
-            <lg type="verse" id="LG1458">
+            <lg type="heroic couplets" id="LG1458">
                <head type="verse">X.</head>
                <l id="L8117">Why, Phoebus, moves thy car so slow?</l>
                <l rend="indent" id="L8118">So slow thy rising ray?</l>
@@ -2857,7 +2857,7 @@
                <l rend="indent" id="L8120">Thou glorious king of day!</l>
             </lg>
 
-            <lg type="verse" id="LG1459">
+            <lg type="heroic couplets" id="LG1459">
                <head type="verse">XI.</head>
                <l id="L8121">For thee, <hi rend="italic">Britannia</hi>, I resign</l>
                <l rend="indent" id="L8122"><hi rend="italic">New-England's</hi> smiling fields;</l>
@@ -2866,7 +2866,7 @@
             </lg>
 
             <pb n="122" facs="images/WP-0122.png"/>
-            <lg type="verse" id="LG1460">
+            <lg type="heroic couplets" id="LG1460">
                <head type="verse">XII.</head>
                <l id="L8125">But thou! Temptation hence away,</l>
                <l rend="indent" id="L8126">With all thy fatal train</l>
@@ -2874,7 +2874,7 @@
                <l rend="indent" id="L8128">By thine enchanting strain.</l>
             </lg>
 
-            <lg type="verse" id="LG1461">
+            <lg type="heroic couplets" id="LG1461">
                <head type="verse">XIII.</head>
                <l id="L8129">Thrice happy they, whose heav'nly shield</l>
                <l rend="indent" id="L8130">Secures their souls from harms,</l>
@@ -2888,7 +2888,7 @@
             <pb n="123" facs="images/WP-0123.png"/>
             <head> A REBUS, by <hi rend="italic">I. B.</hi></head>
 
-            <lg type="verse" id="LG1462">
+            <lg type="heroic couplets" id="LG1462">
                <head type="verse">I.</head>
                <l id="L8133">A BIRD delicious to the taste,</l>
                <l id="L8134">On which an army once did feast,</l>
@@ -2898,7 +2898,7 @@
                <l rend="indent" id="L8138">A gem of vivid green;</l>
             </lg>
 
-            <lg type="verse" id="LG1463">
+            <lg type="heroic couplets" id="LG1463">
                <head type="verse">II.</head>
                <l id="L8139">A town of gaiety and sport,</l>
                <l id="L8140">Where beaux and beauteous nymphs resort,</l>
@@ -2908,7 +2908,7 @@
                <l rend="indent" id="L8144">And by a monarch slain;</l>
             </lg>
 
-            <lg type="verse" id="LG1464">
+            <lg type="heroic couplets" id="LG1464">
                <head type="verse">III.</head>
                <l id="L8145">A peer of popular applause,</l>
                <l id="L8146">Who doth our violated laws,</l>
