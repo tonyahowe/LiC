@@ -33,7 +33,6 @@
             </distributor>
             <authority>
                <idno>finch-nightingale</idno>
-               <!-- we need to develop a plan for these identifications -->
             </authority>
             <availability status="free">
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Published by
@@ -121,7 +120,7 @@
          </editorialDecl>
          <tagsDecl>
             <namespace name="http://www.tei-c.org/ns/1.0">
-               <tagUsage gi="div">Numbered divs used.</tagUsage>
+               <tagUsage gi="div">Unnumbered divs used.</tagUsage>
             </namespace>
          </tagsDecl>
          <classDecl>
@@ -163,7 +162,7 @@
          </titlePage>
       </front>
       <body>
-         <div1 type="poem">
+         <div type="poem">
             <pb n="200" facs="images/FN-200.jpg"/>
             <head type="title"><hi rend="italic">To the </hi><ref target="#nightingale"
                xml:id="nightingaleA"><rs content="#nightingale">NIGHTINGALE</rs></ref>.</head>
@@ -211,10 +210,10 @@
             </lg>
 
 
-         </div1>
+         </div>
       </body>
       <back>
-         <div1 type="annotations">
+         <div type="annotations">
             <head>Annotations</head>
             <note xml:id="finch" type="editorial" resp="JW"><p><graphic
                url="https://collectionimages.npg.org.uk/large/mw06861/Anne-Finch-Countess-of-Winchilsea.jpg"
@@ -339,7 +338,7 @@
                   Poetry is associated with music because of the metrical quality of both. Finch's
                   use of the word "set" in this line emphasizes musicality, specifically the setting
                   of words to music (see OED "set" v1, 73.a). <ptr target="#numbersA"/></p></note>
-         </div1>
+         </div>
       </back>
       <tooltip_notes>
          <div class="tooltip_templates">
