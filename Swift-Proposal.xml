@@ -54,7 +54,14 @@
             
             <sourceDesc>
                 <bibl>This edition has been prepared from the Project Gutenberg online e-text, which has been corrected against a copy of the text in the Jonathan Swift Archive: http://jonathanswiftarchive.org.uk/
-                    <extent></extent>
+                    <extent>
+                     <imprint>
+                     <extent type="online">http://www.gutenberg.org/cache/epub/1080/pg1080.txt</extent>
+                     <publisher>Project Gutenberg</publisher>
+                     <date when="1997">1997</date>
+                     <note>Online plain text. Text modified to add capitalization and italics in accordance with the first edition of 1729</note>
+                  </imprint>
+                    </extent>
                 </bibl>
                 <biblStruct>
                     <monogr>
@@ -92,9 +99,20 @@
                 </namespace>
             </tagsDecl>
             <classDecl>
-                <taxonomy xml:id="PLACEHOLDER">
-                    <bibl></bibl>
-                </taxonomy>
+               <classDecl>
+            <taxonomy xml:id="LCCN">
+               <bibl>Library of Congress Name Authority File</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCC">
+               <bibl>Library of Congress Classification</bibl>
+            </taxonomy>
+            <taxonomy xml:id="TGN">
+               <bibl>Getty Thesaurus of Geographic Names</bibl>
+            </taxonomy>
+            <taxonomy xml:id="ORCID">
+               <bibl>Open Researcher and Contributor ID</bibl>
+            </taxonomy>
+         </classDecl>
             </classDecl>
         </encodingDesc>
     </teiHeader>
