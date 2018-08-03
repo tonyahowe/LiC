@@ -2,6 +2,32 @@
 
 This is the working space for Literature in Context, an XML project that seeks to provide open-access, reliably-sourced, and collaboratively-constructed annotated editions of British and American literature of the long 18th century for classroom use. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.
 
++ Grant project narrative: https://drive.google.com/open?id=0ByaOE4YnBMjNY3hwRlFqejBiT0E
+
+## Desired features
+
+- full-text searchability with keyword in context *
+- relational searchability *
+- easy export of individual/selected texts — to web, to PDF, to epub *
+- pop-ups for annotations, with ability to render them as footnotes in print/PDF *
+- Distinguish between kinds of annotations: 1.) basic popup annotations and 2.) larger, more essay-like contextualizations or headnotes that can be selected for inclusion into coursepack (*)
+- format selected texts for coursepack/anthologization (citability/page numbers/source info) *
+- metadata for export to Zotero, catalog ingestion *
+- media-rich: ability to read different kinds of formats and display them properly (desktop and mobile) *
+- ability to include facsimile page images *
+- ability to list contributor information *
+- version control/automation from a central repository *
+- ability for others to contribute texts for review and inclusion in the anthology (not necessary now, but a goal for the future)
+- ability to integrate hypothes.is, Annotation Studio or some other annotation platform (not necessary now, but a possible goal for the future)
+
+### Existing projects:
++ Open Anthology: http://virginia-anthology.org
++ Novels in Context: http://nic.cerosia.org
++ Github repository: http://github.com/tonyahowe/LiC
+
+### QUESTION ABOUT ANNOTATIONS
+Best practices? We have a couple of concerns. 1.) Texts have authorial annotations, so we need to include those. But we also have editorial annotations, so we need to distinguish those from editorial annotations. 2.) Our projects were developed at different times, and so use different encoding. What is the best way? And 3.) which is the best way, given that we also want to incorporate media into our editorial annotations? 
+
 ## Platform
 
 ### Manifold 
