@@ -30,7 +30,15 @@ Best practices? We have a couple of concerns. 1.) Texts have authorial annotatio
 
 ## Platform
 
-### Manifold 
+### eXist-db
+Currently, we are working on an eXist install with github connectivity. Texts to work with:
+- behn-oroonoko.xml
+- behn-rover.xml
+- wheatley-poems.xml
+- shelley-frankenstein.xml
+- finch-nightingale.xml
+
+### Manifold try
 Manifold is great for straightforward group annotate-able stand-alone texts, and the “collections” feature might be useful for us. However, out of the box it doesn’t allow: 
 - page images (at least, from the html or xml; see the Frankenstein TP as an example. The [page] link that ought to work in the HTML doesn’t, and the added resource was just that--added)
 - selecting-->coursepacks/anthologies
@@ -40,18 +48,12 @@ These three things seem to be really important for us, and I’m not sure we wan
 
 Can Performant hack Manifold or create plugins to allow us to do what we want to do? If not, it really seems that an XML database is a good way to go, because it is made to work directly with the TEI files. There is little of the “middleman” here, outside of hiring someone to create an XSL that works for us. What we lose here is the group annotation feature. 
 
-### eXist-db
-Currently, we are working on an eXist install with github connectivity. Texts to work with:
-- behn-oroonoko.xml
-- behn-rover.xml
-- wheatley-poems.xml
-- shelley-frankenstein.xml
-- finch-nightingale.xml
+## TEI
 
-## Naming conventions
+### Naming conventions
 We need to rename all our files to the standard lastname-shorttitle.xml format. This should also be the xml:id of the file, noted in the TEI header.
 
-## Core TEI
+### Core TEI
 What will our core TEI look like, for prose, poetry, drama? We’ve agreed on TEI level-4 for libraries, but there is still a lot of variation there. Some issues:
 
 ### Creation
