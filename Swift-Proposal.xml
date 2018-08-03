@@ -23,7 +23,7 @@
                 
                 <respStmt>
                     <resp>Transcription, correction, editorial commentary, and markup</resp>
-                    <name>Staff and Research Assistants at The University of Virginia</name>
+                    <name>Faculty and Research Assistants at The University of Virginia</name>
                     <name>John O'Brien</name>
                     <name>Sara Brunstetter</name>                  
                 </respStmt>
@@ -42,19 +42,18 @@
                     <email>jobrien@virginia.edu</email>
                 </distributor>
                 <authority>
-                    <idno>swift-aModest</idno> 
+                    <idno>Swift-Proposal</idno> 
                 </authority>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">                           Published by Literature in Context under a Creative Commons                             Attribution-ShareAlike 4.0 Unported License 
-                    </licence>
-                    <p>While free, this text is still incomplete and requires                                   standardization of its annotation scheme.
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Published by Literature in Context under a Creative Commons Attribution-ShareAlike 4.0 Unported License</licence>
+                    <p>While free, this text is still incomplete and requires standardization of its annotation scheme.
                     </p>
                 </availability>           
                 <date>2018</date>
             </publicationStmt>    
             
             <sourceDesc>
-                <bibl>This edition has been prepared from the Project Gutenberg online e-text.
+                <bibl>This edition has been prepared from the Project Gutenberg online e-text, which has been corrected against a copy of the text in the Jonathan Swift Archive: http://jonathanswiftarchive.org.uk/
                     <extent></extent>
                 </bibl>
                 <biblStruct>
