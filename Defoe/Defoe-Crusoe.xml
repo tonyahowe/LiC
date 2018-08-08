@@ -65,7 +65,7 @@
                      <title type="sub">The life and strange surprizing adventures of Robinson Crusoe: of York, mariner: who lived eight and twenty years, all alone in an un-inhabited island on the coast of America, near the mouth of the great river of Oroonoque; ... Written by himself.</title>
                      <imprint>
                          <pubPlace>
-                             <placeName type="country" key="lon">London</placeName>
+                             <placeName type="city" key="lon">London</placeName>
                          </pubPlace>
                          <publisher>William Taylor</publisher>
                          <date when="1719-04-25">1719 April 25</date>
