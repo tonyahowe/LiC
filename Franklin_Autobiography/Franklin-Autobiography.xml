@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 
+
 <!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
 <!ENTITY % POSTKB "INCLUDE">
 <!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
@@ -14,168 +15,107 @@
 ]>
 
 <TEI.2>
-<teiHeader type="migrated" creator="Etext">
-<fileDesc>
-<titleStmt>
-<title type="main">The Autobiography of Benjamin Franklin</title>
-<title type="sort">autobiography of benjamin franklin</title>
-<author>Franklin, Benjamin</author>
-<respStmt>
-<resp>Creation of machine-readable version:</resp>
-<name>Judy Boss, University of Omaha</name>
-<resp>Creation of digital images:</resp>
-<name>University of Virginia Library Electronic Text Center.</name>
-<resp>Conversion to TEI.2-conformant markup:</resp>
-<name>University of Virginia Library Electronic Text Center.</name>
-</respStmt>
-</titleStmt>
-<extent>ca. <num type="kilobytes">390</num> kilobytes</extent>
-<publicationStmt>
-<publisher>University of Virginia Library</publisher>
-<pubPlace>Charlottesville, Virginia</pubPlace>
-<idno type="ETC">Fra2Aut</idno>
-<date value="1995">1995</date>
-<availability status="public">
-<p n="copyright">Copyright &#xa9; 1995 by the Rector and Visitors of the University of Virginia</p>
-<p n="access">Publicly accessible</p>
-</availability>
-<idno type="uva-pid">uva-lib:476956</idno>
-</publicationStmt>
-<seriesStmt>
-<title>University of Virginia Library, Text collection</title>
-<idno type="uva-set">UVA-LIB-Text</idno>
-</seriesStmt>
-<sourceDesc>
-<biblFull>
-<titleStmt>
-<title type="main">The Autobiography of Benjamin Franklin</title>
-<title level="m">The Autobiography of Benjamin Franklin; The Journal of John
-Woolman; Fruits of Solitude</title>
-<title type="sort">autobiography of benjamin franklin</title>
-<author>Franklin, Benjamin; Woolman, John; Penn, William</author>
-<respStmt>
-<resp>Editor</resp>
-<name>Eliot, Charles W.</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<publisher>P. F. Collier &amp; Son Company</publisher>
-<pubPlace>New York</pubPlace>
-<date value="1909">1909</date>
-</publicationStmt>
-<seriesStmt>
-<p>The Harvard Classics, vol. 1</p>
-</seriesStmt>
-<notesStmt>
-<note>
-<p>checked against University of Virginia library copy:
-AC 1.A4 1909</p>
-</note>
-</notesStmt>
-</biblFull>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
-</projectDesc>
-<editorialDecl>
-<p>Spell-check and verification made against printed text</p>
-<p>All unambiguous end-of-line hyphens have been removed, and the
-trailing part of a word has been joined to the preceding line.</p>
-<p>The images exist as archived TIFF images, one or more JPEG versions
-for general use, and thumbnail GIFs.</p>
-<p id="ETC">Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
-</editorialDecl>
-<refsDecl>
-<p>ID elements are given for each page element and are composed of the
-text's unique cryptogram and the given page number, as in AusEmma1 for page one of
-Jane Austen's Emma.</p>
-</refsDecl>
-</encodingDesc>
-<profileDesc>
-<creation>
-<date value="1788">1771-1788</date>
-</creation>
-<langUsage>
-<language id="eng" usage="main">English</language>
-</langUsage>
-<textClass>
-<keywords>
-<term>CORD</term>
-<term>democracy</term>
-</keywords>
-<keywords>
-<term>non-fiction; prose</term>
-</keywords>
-<keywords>
-<term type="visual work">engraving/painting/illustration, etc.</term>
-</keywords>
-<keywords>
-<term>24-bit color; 300 dpi</term>
-</keywords>
-</textClass>
-</profileDesc>
-<revisionDesc>
-<change>
-<date value="1995-02">February 1995</date>
-<respStmt>
-<resp>corrector</resp>
-<name>Kelly Tetterton, University of Virginia Library Electronic Text Center.</name>
-</respStmt>
-<item>updated header and tags</item>
-</change>
-<change>
-<date value="1994-01">January 1994</date>
-<respStmt>
-<resp>corrector</resp>
-<name>Kelly Tetterton, University of Virginia Library Electronic Text Center.</name>
-</respStmt>
-<item>minimal TEI tagging; unambiguous line-end hyphenation removed;
-spellchecked</item>
-</change>
-<change>
-<date value="1999-03">March 1999</date>
-<respStmt>
-<resp>corrector</resp>
-<name>Elizabeth Styron, UVA Electronic Text Center</name>
-</respStmt>
-<item>Corrected and closed open tags; XML compliance check</item>
-</change>
-<change>
-<date value="1999-05">May 1999</date>
-<respStmt>
-<resp>corrector</resp>
-<name>Stephen Ramsay, UVA Electronic Text Center</name>
-</respStmt>
-<item>Emended several minor disagreements with the print source</item>
-</change>
-<change>
-<date value="2005-07">July 2005</date>
-<respStmt>
-<resp>Corrector</resp>
-<name>John Ivor Carlson</name>
-</respStmt>
-<item>Converted SGML to XML. Fixed tagging.</item>
-</change>
-<change>
-<date value="2007-09">September 2007</date>
-<respStmt>
-<resp>Migration</resp>
-<name>Ethan Gruber, University of Virginia Library</name>
-</respStmt>
-<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
-</change>
-<change>
-<date value="2008-01">January 2008</date>
-<respStmt>
-<resp>Migration</resp>
-<name>Greg Murray, University of Virginia Library</name>
-</respStmt>
-<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
-</change>
-</revisionDesc>
-</teiHeader>
+	<teiHeader>            
+		<fileDesc>
+			<titleStmt>
+				<title>The Autobiography of Benjamin Franklin</title>
+				
+				<author>
+					<trait type="gender"><desc>Male</desc></trait>
+					<forename>Benjamin</forename>
+					<surname>Franklin</surname>
+					<date when="1706-01-17">Birth: 1706 January 17</date>
+					<date when="1790-04-17">Death: 1790 April 17</date>           
+					<roleName>Printer, Minister to France, Minister to Sweden, United States Postmaster General</roleName>
+					<affiliation>Married</affiliation>
+					<country>America</country>       
+				</author>
+				
+				<respStmt>
+					<resp>Transcription, correction, editorial commentary, and markup</resp>
+					<name>Staff and Research Assistants at The University of Virginia</name>
+					<name>John O'Brien</name>
+					<name>Sara Brunstetter</name>    
+					<name>Natalie Thompson</name>
+					<name>Andrew Michael</name>
+					<name>Monica David</name>
+					<name>Jane French</name>
+				</respStmt>
+			</titleStmt>
+			
+			<publicationStmt>               
+				<publisher>Literature in Context</publisher>
+				<distributor>
+					<orgName>Literature in Context</orgName>
+					<address>
+						<addrLine>Department of English, The University of                                          Virginia</addrLine>
+						<addrLine>P. O. Box 400121</addrLine>
+						<addrLine>Charlottesville, VA</addrLine>
+						<addrLine>22904-4121</addrLine>
+					</address>
+					<email>jobrien@virginia.edu</email>
+				</distributor>
+				<authority>
+					<idno>Franklin-Autobiography</idno> 
+				</authority>
+				<availability status="free">
+					<licence target="http://creativecommons.org/licenses/by-sa/4.0/">                           Published by Literature in Context under a Creative Commons                             Attribution-ShareAlike 4.0 Unported License 
+					</licence>
+					<p>While free, this text is still incomplete and requires                                   standardization of its annotation scheme. ADD MORE IF NECESSARY 
+					</p>
+				</availability>           
+				<date>2018</date>
+			</publicationStmt>       
+			
+			<sourceDesc>
+				<bibl>
+					This edition has been prepared from the Project Gutenberg online e-text.
+					<extent></extent>
+				</bibl>
+				<biblStruct>
+					<monogr>
+						<author>
+							<persName type="lastFirst" key="franklinBenjamin">Benjamin Franklin</persName>
+						</author>
+						<title type="main">The Autobiography of Benjamin Franklin</title>
+						<imprint>
+							<pubPlace>
+								<placeName type="country" key="eng">England</placeName>
+							</pubPlace>
+							<publisher>J. Parson's</publisher>
+							<date when="1793">1793</date>
+						</imprint>                    
+					</monogr>
+				</biblStruct>    
+			</sourceDesc>
+		</fileDesc>
+		
+		<encodingDesc>
+			<projectDesc> <p>
+				This text is prepared as part of the <hi>Literature in Context</hi> project, which provides an accessible, curated, edited, and marked-up selection of primary sources relevant to the study and the teaching of British and American literature of the 17th, 18th, and 19th centuries. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.</p>
+			</projectDesc>
+			<editorialDecl>
+				<interpretation><p>Research informing these annotations draws on publicly-accessible resources, with links provided where possible. Annotations have also included common knowledge, defined as information that can be found in multiple reliable sources. If you notice an error in these annotations, please contact lic.open.anthology@gmail.com.</p>
+				</interpretation>
+				<normalization><p>Original spelling and capitalization is retained, though the long s has been silently modernized and ligatured forms are not encoded.</p></normalization>
+				<hyphenation><p>Hyphenation has not been retained, except where necessary for the sense of the word.</p></hyphenation>
+				<segmentation><p>Page breaks have been retained. Catchwords, signatures, and running headers have not.</p></segmentation>
+				<correction><p>Materials have been transcribed from and checked against first editions, where possible. See the Sources section.</p></correction>
+			</editorialDecl>
+			<tagsDecl>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi="div">Unnumbered divs used.</tagUsage>
+				</namespace>
+			</tagsDecl>
+			<classDecl>
+				<taxonomy xml:id="">
+					<bibl></bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+	</teiHeader>
+
+
 
 <text>
 
