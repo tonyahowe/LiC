@@ -1,66 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>The life and strange surprizing adventures of Robinson Crusoe: of York, mariner: who lived eight and twenty years, all alone in an un-inhabited island on the coast of America, near the mouth of the great river of Oroonoque; ... Written by himself.</title>
             <title>Robinson Crusoe</title>
-            <author>Defoe, Daniel, 1661?-1731.</author>
+             
+            <author>
+                <trait type="gender"><desc>Male</desc></trait>
+                <forename>Daniel</forename>
+                <surname>Defoe</surname>
+                <date when="1660-09-13">Birth: 1660 September 13</date>
+                <date when="1731-04-24">Death: 1731 April 24</date>
+                <roleName>Writer, Journalist, Merchant</roleName>
+                <affiliation>Married</affiliation>
+                <country>England</country>
+            </author>
+             
+             <respStmt>
+                 <resp>Transcription, correction, editorial commentary, and markup</resp>
+                 <name>Staff and Research Assistants at The University of Virginia</name>
+                 <name>John O'Brien</name>
+                 <name>Sara Brunstetter</name>
+             </respStmt>
          </titleStmt>
-         <extent>SGML/XML encoded text</extent>
+          
          <publicationStmt>
-            <publisher>Open Anthology of Literature in English</publisher>
-            <pubPlace>Charlottesville, Virginia</pubPlace>
-            <date when="2016-06">June 2016</date>
-            <idno type="DLPS">004845034</idno>
-            <idno type="ESTC">T72264</idno>
-            <idno type="DOCNO">CW113746641</idno>
-            <idno type="TCP">K061280.000</idno>
-            <idno type="GALEDOCNO">CW3313746641</idno>
-            <idno type="CONTENTSET">ECLL</idno>
-            <idno type="IMAGESETID">0653600100</idno>
-            <availability>
-               <p>This text has been adapted and annotated based on the text created by the Oxford Text Archive and the Text Creation Partnership. This keyboarded and encoded edition of the
-	       work described above is co-owned by the institutions
-	       providing financial support to the Early English Books
-	       Online Text Creation Partnership. This Phase I text is
-	       available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
-	       Commons 0 1.0 Universal</ref>. The text can be copied,
-	       modified, distributed and performed, even for
-	       commercial purposes, all without asking permission.</p>
-            </availability>
+            <publisher>Literature in Context</publisher>
+             <distributor>
+                 <orgName>Literature in Context</orgName>
+                 <address>
+                     <addrLine>Department of English, The University of Virginia</addrLine>
+                     <addrLine>P. O. Box 400121</addrLine>
+                     <addrLine>Charlottesville, VA</addrLine>
+                     <addrLine>22904-4121</addrLine>
+                 </address>
+                 <email>jobrien@virginia.edu</email>
+             </distributor>
+             <authority>
+                 <idno>Defoe-Robinson</idno>
+             </authority>
+             <availability status="free">
+                 <licence target="http://creativecommons.org/licenses/by-sa/4.0/">
+                     Published by Literature in Context under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                 </licence>
+                 <p>While free, this text is still incomplete and requires standardization of its annotation scheme. 
+                 </p>
+             </availability>
+             <date>2018</date>
          </publicationStmt>
+            
          <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>The life and strange surprizing adventures of Robinson Crusoe: of York, mariner: who lived eight and twenty years, all alone in an un-inhabited island on the coast of America, near the mouth of the great river of Oroonoque; ... Written by himself.</title>
-                  <title>Robinson Crusoe</title>
-                  <author>Defoe, Daniel, 1661?-1731.</author>
-               </titleStmt>
-               <extent>[4],364,[4]p.,plate ; 8⁰.</extent>
-               <publicationStmt>
-                  <publisher>printed for W. Taylor,</publisher>
-                  <pubPlace>London :</pubPlace>
-                  <date>1719.</date>
-               </publicationStmt>
-               <notesStmt>
-                  <note>In fact by Daniel Defoe.</note>
-                  <note>This, the original issue, has after "London" in the imprint a colon and the preface catchword is "always".</note>
-                  <note>P. 343, line 2, has "Pilate" and line 21 "Portugnese"; variant has "Pilot" and "Portuguese".</note>
-                  <note>With two final advertisement leaves.</note>
-                  <note>Reproduction of original of the first edition from the British Library.</note>
-                  <note>Moore, 412</note>
-                  <note>English Short Title Catalog, ESTCT72264.</note>
-                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
-               </notesStmt>
-            </biblFull>
+             <bibl>
+                 
+                 <extent></extent>
+             </bibl>
+             <biblStruct>
+                 <monogr>
+                     <author>
+                         <persName type="lastFirst" key="defoeDaniel">Daniel Defoe</persName>
+                     </author>
+                     <title type="main">Robinson Crusoe</title>
+                     <title type="sub">The life and strange surprizing adventures of Robinson Crusoe: of York, mariner: who lived eight and twenty years, all alone in an un-inhabited island on the coast of America, near the mouth of the great river of Oroonoque; ... Written by himself.</title>
+                     <imprint>
+                         <pubPlace>
+                             <placeName type="country" key="lon">London</placeName>
+                         </pubPlace>
+                         <publisher>William Taylor</publisher>
+                         <date when="1719-04-25">1719 April 25</date>
+                     </imprint>
+                 </monogr>
+             </biblStruct>
          </sourceDesc>
       </fileDesc>
+            
       <encodingDesc>
-         <projectDesc>
-            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
-      TEI @ Oxford.
-      </p>
-         </projectDesc>
+          <projectDesc> <p>
+              This text is prepared as part of the <hi>Literature in Context</hi> project, which provides an accessible, curated, edited, and marked-up selection of primary sources relevant to the study and the teaching of British and American literature of the 17th, 18th, and 19th centuries. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.</p>
+          </projectDesc>
+          <editorialDecl>
+              <interpretation><p>Research informing these annotations draws on publicly-accessible resources, with links provided where possible. Annotations have also included common knowledge, defined as information that can be found in multiple reliable sources. If you notice an error in these annotations, please contact lic.open.anthology@gmail.com.</p>
+              </interpretation>
+              <normalization><p>Original spelling and capitalization is retained, though the long s has been silently modernized and ligatured forms are not encoded.</p></normalization>
+              <hyphenation><p>Hyphenation has not been retained, except where necessary for the sense of the word.</p></hyphenation>
+              <segmentation><p>Page breaks have been retained. Catchwords, signatures, and running headers have not.</p></segmentation>
+              <correction><p>Materials have been transcribed from and checked against first editions, where possible. See the Sources section.</p></correction>
+          </editorialDecl>
+          <tagsDecl>
+              <namespace name="http://www.tei-c.org/ns/1.0">
+                  <tagUsage gi="div">Unnumbered divs used.</tagUsage>
+              </namespace>
+          </tagsDecl>
+          <classDecl>
+              <taxonomy xml:id="">
+                  <bibl></bibl>
+              </taxonomy>
+          </classDecl>
         
          <listPrefixDef>
             <prefixDef ident="tcp"
@@ -77,6 +113,9 @@
          </langUsage>
       </profileDesc>
    </teiHeader>
+    
+    
+    
    <text xml:lang="eng">
       <front>
          <div type="illustration">
