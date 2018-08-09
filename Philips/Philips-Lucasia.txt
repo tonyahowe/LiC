@@ -1,0 +1,114 @@
+<poem>
+
+<title>Content, To my dearest Lucasia</title>
+<author>Katherine Philips</author>
+
+<stanza>
+<l>Content, the fals World's best disguise,</l>
+<l>The search and faction of the Wise </l>
+<l>Is so abstruse <note type=”gloss”>Difficult to understand; obscure, recondite. (Oxford English Dictionary)<note> and hid in night,</l>
+<l>That, like that Fairy Red-cross Knight<note type="gloss">Protagonist of Book I of Spenser's The Faerie Queene. The Red Cross Knight is a symbol for purity and the Anglican church. (Encyclopedia Brittanica)<note>,</l>
+<l>Who treacherous Falshood for clear Truth had got,</l>
+<l>Men think they have it when they have it not.</l>
+</stanza>
+
+<stanza>
+<l>For Courts Content would gladly own,</l>
+<l>But she ne'er dwelt about a Throne:</l>
+<l>And to be flatter'd, rich, and great,</l>
+<l>Are things which do Mens senses cheat.</l>
+<l>But grave Experience long since this did see,</l>
+<l>Ambition and Content would ne'er agree.</l>
+<stanza>
+
+<stanza>
+<l>Some vainer would Content expect</l>
+<l>From what their bright Out-sides reflect:</l>
+<l>But sure Content is more Divine</l>
+<l>Than to be digg'd from Rock or Mine<note type="gloss">Philips views content as more valuable than any jewel that can be mined from the earth.<note>:</l>
+<l>And they that know her beauties will confess,</l>
+<l>She needs no lustre from a glittering dress.</l>
+</stanza>
+
+<stanza>
+<l>In Mirth<note type="gloss">Pleasurable feeling; enjoyment, gratification; joy, happiness. Often used of religious joy and heavenly bliss. (Oxford English Dictionary)<note> some place her, but she scorns</l>
+<l>Th'assistance of such crackling thorns,</l>
+<l>Nor owes her self no such thin sport,</l>
+<l>That is so sharp and yet so short:</l>
+<l>And Painters tell us they the same stroke place,</l>
+<l>To make a laughing and a weeping face.</l>
+<stanza>
+
+<stanza>
+<l>Others there are that place Content</l>
+<l>In Liberty from Government:</l>
+<l>But whomsoe're Passions deprave,</l>
+<l>Though free from shackles, he's a slave.</l>
+<l>Content and Bondage differ only then,</l>
+<l>When we are chain'd by Vices, not by Men.</l>
+<stanza>
+
+<stanza>
+<l>Some think the Camp Content does know,</l>
+<l>And that she sits o'th'Victor's brow:</l>
+<l>But in his Laurel<note type="gloss">The foliage of the laurel tree as an emblem of victory or of distinction in poetry. (Oxford English Dictionary)<note> there is seen</l>
+<l>Often a Cypress-bow<note type="gloss">Cypress is a common material for archery bows.<note> between.</l>
+<l>Nor will Content her self in that place give,</l>
+<l>Where Noise and Tumult and Destruction live.</l>
+<stanza>
+
+<stanza>
+<l>But yet the most Discreet believe,</l>
+<l>The Schools this Jewel do receive,</l>
+<l>And thus far's true without dispute,</l>
+<l>Knowledge is still the sweetest fruit<note type="gloss"> Reference to the fruit of the Tree of Knowledge. (Genesis)<note>.</l>
+<l>But whilst men seek for Truth they lose their Peace;</l>
+<l>And who heaps Knowledge, Sorrow doth increase<note type="gloss">Ecclesiastes 1:18<note>.</l>
+<stanza>
+
+<stanza>
+<l>But now some sullen Hermite<note type="gloss">A hermit, one who from religious motives has retired into solitary life. (Oxford English Dictionary) <note> smiles,</l>
+<l>And thinks he all the World beguiles,</l>
+<l>And that his Cell and Dish<note type="gloss">Reference to the frugal nature of the life of a religious hermit who would have a single dish for eating and live in a cell.<note> contain</l>
+<l>What all mankind wish for in vain.</l>
+<l>But yet his pleasure's follow'd with a Groan,</l>
+<l>For man was never born to be alone.</l>
+<stanza>
+
+<stanza>
+<l>Content her self best comprehends</l>
+<l>Betwixt two souls, and they two friends,</l>
+<l>Whose either joyes in both are fix'd,</l>
+<l>And multiply'd by being mix'd<note type="gloss">Sharing joy and being in a relationship together<note>:</l>
+<l>Whose minds and interests are so the same;</l>
+<l>Their Griefs, when once imparted, lose that name.</l>
+<stanza>
+
+<stanza>
+<l>These far remov'd from all bold noise,</l>
+<l>And (what is worse) all hollow joyes,</l>
+<l>Who never had a mean design,</l>
+<l>Whose flame is serious and divine,</l>
+<l>And calm, and even, must contented be,</l>
+<l>For they've both Union and Society.</l>
+<stanza>
+
+<stanza>
+<l>Then, my Lucasia<note type="gloss"Philips' pseudonym for her closest female friend, Anne Owens. She was a member of Philips' coterie and the object of this poem. Lucasia is a character in William Cartwright's play "The Lady Errant.<note>, we who have</l>
+<l>Whatever Love can give or crave;</l>
+<l>Who can with pitying scorn survey</l>
+<l>The Trifles which the most betray;</l>
+<l>With innocence and perfect friendship fir'd</l>
+<l>By Vertiue joyn'd, and by our Choice retir'd.</l>
+<stanza>
+
+<stanza>
+<l>Whose Mirrours are the crystal Brooks,</l>
+<l>Or else each others Heart and Looks;</l>
+<l>Who cannot wish for other things</l>
+<l>Then Privacy and Friendship brings:</l>
+<l>Whose thoughts and persons chang'd and mixt are one,</l>
+<l>Enjoy Content, or else the World hath none.</l>
+<stanza>
+
+</poem>

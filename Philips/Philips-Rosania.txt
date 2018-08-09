@@ -1,0 +1,57 @@
+<poem>
+
+	<title>Rosania<note type=”gloss”>Mary Aubrey</note>to Lucasia<note type=”gloss”>Ann Owen</note, From Virginia Anthology Preface to Katherine Philips>on her Letters</title>
+	<author>Katherine Philips</author>
+	
+	<stanza> 
+		<l>Ah strike outright, or else forbear,</l>
+		<l>Be more kind, or more severe;</l> 
+		<l>For in this checquer'd<note type=”gloss”>checquered or checkered</note>mixture I</l>
+		<l>Cannot live, and would not die,</l>
+		<l>And must I neither? tell me why?</l>
+	</stanza>
+	
+	<stanza>
+		<l>When thy Pen thy kindness tells,</l>
+		<l>My heart transported leaps and swells.</l>
+		<l>But when my greedy eye does stray</l>
+		<l>Thy threat'ned<note type=”gloss”>threatened</note>absence to survey,</l>
+		<l>That heart is struck and taints away.</l>
+	</stanza>
+	
+	<stanza>
+		<l>To give me title to rich land,</l>
+		<l>And the fruition<note type=”gloss”>enjoyment, as defined by the Oxford Dictionary</note>to withstand,</l>
+		<l>Or solemnly to send the key</l>
+		<l>Of treasures I must never see,</l>
+		<l>Would it contempt or bounty be?</l>
+	</stanza>
+	
+	<stanza>
+		<l>This is such refin'd<note type=”gloss”>refined</note>distress,</l>
+		<l>That thy sad Lovers sigh for less,</l>
+		<l>Though thou their hopes hast overthrown,</l>
+		<l>They lose but what they ne're<note type=”gloss”>never</note>have known,</l>
+		<l>But I am plunder'd<note type=”gloss”>plundered</note>from my own.</l>
+	</stanza>
+	
+	<stanza>
+		<l>How canst thou thy Rosania prize,</l>
+		<l>And be so cruel and so wise?</l>
+		<l>For if such rigid policy</l>
+		<l>Must thy resolves dispute with me,</l>
+		<l>Where then is friendship's victory?</l>
+	</stanza>
+	
+	<stanza>
+		<l>Kindness is of so brave a make</l>
+		<l>'Twil<note type=”gloss”>It will</note>rather death then bondage take,</l>
+		<l>So that if thine no power can have,</l>
+		<l>Give it and me one common grave,</l>
+		<l>But quickly either kill or save.</l>
+	</stanza>
+	
+</poem>
+		
+		
+		

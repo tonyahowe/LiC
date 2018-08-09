@@ -1,0 +1,46 @@
+<poem>	
+     <title>Death.</title>
+<author>Katherine Philips</author>
+<stanza>
+<1>How weak a Star<note type="gloss">our sun compared to others in the universe is considered weak, and yet if it explodes mankind dies.</note>doth rule Mankind,</1> 
+<1>Which owes its ruine to the same</1> 
+<1>Causes which Nature had design'd</1> 
+<1>To cherish and preserve the frame!</1>
+</stanza>
+<stanza>
+<1>As Commonwealths may be secure,<note type=“gloss”>We don’t fear outside violence but fear what is in our bodies. Such as mental illness, disease, or aging. And so our bodies turn traitorous</note></1> 
+<1>And no remote Invasion dread;</1>
+<1>Yet may a sadder fall endure</1> 
+<1>From Traitors in their bosom bred:</1>
+</stanza>
+<stanza>
+<1>So while we feel no violence,<note type="gloss">we are not privy to the knowledge of the world in that we can sense things for example a volcano erupting (of course we can now in 2016 but not back in Philips time)</note></1> 
+<1>And on our active Health do trust,</1> 
+<1>A secret hand<note type="gloss">death or time</note>doth snatch us hence,</1>
+<1>And tumbles us into the dust.<note type=“gloss”>biblical reference, we start as dust, and than return to dust.</note></1>
+</stanza>
+<stanza>
+<1>Yet carelesly<note type="gloss">as if we are untouchable by death</note>we run our race,</1> 
+<1>As if we could Death's summons wave;<note type="gloss">ignore dying/death.</note></1> 
+<1>And think not on the narrow space<note type="gloss">the narrow space is referring to life.</note></1> 
+<1>Between a Table and a Grave.<note type="gloss">A table in which you theoretically enter the world on, and a grave in which you exit the world in.</note></1>
+</stanza>
+<stanza>
+<1>But since we cannot Death reprieve,<note type="gloss">escape death</note></1> 
+<1>Our Souls and Fame we ought to mind,</1> 
+<1>For they our Bodies will survive;</1> 
+<1>That goes beyond, this stays behind.<note type="gloss>while our souls move on, our legacy of what we did will forever stay behind us on earth.</note></1>
+</stanza>
+<stanza>
+<1>If I be sure my Soul is safe,</1> 
+<1>And that my Actions will provide</1> 
+<1>My Tomb a nobler Epitaph,<note type="gloss">inscription or written tribute in memory of a person on a tombstone (Oxford English Dictionary)</note></1> 
+<1>Then that I onely liv'd and dy’d.<note type=“gloss”>Common graves stones are only marked with birthdate and death date underneath a name.  She is stating here that she wants more then just those simple things.</note></1>
+</stanza>
+<stanza>
+<1>So that in various accidents</1> 
+<1>I Conscience may and Honour keep;</1> 
+<1>I with that ease and innocence</1> 
+<1>Shall die, as Infants go to sleep<note type="gloss">die in sleep which is considered the most peaceful way to die.</note></1>
+</stanza>
+</poem>

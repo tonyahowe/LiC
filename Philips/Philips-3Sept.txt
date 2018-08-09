@@ -1,0 +1,54 @@
+<poem>
+
+	<title>On the 3. of September, 1651. <note type="gloss">This date marks the Battle of Worcester where Oliver Cromwell and his men defeated Charles II and the Royalists, thus marking the end of the English Civil War. (Encyclopedia Britannica)</note> </title>
+	<author>Katherine Phillips</author>
+
+	<stanza>
+		<l>As when the glorious Magazine of Light <note type="gloss">magazine of light refers to the sun as an arsenal container of light</note></l>
+		<l>Approaches to his Canopy of Night</l>
+		<l>He with the new splendor clothes his dying Rays,</l>
+		<l>And double brightness to his Beams conveys;</l>
+		<l>And (as to brave <note type="gloss">brave=defy (Oxford English Dictionary)</note> and check his ending fate)</l>
+		<l>Puts on his highest look in's lowest state</l>
+		<l>Dreft in such terrour as to make us all</l>
+		<l>Be *Anti-Persians*, <note type="gloss"> Anti-Persians, i.e. those against the sun. They are "rooting" for the sun to set. It was thought that Persians worshipped the sun. (Encyclopedia Britannica) </note> and adore his Fall</l>
+		<l>Then quits the world depriving it of Day</l>
+		<l>While Every Herb and Plant does droop away;</l>
+		<l>So when our gasping *English* Royalty</l>
+		<l>Perciev'd her Period <note type="gloss">period=end (Oxford English Dictionary)</note> was now drawing nigh,</l>
+		<l>She summons her whole strength to give one blow,</l>
+		<l>To raise her self, or pull down others too.</l>
+		<l>Big with revenge and hope she now spake more</l>
+		<l>Of terror than in many months before;</l>
+		<l>And musters her Attendants or to fave</l>
+		<l>Her from, or else attend her to, the Grave:</l>
+		<l>Yet but enjoy'd the miserable fate</l>
+		<l>Of setting Majesty, to die in State.</l>
+		<l>Unhappy Kings, who cannot keep a Throne,</l>
+		<l>Nor be so fortunate to fall alone!</l>
+		<l>Thier weight sinks others: *Pompey* could not fly, <note type="gloss">Pompey was assassinated while fleeing to Egypt in 48 BCE and was replaced by Caesar. (Ancient History Encyclopedia)/note></l>
+		<l>But half the World must bear him company;</l>
+		<l>And captiv'd *Sampson* could not life conclude,</l>
+		<l>Unless attended with a multitude.</l>
+		<l>Who'd trust to greatness now, whose food is air,<note type="gloss">who survives on nothing i.e. who has false hope</note></l>
+		<l>Whose ruine sudden, and whose end despair?</l>
+		<l>Who would presume upon his Glorious Birth,</l>
+		<l>Or quarrel for a spacious share of Earth</l>
+		<l>That sees such Diadems become so cheap,</l>
+		<l>And Heros tumble in a common heap?</l>
+		<l>Oh give me Vertue then, which sums up all,</l>
+		<l>And firmly stands when Crowns and Scepters fall.</l>
+	</stanza>
+
+	
+</poem>
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+<poem>
+
+
+      <title>To Her Royal Highness the Duchess of York<note type=“gloss”>Anne Hyde, wife of future King James II of England</note></title>
+      <author>Katherine Philips</author>
+      
+      
+      <stanza>
+            <l>To you whose Dignity strikes us with aw,</l>
+            <l>And whose far greater Judgment gives us law,</l>
+            <l>Your Mind b'ing more transcendent then your State,</l>
+            <l>For while but Knees to this, Hearts bow to that,</l>
+            <l>These humble Papers never durst<note type=“gloss”>simple past of dare</note> come near,</l>
+            <l>Had not your pow'rful Word bid them appear;</l>
+            <l>In which such majesty, such sweetness dwells,</l>
+            <l>As in one act obliges and compells.</l>
+            <l>None can dispute commands vouchsaf'd<note type=“gloss”>to grant by graciousness or condescension</note> by you.</l>
+            <l>What shall my fears then and confusion doe?</l>
+            <l>They must resign and by their just pretence</l>
+            <l>Some value set on my obedience,</l>
+            <l>For in Religious Duties, 'tis confest,</l>
+            <l>The most Implicite are accepted best.</l>
+            <l>If on that score your Highness will excuse</l>
+            <l>This blushing tribute of an artless Muse,</l>
+            <l>She may (encourag'd by your least regard,</l>
+            <l>Which first did worth create, and then reward)</l>
+            <l>At modest distance with improved strains</l>
+            <l>That Mercy celebrate which now she gains.</l>
+            <l>But should you that severer justice use,</l>
+            <l>Which those too prompt Approches may produce,</l>
+            <l>As the swift Doe which hath escaped long,</l>
+            <l>Believes a Vulgar hand would be a wrong;</l>
+            <l>But wounded by a Prince falls without shame,</l>
+            <l>And what in life she loses, gains in fame:</l>
+            <l>So if a Ray from you chance to be sent,</l>
+            <l>Which to consume, and not to warm, is meant;</l>
+            <l>My trembling Muse at least more nobly dies,</l>
+            <l>And falls by that a truer sacrifice.</l>
+      </stanza>      
+    
+</poem>            

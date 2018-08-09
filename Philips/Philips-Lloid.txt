@@ -1,0 +1,64 @@
+n<poem>
+
+<title> On the death of the truly honorable Sir Walter Lloid Knight. </title>
+<author> Katherine Philips </author>
+
+<1>At Obsequies <note type="gloss"> A funeral or burial rite. (Merriam Webster Dictionary)</note> where so much grief is due,</1>
+<1>The Muses<note type"gloss"> The nine daughters of Zeus who symbolized the arts and sciences as a source of inspiration. (Encyclopedia Britannica)</note> are in solemn mourning too,</1>
+<1>And by their dead astonishment confess,</1>
+<1>They can lament this loss, though not express:</1>
+<1>Nay if those ancient Bards<note type="gloss">A poet, traditionally one reciting epics and associated with a a particular oral tradition.(Merriam Webster Dictionary)</note> had seen this Herse,</1>
+<1>Who once in {British} <note type="gloss"> Italics.</note> shades spoke living Verse,</1>
+<1>Their high concern for him had made them be, </1>
+<1>Apter to weep, then write his Elogy:</1>
+<1>When on our land that flood of woes was sent,<note type="gloss"> The English Civil War (1642-1651).(Encyclopedia Britannica)</note> </1>
+<1>Which swallowed all things sacred as it went,</1>
+<1>The injur'd Arts and Vertues, made his breast </1>
+<1>The Ark wherein they did securely rest:</1>
+<1>For as that old one was toss'd up and down,</1>
+<1>And yet the angry billows could not drown;</1>
+<1>So Heav'n did him in this worse deluge save,</1>
+<1>And made him triumph o're th' unquiet wave:</1>
+<1>Who while he did with that wild storm contest,</1>
+<1>Such real magnanimity express'd;</1>
+<1>That he dar'd to be loyal in a time </1>
+<1>When 'twas a danger made, and though a crime:</1>
+<1>Duty, and not ambition, was his aim,</1>
+<1>Who study'd Conscience ever more than Fame,</1>
+<1>And thought it so desirable a thing,</1>
+<1>To be prefer'd to suffer for his King,<note type="gloss"> King Charles I who was publicly executed in 1649. (Encyclopedia Britannica)</note> </1>
+<1>That he all Fortunes spight had pardon'd her,</1>
+<1>Had she not made his Prince a sufferer;</1>
+<1>For whose lov'd cause he did both act and grieve,</1>
+<1>And for it only did endure to live,</1>
+<1>To teach the world what man can be and do,</1>
+<1>Arm'd by Allegiance and Religion<note type"gloss"> Sir Walter Lloid Knight was a royalist to the Stuart line.</note> too.</1>
+<1>His head and heart mutual assistance gave,</1>
+<1>That being still so wise, and this so brave,</1>
+<1>That 'twas acknowledg'd all he said and did,</1>
+<1>From judgement, and and from honor did proceed:</1>
+<1>Such was the useful mixture of his mind,</1>
+<1>'Twas at once meek and and knowing, stout and kind;</1>
+<1>For he was civil, bountiful, and learn'd,</1>
+<1>And for his Friends so generously concern'd,</1>
+<1>That both his heart and house, his his hand and tongue,</1>
+<1>To them, more than himself, seem'd to belong;</1>
+<1>As if to his wrong'd party he would be</1>
+<1>Both an Example and Apology:</1>
+<1>For when both Swords and Pens ceas'd the dispute,</1>
+<1>His life alone Rebellion and confute.</1>
+<1>But when his Vows propitious <note type="gloss"> Giving or indicating a good chance of success; favorable.(Merriam Webster Dictionary)</note> Heaven had heard,</1>
+<1>And our unequal'd King at length appear'd,</1>
+<1>As aged {Simeon} <note type= "gloss"> Italics.</note> <note type="gloss"> Simeon of the New Testament in Luke(2:25-26) was a prophet whom the Holy Spirit appeared to with a promise that he would not die until he had seen Jesus Christ.(The Orthodox Church of America Online)</note> did his spirits yield,</1>
+<1>When he had seen his dearest hopes fulfil'd,</1>
+<1>He gladly saw the morning of that day,</1>
+<1>Which {Charles} <note type="gloss"> Italics.</note> <note type="gloss"> King Charles II was Coronated in 1661 after the death of Oliver Cromwell.(Encyclopedia Britannica)</note> his growing spledour did display;</1>
+<1>Then to Eternal joies made greater haste,</1>
+<1>Because his present ones flow'd in so fast;</1>
+<1>From which he fled out of pious fear,</1>
+<1>Lest he by them should be rewarded here;</1>
+<1>While his sad Country by his death have lost</1>
+<1>Their noblest Pattern and their greatest boast.</1>
+
+</poem>
+
