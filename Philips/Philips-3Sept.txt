@@ -18,7 +18,6 @@
             
             <respStmt>
                 <resp>Transcription, correction, editorial commentary, and markup</resp>
-                <name>Sarah Catherine Doyle</name>
                 <name>Staff and Research Assistants at The University of Virginia</name>
                 <name>John O'Brien</name>
                 <name>Sara Brunstetter</name>
