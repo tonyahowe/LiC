@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Upon the double murder of King Charles I</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>SI. Upon the double Murther of K. CHARLES I. in Answer to a Libellous Copy of Rimes made by Vavasor Powell.
+            
+            I think not on the State, nor am concern’d
+            Which way soever the great helm is turn'd:
+            But as that son whose father's dangers nigh
+            Did force his native dumbness, and untie
+            The fetter'd organs; so here's a fair cause
+            That will excuse the breach of Nature's laws.
+            Silence were now a sin, nay Passion now
+            Wise men themselves for Merit would allow.
+            What noble eye could see (and careless pass)
+            The dying Lion kick'd by every Ass?
+            Has Charles so broke God's Laws, he must not have
+            A quiet Crown nor yet a quiet Grave?
+            Tombs have been Sanctuaries; Thieves lie there
+            Secure from all their penalty and fear.
+            Great Charles his double misery was this,
+            Unfaithful Friends, ignoble Enemies.
+            Had any Heathen been this Prince's foe,
+            He would have wept to see him injur'd so.
+            His Title was his Crime, they'd reason good
+            To quarrel at the Right they had withstood.
+            He broke God's Laws, and therefore he must die;
+            And what shall then become of thee and I?
+            Slander must follow Treason; but yet stay,
+            Take not our Reason with our King away.
+            Though you have seiz'd upon all our defence,
+            Yet do not sequester our common Sense.
+            But I admire not at this new supply:
+            No bounds will hold those who at Sceptres fly.
+            Christ will be King, but I ne're understood
+            His Subjects built his Kingdom up with bloud,
+            Except their own; or that he would dispence
+            With his commands, though for his own defence.
+            Oh! to what height of horrour are they come
+            Who dare pull down a Crown, tear up a Tomb!</p>
+      </body>
+  </text>
+</TEI>

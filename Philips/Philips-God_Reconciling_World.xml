@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God was in Christ Reconciling the World to Himself</title>
+              <author>Katherine Philips</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>The Open Anthology of Literature in English, edited by Eleanor Barto</p>        
+         </publicationStmt>
+         <sourceDesc>
+            <p>Sourced from Early English Books Online</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>
+            <poem>
+               
+               <title id="a001" corresp="n001">2.Cor.5.19. God was in Christ Reconciling the World to Himself</title> <note id="n001" target="a001" type="gloss">2.Cor.5.19. in the Christian Bible is the verse "that God was reconciling the world to himself in Christ, not counting peopleís sins against them. And he has committed to us the message of reconciliation" (English Standard Version. Bible Gateway. )</note>
+               <author>Katherine Philips</author>
+               
+               <stanza>
+                  <l>When God, <span id="a002" corresp="n002">contracted</span> <note id="n002" target="a002" type=gloss>a "contract", indicating a formal obligation</note>to Humanity,</l> 
+                  <l>Could sigh and suffer, could be sick and die;</l>
+                  <l>When all the heap of Miracles combin'd</l>
+                  <l>To form the greatest, which was, <span id="a003" corresp="n003">save Mankind</span>:</l> <note id="n003" target="a003" type="gloss">Saving Mankind as being the "greatest Miracle", indicating authorial commentary on the state on mankind</note>
+                  <l>Then God took stand in Christ, studying a way</l>
+                  <l>How to repair the Ruin'd World's <span id="a004" corresp="n004">decay.</span></l> <note id="n004" target="a004" type="gloss">again, the authorial language -- "decay", indicating something that was once new has now rotted; a loss of quality</note>
+                  <l>His Love, Pow'r, Wisdom, must some mean procure</l>
+                  <l>His Mercy to advance, Justice secure:</l>
+                  <l>And since Man in Misery<note id="n006" target="a006" type="gloss">"hurl'd" suggests forceful, nonwilling movement-- a potential reference to Adam and Eve ("Man") being hurled from the Garden of Eden into the world ("Misery")</note> was <span id="a006" corresp="n006">hurl'd</span>,</l> 
+                  <l>It cost him more to save then make the World.</l> 
+                  <l>Oh! what a desp'rate load of sins had <span id="a007" corresp="n007">we</span>,</l> <note id="n007" target="a007" type="gloss">"We" -- speaker is not passive, but rather identifies as part of humanity</note>
+                  <l>When God must plot for our Felicity?</l> 
+                  <l>When <span id="a008" corresp="n008">God must beg us</span> that he may forgive,</l> <note id="n008" target="a008" type="gloss">Relationship dynamic of humans as being their own downfall, with God in the position of savior</note>
+                  <l>And <span id="a009" corresp="n009">dye himself</span> before Mankind could live?</l> <note id="n009" target="a009" type="gloss">Emphasis on God as giving -- God creates earth and man, then dies for man</note>
+                  <l>And what still are we, when our <span id="a010" corresp="n010">King</span><note id="n010" target="a010" type="gloss">God as sovereign ruler--a very literal translation of the "divine ruler" connotation of king(?)</note> in vain</l>
+                  <l>Begs his lost Rebels to be Friends again?</l> 
+                  <l>What flouds of Love proceed from Heaven's smile,</l>
+                  <l>At once to pardon and to reconcile?</l>
+                  <l>What God himself hath made he cannot hate,</l>
+                  <l>For 'tis one act <span id="a011" corresp="n011">to Love and to Create:</span></l> <note id="n011" target="a011" type="gloss">Characterization of God as ultimately giving--despite Philips repeating how humanity is damning itself, God is never portrayed as upset, only understanding</note>
+                  <l>And he's too perfect full of Majesty,</l>
+                  <l>To need additions from <span id="a012" corresp="n012">our Misery.</span></l> <note id="n012" target="a012" type="gloss">Establishes human state as Misery (also, line 9, "since Man in Misery was hurl'd")</note>
+                  <l>He hath <span id="a012" corresp="n013">a Father's, not a Tyrant's,</span> joy;</l> <note id="n013" target="a013" type="gloss"> References God as "our King" and "a Father", but removes negative connotations (not a "Tyrant")-- portrays God as being in a natural, uncontested position of power</note>
+                  <l>Shews more his Pow'r to save, than to destroy.</l>
+                  <l>Did there ten thousand Worlds to ruine fall,</l>
+                  <l>One God could save, one Christ redeem them all.</l>
+                  <l>Be silent then, ye narrow Soulds, take heed</l>
+                  <l>Left you restrain the <span id="a014" corresp="n014">Mercy</span><note id="n014" target="a014" type="gloss">Again, humans as self-sabotaging -- they will need "Mercy", but might prevent themselves from achieving it by their own actions against God</note> you will need.</l> 		<l>But, O my Soul, from these be different,</l> 		<l>Imitate thou a nobler <span id="a015" corresp="n015">Precedent:</span></l> <note id="n015" target="a015" type="gloss">precedent: an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances (Dictionary.com)</note>		<l>As God with open Arms the World does woo,</l>		<l>Learn thou like God to be enlarged too;</l>
+                  <l>As he begs thy <span id="a016" corresp="n016">consent to pardon thee,</span></l> <note n="n016" target="a016" type="gloss">"consent" and "pardon" indicates procedure (plus line 1, "contract") -- that humans must consent to their own salvation</note>
+                  <l>Learn to submit unto <span id="a017" corresp="n017">thy Enemy;</span></l> <note id="n017" target="a017" type="gloss">"thy Enemy" as God</note>		<l>As he stands ready thee to entertain,</l>		<l>Be thou as forward to return again;</l>		<l>As he was Crucify'd for thee and <span id="a018" corresp="n018">by thee</span></l> <note id="n018" target="a018" type="gloss">The speaker emphasizes that humans are their own downfall through their sin. Despite this, it was humanity's "sin" of disbelief and hate that led to the crucifition of Jesus, which in turn led to the pardoning of all human sin. In this instance, did humanity's sin prompt their own salvation? Is the speaker indicating that sin is so integrally human that God accounted for sin as the tool to provoking humanity's salvation through Jesus's murder?</note>		<l id="a019" corresp="n019">Crucifie thou what caus'd his Agony;</l> <note id="n019" target="a019" type="gloss">Speaker ends with a suggestion to the audience--a "moral" poem, as it were</note>
+                  <l>And like to him be mortify'd to sin,</l>
+                  <l>Die to the World as he dy'd for it then.</l>
+               </stanza>
+               
+               
+            </poem>
+         </p>
+         <figure>
+            <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
+         </figure>
+      </body>
+  </text>
+</TEI>
