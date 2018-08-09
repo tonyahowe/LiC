@@ -1,0 +1,63 @@
+<poem>
+
+<title>The Vanity of All Worldly Creatures</title>
+ <author>Anne Bradstreet</author>
+
+ <stanza>
+<l>As he said vanity, so vain say I,</l>
+<l>O vanity, O vain all under skie<note type="gloss">Bradstreet is most likely referencing Ecclesiastes 1:2, "vanity of vanities; all is vanity"</note>,</l>
+<l>Where is the man can say, lo, I have found</l>
+<l>On brittle earth, a consolation sound?</l>
+<l>What is't in honour, to be set on high?</l>
+<l>No, they like beasts, and sonnes of man shall die</l>
+<l>And whilst they live, how oft doth turn their State?</l>
+<l>He's now a slave, that was a Prince<note type="gloss">Biblical allusion to Adam</note> of late.</l>
+<l>What is't in wealth, great treasures for to gain?</l>
+<l>No, that's but labour anxious, care and pain.</l>
+<l>He heaps up riches and he heaps up sorrow,<note type="gloss">Bradstreet flexes Puritan muscle here, linking material possession to increased sorrow</note></l>
+<l>Is his today, but who's his heire tomorrow?<note type="gloss">Why possess anything? Life is fleeting.</note></l>
+<l>What then? content in pleasures canst thou find?</l>
+<l>More vain then all, that's but to grasp the wind.</l>
+<l>The sensuall senses for a time they please,</l>
+<l>What is't in beauty? no, that's but a snare,</l>
+<l>They'r foul enough to dry, that once was fair<note type="gloss">Time destroys all things, especially beauty.</note></l>
+<l>What, is't in flowring youth, or manly age?</l>
+<l>The first is prone to vice, the last to rage.</l>
+<l>Where is it then? in wisdome, learning, arts?<note type="gloss">The solution lies not in the arts, or even on Earth, but in Heaven.</note></l>
+<l>Sure if on Earth, it must be in those parts;</l>
+<l>Yet these, the wisest<note type="gloss">Even the wisest of men fall victim to vanity and inner struggle.</note> man of men did find,</l>
+<l>But vanity, vexation of the mind,</l>
+<l>And he that knows the most doth still bemoan,</l>
+<l>He knows not all, that here is to be known,</l>
+<l>What is it then? to do as Stoicks tell,</l>
+<l>Nor laugh, nor weep, let things go ill or well;</l>
+<l>Such Stoicks<note type="gloss">Stoics believedestructive emotions resulted from errors in judgment</note> are but flocks, such teaching vain:</l>
+<l>While man is man, he shall have ease or pain.</l>
+<l>If not in honour, beauty, age, nor treasure,</l>
+<l>Nor yet in learning, wisdome, youth, nor pleasure?</l>
+<l>Where shall I Climb, sound, seek, search or find,</l>
+<l>That summum bonum<note type="gloss">the supreme good from which all others are derived</note>which may stay my mind?</l> 
+<l>There is a path, no vultures eye hath seen.</l>
+<l>Where lions fierce, nor lions whelps hath been,</l>
+<l>Which leads unto that living Christall fount<note type="gloss">Author calls to mind aquatic imagery, reminiscent of baptism</note>,</l>
+<l>Who drinks thereof, the world doth naught account.</l>
+<l>The depth, and sea, hath said its not in me,</l>
+<l>With pearl and gold it shall not valued be:</l>
+<l>For Saphyre, Onix, Topas, who will change,</l>
+<l>It's hid from eyes of men, they count it strange,</l>
+<l>Death and destruction the fame hath heard,</l>
+<l>But where and what it is, from Heaven's declared;</l>
+<l>It brings to honor which shall ne'er decay,</l>
+<l>It stores with wealth which time can't wear away<note type="gloss">The speaker relays that the joys of Heaven cannot be eroded like material possessions of Earth.</note.></l>
+<l>It yieldeth pleasures far beyond conceit,</l>
+<l>And truly beautifies without deceit.</l>
+<l>Nor strength, nor wisdome, nor fresh youth shall fade,</l>
+<l>Nor death shall see, but are immortal made.</l>
+<l>This pearl of price, this tree of life, this spring,</l>
+<l>Who is possessed of shall reign a king.</l>
+<l>Nor change of state nor cares shall ever see,</l>
+<l>But wear his crown unto eternity<note type="gloss">Only Heaven offers the prize of immortal life</note>.</l>
+<l>This satiates the soul, this stays the mind,</l>
+<l>And all the rest, but vanity we find.</l>
+
+</poem>

@@ -1,0 +1,99 @@
+<poem>
+
+<title>Youth.</title>
+<author>Anne Bradstreet</author>
+
+<stanza>
+<l>MY goodly cloathing, and my beauteous skin,<note type=“gloss”>Appearance is of utmost importance to Youth.</note></l>
+<l>Declare some greater riches are within;<note type=“gloss”>This demonstrates the superficial mindset of young people, in that exterior appearances are an indication of one’s inner self.</note></l>
+<l>But what is best i'le first present to view,</l> 
+<l>And then the worst, in a more ugly hue;</l> 
+<l>For thus to do, we on this Stage assemble,</l> 
+<l>Then let not him, which hath most craft dissemble;</l> 
+<l>Mine education, and my learning's such,</l> 
+<l>As might my self, and others, profit much:<note type=“gloss”>”Profit” and money are equally important to Youth.</note></l>
+<l>With nurture trained up in vertues Schools,</l> 
+<l>Of Science, Arts, and Tongues, I know the rules,</l> 
+<l>The manners of the Court, I likewise know,</l> 
+<l>Nor ignorant what they in Country do;</l> 
+<l>The brave attempts of valiant Knights I prize,</l> 
+<l>That dare climbe Battlements, rear'd to the skies;</l> 
+<l>The snorting Horse, the Trumpet, Drum I like,</l> 
+<l>The glistring Sword, and wel advanced Pike;<note type=“gloss”>Youth admires the bravery of Knights, but also their material possessions and the attention they receive for their shiny weapons, loud music, and valiant steeds.</note></l>
+<l>I cannot lye in trench, before a Town,</l> 
+<l>Nor wait til good advice our hopes do crown;</l> 
+<l>I scorn the heavy Corsset, Musket-proof,<note type:”gloss”>Youth is sexually driven, as it wants the Corsset of a woman to be more easily accessible.</note></l>  
+<l>I fly to catch the Bullet that's aloof;</l> 
+<l>Though thus in field, at home, to all most kind,</l> 
+<l>So affable that I do suit each mind;<note type=“gloss”>Youth is very amiable; a crowd-pleaser.</note></l>
+<l>I can insinuate into the brest,</l>
+<l>And by my mirth can raise the heart deprest.<note type=“gloss”>Youth is very confident, almost to the point of conceit. Yet, it has the energy and affability to raise the spirits of those around it.</note></l>
+<l>Sweet Musick rapteth my harmonious Soul,</l>
+<l>And elevates my thoughts above the Pole.</l> 
+<l>My wit, my bounty, and my courtesie,</l>
+<l>Makes all to place their future hopes on me.<note type=“gloss”>Once again, Youth is so confident in its strengths that it appears arrogant.</note></l>
+<l>This is my best, but youth (is known) alas,</l>
+<l>To be as wilde as is the snuffing Asse,<note type=“gloss”>Youth is wild, constantly seeking adventure and excitement.</note></l>
+<l>As vain as froth, as vanity can be,<note type=“gloss”>Admitting its faults–that Youth can be vain.</note></l> 
+<l>That who would see vain man, may look on me:</l>
+<l>My gifts abus'd, my education lost,</l> 
+<l>My woful Parents longing hopes all crost,<note type=“gloss”>Youth can lose sight of its goals and disappoint its parents.</note></l>
+<l>My wit, evaporates in meriment:<note type=“gloss”>Youth’s desire to enjoy life and have fun can lead it to make poor decisions.<note></l> 
+<l>My valour, in some beastly quarrel's spent;<note type=“gloss”>Youth can be hotheaded and prone to fighting worthless fights.</note></l>
+<l>Martial deeds I love not, 'cause they're vertuous,</l> 
+<l>But doing so, might seem magnanimous.</l> 
+<l>My Lust doth hurry me, to all that's ill,<note type=“gloss”>Lust overtakes Youth.</note></l>
+<l>I know no Law, nor reason, but my wil;<note type=“gloss”>Youth can be mischievous, breaking laws doing whatever it wants to do.</note></l>
+<l>Sometimes lay wait to take a wealthy purse,</l> 
+<l>Or stab the man, in's own defence, that's worse,</l> 
+<l>Sometimes I cheat (unkind) a female Heir, 
+<l>Of all at once, who not so wise, as fair, 
+<l>Trusteth my loving looks, and glozing tongue, 
+<l>Until her freinds, treasure, and honour's gone.<note type=“gloss”>Youth has a tendency to cheat on women. It will trick women into sleeping with it by acting flirtatious and fooling them with loving looks.</note></l> 
+<l>Sometimes I sit carousing others health,</l> 
+<l>Until mine own be gone, my wit, and wealth;</l> 
+<l>From pipe to pot, from pot to words, and blows,</l> 
+<l>For he that loveth Wine, wanteth no woes;<note type=“gloss”>Youth gets drunk to avoid dealing with its problems.</note></l>
+<l>Dayes, nights, with Ruffins, Roarers, Fidlers spend;</l> 
+<l>To all obscenity, my eares I bend.</l>
+<l>All counsel hate, which tends to make me wise,</l> 
+<l>And dearest freinds count for mine enemies;</l> 
+<l>If any care I take, 'tis to be fine,</l> 
+<l>For sure my suit more then my vertues shine;</l> 
+<l>If any time from company I spare,</l>
+<l>'Tis spent in curling, frisling up my hair;<note type=“gloss”>Youth admits to caring too much about its looks, and spending too much time trying to better its appearance.</note></l>
+<l>Some young Adonis I do strive to be,<note type=“gloss”>Adonis: from Greek mythology, he was known to be beautiful and constantly surrounded by women.</note></l>
+<l>Sardana Pallas<note type=“gloss”>Sardana Pallas was the last kind of Assyria, who ordered himself to be burned to death when he was defeated by rebel armies.</note>, now survives in me:</l>
+<l>Cards, Dice, and Oaths, concomitant, I love;</l> 
+<l>To Masques, to Playes, to Taverns stil I move;</l> 
+<l>And in a word, if what I am you'd heare,</l> 
+<l>Seek out a Brittish, bruitish Cavaleer;</l> 
+<l>Such wretch, such monster am I; but yet more,</l> 
+<l>I want a heart all this for to deplore.<note type=“gloss”>Youth has no heart to allow him to feel guilty for his aforementioned flaws.</note></l>
+<l>Thus, thus alas! I have mispent my time,</l>
+<l>My youth, my best, my strength, my bud, and prime:<note type=“gloss”>Youth believes he is actually a monster who has wasted his time away with foolish activities.</note></l>
+<l>Remembring not the dreadful day of Doom,</l> 
+<l>Nor yet that heavy reckoning for to come;</l> 
+<l>Though dangers do attend me every houre,</l> 
+<l>And gastly death oft threats me with her power,</l> 
+<l>Sometimes by wounds in idle combates taken,</l> 
+<l>Sometimes by Agues<note type=“gloss”>Malaria.</note> all my body shaken;</l> 
+<l>Sometimes by Feavers, all my moisture drinking,</l> 
+<l>My heart lyes frying, and my eyes are sinking;</l> 
+<l>Sometimes the Cough, Stitch, painful Plurisie,<note type=“gloss”>Pleurisy, inflammation of the pleura (the lining of the lungs)</note></l> 
+<l>With sad affrights of death, doth menace me;<note type=“gloss”>Youth is terrified of falling ill or dying, which is ironic given how healthy and lively he is.</note></l>
+<l>Sometimes the loathsome Pox, my face be-mars,</l> 
+<l>With ugly marks of his eternal scars;<note type=“gloss”>Youth worries more about how pox makes him appear ugly, than the fact that it can kill him.</note></l>
+<l>Sometimes the Phrensie<note type=“gloss”>Frenzy.</note>, strangely madds my Brain,<note type=“gloss”>Youth is deteriorating from the inside out.</note></l>
+<l>That oft for it, in Bealam I remain.</l> 
+<l>Too many's my Diseases to recite,</l> 
+<l>That wonder 'tis I yet behold the light,</l> 
+<l>That yet my bed in darknesse is not made,<note type=“gloss”>Does not sound youthful at all, considering he’s questioning how he is still alive.</note></l> 
+<l>And I in black oblivions den long laid;</l> 
+<l>Of Marrow ful my bones, of Milk my breasts,</l> 
+<l>Ceas'd by the gripes of Serjeant Death's Arrests:</l> 
+<l>Thus I have said, and what i've said you see,</l> 
+<l>Child-hood and youth is vaine, yea vanity.<note type=“gloss”>Youth cares so much about its survival and its own life that it is vain.</note></l>
+</stanza>
+
+</poem>

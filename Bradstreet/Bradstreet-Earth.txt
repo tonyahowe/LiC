@@ -1,0 +1,130 @@
+<poem>
+	<title>Earth</title>
+	<author>Anne Bradstreet</author>
+	
+	<stanza>
+		<l>The next in place, Earth judg'd to be her due, </l>
+		<l>Sister, in worth I come not short of you;</l>
+		<l>In wealth and use I doe surpasse you all,</l>
+		<l>And Mother Earth, of old, men did me call,</l>
+		<l>Such was my fruitfulnesse; an Epithite </l>
+		<l>Which none ere gave, nor you could claime of right,</l>
+		<l>Among my praises this I count not least, </l>
+		<l>I am th'origniall of man and beast, </l>
+		<l>To tell what sundry fruits my fatsoyle yeelds, </l>
+		<l>In vine-yards, orchards, gardens, and corne fields, </l>
+		<l>Their kinds, their tasts, their colours, and their smels, </l>
+		<l>Would so passe time, I could say nothing else;</l>
+		<l>The rich and poore, wife, foole, and every sort,</l>
+		<l>Of these so common things, can make report:</l>
+		<l>To tell you of my Countries, and my regions</l>
+		<l>Soone would they passe, not hundreds, but legions,</l>
+		<l>My cities famous, rich, and populous,</l>
+		<l>Whose numbers now are growne innumerous;</l>
+		<l>I have not time to thinke of every part,</l>
+		<l>Yet let me name my Grecia [Italics], 'tis my heart</l>
+		<l>For Learning, Armes, and Arts, I love it well:</l>
+		<l>But chiefly, cause the Muses there did dwell;</l>
+		<l>I'le here skip o're my mountaines, reaching skies,</l>
+		<l>Whether Pyrenian, or the Alpes; both lyes</l>
+		<l>On either side the country of the Gaules [Italics],</l>
+		<l>Strong forts from the Spanish [Italics] and Italian[Italics] braules,</l>
+		<l>And huge great Taurus [Italics], longer then the rest,</l>
+		<l>Dividing great Armenia [Italics] from the least,</l>
+		<l>And Hemus[Italics], whose steep sides, none foote upon,</l>
+		<l>But farewell all, for deare mount Helicon [Italics],</l>
+		<l>And wonderous high Olimpus [Italics], of such fame,</l>
+		<l>That heaven selfe was oft call'd by that name;</l>
+		<l>Sweet Parnassus [Italics], I dote too much on thee,</l>
+		<l>Unless thou prove a better friend to me;</l>
+		<l>But ile skip o're these Hills, not touch a Dale,</l>
+		<l>Nor yet expatiate, in Temple vale;</l>
+		<l>Ile here let goe, my Lions of Numedia [Italics],</l>
+		<l>My Panther, and my leopards of Libia [Italics],</l>
+		<l>The Behemoth, and rare found Unicorne,</l>
+		<l>Poysons sure antidote lyes in his horne.</l>
+		<l>And my Hyena [Italics] (imitates mans voyce)</l>
+		<l>Out of huge numbers, I might pick my choyce,</l>
+		<l>Thousands in woods, and planes, both wild, and tame,</l>
+		<l>But here, or there, I list now none: name;</l>
+		<l>No, though the fawning dog did urge me sore<l>
+		<l>In his behalfe to speak a word the more;</l>
+		<l>Whose trust, and valour I might here commend:</l>
+		<l>But time's too short, and precious so to spend.</l>
+		<l>But hark, ye worthy Merchants who for prize</l>
+		<l>Send forth your well man'd ships, where fun doth rise</l>
+		<l>After three years, when men and meat is spent</l>
+		<l>My rich commodities payes double rent.</l>
+		<l>Ye Galenists<note type= "gloss">Followers of the medical practices of the Greek physician and philosopher Galen (Oxford English Dictionary)</note> [Italics], my Drugs that come from thence</l>
+		<l>Doe cure your patients, fill your purse with pence;</l>
+		<l>Besides the use you have, or Hearbs and Plants,</l>
+		<l>That with the lesse cost, neare home, supplyes your wants.</l>
+		<l>But Marriners, where got you ships and sailes?</l>
+		<l>And Oares to row, when both my sisters failes?</l>
+		<l>Your tackling, Anchor, Compasse too, is mine;</l>
+		<l>Which guides, when Sun, nor Moon, nor Stars do shine</l>
+		<l>Ye mighty kinds, who for your lasting fames</l>
+		<l>Built cities, Monuments call'd by your names;</l>
+		<l>What those compiled heapes of mussy<note type= "gloss">mossy</note>stones?</l>
+		<l>That your ambition laid, ought but my bones?</l>
+		<l>Ye greedy misers who do dig for gold;</l>
+		<l>For gemmes, for silver, treasures which I hold:</l>
+		<l>Will nor my goodly face, your rage suffice?</l>
+		<l>Buy you will see what in my bowls lyes?</l>
+		<l>And ye Arcisicers[?], all trades and forts;</l>
+		<l>My bounty calls you forth to make reports,</l>
+		<l>If ought have to use, to wear, to eate?</l>
+		<l>But what I freely yeeld upon your sweat?</l>
+		<l>And chorlerick<note type= "gloss">Probably meant as irascible, or showing a tendency to be easily angered (Oxford English Dictionary).</note> sister, thou (for all thine ire)</l>
+		<l>Well knowest, my fuell must maintain thy fire.</l>
+		<l>As I ingenuously (with thanks) confesse</l>
+		<l>My cold, thy (fruitful) heat, doth crave no lesse:</l>
+		<l>But how my cold, dry temor, works upon</l>
+		<l>The melancholy constitution.</l>
+		<l>How the Autumnal season I do sway;</l>
+		<l>And how I force the grey head to obey.</l>
+		<l>I should here make a short, yet true narration,</l>
+		<l>But that the method is my imitation.</l>
+		<l>Now might I shew my adverse quality,</l>
+		<l>And how I oft work mans mortality</l>
+		<l>He sometimes findes, maugre<note type="gloss">In spite of (Oxford English Dictionary).</note> his toyling paine,</l>
+		<l>Thistles and thornes, where he expected graine;</l>
+		<l>My sap, to plants and trees, I must not grant,</l>
+		<l>The Vine, the Olive, and the Figtree want:</l>
+		<l>The Corne, and Hay, both fall before they'r mowne;</l>
+		<l>And buds from fruitfull trees, before they'r blowne.</l>
+		<l>Then dearth prevailes, That Nature to suffice,</l>
+		<l>The tender mother on her Infant flyes:</l>
+		<l>The Husband knowes no Wife, nor father sons;</l>
+		<l>But to all outrages their hunger runnes.</l>
+		<l>Dreadful expamples, soon I might produce,</l>
+		<l>But to such auditours 'twere of no use</l>
+		<l>Again, when Delvers dare in hope of gold,</l>
+		<l>To ope those veines of Mine<note type= "gloss">Double entendre: "Mine" is meant possessively, and as a site into which prospectors plunge in search of natural resources</note>, audacious bold:</l>
+		<l>While they thus in my intralls<note type= "gloss">Entrails</note>seem to dive;</l>
+		<l>Before they know, they are inter'd alive.</l>
+		<l>Ye affrighted wights, appall'd how you do shake</l>
+		<l>If one you feele me, your foundation, quake,</l>
+		<l>Because in the abysse of my darke wombe:</l>
+		<l>Your Cities and your selves I oft intombe.</l>
+		<l>O dreadfull Sepulcher! that this is true,</l>
+		<l>Korah<note type= "gloss">Character from Numbers 16 in the Bible who led a rebellion against Moses and Aaron for exalting themselves above the rest of the Israelites. It did not end well for Korah and his men: God opened up the earth, and the rebels and their families were swallowed whole (gotquestions.org).</note> [Italics] and all his Company well knew.</l>
+		<l>And since, faire Italy [Italics] full sadly knowes.</l>
+		<l>What she hath lost by these my dreadfull woes.</l>
+		<l>And Rome [Italics], her Curtius [Italics], can't forget I think;</l>
+		<l>Who bravely rode into my yawning chinke.</l>
+		<l>Again, what veines of poyson in me lye;</l>
+		<l>As Stibium [Italics] and unfixt Mercury: [Italics]</l>
+		<l>With divers moe, nay, into plants it creeps;</l>
+		<l>In hot, and cold, and some benums<note type= "gloss">benumbed</note> with sleeps,</l>
+		<l>Thus I occasion death to man and beast,</l>
+		<l>When they seek food, and harme mistrust the least.</l>
+		<l>Much might I say, of the Arabian [Italics] sands;</l>
+		<l>Wherein whole Armies I have overthrown;</l>
+		<l>But windy sister, 'twas when you have blown.</l>
+		<l>Ile say no more, yet this thing adde I must,</l>
+		<l>Remember sonnes, your mould is of my dust</l>
+		<l>And after death, whether inter'd, or burn'd;</l>
+		<l>As earth at first, so earth into return'd.</l>	
+	</stanza>
+</poem>					

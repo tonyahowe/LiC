@@ -1,0 +1,150 @@
+<poem>
+
+<title>The Roman Monarchy, being the fourth and last, beginning, Anno Mandi</title>
+<author>Anne Bradstreet</author><note type=”gloss”>Anno Mandi means Year of the World.</note>
+
+<stanza>
+<l>Stout Romulus, Remus Founder, and fast</l><note type=”gloss”>Romulus is the founder of Rome and son of Mars in Roman Mythology.</note>
+<l>King</l>
+<l>Whom vestall Rhea, into th' world did </l>
+<l>bring</l>
+<l>His father was not Mars, as some devis'd</l><note type=”gloss”>She notes that in fact they are not children of Mars.</note>
+<l>But Aemulus, in Armour all disguis'd</l>
+<l>Thus, he deceiv'd his Neece, she might not know</l>
+<l>The double injury, he then did doe:</l>
+<l>Where she heards once had Coats, and Sheep their</l>
+<l>Folds,</l>
+<l>Where Swaines, and tustick Peasants and made their</l>
+<l>Holds</l>
+<l>A Citty Faire did Romulus erect:</l>
+<l>The Mistris of the World, eachrespect</l>
+<l>His Brother Remus there, by him was slaine,</l><note type=”gloss”>This is why the city is named Rome after Romulus instead of after Remus.</note>
+<l>For leaping o're the Walls with some disdaine</l>
+<l>The Stones at first was cimented with blood</l>
+<l>And bloody hath it prov'd, since Erst it flood</l>
+<l>This City built, and Sacrifices done,</l>
+<l>A formed of Government he next begun;</l>
+<l>A hundred Senators he likewise chose</l>
+<l>And with the stile of Patres honour'd those</l>
+<l>His City to replenish, men he wants</l>
+<l>Great priveleges then, to all he grants,</l>
+<l>That wil within these strong built walls reside,</l>
+<l>And this new gentle Government abide:</l>
+<l>Of Wives there was so great scarcity,</l>
+<l>They to their neighbors sue, for a supply;</l>
+<l>But all disdaine alliance then to make,</l>
+<l>So Romulus was forc'd this course to take</l>
+<l>Great shewes he makes at Tilt, and Turnament, </l><note type=”gloss”>Tilt and Tournament refers to races held on foot, chariot and horses to prove ones' worthiness (The Illustrated History of Rome,477).</note>
+<l>To see these sports, the Sabins are bent;</l><note type=”gloss”>Sabines were an italic tribe from the mountainous region near the east of the Tiber River (Brittanica.com)</note>
+<l>Their Daughters by the Romans then were caught,</l>
+<l>Foe to recover them, a Feild was fought;</l>
+<l>But in the end, to finall peace they come,</l>
+<l>And Sabins, and one people, dwelt in Rome.</l>
+<l>The Romulus now more potent 'gin to grow,</l>
+<l>And Fedinates they wholly over-throw:</l>
+<l>But Romulus then comes unto his end,</l>
+<l>Some faiining say, to heav'n he did ascend;</l>
+<l>Others, the leven and thirtyeth of his reigne</l>
+<l>Affirme, that by the Senate he was slaine.</l>
+</stanza>
+
+<stanza>
+<l>Numa Pompilius</l>
+<l>Numa Pompilius, is next chosen King,</l>
+<l>Held for his Piety, some sacred thing;</l>
+<l>To Janus, he that famous Temple built,</l><note type=”gloss”>God of doorways in Roman religion (Brittanica.com).</note>
+<l>Kept shut in peace, but ope when blood was spilt</l>
+<l>The Religious Rites and Customs instituted,</l>
+<l>And Priests and Flamines likewise he deputed,</l><note type=”gloss”>Flamines are priests dedicated specifically to one deity (Brittanica.com).</note>
+<l>Their Augurs strange, their gestures and attire,</l><note type=”gloss”>An Augur is a religious position that observed the surroundings such as animals to understand the people's standings with the Gods.</note>
+<l>And vestal maids to keep the holy fire.</l><note type=”gloss”>Vestal maids are Virgin maids, similar to modern day nuns, but for Roman religion..</note>
+<l>The Nymph AEgeria this to him told,</l><note type=”gloss”>Aegeria is the Latin goddess of knowledge and healing (thaliatook.com).</note>
+<l>So to delude the people he was bold:</l>
+<l>Forty three years he rul'd with general praise,</l>
+<l>Accounted for a God in after dayes.</l>
+</stanza>
+
+</stanza>
+<l>Tullius Hoftilius</l>
+<l>Tulius Hoftilius, was third Roman King,</l>
+<l>Who Martial Discipline in use did bring;/l>
+<l>War with the ancient Albans he doth wage,</l><note type=”gloss”>Region of Italy.</note>
+<l>The strife to end, fix Brothers doe ingage;</l>
+<l>Three call'd Horatii, on Romans side;</l>
+<l>And Curiatii, three Albans provide;</l>
+<l>The Romans Conquereth, others yeeld the day,</l>
+<l>Yet for their compact, after false the play</l>
+<l>The Romans fore incens'd, their Generall slay,</l>
+<l>And from old Alba fetch the wealth away;</l>
+<l>Of Latin Kings this was long since the Seat,</l>
+<l>But now demolished, to make Rome great.</l>
+<l>Thirty two years did Tullius reign, then dye,</l>
+<l>Left Rome in wealth, and power still growing high.</l>
+
+
+</stanza>
+<l>Ancus Martius</l>
+<l>Next Ancus Martius sits upon the Throne,</l>
+<l>Nephew unto Pomphilius dead, and gone;</l>
+<l>Rome he inlarg'd, new built againe the wall,</l>
+<l>Much stronger, and more beautifull withall:</l>
+<l>A stately Bridge he over Tyber made,</l><note type=”gloss”>The Tyber River runs through Rome.</note>
+<l>Of Boats, and Oares, no more they need the aide;</l>
+<l>Faire Oftia he built, this Town, it flood,</l>
+<l>Close by the mouth of famous Tyber flood:</l>
+<l>Twenty foure yeare, th' time of his royall race,</l>
+<l>Then unto death unwillingly gives place.</l>
+</stanza>
+
+</stanza>
+<l>Tarquinius Prifcus</l>
+<l>Tarquin, a Greek, at Corinth borne, and bred,</l>
+<l>Who soe sedition from his Country fled;</l>
+<l>Is entertain'd at Rome, and in short time,</l>
+<l>By wealth, and favour, doth to honour climbe;</l>
+<l>He after Martius death the Kingdome had,</l>
+<l>A hundred Senatours he more did adde;</l>
+<l>Warres with the Latins he againe renewes,</l>
+<l>And Nations twelve, of Tuscany subdues:</l>
+<l>To such rude triumphs, as young Rome then had,</l>
+<l>Much state, and glory, did this Prifcus adde:</l>
+<l>Thirty eight yeares (this Stranger borne) did reigne,</l>
+<l>And after all, by Ancus Sons was slaine.</l>
+
+<stanza>
+<l>Servius Tullius</l>
+<l>Next, Servius Tullius fits upon the Throne,</l>
+<l>Ascends not up, by merits of his owne.</l>
+<l>But by the favour, and the speciall grace</l>
+<l>Of Tanquil, Late Queen, obtaines the place;</l>
+<l>He ranks the people, into each degree,</l>
+<l>As wealth had made them of abilitie;</l>
+<l>A generall Mufter takes, which by account,</l>
+<l>To eighty thousand soules then did amount:</l>
+<l>Forty foure yeares did Servius Tullius reigne,</l>
+<l>And then by Tarquin, Prifcus Son, was slaine.</l>
+</stanza>
+
+<stanza>
+<l>Tarquinius Superbus, the last Roman King.</l>
+<l>Tarquin the proud, from manners called so,</l>
+<l>Sate on his Throne, when he had slaine his foe </l>
+<l>Sixtus his Son, doth (most unworthily)</l>
+<l>Lucretia force,mirrour of chastety;</l><note type=”gloss”>It is unclear the meaning here, but I take it to be that Sixtus raped Lucretia?.</note>
+<l>She loathed so the fact, she loath'd her life,</l>
+<l>And fled her guiltless blood, with guilty knife</l>
+<l>Her Husband sore incens'd, to quit this wrong,</l>
+<l>With Junius Brutus rose, and being strong,</l>
+<l>The Targuins they from Rome with speed expell,</l>
+<l>In banishment perpetuall, to dwell;</l>
+<l>The Government they change, a new one bring,</l>
+<l>And people sweat, ne're to accept of King.</l>
+</stanza>
+
+</stanza>
+<l>The end of the Roman Monarchy</l>
+<l>being the fourth and last.</l>
+</stanza>
+
+
+</poem>
