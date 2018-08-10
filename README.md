@@ -33,7 +33,7 @@ Best practices? We have a couple of concerns. 1.) Texts have authorial annotatio
 ### eXist-db
 Currently, we are working on an eXist install with github connectivity. Texts to work with:
 - behn-oroonoko.xml
-- behn-rover.xml
+- pope-lock.xml
 - wheatley-poems.xml
 - shelley-frankenstein.xml
 - finch-nightingale.xml
@@ -57,17 +57,19 @@ We need to rename all our files to the standard lastname-shorttitle.xml format. 
 What will our core TEI look like, for prose, poetry, drama? We’ve agreed on TEI level-4 for libraries, but there is still a lot of variation there. Some issues:
 
 ### Creation
-How we create or come by the TEI will have an important role to play . For instance, the xml files from 18th Connect use <ab> (anonymous blocks) for every line of the text. The American Verse Project out of UM looks different. Here are some samples:
+How we create or come by the TEI will have an important role to play . For instance, the xml files from 18th Connect use <ab> (anonymous blocks) for every line of the text. The American Verse Project out of UM looks different. So, too, do texts from the Text Creation Partnership/Oxford Text Archive (and texts very widely within those massive, linked projects). Here are some samples:
 
 + Finch Miscellany Poems (1713), via 18th Connect: https://drive.google.com/open?id=1fAwGp4b2kxadR2ghjoo1knvWobF2-BEP
 
 + Wheatley’s Poems on Several Occasions (1773), via AVP: 
 https://drive.google.com/open?id=1hjasZUmRem2SR_K_RaLW9JZwDgPNWiOV 
 
++ Behn, The Rover, from the Oxford Text Archive: http://ota.ox.ac.uk/desc/2006
+
 It would be nice (necessary?) to have a custom DTD, and make that available for project participants. I have generated one from Frankenstein and Finch’s poem “To the Nightingale,” but I don’t know if it is strictly valid. The TEI-lite schema doesn’t validate these files in Oxygen. Chris might know more about this!!
 
 ### TEI for annotations
-Tonya's files use both XML and a plugin called tooltipster that produces popups in eXist-- see http://nic.cerosia.org/finch-nightingale or finch-nightingale.xml on github. 
+Tonya's files use both XML and a plugin called tooltipster that produces popups in eXist-- see http://nic.cerosia.org/finch-nightingale or finch-nightingale.xml on github. John's files have been using a WordPress plug in, developed for his project, that allows you to import files in TEI into a WordPress page and have them display annotations. It's fairly rudimentary, though, with lots of refinement needed to be a viable long-term solution. 
 
 ### Problematic elements
 + person, persName, author
@@ -80,5 +82,8 @@ Standard TEI header should be in place now (8/1/18).
 How will we indicate the variety of sources from which this digital edition has been constructed? In most cases, there will be multiple witnesses/physical sources--a book, an 18th Connect text encountered via TypeWright, a Project Gutenberg plaintext, an XML or SGML file from another project, even a hard copy that was used for reading. Can we manipulate <sourcerDesc><imprint> element in the header? See above re: validity.
 
 ## Annotation content
-What should a baseline be? How much variation will we allow? Complete sentences, attributive phrases, reputable sources both popular-scholarly and scholarly? Accessibility? Citation and quotation? Linking within the annotations? 
+What should a baseline be? How much variation will we allow? Complete sentences, attributive phrases, reputable sources both popular-scholarly and scholarly? Accessibility? Citation and quotation? Linking within the annotations?
+
+## Levels of Annotation
+Some annotations can be simple and brief (short definitions of words no longer in use, or identifying usage that is no longer current). Others would benefit from longer, perhaps media-rich (photographs, paintings, sound files) annotation. At still other points, an extended "annotation" equivalent to side bars in print textbooks might be desirable/helpful (Franklin's Autobiography with an account of eighteenth-century printing conventions and technology, or the status of the post office, etc.) 
 
