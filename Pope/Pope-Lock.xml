@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-   Extent
-   Taxonomy
--->
+
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
@@ -36,16 +33,7 @@
          
          <publicationStmt>
             <publisher>Literature in Context</publisher>            
-            <distributor>
-               <name>Open Anthology of Literature</name>
-               <address>
-                  <addrLine>University of Virginia Department of English</addrLine>
-                  <addrLine>P. O. Box 400121</addrLine>
-                  <addrLine>Charlottesville, VA </addrLine>
-                  <addrLine>22901</addrLine>
-               </address>
-               <email>jobrien@virginia.edu</email>
-            </distributor>
+            
             <authority xml:id="burlo1"> 
                <idno>pope-rape</idno>
                <name type="person">Deposited by Burnard, Lou</name>
@@ -63,7 +51,7 @@
          
          <sourceDesc>
             <bibl>
-               Originally produced by Oxford University Computing Services (13 Banbury Road, Oxford), revised and annotated for the Open Anthology of Literature at the University of Virginia.
+               Originally produced by Oxford University Computing Services (13 Banbury Road, Oxford), for the Oxford Text Archive, revised and annotated for Literature in Contexxt.
                <extent></extent>
             </bibl>
             <biblStruct>
