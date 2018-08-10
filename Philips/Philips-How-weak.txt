@@ -1,46 +1,154 @@
-<poem>	
-     <title>Death.</title>
-<author>Katherine Philips</author>
-<stanza>
-<1>How weak a Star<note type="gloss">our sun compared to others in the universe is considered weak, and yet if it explodes mankind dies.</note>doth rule Mankind,</1> 
-<1>Which owes its ruine to the same</1> 
-<1>Causes which Nature had design'd</1> 
-<1>To cherish and preserve the frame!</1>
-</stanza>
-<stanza>
-<1>As Commonwealths may be secure,<note type=“gloss”>We don’t fear outside violence but fear what is in our bodies. Such as mental illness, disease, or aging. And so our bodies turn traitorous</note></1> 
-<1>And no remote Invasion dread;</1>
-<1>Yet may a sadder fall endure</1> 
-<1>From Traitors in their bosom bred:</1>
-</stanza>
-<stanza>
-<1>So while we feel no violence,<note type="gloss">we are not privy to the knowledge of the world in that we can sense things for example a volcano erupting (of course we can now in 2016 but not back in Philips time)</note></1> 
-<1>And on our active Health do trust,</1> 
-<1>A secret hand<note type="gloss">death or time</note>doth snatch us hence,</1>
-<1>And tumbles us into the dust.<note type=“gloss”>biblical reference, we start as dust, and than return to dust.</note></1>
-</stanza>
-<stanza>
-<1>Yet carelesly<note type="gloss">as if we are untouchable by death</note>we run our race,</1> 
-<1>As if we could Death's summons wave;<note type="gloss">ignore dying/death.</note></1> 
-<1>And think not on the narrow space<note type="gloss">the narrow space is referring to life.</note></1> 
-<1>Between a Table and a Grave.<note type="gloss">A table in which you theoretically enter the world on, and a grave in which you exit the world in.</note></1>
-</stanza>
-<stanza>
-<1>But since we cannot Death reprieve,<note type="gloss">escape death</note></1> 
-<1>Our Souls and Fame we ought to mind,</1> 
-<1>For they our Bodies will survive;</1> 
-<1>That goes beyond, this stays behind.<note type="gloss>while our souls move on, our legacy of what we did will forever stay behind us on earth.</note></1>
-</stanza>
-<stanza>
-<1>If I be sure my Soul is safe,</1> 
-<1>And that my Actions will provide</1> 
-<1>My Tomb a nobler Epitaph,<note type="gloss">inscription or written tribute in memory of a person on a tombstone (Oxford English Dictionary)</note></1> 
-<1>Then that I onely liv'd and dy’d.<note type=“gloss”>Common graves stones are only marked with birthdate and death date underneath a name.  She is stating here that she wants more then just those simple things.</note></1>
-</stanza>
-<stanza>
-<1>So that in various accidents</1> 
-<1>I Conscience may and Honour keep;</1> 
-<1>I with that ease and innocence</1> 
-<1>Shall die, as Infants go to sleep<note type="gloss">die in sleep which is considered the most peaceful way to die.</note></1>
-</stanza>
-</poem>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Death</title>
+                
+                <author>
+                    <trait type="gender"><desc>Female</desc></trait>
+                    <forename>Katherine</forename>
+                    <surname>Philips</surname>
+                    <date when="1632-01-01">Birth: 1632 January 1</date>
+                    <date when="1664-06-22">Death: 1664 June 22</date>           
+                    <roleName>Poet</roleName>
+                    <affiliation>Married</affiliation>
+                    <country>Great Britain</country>
+                </author>
+                
+                <respStmt>
+                    <resp>Transcription, correction, editorial commentary, and markup</resp>
+                    <name>Staff and Research Assistants at The University of Virginia</name>
+                    <name>John O'Brien</name>
+                    <name>Sara Brunstetter</name>
+                </respStmt>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Literature in Context</publisher>
+                <distributor>
+                    <orgName>Literature in context</orgName>
+                    <address>
+                        <addrLine>University of Virginia Department of English</addrLine>
+                        <addrLine>P. O. Box 400121</addrLine>
+                        <addrLine>Charlottesville, VA </addrLine>
+                        <addrLine>22904-4121</addrLine>
+                    </address>
+                    <email>jobrien@virginia.edu</email>
+                </distributor>
+                <authority>
+                    <idno>Philips-Death</idno>
+                </authority>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Published by Literature in Context under a Creative Commons                             Attribution-ShareAlike 4.0 Unported License</licence>
+                    <p>While free, this text is still incomplete and requires standardization of its annotation scheme.</p>
+                </availability>
+                <date>2018</date>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>Write source here
+                    <extent></extent>
+                </bibl>
+                <biblStruct>
+                    <monogr>
+                        <author>
+                            <persName type="lastFirst" key="philipsKatherine">Katherine Philips</persName>
+                        </author>
+                        <title type="main">Death</title>
+                        
+                        <imprint>
+                            <pubPlace>
+                                <placeName type="country" key="eng">England</placeName>
+                            </pubPlace>
+                            <publisher>original publisher</publisher>
+                            <date when="1000-10-10">date published</date>
+                        </imprint>                    
+                    </monogr>
+                </biblStruct>    
+            </sourceDesc>        
+        </fileDesc>
+        
+        <encodingDesc>
+            <projectDesc> <p>
+                This text is prepared as part of the <hi>Literature in Context</hi> project, which provides an accessible, curated, edited, and marked-up selection of primary sources relevant to the study and the teaching of British and American literature of the 17th, 18th, and 19th centuries. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.</p>
+            </projectDesc>
+            <editorialDecl>
+                <interpretation><p>Research informing these annotations draws on publicly-accessible resources, with links provided where possible. Annotations have also included common knowledge, defined as information that can be found in multiple reliable sources. If you notice an error in these annotations, please contact lic.open.anthology@gmail.com.</p>
+                </interpretation>
+                <normalization><p>Original spelling and capitalization is retained, though the long s has been silently modernized and ligatured forms are not encoded.</p></normalization>
+                <hyphenation><p>Hyphenation has not been retained, except where necessary for the sense of the word.</p></hyphenation>
+                <segmentation><p>Page breaks have been retained. Catchwords, signatures, and running headers have not.</p></segmentation>
+                <correction><p>Materials have been transcribed from and checked against first editions, where possible. See the Sources section.</p></correction>
+            </editorialDecl>
+            <tagsDecl>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi="div">Unnumbered divs used.</tagUsage>
+                </namespace>
+            </tagsDecl>
+            <classDecl>
+                <taxonomy xml:id="ToBeDetermined">
+                    <bibl></bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    
+    
+    
+    
+  <text>
+      <body>
+          <div>
+              
+             <title>Death.</title>
+             <author>Katherine Philips</author>
+    <lg>
+        <1><ref target="a001" corresp="n001">How weak a Star</ref><note xml:id="n001" target="a001">our sun compared to others in the universe is considered weak, and yet if it explodes mankind dies.</note>doth rule Mankind,</1> 
+        <1>Which owes its ruine to the same</1> 
+        <1>Causes which Nature had design'd</1> 
+        <1>To cherish and preserve the frame!</1>
+    </lg>
+              
+    <lg>
+        <1><ref target="a002" corresp="n002">As Commonwealths may be secure</ref><note xml:id="a002" target="n002">We don’t fear outside violence but fear what is in our bodies. Such as mental illness, disease, or aging.</note>, And so our bodies turn traitorous</1> 
+            <1>And no remote Invasion dread;</1>
+            <1>Yet may a sadder fall endure</1> 
+            <1>From Traitors in their bosom bred:</1>
+    </lg>
+    <lg>
+        <1><ref target="a003" corresp="n003">So while we feel no violence,</ref><note xml:id="n003" target="a003">we are not privy to the knowledge of the world in that we can sense things for example a volcano erupting (of course we can now in 2016 but not back in Philips time)</note></1> 
+        <1>And on our active Health do trust,</1> 
+        <1><ref target="a004" corresp="n004">A secret hand</ref><note xml:id="n004" target="a004">death or time</note>doth snatch us hence,</1>
+        <1><ref target="a005" corresp="n005">And tumbles us into the dust</ref><note xml:id="n005" target="a005">biblical reference, we start as dust, and than return to dust.</note>.</1>
+    </lg>
+    <lg>
+        <1><ref target="a006" corresp="n006">Yet carelesly</ref><note xml:id="n006" target="a006">as if we are untouchable by death</note>we run our race,</1> 
+        <1><ref target="a007" corresp="n007">As if we could Death's summons wave</ref><note xml:id="n007" target="a007">ignore dying/death.</note>;</1> 
+        <1>And think not on <ref target="a008" corresp="n008">the narrow space</ref><note xml:id="n008" target="a008">the narrow space is referring to life.</note></1> 
+        <1><ref target="a009" corresp="n009">Between a Table and a Grave</ref><note xml:id="n009" target="a009">A table in which you theoretically enter the world on, and a grave in which you exit the world in.</note>.</1>
+    </lg>
+    <lg>
+        <1>But since we cannot <ref target="a010" corresp="n010">Death reprieve</ref><note xml:id="n010" target="a010">escape death</note>,</1> 
+        <1>Our Souls and Fame we ought to mind,</1> 
+        <1>For they our Bodies will survive;</1> 
+        <1>That goes beyond, this stays behind.<note xml:id="n" target="a">while our souls move on, our legacy of what we did will forever stay behind us on earth.</ref></1>
+    </lg>
+    <lg>
+        <1>If I be sure my Soul is safe,</1> 
+        <1>And that my Actions will provide</1> 
+        <1>My Tomb a nobler <ref target="a011" note="n011">Epitaph</ref><note xml:id="n011" target="a011">inscription or written tribute in memory of a person on a tombstone (Oxford English Dictionary)</note>,</1> 
+        <1>Then that <ref target="a012" corresp="n012">I onely liv'd and dy’d</ref><note xml:id="n012" target="a012">Common graves stones are only marked with birthdate and death date underneath a name.  She is stating here that she wants more then just those simple things.</note>.</1>
+    </lg>
+    <lg>
+        <1>So that in various accidents</1> 
+        <1>I Conscience may and Honour keep;</1> 
+        <1>I with that ease and innocence</1> 
+        <1>Shall die, as Infants go to sleep</1>
+    </lg>
+
+          </div>
+      </body>
+  </text>  
+</TEI>
