@@ -201,14 +201,14 @@
                                                                                     <l>By Vertiue joyn'd, and by our Choice retir'd.</l>
                                                                                     </lg>
                                                                                         
-                                                                                        <stanza>
+                                                                                        <lg>
                                                                                             <l>Whose Mirrours are the crystal Brooks,</l>
                                                                                             <l>Or else each others Heart and Looks;</l>
                                                                                             <l>Who cannot wish for other things</l>
                                                                                             <l>Then Privacy and Friendship brings:</l>
                                                                                             <l>Whose thoughts and persons chang'd and mixt are one,</l>
                                                                                             <l>Enjoy Content, or else the World hath none.</l>
-                                                                                            </stanza>
+                                                                                            </lg>
                 
             </div>
         </body>
