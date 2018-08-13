@@ -45,16 +45,16 @@
                     <idno>swift-aModest</idno> 
                 </authority>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">                           Published by Literature in Context under a Creative Commons                             Attribution-ShareAlike 4.0 Unported License 
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Published by Literature in Context under a Creative Commons Attribution-ShareAlike 4.0 Unported License 
                     </licence>
-                    <p>While free, this text is still incomplete and requires                                   standardization of its annotation scheme.
+                    <p>While free, this text is still incomplete and requires standardization of its annotation scheme.
                     </p>
                 </availability>           
                 <date>2018</date>
             </publicationStmt>    
             
             <sourceDesc>
-                <bibl>This edition has been prepared from the Project Gutenberg online e-text.
+                <bibl>This edition has been prepared from the Project Gutenberg online e-text. We have added annotations, and also restored the capitalization and italics present in the first edition, here sourced from the copy on the Eighteenth-Century Collection Online.
                     <extent></extent>
                 </bibl>
                 <biblStruct>
@@ -113,7 +113,14 @@
             <div>
                 <head>
                     A MODEST PROPOSAL <lb/> <lb/>
-                    For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick.
+                    For preventing the children of poor people in <hi
+                  rend="italic"><ref target="a001" corresp="n001">Ireland</ref></hi>
+               <note xml:id="n001" target="a001" type="gloss">In the late seventeenth and early eighteenth centuries Ireland was dominated by a minority of wealthy English absentee landowners who rarely if ever set foot in Ireland itself. Politically, the English government in London put strict restrictions on the majority Catholic population, denying them the right to vote, for example. Ireland was in a sense of colony of England, its resources exploited by the land-owning Protestant minority, and its economy underdeveloped, with much of its population left deeply impoverished.
+Further reading:
+https://en.wikipedia.org/wiki/Ireland%E2%80%93United_Kingdom_relations
+and
+                   http://www-personal.k-state.edu/~lyman/english320/sg-Swift-18thC.htm</note>
+                   from being a burden on their parents or country, and for making them beneficial to the publick.
                     <lb/> <lb/>
                     by Dr. Swift 
                     <lb/> <lb/>
@@ -121,7 +128,7 @@
                     <lb/> <lb/>
                 </head>
                 <p>
-                    It is a melancholly Object to those, who walk through this great Town, or travel in the Country, when they see the <hi rend="italic">Streets</hi>, the <hi rend="italic">Roads</hi> and <hi rend="italic">Cabbin-Doors</hi> crowded with <hi rend="italic">Beggars</hi> of the female Sex, followed by three, four, or six Children, <hi rend="italic">all in Rags</hi>, and importuning every Passenger for an Alms. These <hi rend="italic">Mothers</hi> instead of being able to work for their honest lively-hood, are forced to employ all their time in Stroling to beg Sustenance for their helpless infants who, as they grow up, either turn <hi rend="italic">Thieves</hi> for want of work, or leave their <hi rend="italic">dear native Country, to fight for the Pretender in Spain</hi>, or sell themselves to the <hi rend="italic">Barbadoes</hi>.
+                    It is a melancholly Object to those, who walk through this great Town, or travel in the Country, when they see the <hi rend="italic">Streets</hi>, the <hi rend="italic">Roads</hi> and <hi rend="italic">Cabbin-Doors</hi> crowded with <hi rend="italic">Beggars</hi> of the female Sex, followed by three, four, or six Children, <hi rend="italic">all in Rags</hi>, and <ref target="a002" corresp="n002">importuning</ref><note xml:id="n002" target="a002" type="gloss">begging (Oxford English Dictionary)</note> every Passenger for an <ref target="a003" corresp="n003">Alms</ref><note xml:id="n003" target="a003" type="gloss">Charitable givings such as food and money.(OED)</note> These <hi rend="italic">Mothers</hi> instead of being able to work for their honest lively-hood, are forced to employ all their time in <ref target="a004" corresp="n004">Stroling</ref><note xml:id="n004" target="a004" type="gloss">Streetwalking; soliticing customers for prostitution on the streets (slang).</note> to beg Sustenance for their helpless infants who, as they grow up, either turn <hi rend="italic">Thieves</hi> for want of work, or leave their <hi rend="italic">dear native Country, to fight for the <ref target="a005" corresp="n005">Pretender in Spain</hi></ref><note xml:id="n005" target="a005" type="gloss">The "Pretender" referred to here is James Frances Edward Stuart (1701-1766). His father was King James II who was deposed of in the Glorious Revolution. The Pretender, living in exile on the European continent, continued to claim that he was the rightful heir to the British throne after his father's death.</note>, or <note xml:id="n006" target="a006" type="gloss">sell themselves to the <hi rend="italic">Barbadoes</hi></ref><note xml:id="n006" target="a006" type="gloss">Sell themselves into servitude in Barbadoes, which was in fact widely resorted to by indigent people in the British Isles in this period</note>.
                     <lb/> <lb/>
                 </p>
                 <p>
