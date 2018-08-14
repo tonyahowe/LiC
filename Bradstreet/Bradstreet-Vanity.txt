@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Of the Vanity of All Wordly Creatures</title>
+                <title>Old Age</title>
                 
                 <author>
                     <trait type="gender"><desc>Female</desc></trait>
                     <forename>Anne</forename>
                     <surname>Bradstreet</surname>
-                    <date when="1612-03-20">Birth: 1612 March 20</date>
-                    <date when="1664-06-22">Death: 1672 September 16</date>           
+                    <date when="l6l2-03-f20">Birth: l6l2 March 20</date>
+                    <date when="l664-06-22">Death: l672 September l6</date>           
                     <roleName>Poet</roleName>
                     <affiliation>Married</affiliation>
                     <country>Great Britain</country>
@@ -21,7 +20,6 @@
                 <respStmt>
                     <resp>Transcription, correction, editorial commentary, and markup</resp>
                     <name>Staff and Research Assistants at The University of Virginia</name>
-                    <name>Tim Schott</name>
                     <name>John O'Brien</name>
                     <name>Sara Brunstetter</name>
                 </respStmt>
@@ -33,20 +31,20 @@
                     <orgName>Literature in context</orgName>
                     <address>
                         <addrLine>University of Virginia Department of English</addrLine>
-                        <addrLine>P. O. Box 400121</addrLine>
+                        <addrLine>P. O. Box 400l2l</addrLine>
                         <addrLine>Charlottesville, VA </addrLine>
-                        <addrLine>22904-4121</addrLine>
+                        <addrLine>22904-4l2l</addrLine>
                     </address>
                     <email>jobrien@virginia.edu</email>
                 </distributor>
                 <authority>
-                    <idno>Bradstreet-Of</idno>
+                    <idno>Bradstreet-Old</idno>
                 </authority>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Published by Literature in Context under a Creative Commons                             Attribution-ShareAlike 4.0 Unported License</licence>
                     <p>While free, this text is still incomplete and requires standardization of its annotation scheme.</p>
                 </availability>
-                <date>2018</date>
+                <date>20l8</date>
             </publicationStmt>
             
             <sourceDesc>
@@ -58,14 +56,14 @@
                         <author>
                             <persName type="lastFirst" key="bradstreetAnne">Anne Bradstreet`</persName>
                         </author>
-                        <title type="main">Of the Vanity of All Wordly Creatures</title>
+                        <title type="main">Old Age</title>
                         
                         <imprint>
                             <pubPlace>
                                 <placeName type="country" key="eng">England</placeName>
                             </pubPlace>
                             <publisher>original publisher</publisher>
-                            <date when="1000-10-10">date published</date>
+                            <date when="l000-l0-l0">date published</date>
                         </imprint>                    
                     </monogr>
                 </biblStruct>    
@@ -74,7 +72,7 @@
         
         <encodingDesc>
             <projectDesc> <p>
-                This text is prepared as part of the <hi>Literature in Context</hi> project, which provides an accessible, curated, edited, and marked-up selection of primary sources relevant to the study and the teaching of British and American literature of the 17th, 18th, and 19th centuries. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.</p>
+                This text is prepared as part of the <hi>Literature in Context</hi> project, which provides an accessible, curated, edited, and marked-up selection of primary sources relevant to the study and the teaching of British and American literature of the l7th, l8th, and l9th centuries. This project is funded by the National Endowment for the Humanities and developed by faculty at The University of Virginia and Marymount University.</p>
             </projectDesc>
             <editorialDecl>
                 <interpretation><p>Research informing these annotations draws on publicly-accessible resources, with links provided where possible. Annotations have also included common knowledge, defined as information that can be found in multiple reliable sources. If you notice an error in these annotations, please contact lic.open.anthology@gmail.com.</p>
@@ -85,7 +83,7 @@
                 <correction><p>Materials have been transcribed from and checked against first editions, where possible. See the Sources section.</p></correction>
             </editorialDecl>
             <tagsDecl>
-                <namespace name="http://www.tei-c.org/ns/1.0">
+                <namespace name="http://www.tei-c.org/ns/l.0">
                     <tagUsage gi="div">Unnumbered divs used.</tagUsage>
                 </namespace>
             </tagsDecl>
@@ -101,72 +99,120 @@
         <body>
             <div>
                 
-                <head>Of the Vanity of All Wordly Creatures</head>
+                <head><ref target="a00l" corresp="n00l">Old Age</ref><note xml:id="n00l" target="a00l"> The first section of the Tenth Muse includes four long poems known as the quaternions.These are the "Four Elements", "The Four Humors of Man", "The Four Ages of Man", and "The Four Seasons." Each poem consists of a series of orations with "Old Age" being the fourth portion of the poem "The Four Ages of Man" preceded by "Childhood", "Youth", and "Middle Age" respectively. Source:Poetry Foundation</note></head>
                 <author>Anne Bradstreet</author>
                 
+                
                 <lg>
-                    <l>As he said vanity, so vain say I</l>
-                    <l>O vanity, O vain all under skie,</l>
-                    <l>Where is the man can say, lo, I have found</l>
-                    <l>On brittle earth, a consolation sound?</l>
-                    <l>What is't in honour, to be set on high?</l>
-                    <l>No, they like beasts, and sonnes of men shall die,</l>
-                    <l>And whilst they live, how oft doth turn their State?</l>
-                    <l>He's now a slave, that was a Prince of late.</l>
-                    <l>What is't in wealth, great treasures for to gain?</l>
-                    <l>No, that's but labour anxious, care and pain.</l>
-                    <l>He heaps up riches, and he heaps us sorrow,</l>
-                    <l>Its his to day, but who's his heire to morrow?</l>
-                    <l>What then? content in pleasures canst thou find?</l>
-                    <l>More vain then all, that's but to grasp the wind</l>
-                    <l>The sensuall senses for a time they please,</l>
-                    <l>Mean while the conscience rage, who shall appease?</l>
-                    <l>What is't in beauty? no, that's but a snare,</l>
-                    <l>They'r foul enough to day, that once was fair,</l>
-                    <l>What, Is't in flowring youth, or manly age?</l>
-                    <l>The first is prone to vice, the last to rage.</l>
-                    <l>Where is it then? in wisdome, learning, arts?</l>
-                    <l>Sure if on earth, it must be in those parts;</l>
-                    <l>Yet these, the wisest man of men did find,</l>
-                    <l>But vanity, vexation of the mind,</l>
-                    <l>And he that knows the most doth still bemoan,</l>
-                    <l>He knows not all, there there is to be known,</l>
-                    <l>What is it then? to do as Stoicks tell,</l>
-                    <l>Nor laugh, nor weep, let things go ill or well:</l>
-                    <l>Such stoicks are but stocks, such teaching vain:</l>
-                    <l>While man is man, he shall have ease or pain.</l>
-                    <l>If not in honour, beauty, age, nor treasure,</l>
-                    <l>Nor yet in learning, wisdome, youth nor pleasure,</l>
-                    <l>Where shall I cimbe, sound, seek, search or find,</l>
-                    <l>That <ref target="a001" corresp="n001"><hi type="italics">summum Bonum</hi></ref><note xml:id="n001" target="a001">This phrase, coined by Cicero, 
-                        means "the highest good." It evidences the broad 
-                        extent of Bradstreet's classical
-                        knowledge. Source: Oxford English Dictionary</note>which may stay my mind?</l>
-                    <l>There is a path, no vultures eye hath seen.</l>
-                    <l>Where lions fierce, nor lions whelps hath been,</l>
-                    <l>Which leads unto that living Christall fount,</l>
-                    <l>Who drinks thereof, the world doth naught account.</l>
-                    <l>The depth, and sea, hath said its not in me,</l>    
-                    <l>With pearl and gold it shall not valued be:</l>
-                    <l>For <hi type="italics">Saphyre</hi>, <hi type="italics">Onix</hi>,<hi type="italics">Topas</hi>,
-                        who will change,</l>    
-                    <l>Its hid fro meyes of men, they count it strange,</l>
-                    <l>Death and destruction, the fame hath heard,</l>    
-                    <l>But where, and what it is, from heaven's declar'd</l>
-                    <l>It brings to honour, which shall not decay,</l>
-                    <l>It steeres with wealth, which time cann't wear away.</l>
-                    <l>It yeeldeth pleasures, farre beyond conceit,</l>
-                    <l>And truly beautifies without deceit.</l>
-                    <l>Nor strength nor widsome, nor fresh youth shall fade,</l>
-                    <l>Nor death shall see, but are immortal made,</l>
-                    <l>This pearl of price, this tree of life, this spring,</l>
-                    <l>Who is possessed of, shall reign a King,</l>
-                    <l>Nor change of state, nor cares shall ever see,</l>
-                    <l>But wear his Crown unto eternitie</l>
-                    <l>This satiates the soul, this stayes the mind,</l>
-                    <l>The rest's but vanity, and vain we find.</l>
+                    <l>What you have been, ev'n such have I before,</l>
+                    <l>And all you say, say I, and something more;</l>
+                    <l>Babes innocence, Youths wildness I have seen,</l>
+                    <l>And in perplexed Middle-age have bin,</l>
+                    <l>Sicknesse, dangers, and anxieties have past,</l>
+                    <l>And on this Stage am come to act my last.</l>
+                    <l>I have bin young, and strong, ad wise as you,</l>
+                    <l>But now, <ref target="a00l" corresp="n00l"><hi type="italics">Bis pueri senes</hi></ref><note xml:id="n00l" target="a00l"> Latin phrase meaning "old men are twice boys." Source: Encyclopedia Co. UK</note>, is too true;</l>
+                    <l>In every Age i've found much vanitie,</l>
+                    <l>An end of all perfection now I see.</l>
+                    <l>It's not my valour, honour, nor my gold,</l>
+                    <l>My ruin'd house, now fallin can uphold;</l>
+                    <l>It's not my Learning, Rhetorick, wit so large,</l>
+                    <l>Now hath the power, Deaths Warfare, to discharge;</l>
+                    <l>It's not my goodly house, nor bed of down,</l>
+                    <l>That can refresh, or ease, if Conscience frown;</l>
+                    <l>Nor from alliance now can I have hope,</l>
+                    <l>But what I have done wel, that is my prop;</l>
+                    <l>He that in youth is godly, wise, and sage,</l>
+                    <l>Provides a staffe for to support his age.</l>
+                    <l>Great mutations, some joyful, and some sad,</l>
+                    <l>In this short <ref target="a002" corresp="n002">Pilgrimage</ref><note xml:id="n002" target="a002">Althogh Bradsteet is probably using Pilgramage as a metaphor to mean the narrator's life time, it could also be possible that she is referring to her move from England to the New England Colonies to support the Puritan cause. The ship by which she travelled docked at Salem, Massachusetts on July 22, l630. Source: Poetry Foundation</note> I oft have had;</l>
+                    <l>Sometimes the Heavens with plenty smil'd on me,</l>
+                    <l>Sometimes again, rain'd al adversity;</l>
+                    <l>Sometimes in honour, sometimes in disgrace,</l>
+                    <l>Sometimes an abject, then again in place,</l>
+                    <l>Such private changes oft mine eyes have seen</l>
+                    <l>In various times of state i've also been.</l>
+                    <l>I've seen a Kingdom flourish like a tree,</l>
+                    <l>When it was rul'd by that Celestial <ref target="a002" corresp="n002">she</ref><note xml:id="n002" target="a002">Queen Elizabeth</note>;</l>
+                    <l>And like a Cedar, others so surmount,</l>
+                    <l>That but for shrubs they did themselves account;</l>
+                    <l>Then saw I <hi type="italics">France</hi>, and <hi type="italics">Holland</hi> sav'd, <hi type="italics">Cales</hi> won,</l>
+                    <l>And <hi type="italics">Philip</hi>, and <hi type="italics">Albertus</hi>, <ref target="a003" corresp="n003">half undone</ref><note xml:id="n003" target="a003">Most likely it is refrencing the destruction of the Spanish Armada in l588 during which Phillip II was the ruler of Sain. He organized a huge naval expedition against Protestand England in l588 which turned out unsuccessful and gave England a great advantage. The Spanish Armada anchored before Calais, a port city in Northern France. The vast success of Queen Eizabeth may perhaps be said to have "undone" Philip and Albertus, who was made Governer of Nertherlands by Phillip II of Spain. Source: Google Books, The Works of Anne Bradstreet in Prose and Verse; Wikipedia</note>;</l>
+                    <l>I saw all peace at home, terror to foes,</l>
+                    <l>But ah, I saw at last those eyes to close:</l>
+                    <l>And then, me thought, the world at noon grew dark,</l>
+                    <l>When it had lost that radiant Sun-like spark,</l>
+                    <l>In midst of greifs, I saw some hopes revive,</l>
+                    <l>(For 'twas our hopes then kept our hearts alive)</l>
+                    <l>I saw hopes dasht, our fwwardnesse was shent,</l>
+                    <l>And silenc'd we, by Act of Parliament.</l>
+                    <l>I've seen from <hi type="italics">Rome</hi>, an excerable thing,</l>
+                    <l><ref target="a004" corresp="n004">A plot to blow up Nobles, and their King</ref><note xml:id="n004" target="a004">Gunpowder Plot also known as the Gunpowder Treason Plot or the Jesuit Treason which was a failed assassination attempt against King James I of England by a group of English Catholics led by Robert Catesby. The plan was to blow up the house lord during the State Opening of England's Parliament on November 5, l605. Source: Wikipedia</note>;</l>
+                    <l>I've seen designes at <ref target="a005" corresp="n005"><hi type="italics">Ree</hi></ref><note xml:id="n005" target="a005">Sent by King Charles I, George Villiers was the lst Duke of Buckingham and the  leader of the fleet that made and unsucessful attempt to take the Isle de Rhe in front of La Rochelle in l627. Source: Wikipedia</note>, and <ref target="a006" corresp="n006"><hi type="italics">Cades</hi></ref><note xml:id="n006" target="a006">Refers to the failure of a naval expedition under the command of Sir Edward Cecil, an English military commander who sailed in l625 to capture some Spanish treasure ships in the Bay of Cadiz. Source: Google Books, The Works of Anne Bradstreet in Prose and Verse</note>crost,</l>
+                    <l>And poor Palatinate (italics) for ever lost.</l> 
+                    <l><ref target="a007" corresp="n007">I've seen a Prince, to live on onthers lands</ref><note xml:id="n007" target="a007"> The elector of Palatinate, Frederick V, spent the rest of his life in exile Source: Wikipedia</note>,</l>
+                    <l>A Royal one, by almes from Subjects hands,</l>
+                    <l>I've seen base men, advanc'd to great degree,</l>
+                    <l>And worthy ones, put to extremity:</l>
+                    <l>But not their Princes love, nor state so high;</l>
+                    <l>could once reverse, their shameful destiny.</l>
+                    <l>I've seen one stab'd, <ref target="a008" corresp="n008">another loose his head</ref><note xml:id="n008" target="a008"> King Charles I who was beheaded after 59 commissioners signed his death warrant after his trial on January l649 proceeding the English Civil War. Source: Wikipedia</note>;</l>
+                    <l>And others sly their Country, through their dread.</l> 
+                    <l>It've seen, and so have ye, for 'tis but late,</l>
+                    <l>The desolation, of a goodly State.</l>
+                    <l>Plotted and acted, so that none can tell,</l>
+                    <l>Who gave the counsel, but the Prince of hell.</l>
+                    <l>I've seen a land unmoulded with great paine.</l>
+                    <l>But yet may live, to see'd made up again:</l>
+                    <l><ref target="a009" corresp="n009">I've seen it shaken, rent, and soak'd in blood</ref><note xml:id="n009" corresp="a009">The Irish Rebellion of l64l which began as an attempted coup d'etat by Irish Catholic gentry who tried to seize control of the English administration in Ireland to force concessions of Catholics.The rebellion broke out October l64l and was followed by several months of violent chaos. Source: Wikipedia</note>,</l>
+                    <l>But out of troubles, ye may see much good,</l>
+                    <l>These are no old weives tales, but this is truth;</l>
+                    <l>We old men love to tell, what's done in youth.</l>
+                    <l>But I returne, from whence I stept awry,</l>
+                    <l>My memory is shott, and braine is dry.</l>
+                    <l>My Almond-tree (gray haires) doth flourish now,</l>
+                    <l>And back, once straight, begins apace to bow.</l>
+                    <l>My grinders now are few, my sight doth faile</l>
+                    <l>My skin is wrinkled, and my cheeks are pale.</l>
+                    <l>No more rejoyce, at musickes pleasant noyce,</l>
+                    <l>But do awake, at the cocks clanging voyce.</l>
+                    <l>I cannot scent, savours of pleasant meat,</l>
+                    <l>Nor sapors find, in what I drink or eat.</l>
+                    <l>My hands and armes, once strong, have lost their might,</l>
+                    <l>I cannot labour, nor I cannot fight:</l>
+                    <l>My comely legs, as nimble as the <ref target="a0l0" corresp="n0l0">Roe</ref><note xml:id="n0l0" target="a0l0">l Chronicles l2:8, KJV</note> ,</l>
+                    <l>Now stiffe and numb, can hardly creep or go.</l>
+                    <l>My heart sometimes as fierce, as Lion hold,</l>
+                    <l>Now trembling, and fearful, sad, and cold;</l>
+                    <l>My golden Bowl, and silver Cord, e're long,</l>
+                    <l>Shal both be broke, by wracking death so strong;</l>
+                    <l>I then shal go, whence I shal come no more,</l>
+                    <l>Sons, Nephews, leave, my death for to deplore;</l>
+                    <l>In pleasures, and in labours, I have found.</l>
+                    <l>That earth can give no consolation found.</l>
+                    <l>To grease, to rich, to poore, to young, or old,</l>
+                    <l>To mean, to noble, fearful, or to bold:</l>
+                    <l>From King to begger, all degrees shal finde</l>
+                    <l>But vanity, vexation of the minde;</l>
+                    <l>Yea knowing much, the pleasant'st life of all,</l>
+                    <l>Hath yet amongst that sweet some bitter gall.</l>
+                    <l>Though reading others Works, doth much refresh,</l>
+                    <l>Yet studying much, brings wearinesse to th' flesh:</l>
+                    <l>My studies, labours, readings, all are done,</l>
+                    <l>And my last period now e'n almost run;</l>
+                    <l>Corruption, my Father, I do call,</l>
+                    <l>Mother, and sisters both; the worms, that crawl,</l>
+                    <l>In my dark house, such kindred I have store,</l>
+                    <l>There, I shal rest, til heavens shal be no more;</l>
+                    <l>And when this flesh that rot, and be consum'd,</l>
+                    <l>This body, by this soul, shal be assum'd;</l>
+                    <l>And I shal see, with these same very eyes,</l>
+                    <l>My strong Redeemer, comming in the skies;</l>
+                    <l>Triumph I shal, o're Sin, o're Death, o're Hel,</l>
+                    <l>And in that hope, I bid you all farewel.</l>
+                    </lg>
                     
-                </lg>
+
                 
             </div>
         </body>
