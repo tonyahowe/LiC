@@ -105,62 +105,62 @@
                 
                 
                 <lg type="Stanza">
-               <1>At <ref target="a001" corresp="n001">Obsequies</ref><note xml:id="n001" target="a001">A funeral or burial rite. (Merriam Webster Dictionary)</note> where so much grief is due,</1>
-                <1><ref target="a002" corresp="n002">The Muses</ref><note xml:id="n002" target="a002">The nine daughters of Zeus who symbolized the arts and sciences as a source of inspiration. (Encyclopedia Britannica)</note> are in solemn mourning too,</1>
-                <1>And by their dead astonishment confess,</1>
-                <1>They can lament this loss, though not express:</1>
-                <1>Nay if those ancient <ref target="a003" corresp="n003">Bards</ref><note xml:id="n003" target="a003">A poet, traditionally one reciting epics and associated with a a particular oral tradition.(Merriam Webster Dictionary)</note> had seen this Herse,</1>
-                <1>Who once in <hi type="italics">British</hi> shades spoke living Verse,</1>
-                <1>Their high concern for him had made them be, </1>
-                <1>Apter to weep, then write his Elogy:</1>
-                <1>When on our land that <ref target="a004" corresp="n004">flood of woes</ref><note xml:id="n004" target="a004"> The English Civil War (1642-1651).(Encyclopedia Britannica)</note> was sent, </1>
-                <1>Which swallowed all things sacred as it went,</1>
-                <1>The injur'd Arts and Vertues, made his breast </1>
-                <1>The Ark wherein they did securely rest:</1>
-                <1>For as that old one was toss'd up and down,</1>
-                <1>And yet the angry billows could not drown;</1>
-                <1>So Heav'n did him in this worse deluge save,</1>
-                <1>And made him triumph o're th' unquiet wave:</1>
-                <1>Who while he did with that wild storm contest,</1>
-                <1>Such real magnanimity express'd;</1>
-                <1>That he dar'd to be loyal in a time </1>
-                <1>When 'twas a danger made, and though a crime:</1>
-                <1>Duty, and not ambition, was his aim,</1>
-                <1>Who study'd Conscience ever more than Fame,</1>
-                <1>And thought it so desirable a thing,</1>
-                <1>To be prefer'd to suffer for his <ref target="a005" corresp="n005">King</ref><note xml:id="n005" target="a005"> King Charles I who was publicly executed in 1649. (Encyclopedia Britannica)</note>, </1>
-                <1>That he all Fortunes spight had pardon'd her,</1>
-                <1>Had she not made his Prince a sufferer;</1>
-                <1>For whose lov'd cause he did both act and grieve,</1>
-                <1>And for it only did endure to live,</1>
-                <1>To teach the world what man can be and do,</1>
-                <1><ref target="a006" correspp="n006">Arm'd by Allegiance and Religion</ref><note xml:id="n006" target="a006">Sir Walter Lloid Knight was a royalist to the Stuart line.</note> too.</1>
-                <1>His head and heart mutual assistance gave,</1>
-                <1>That being still so wise, and this so brave,</1>
-                <1>That 'twas acknowledg'd all he said and did,</1>
-                <1>From judgement, and and from honor did proceed:</1>
-                <1>Such was the useful mixture of his mind,</1>
-                <1>'Twas at once meek and and knowing, stout and kind;</1>
-                <1>For he was civil, bountiful, and learn'd,</1>
-                <1>And for his Friends so generously concern'd,</1>
-                <1>That both his heart and house, his his hand and tongue,</1>
-                <1>To them, more than himself, seem'd to belong;</1>
-                <1>As if to his wrong'd party he would be</1>
-                <1>Both an Example and Apology:</1>
-                <1>For when both Swords and Pens ceas'd the dispute,</1>
-                <1>His life alone Rebellion and confute.</1>
-                <1>But when his Vows <ref target="a007" corresp="n007">propitious</ref><note xml:id="n007" target="a007">Giving or indicating a good chance of success; favorable.(Merriam Webster Dictionary)</note> Heaven had heard,</1>
-                <1>And our unequal'd King at length appear'd,</1>
-                <1>As aged <ref target="a008" corresp="n008"><hi type="italics">Simeon</hi></ref><note xml:id="n008" target="a008">Simeon of the New Testament in Luke(2:25-26) was a prophet whom the Holy Spirit appeared to with a promise that he would not die until he had seen Jesus Christ.(The Orthodox Church of America Online)</note> did his spirits yield,</1>
-                <1>When he had seen his dearest hopes fulfil'd,</1>
-                <1>He gladly saw the morning of that day,</1>
-                <1>Which <ref target="a009" corresp="n009">Charles</ref><note xml:id="n009" target="a009">King Charles II was Coronated in 1661 after the death of Oliver Cromwell.(Encyclopedia Britannica)</note> his growing spledour did display;</1>
-                <1>Then to Eternal joies made greater haste,</1>
-                <1>Because his present ones flow'd in so fast;</1>
-                <1>From which he fled out of pious fear,</1>
-                <1>Lest he by them should be rewarded here;</1>
-                <1>While his sad Country by his death have lost</1>
-                <1>Their noblest Pattern and their greatest boast.</1>
+               <l>At <ref target="a001" corresp="n001">Obsequies</ref><note xml:id="n001" target="a001">A funeral or burial rite. (Merriam Webster Dictionary)</note> where so much grief is due,</l>
+                <l><ref target="a002" corresp="n002">The Muses</ref><note xml:id="n002" target="a002">The nine daughters of Zeus who symbolized the arts and sciences as a source of inspiration. (Encyclopedia Britannica)</note> are in solemn mourning too,</l>
+                <l>And by their dead astonishment confess,</l>
+                <l>They can lament this loss, though not express:</l>
+                <l>Nay if those ancient <ref target="a003" corresp="n003">Bards</ref><note xml:id="n003" target="a003">A poet, traditionally one reciting epics and associated with a a particular oral tradition.(Merriam Webster Dictionary)</note> had seen this Herse,</l>
+                <l>Who once in <hi type="italics">British</hi> shades spoke living Verse,</l>
+                <l>Their high concern for him had made them be, </l>
+                <l>Apter to weep, then write his Elogy:</l>
+                <l>When on our land that <ref target="a004" corresp="n004">flood of woes</ref><note xml:id="n004" target="a004"> The English Civil War (1642-1651).(Encyclopedia Britannica)</note> was sent, </l>
+                <l>Which swallowed all things sacred as it went,</l>
+                <l>The injur'd Arts and Vertues, made his breast </l>
+                <l>The Ark wherein they did securely rest:</l>
+                <l>For as that old one was toss'd up and down,</l>
+                <l>And yet the angry billows could not drown;</l>
+                <l>So Heav'n did him in this worse deluge save,</l>
+                <l>And made him triumph o're th' unquiet wave:</l>
+                <l>Who while he did with that wild storm contest,</l>
+                <l>Such real magnanimity express'd;</l>
+                <l>That he dar'd to be loyal in a time </l>
+                <l>When 'twas a danger made, and though a crime:</l>
+                <l>Duty, and not ambition, was his aim,</l>
+                <l>Who study'd Conscience ever more than Fame,</l>
+                <l>And thought it so desirable a thing,</l>
+                <l>To be prefer'd to suffer for his <ref target="a005" corresp="n005">King</ref><note xml:id="n005" target="a005"> King Charles I who was publicly executed in 1649. (Encyclopedia Britannica)</note>, </l>
+                <l>That he all Fortunes spight had pardon'd her,</l>
+                <l>Had she not made his Prince a sufferer;</l>
+                <l>For whose lov'd cause he did both act and grieve,</l>
+                <l>And for it only did endure to live,</l>
+                <l>To teach the world what man can be and do,</l>
+                <l><ref target="a006" correspp="n006">Arm'd by Allegiance and Religion</ref><note xml:id="n006" target="a006">Sir Walter Lloid Knight was a royalist to the Stuart line.</note> too.</l>
+                <l>His head and heart mutual assistance gave,</l>
+                <l>That being still so wise, and this so brave,</l>
+                <l>That 'twas acknowledg'd all he said and did,</l>
+                <l>From judgement, and and from honor did proceed:</l>
+                <l>Such was the useful mixture of his mind,</l>
+                <l>'Twas at once meek and and knowing, stout and kind;</l>
+                <l>For he was civil, bountiful, and learn'd,</l>
+                <l>And for his Friends so generously concern'd,</l>
+                <l>That both his heart and house, his his hand and tongue,</l>
+                <l>To them, more than himself, seem'd to belong;</l>
+                <l>As if to his wrong'd party he would be</l>
+                <l>Both an Example and Apology:</l>
+                <l>For when both Swords and Pens ceas'd the dispute,</l>
+                <l>His life alone Rebellion and confute.</l>
+                <l>But when his Vows <ref target="a007" corresp="n007">propitious</ref><note xml:id="n007" target="a007">Giving or indicating a good chance of success; favorable.(Merriam Webster Dictionary)</note> Heaven had heard,</l>
+                <l>And our unequal'd King at length appear'd,</l>
+                <l>As aged <ref target="a008" corresp="n008"><hi type="italics">Simeon</hi></ref><note xml:id="n008" target="a008">Simeon of the New Testament in Luke(2:25-26) was a prophet whom the Holy Spirit appeared to with a promise that he would not die until he had seen Jesus Christ.(The Orthodox Church of America Online)</note> did his spirits yield,</l>
+                <l>When he had seen his dearest hopes fulfil'd,</l>
+                <l>He gladly saw the morning of that day,</l>
+                <l>Which <ref target="a009" corresp="n009">Charles</ref><note xml:id="n009" target="a009">King Charles II was Coronated in 1661 after the death of Oliver Cromwell.(Encyclopedia Britannica)</note> his growing spledour did display;</l>
+                <l>Then to Eternal joies made greater haste,</l>
+                <l>Because his present ones flow'd in so fast;</l>
+                <l>From which he fled out of pious fear,</l>
+                <l>Lest he by them should be rewarded here;</l>
+                <l>While his sad Country by his death have lost</l>
+                <l>Their noblest Pattern and their greatest boast.</l>
                 </lg>
             </div>
         </body>
