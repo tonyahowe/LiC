@@ -104,48 +104,48 @@
               
              <title>Death.</title>
              <author>Katherine Philips</author>
-    <lg>
-        <1><ref target="a001" corresp="n001">How weak a Star</ref><note xml:id="n001" target="a001">our sun compared to others in the universe is considered weak, and yet if it explodes mankind dies.</note>doth rule Mankind,</1> 
-        <1>Which owes its ruine to the same</1> 
-        <1>Causes which Nature had design'd</1> 
-        <1>To cherish and preserve the frame!</1>
+    <lg type="Stanza">
+        <l><ref target="a001" corresp="n001">How weak a Star</ref><note xml:id="n001" target="a001">our sun compared to others in the universe is considered weak, and yet if it explodes mankind dies.</note>doth rule Mankind,</l> 
+        <l>Which owes its ruine to the same</l> 
+        <l>Causes which Nature had design'd</l> 
+        <l>To cherish and preserve the frame!</l>
     </lg>
               
     <lg>
-        <1><ref target="a002" corresp="n002">As Commonwealths may be secure</ref><note xml:id="a002" target="n002">We don’t fear outside violence but fear what is in our bodies. Such as mental illness, disease, or aging.</note>, And so our bodies turn traitorous</1> 
-            <1>And no remote Invasion dread;</1>
-            <1>Yet may a sadder fall endure</1> 
-            <1>From Traitors in their bosom bred:</1>
+        <l><ref target="a002" corresp="n002">As Commonwealths may be secure</ref><note xml:id="a002" target="n002">We don’t fear outside violence but fear what is in our bodies. Such as mental illness, disease, or aging.</note>, And so our bodies turn traitorous</l> 
+            <l>And no remote Invasion dread;</l>
+            <l>Yet may a sadder fall endure</l> 
+            <l>From Traitors in their bosom bred:</l>
     </lg>
     <lg>
-        <1><ref target="a003" corresp="n003">So while we feel no violence,</ref><note xml:id="n003" target="a003">we are not privy to the knowledge of the world in that we can sense things for example a volcano erupting (of course we can now in 2016 but not back in Philips time)</note></1> 
-        <1>And on our active Health do trust,</1> 
-        <1><ref target="a004" corresp="n004">A secret hand</ref><note xml:id="n004" target="a004">death or time</note>doth snatch us hence,</1>
-        <1><ref target="a005" corresp="n005">And tumbles us into the dust</ref><note xml:id="n005" target="a005">biblical reference, we start as dust, and than return to dust.</note>.</1>
+        <l><ref target="a003" corresp="n003">So while we feel no violence,</ref><note xml:id="n003" target="a003">we are not privy to the knowledge of the world in that we can sense things for example a volcano erupting (of course we can now in 2016 but not back in Philips time)</note></l> 
+        <l>And on our active Health do trust,</l> 
+        <l><ref target="a004" corresp="n004">A secret hand</ref><note xml:id="n004" target="a004">death or time</note>doth snatch us hence,</l>
+        <l><ref target="a005" corresp="n005">And tumbles us into the dust</ref><note xml:id="n005" target="a005">biblical reference, we start as dust, and than return to dust.</note>.</l>
     </lg>
     <lg>
-        <1><ref target="a006" corresp="n006">Yet carelesly</ref><note xml:id="n006" target="a006">as if we are untouchable by death</note>we run our race,</1> 
-        <1><ref target="a007" corresp="n007">As if we could Death's summons wave</ref><note xml:id="n007" target="a007">ignore dying/death.</note>;</1> 
-        <1>And think not on <ref target="a008" corresp="n008">the narrow space</ref><note xml:id="n008" target="a008">the narrow space is referring to life.</note></1> 
-        <1><ref target="a009" corresp="n009">Between a Table and a Grave</ref><note xml:id="n009" target="a009">A table in which you theoretically enter the world on, and a grave in which you exit the world in.</note>.</1>
+        <l><ref target="a006" corresp="n006">Yet carelesly</ref><note xml:id="n006" target="a006">as if we are untouchable by death</note>we run our race,</l> 
+        <l><ref target="a007" corresp="n007">As if we could Death's summons wave</ref><note xml:id="n007" target="a007">ignore dying/death.</note>;</l> 
+        <l>And think not on <ref target="a008" corresp="n008">the narrow space</ref><note xml:id="n008" target="a008">the narrow space is referring to life.</note></l> 
+        <l><ref target="a009" corresp="n009">Between a Table and a Grave</ref><note xml:id="n009" target="a009">A table in which you theoretically enter the world on, and a grave in which you exit the world in.</note>.</l>
     </lg>
     <lg>
-        <1>But since we cannot <ref target="a010" corresp="n010">Death reprieve</ref><note xml:id="n010" target="a010">escape death</note>,</1> 
-        <1>Our Souls and Fame we ought to mind,</1> 
-        <1>For they our Bodies will survive;</1> 
-        <1>That goes beyond, this stays behind.<note xml:id="n" target="a">while our souls move on, our legacy of what we did will forever stay behind us on earth.</ref></1>
+        <l>But since we cannot <ref target="a010" corresp="n010">Death reprieve</ref><note xml:id="n010" target="a010">escape death</note>,</l> 
+        <l>Our Souls and Fame we ought to mind,</l> 
+        <l>For they our Bodies will survive;</l> 
+        <l>That goes beyond, this stays behind.<ref target="a0001" corresp="n0001"></ref><note xml:id="n0001" target="a0001">while our souls move on, our legacy of what we did will forever stay behind us on earth.</note></l>
     </lg>
     <lg>
-        <1>If I be sure my Soul is safe,</1> 
-        <1>And that my Actions will provide</1> 
-        <1>My Tomb a nobler <ref target="a011" note="n011">Epitaph</ref><note xml:id="n011" target="a011">inscription or written tribute in memory of a person on a tombstone (Oxford English Dictionary)</note>,</1> 
-        <1>Then that <ref target="a012" corresp="n012">I onely liv'd and dy’d</ref><note xml:id="n012" target="a012">Common graves stones are only marked with birthdate and death date underneath a name.  She is stating here that she wants more then just those simple things.</note>.</1>
+        <l>If I be sure my Soul is safe,</l> 
+        <l>And that my Actions will provide</l> 
+        <l>My Tomb a nobler <ref target="a011" note="n011">Epitaph</ref><note xml:id="n011" target="a011">inscription or written tribute in memory of a person on a tombstone (Oxford English Dictionary)</note>,</l> 
+        <l>Then that <ref target="a012" corresp="n012">I onely liv'd and dy’d</ref><note xml:id="n012" target="a012">Common graves stones are only marked with birthdate and death date underneath a name.  She is stating here that she wants more then just those simple things.</note>.</l>
     </lg>
     <lg>
-        <1>So that in various accidents</1> 
-        <1>I Conscience may and Honour keep;</1> 
-        <1>I with that ease and innocence</1> 
-        <1>Shall die, as Infants go to sleep</1>
+        <l>So that in various accidents</l> 
+        <l>I Conscience may and Honour keep;</l> 
+        <l>I with that ease and innocence</l> 
+        <l>Shall die, as Infants go to sleep</l>
     </lg>
 
           </div>
