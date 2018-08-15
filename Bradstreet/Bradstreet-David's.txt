@@ -118,8 +118,8 @@
                     <l>Nor any pleasant thing e're may you show;</l>
                     <l>For the mighty ones did soone decay,</l>
                     <l>The Shield of Saul was vilely cast away;</l>
-                    <l>There had his dignity so sore a <ref target="a006" corresp="n006">foyle</ref><note xml:id="n006" target="a006"> A repulse, defeat in an onset or enterprise; a baffling check. Source: Oxford English Dictionary </note>,</l>
-                    <l>As if his head ne're felt <ref target="a007" corresp="n007">the sacred Oyle</ref><note xml:id="n007" target="a007"> "Then Samuel took the flask of oil, poured it on his [Saul's] head, kissed him and said, 'Has not the LORED anointed you ruler over his inheritance?'" Source: 1 Sam. 10:1</note>:</l>	
+                    <l>There had his dignity so sore a <ref target="a006" corresp="n006">foyle</ref><note xml:id="n006" target="a006">A repulse, defeat in an onset or enterprise; a baffling check. Source: Oxford English Dictionary </note>,</l>
+                    <l>As if his head ne're felt <ref target="a007" corresp="n007">the sacred Oyle</ref><note xml:id="n007" target="a007">"Then Samuel took the flask of oil, poured it on his [Saul's] head, kissed him and said, 'Has not the LORED anointed you ruler over his inheritance?'" Source: 1 Sam. 10:1</note>:</l>	
                     <l>Sometimes from crimson, blood of gastly slaine,</l>
                     <l>The bow of <ref target="a008" corresp="n008">Jonathon</ref><note xml:id="n008" target="a008">Jonathan was the son of Saul and a close friend of David, who made a loyalty pact with him in 1 Sam. 1:42 Source: King James Bible</note> ne're turned in vaine,</l>
                     <l>Nor from the fat, and spoyles, of mighty men,</l>
