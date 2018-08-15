@@ -1,4 +1,4 @@
- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
  
        <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="behn-oroonoko">
          
@@ -9,14 +9,12 @@
                   <title type="statusBar">Oroonoko, or, The royal slave: A True History</title>
                   
                   <author>
-                        <trait type="gender"><desc>Female</desc></trait>
+                        <persName>
                         <forename>Aphra</forename>
                         <surname>Behn</surname>
+                        </persName>
                         <date when="1640-12-14">Birth: 1640 December 14?</date>
                         <date when="1689-04-16">Death: 1689 April 16</date>
-                        <roleName>Writer</roleName>
-                        <affiliation>Married</affiliation>
-                        <country>Britain</country>
                   </author>
                   
                   <respStmt>
@@ -51,9 +49,13 @@
                      <idno>behn-oroonoko</idno> 
                   </authority>
                   <availability status="free">
-                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Published by Literature in Context under a Creative Commons Attribution-ShareAlike 4.0 Unported License </licence>
-                     <p>This text is incomplete and requires standardization of its annotation scheme; also, page images of the first edition would be a nice thing to have, but have not been sourced yet.</p>
+                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Published by
+                        Literature in Context under a Creative Commons Attribution-ShareAlike 4.0 Unported
+                        License </licence>
                   </availability>
+                  <textDesc>
+                     <constitution status="incomplete">This text is incomplete and requires standardization of its annotation scheme; also, page images of the first edition would be a nice thing to have, but have not been sourced yet.</constitution>
+                  </textDesc>
                   <date>2018</date>
                </publicationStmt>    
                
@@ -124,6 +126,7 @@
 	 
    <text xml:lang="eng">
       <front>
+         <titlePage>
          <div type="title_page">
             <p>OROONOKO: OR, THE Royal Slave.
 	A TRUE HISTORY.</p>
@@ -147,11 +150,13 @@ Your Lordship's most oblig'd and obedient Servant,
 <signed>A. BEHN.</signed>
             </closer>
          </div>
+         </titlePage>
       </front>
       
       <pb/>
       <body>
-      <div type="audio">[soundcloud url="https://api.soundcloud.com/playlists/232039842" params="auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" width="100%" height="450" iframe="true" /]</div>
+         <div type="audio"><p><ref target="https://soundcloud.com/aya-rashaideh/sets/novel-oroonoko-the-royal-slave">LIBRIVOX RECORDING</ref></p>
+         <!--[soundcloud url="https://api.soundcloud.com/playlists/232039842" params="auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" width="100%" height="450" iframe="true" /] --></div>
          <div type="text">
             <head>THE HISTORY OF THE <hi>Royal Slave.</hi>
             </head>
