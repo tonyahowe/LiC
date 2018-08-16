@@ -103,20 +103,20 @@
         <body>
             <div>
                 
-                <head>Earth</head>
+                <head><ref target="a020" corresp="n020">Earth</ref><note xml:id="n020" target="a020">Earth is the second poem in her collection: "The Four Elements."</note></head>
                 <author>Anne Bradstreet</author>
                 <lg>
-                    <l>The next in place, Earth judg'd to be her due, </l>
+                    <l>The next in place, Earth judg'd to be her due,</l>
                     <l>Sister, in worth I come not short of you;</l>
                     <l>In wealth and use I doe surpasse you all,</l>
                     <l>And Mother Earth, of old, men did me call,</l>
-                    <l>Such was my fruitfulnesse; an Epithite </l>
+                    <l>Such was my fruitfulnesse; an <ref target="a001" corresp="n001">Epithite</ref><note xml:id="n001" target="a001">(DRAFT) I don't know which definition this is or should be</note></l>
                     <l>Which none ere gave, nor you could claime of right,</l>
-                    <l>Among my praises this I count not least, </l>
-                    <l>I am th'origniall of man and beast, </l>
-                    <l>To tell what sundry fruits my fatsoyle yeelds, </l>
-                    <l>In vine-yards, orchards, gardens, and corne fields, </l>
-                    <l>Their kinds, their tasts, their colours, and their smels, </l>
+                    <l>Among my praises this I count not least,</l>
+                    <l>I am th'origniall of man and beast,</l>
+                    <l>To tell what <ref target="a002" corresp="n002">sundry</ref><note xml:id="n002" target="a002">Various. Source: Oxford English Dictionary</note> fruits my fat soyle yeelds,</l>
+                    <l>In vine-yards, orchards, gardens, and corne fields,</l>
+                    <l>Their kinds, their tasts, their colours, and their smels,</l>
                     <l>Would so passe time, I could say nothing else;</l>
                     <l>The rich and poore, wife, foole, and every sort,</l>
                     <l>Of these so common things, can make report:</l>
@@ -125,23 +125,23 @@
                     <l>My cities famous, rich, and populous,</l>
                     <l>Whose numbers now are growne innumerous;</l>
                     <l>I have not time to thinke of every part,</l>
-                    <l>Yet let me name my <hi type="italics">Grecia</hi>, 'tis my heart</l>
+                    <l>Yet let me name my <ref target="a003" corresp="n003"><hi type="italics">Grecia</hi></ref><note xml:id="n003" target="a003">Greece. Source: Oxford English Dictionary</note>, 'tis my heart</l>
                     <l>For Learning, Armes, and Arts, I love it well:</l>
                     <l>But chiefly, cause the Muses there did dwell;</l>
                     <l>I'le here skip o're my mountaines, reaching skies,</l>
                     <l>Whether Pyrenian, or the Alpes; both lyes</l>
-                    <l>On either side the country of the <hi type="italics">Gaules</hi>,</l>
+                    <l>On either side the country of the <ref target="a004" corresp="n004"><hi type="italics">Gaules</hi></ref><note xml:id="n004" target="a004">An area of Western Europe that now makes up what is now present France, Luxembourg, Belgium, much of Switzerland, Northern Italy, and various small parts of the netherlands and Germany. Source: Wikipedia</note>,</l>
                     <l>Strong forts from the <hi type="italics">Spanish</hi> and <hi type="italics">Italian</hi> braules,</l>
-                    <l>And huge great <hi type="italics">Taurus</hi>, longer then the rest,</l>
+                    <l>And huge great <ref target="a005" corresp="n005"><hi type="italics">Taurus</hi></ref><note xml:id="n005" target="a005">Taurus is the second Zodiac constelaltion, the Bull. Source: Oxford English Dictionary</note>, longer then the rest,</l>
                     <l>Dividing great <hi type="italics">Armenia</hi> from the least,</l>
-                    <l>And Hemus[Italics], whose steep sides, none foote upon,</l>
+                    <l>And <ref target="a006" corresp="n006"><hi type="italics">Hemus</hi>(DRAFT) Hemus is an area in Sweden.</ref>, whose steep sides, none foote upon,</l>
                     <l>But farewell all, for deare mount <hi type="italics">Helicon</hi>,</l>
                     <l>And wonderous high <hi type="italics">Olimpus</hi>, of such fame,</l>
                     <l>That heaven selfe was oft call'd by that name;</l>
-                    <l>Sweet <hi type="italics">Parnassus</hi>, I dote too much on thee,</l>
+                    <l>Sweet <ref target="a007" corresp="n007"><hi type="italics">Parnassus</hi>Mount Parnassus is regarded as a source of poetic and other literary inspiration. Source: Oxford English Dictionary</ref>, I dote too much on thee,</l>
                     <l>Unless thou prove a better friend to me;</l>
-                    <l>But ile skip o're these Hills, not touch a Dale,</l>
-                    <l>Nor yet expatiate, in Temple vale;</l>
+                    <l>But ile skip o're these Hills, not touch a <ref target="a008" corresp="n008">Dale</ref><note xml:id="n008" target="a008">A valley. Source: Oxford English Dictionary</note>,</l>
+                    <l>Nor yet <ref target="a009" corresp="n009">expatiate</ref><note xml:id="n009" corresp="n009">Walk about or roam. Source: Oxford English Dictionary</note>, in Temple vale;</l>
                     <l>Ile here let goe, my Lions of <hi type="italics">Numedia</hi>,</l>
                     <l>My Panther, and my leopards of <hi type="italics">Libia</hi>,</l>
                     <l>The Behemoth, and rare found Unicorne,</l>
@@ -158,7 +158,7 @@
                         <l>Send forth your well man'd ships, where fun doth rise</l>
                         <l>After three years, when men and meat is spent</l>
                         <l>My rich commodities payes double rent.</l>
-                    <l><hi italics="italics">Ye <ref target="a001" corresp="n001">Galenists</ref><note xml:id="n001" target="a001">Followers of the medical practices of the Greek physician and philosopher Galen. Source: Oxford English Dictionary</note></hi>, my Drugs that come from thence</l>
+                    <l><hi italics="italics">Ye <ref target="a010" corresp="n010">Galenists</ref><note xml:id="n010" target="a010">Followers of the medical practices of the Greek physician and philosopher Galen. Source: Oxford English Dictionary</note></hi>, my Drugs that come from thence</l>
                         <l>Doe cure your patients, fill your purse with pence;</l>
                         <l>Besides the use you have, or Hearbs and Plants,</l>
                         <l>That with the lesse cost, neare home, supplyes your wants.</l>
@@ -168,21 +168,21 @@
                         <l>Which guides, when Sun, nor Moon, nor Stars do shine</l>
                         <l>Ye mighty kinds, who for your lasting fames</l>
                         <l>Built cities, Monuments call'd by your names;</l>
-                        <l>What those compiled heapes of <ref target="a002" corresp="n002">mussy</ref><note xml:id="n002" target="a002">mossy</note>stones?</l>
+                        <l>What those compiled heapes of <ref target="a011" corresp="n011">mussy</ref><note xml:id="n011" target="a011">mossy</note>stones?</l>
                         <l>That your ambition laid, ought but my bones?</l>
                         <l>Ye greedy misers who do dig for gold;</l>
                         <l>For gemmes, for silver, treasures which I hold:</l>
                         <l>Will nor my goodly face, your rage suffice?</l>
                         <l>Buy you will see what in my bowls lyes?</l>
-                        <l>And ye Arcisicers[?], all trades and forts;</l>
+                        <l>And ye <ref target="a012" corresp="n012">Artificers</ref><note xml:id="n012" target="a012">An artisan. Source: Oxford English Dictionary</note>, all trades and forts;</l>
                         <l>My bounty calls you forth to make reports,</l>
                         <l>If ought have to use, to wear, to eate?</l>
                         <l>But what I freely yeeld upon your sweat?</l>
-                        <l>And <ref target="a003" corresp="n003">chorlerick</ref><note xml:id="n003" target="a003">A tendency to be easily angered. Source: Oxford English Dictionary</note> sister, thou (for all thine ire)</l>
+                        <l>And <ref target="a013" corresp="n013">chorlerick</ref><note xml:id="n013" target="a013">A tendency to be easily angered. Source: Oxford English Dictionary</note> sister, thou (for all thine ire)</l>
                         <l>Well knowest, my fuell must maintain thy fire.</l>
                         <l>As I ingenuously (with thanks) confesse</l>
                         <l>My cold, thy (fruitful) heat, doth crave no lesse:</l>
-                        <l>But how my cold, dry temor, works upon</l>
+                        <l>But how my cold, dry temper, works upon</l>
                         <l>The melancholy constitution.</l>
                         <l>How the Autumnal season I do sway;</l>
                         <l>And how I force the grey head to obey.</l>
@@ -190,7 +190,7 @@
                         <l>But that the method is my imitation.</l>
                         <l>Now might I shew my adverse quality,</l>
                         <l>And how I oft work mans mortality</l>
-                        <l>He sometimes findes, <ref target="a004" corresp="n004">maugre</ref><note xml:Id="n004" target="a004">In spite of. Source: Oxford English Dictionary</note> his toyling paine,</l>
+                        <l>He sometimes findes, <ref target="a014" corresp="n014">maugre</ref><note xml:Id="n014" target="a014">Ill will or reproach. Source: Oxford English Dictionary</note> his toyling paine,</l>
                         <l>Thistles and thornes, where he expected graine;</l>
                         <l>My sap, to plants and trees, I must not grant,</l>
                         <l>The Vine, the Olive, and the Figtree want:</l>
@@ -203,26 +203,26 @@
                         <l>Dreadful expamples, soon I might produce,</l>
                         <l>But to such auditours 'twere of no use</l>
                         <l>Again, when Delvers dare in hope of gold,</l>
-                        <l>To ope those veines of <ref target="a005" corresp="n005">Mine</ref><note xml:id="n005" target="a005">Double entendre: "Mine" is meant possessively, and as a site into which prospectors plunge in search of natural resources</note>, audacious bold:</l>
-                        <l>While they thus in my <ref target="a006" corresp="n006">intralls</ref><note xml:id="n006" target="a006">Entrails</note>seem to dive;</l>
+                        <l>To ope those veines of Mine, audacious bold:</l>
+                        <l>While they thus in my <ref target="a015" corresp="n015">intralls</ref><note xml:id="n015" target="a015">Entrails</note>seem to dive;</l>
                         <l>Before they know, they are inter'd alive.</l>
-                        <l>Ye affrighted wights, appall'd how you do shake</l>
+                        <l>Ye affrighted <ref target="a016" corresp="n016">wights</ref><note xml:id="n016" target="a016">Human, man, or creature. Source: Oxford English Dictionary</note>, appall'd how you do shake</l>
                         <l>If one you feele me, your foundation, quake,</l>
                         <l>Because in the abysse of my darke wombe:</l>
                         <l>Your Cities and your selves I oft intombe.</l>
-                        <l>O dreadfull Sepulcher! that this is true,</l>
-                        <l><ref target="a007" corresp="n007"><hi type="italics">Korah</hi></ref><note xml:id="n007" target="a007">Character from Numbers 16 in the Bible who led a rebellion against Moses and Aaron for exalting themselves above the rest of the Israelites. It did not end well for Korah and his men: God opened up the earth, and the rebels and their families were swallowed whole (gotquestions.org).</note> and all his Company well knew.</l>
+                        <l>O dreadfull <ref target="a017" corresp="n017">Sepulcher</ref><note xml:id="n017" target="a017">A tomb or vault to house the dead. Source: Oxford English Dictionary</note>! that this is true,</l>
+                        <l><ref target="a018" corresp="n018"><hi type="italics">Korah</hi></ref><note xml:id="n018" target="a018">Character from Numbers 16 in the Bible who led a rebellion against Moses and Aaron for exalting themselves above the rest of the Israelites. It did not end well for Korah and his men: God opened up the earth, and the rebels and their families were swallowed whole (gotquestions.org).</note> and all his Company well knew.</l>
                         <l>And since, faire <hi type="italics">Italy</hi> full sadly knowes.</l>
                         <l>What she hath lost by these my dreadfull woes.</l>
                         <l>And <hi type="italics">Rome</hi>, her <hi type="italics">Curtius</hi>, can't forget I think;</l>
                         <l>Who bravely rode into my yawning chinke.</l>
                         <l>Again, what veines of poyson in me lye;</l>
-                        <l>As Stibium [Italics] and unfixt Mercury: [Italics]</l>
+                        <l>As <hi type="italics">Stibium</hi> and unfixt <hi type="italics">Mercury</hi>:</l>
                         <l>With divers moe, nay, into plants it creeps;</l>
-                        <l>In hot, and cold, and some <ref target="a008" corresp="n008">benums</ref><note xml:id="n008" target="a008">benumbed</note> with sleeps,</l>
+                        <l>In hot, and cold, and some <ref target="a019" corresp="n019">benums</ref><note xml:id="n019" target="a019">Stupify or shock. Source: Oxford English Dictionary</note> with sleeps,</l>
                         <l>Thus I occasion death to man and beast,</l>
                         <l>When they seek food, and harme mistrust the least.</l>
-                        <l>Much might I say, of the Arabian [Italics] sands;</l>
+                        <l>Much might I say, of the <hi type="italics">Arabian</hi> sands;</l>
                         <l>Wherein whole Armies I have overthrown;</l>
                         <l>But windy sister, 'twas when you have blown.</l>
                         <l>Ile say no more, yet this thing adde I must,</l>
