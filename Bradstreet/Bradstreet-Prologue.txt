@@ -115,8 +115,8 @@
                 
                 <lg>
                     <l>But when my wond'ring eyes and envious heart</l>
-                    <l>Great <ref target="a002" corresp="n002">Bartas</ref><note xml:id="n002" target="a002">French Protestant poet widely respected by the Puritans. Source: Britannica</note> sugar'd lines do but read o'er</l>
-                    <l>Fool I do grudge the <ref target="a003" corresp="n003">Muses</ref><note xml:id="n003" target="a003">Ancient Greek goddesses of science and art.</note> did not part</l>
+                    <l>Great <ref target="a002" corresp="n002">Bartas</ref><note xml:id="n002" target="a002">French Protestant poet widely respected by the Puritans. Source: Wikipedia</note> sugar'd lines do but read o'er</l>
+                    <l>Fool I do grudge the <ref target="a003" corresp="n003">Muses</ref><note xml:id="n003" target="a003">Nine ancient Greek goddesses of science and art who were the daughters of Zeus. Source: Oxford English Dictionary</note> did not part</l>
                     <l>'Twixt him and me that over-fluent store.</l>
                     <l>A Bartas can do what a Bartas will</l>
                     <l>But simple I according to my skill.</l>
@@ -124,7 +124,7 @@
                 
                 <lg>
                     <l>From School-boy's tongue no rhet'ric we expect,</l>	
-                    <l>Nor yet a sweet <ref target="a004" corresp="n004">Consort</ref><note xml:id="n004" target="a004">Concert.</note> from broken strings,</l>
+                    <l>Nor yet a sweet <ref target="a004" corresp="n004">Consort</ref><note xml:id="n004" target="a004">Concert. Source: Oxford English Dictionary</note> from broken strings,</l>
                     <l>Nor perfect beauty where's a main defect:</l>
                     <l>My foolish, broken, blemished Muse so sings</l>
                     <l>And this to mend, alas, no Art is able,</l>
@@ -132,7 +132,7 @@
                 </lg>
                 
                 <lg>
-                    <l>Nor can I, like <ref target="a005" corresp="n005">that fluent sweet tongu'd Greek</ref><note xml:id="n005" target="a005">An allusion to Demosthenes, an Athenian statesman recognized as the greatest of ancient Greek orators. He had a speech defect that he overcame on his own by speaking with pebbles in his mouth and by reciting verses when running or out of breath. Source: Britannica</note></l>
+                    <l>Nor can I, like <ref target="a005" corresp="n005">that fluent sweet tongu'd Greek</ref><note xml:id="n005" target="a005">An allusion to Demosthenes, an Athenian statesman recognized as the greatest of ancient Greek orators. He had a speech defect that he overcame on his own by speaking with pebbles in his mouth and by reciting verses when running or out of breath. Source: Wikipedia</note></l>
                     <l>Who lisp'd at first, in future times speak plain.</l>
                     <l>By Art he gladly found what he did seek</l>
                     <l>A full requital of his striving pain.</l>
@@ -141,7 +141,7 @@
                 </lg>
                 
                 <lg>
-                    <l>I am obnoxious to each carping tongue</l>
+                    <l>I am obnoxious to each <ref target="a006" corresp="n006">carping</ref><note xml:id="n006" target="a006">Judgemental or tending to find fault. Source: Oxford English Dictionary</note> tongue</l>
                     <l>Who says my hand a needle better fits.</l>
                     <l>A Poet's pen all scorn I should thus wrong,</l>
                     <l>For such despite they cast on Female wits:</l>
@@ -152,7 +152,7 @@
                 <lg>
                     <l>But sure the Antique Greeks were far more mild</l>
                     <l>Else of our Sex, why feigned they those Nine</l>
-                    <l>And poesy made, <ref target="a006" corresp="n006">Calliope's</ref><note xml:id="n006" target="a006">Foremost of the nine Muses; she was later called the patron of epic poetry. Source: Britannica</note> own child?</l>
+                    <l>And poesy made, <ref target="a007" corresp="n007">Calliope's</ref><note xml:id="n007" target="a007">Foremost of the nine Muses; she was later called the patron of epic poetry. Source: Wikipedia</note> own child?</l>
                     <l>So 'mongst the rest they placed the Arts Divine,</l>
                     <l>But this weak knot, they will full soon untie.</l>
                     <l>The Greeks did nought, but play the fools and lie.</l>
@@ -171,7 +171,7 @@
                     <l>And oh ye high flown quills that soar the Skies,</l>
                     <l>And ever with your prey still catch your praise,</l>
                     <l>If e're you design these lowly lines your eyes</l>
-                    <l>Give <ref target="a007" corresp="n007">Thyme or Parsley</ref><note xml:id="n007" target="a007">Cooking herbs</note> wreath I ask no <ref target="a008" corresp="n008">Bays</ref><note xml:id="n008" target="a008">Usually in pl. Leaves or sprigs of this tree, esp. as woven into a wreath or garland to reward a conqueror or poet; hence fig. the fame and repute attained by these. -Oxford English Dictionary</note>,</l>
+                    <l>Give <ref target="a008" corresp="n008">Thyme or Parsley</ref><note xml:id="n008" target="a008">Cooking herbs</note> wreath I ask no <ref target="a009" corresp="n009">Bays</ref><note xml:id="n009" target="a009">Usually in pl. Leaves or sprigs of this tree, esp. as woven into a wreath or garland to reward a conqueror or poet; hence fig. the fame and repute attained by these. Source: Oxford English Dictionary</note>,</l>
                     <l>This mean and unrefined ore of mine</l>
                     <l>Will make your glist'ring gold, but more to shine.</l>
                 </lg>          
