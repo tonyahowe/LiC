@@ -139,9 +139,7 @@
                     <l>Nor yet in learning, wisdome, youth nor pleasure,</l>
                     <l>Where shall I cimbe, sound, seek, search or find,</l>
                     <l>That <ref target="a001" corresp="n001"><hi type="italics">summum Bonum</hi></ref><note xml:id="n001" target="a001">This phrase, coined by Cicero, 
-                        means "the highest good." It evidences the broad 
-                        extent of Bradstreet's classical
-                        knowledge. Source: Oxford English Dictionary</note>which may stay my mind?</l>
+                        means "the highest good." Source: Oxford English Dictionary</note>which may stay my mind?</l>
                     <l>There is a path, no vultures eye hath seen.</l>
                     <l>Where lions fierce, nor lions whelps hath been,</l>
                     <l>Which leads unto that living Christall fount,</l>
