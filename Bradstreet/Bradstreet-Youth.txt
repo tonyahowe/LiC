@@ -116,7 +116,7 @@
               <l>The manners of the Court, I likewise know,</l> 
               <l>Nor ignorant what they in Country do;</l> 
               <l>The brave attempts of valiant Knights I prize,</l> 
-              <l>That dare climbe Battlements, rear'd to the skies;</l> 
+              <l>That dare climbe <ref target="a001" corresp="n001">Battlements</ref><note xml:id="n001" target="a001">The summit of a mountain or a parapet at the top of a wall. Source: Oxford English Dictionary</note>, rear'd to the skies;</l> 
               <l>The snorting Horse, the Trumpet, Drum I like,</l> 
               <l>The glistring Sword, and wel advanced Pike;</l>
               <l>I cannot lye in trench, before a Town,</l> 
@@ -160,7 +160,7 @@
               <l>For sure my suit more then my vertues shine;</l> 
               <l>If any time from company I spare,</l>
               <l>'Tis spent in curling, frisling up my hair;</l>
-              <l>Some young Adonis I do strive to be,</l>                                                                                                            <l>Sardana Pallas, now survives in me:</l>
+              <l>Some young Adonis I do strive to be,</l>                                               <l><ref target="a002" corresp="n002">Sardana Pallas</ref><note xml:id="n002" target="a002">(DRAFT)When I look this up I just get referenced back to the poem</note>, now survives in me:</l>
                   <l>Cards, Dice, and Oaths, concomitant, I love;</l> 
                   <l>To Masques, to Playes, to Taverns stil I move;</l> 
                   <l>And in a word, if what I am you'd heare,</l> 
@@ -174,15 +174,15 @@
                   <l>Though dangers do attend me every houre,</l> 
                   <l>And gastly death oft threats me with her power,</l> 
                   <l>Sometimes by wounds in idle combates taken,</l> 
-                  <l>Sometimes by Agues<note  >Malaria.</note> all my body shaken;</l> 
+                  <l>Sometimes by <ref target="a003" corresp="n003">Agues</ref><note  xml:id="n003" target="a003">Sickness with a high fever. Source: Oxford english Dictionary</note> all my body shaken;</l> 
                   <l>Sometimes by Feavers, all my moisture drinking,</l> 
                   <l>My heart lyes frying, and my eyes are sinking;</l> 
-                  <l>Sometimes the Cough, Stitch, painful Plurisie,<note  >Pleurisy, inflammation of the pleura (the lining of the lungs)</note></l> 
+                  <l>Sometimes the Cough, Stitch, painful <ref target="a004" corresp="n004">Plurisie</ref><note xml:id="n004" target="a004">Pleurisy is chest pains often with coughing and inflammation. Source: Oxford English Dictionary</note>,</l> 
                   <l>With sad affrights of death, doth menace me;</l>
                   <l>Sometimes the loathsome Pox, my face be-mars,</l> 
                   <l>With ugly marks of his eternal scars;</l>
-                  <l>Sometimes the Phrensie<note  >Frenzy.</note>, strangely madds my Brain,</l>
-                  <l>That oft for it, in Bealam I remain.</l> 
+                  <l>Sometimes the Phrensie, strangely madds my Brain,</l>
+                  <l>That oft for it, in <ref target="a005" corresp="n005">Bedlam</ref><note xml:id="n005" target="a005">Bethlehem. Source: Oxford English Dictionary</note> I remain.</l> 
                   <l>Too many's my Diseases to recite,</l> 
                   <l>That wonder 'tis I yet behold the light,</l> 
                   <l>That yet my bed in darknesse is not made,</l> 
