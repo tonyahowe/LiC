@@ -105,15 +105,15 @@
                 
                 
                 <lg type="Stanza">
-               <l>At <ref target="a001" corresp="n001">Obsequies</ref><note xml:id="n001" target="a001">A funeral or burial rite. (Merriam Webster Dictionary)</note> where so much grief is due,</l>
-                <l><ref target="a002" corresp="n002">The Muses</ref><note xml:id="n002" target="a002">The nine daughters of Zeus who symbolized the arts and sciences as a source of inspiration. (Encyclopedia Britannica)</note> are in solemn mourning too,</l>
+               <l>At <ref target="a001" corresp="n001">Obsequies</ref><note xml:id="n001" target="a001">A funeral or burial rite. Source: Oxford English Dictionary</note> where so much grief is due,</l>
+                <l><ref target="a002" corresp="n002">The Muses</ref><note xml:id="n002" target="a002">The nine daughters of Zeus who symbolized the arts and sciences as a source of inspiration. Source: Oxford English Dictionary</note> are in solemn mourning too,</l>
                 <l>And by their dead astonishment confess,</l>
                 <l>They can lament this loss, though not express:</l>
-                <l>Nay if those ancient <ref target="a003" corresp="n003">Bards</ref><note xml:id="n003" target="a003">A poet, traditionally one reciting epics and associated with a a particular oral tradition.(Merriam Webster Dictionary)</note> had seen this Herse,</l>
+                <l>Nay if those ancient <ref target="a003" corresp="n003">Bards</ref><note xml:id="n003" target="a003">A poet, traditionally one reciting epics and associated with a a particular oral tradition. Source: Oxford English Dictionary</note> had seen this <ref target="a004" corresp="n004">Herse</ref><note xml:id="n004" target="a004">(DRAFT) A military formation. Source: Oxford English Dictionary</note>,</l>
                 <l>Who once in <hi type="italics">British</hi> shades spoke living Verse,</l>
                 <l>Their high concern for him had made them be, </l>
                 <l>Apter to weep, then write his Elogy:</l>
-                <l>When on our land that <ref target="a004" corresp="n004">flood of woes</ref><note xml:id="n004" target="a004"> The English Civil War (1642-1651).(Encyclopedia Britannica)</note> was sent, </l>
+                <l>When on our land that <ref target="a005" corresp="n005">flood of woes</ref><note xml:id="n005" target="a005">The English Civil War (1642-1651): A battle between the Protestant rebels and the Catholic monarchy of England at the time. Oliver Cromwell led the Protestants to victory and King Charles I was beheaded. Source: Wikipedia</note> was sent, </l>
                 <l>Which swallowed all things sacred as it went,</l>
                 <l>The injur'd Arts and Vertues, made his breast </l>
                 <l>The Ark wherein they did securely rest:</l>
@@ -128,13 +128,13 @@
                 <l>Duty, and not ambition, was his aim,</l>
                 <l>Who study'd Conscience ever more than Fame,</l>
                 <l>And thought it so desirable a thing,</l>
-                <l>To be prefer'd to suffer for his <ref target="a005" corresp="n005">King</ref><note xml:id="n005" target="a005"> King Charles I who was publicly executed in 1649. (Encyclopedia Britannica)</note>, </l>
+                <l>To be prefer'd to suffer for his <ref target="a006" corresp="n006">King</ref><note xml:id="n006" target="a006"> King Charles I.</note>, </l>
                 <l>That he all Fortunes spight had pardon'd her,</l>
                 <l>Had she not made his Prince a sufferer;</l>
                 <l>For whose lov'd cause he did both act and grieve,</l>
                 <l>And for it only did endure to live,</l>
                 <l>To teach the world what man can be and do,</l>
-                <l><ref target="a006" correspp="n006">Arm'd by Allegiance and Religion</ref><note xml:id="n006" target="a006">Sir Walter Lloid Knight was a royalist to the Stuart line.</note> too.</l>
+                <l><ref target="a007" correspp="n007">Arm'd by Allegiance and Religion</ref><note xml:id="n007" target="a007">Sir Walter Lloid Knight was a royalist to the Stuart line.</note> too.</l>
                 <l>His head and heart mutual assistance gave,</l>
                 <l>That being still so wise, and this so brave,</l>
                 <l>That 'twas acknowledg'd all he said and did,</l>
@@ -149,12 +149,12 @@
                 <l>Both an Example and Apology:</l>
                 <l>For when both Swords and Pens ceas'd the dispute,</l>
                 <l>His life alone Rebellion and confute.</l>
-                <l>But when his Vows <ref target="a007" corresp="n007">propitious</ref><note xml:id="n007" target="a007">Giving or indicating a good chance of success; favorable.(Merriam Webster Dictionary)</note> Heaven had heard,</l>
+                <l>But when his Vows <ref target="a008" corresp="n008">propitious</ref><note xml:id="n008" target="a008">Giving or indicating a good chance of success; favorable. Source: Oxford English Dictionary</note> Heaven had heard,</l>
                 <l>And our unequal'd King at length appear'd,</l>
-                <l>As aged <ref target="a008" corresp="n008"><hi type="italics">Simeon</hi></ref><note xml:id="n008" target="a008">Simeon of the New Testament in Luke(2:25-26) was a prophet whom the Holy Spirit appeared to with a promise that he would not die until he had seen Jesus Christ.(The Orthodox Church of America Online)</note> did his spirits yield,</l>
+                <l>As aged <ref target="a009" corresp="n009"><hi type="italics">Simeon</hi></ref><note xml:id="n009" target="a009">Simeon of the New Testament in Luke(2:25-26) was a prophet whom the Holy Spirit appeared to with a promise that he would not die until he had seen Jesus Christ.</note> did his spirits yield,</l>
                 <l>When he had seen his dearest hopes fulfil'd,</l>
                 <l>He gladly saw the morning of that day,</l>
-                <l>Which <ref target="a009" corresp="n009">Charles</ref><note xml:id="n009" target="a009">King Charles II was Coronated in 1661 after the death of Oliver Cromwell.(Encyclopedia Britannica)</note> his growing spledour did display;</l>
+                <l>Which <ref target="a010" corresp="n010">Charles</ref><note xml:id="n010" target="a010">King Charles II was Coronated in 1661 after the death of Oliver Cromwell. Source: Wikipedia</note> his growing spledour did display;</l>
                 <l>Then to Eternal joies made greater haste,</l>
                 <l>Because his present ones flow'd in so fast;</l>
                 <l>From which he fled out of pious fear,</l>
