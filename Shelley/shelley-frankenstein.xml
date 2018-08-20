@@ -178,7 +178,7 @@
                         xml:id="publisherA">LACKINGTON, HUGHES, HARDING, MAVOR, &amp;
                      JONES</ref></rs></publisher>, <lb/>
                <pubPlace><placeName type="tgn" key="7449907">FINSBURY SQUARE</placeName></pubPlace>. <lb/>
-               <docDate>1818</docDate>. </docImprint>
+               <docDate><ref target="#1818" xml:id="1818A">1818</ref></docDate>. </docImprint>
          </titlePage>
          <pb n="[title page verso]" facs="images/TPv.jpg"/>
          <div type="dedication">
@@ -835,8 +835,8 @@
                      These indications, and a desire to bind as closely as possible the ties of
                      domestic love, determined my mother to consider <pb n="[46]"
                         facs="images/46.jpg"/>
-                     <persName>Elizabeth</persName> as <rs content="#marriage_cousins">my future
-                        wife</rs>; a design which she never found reason to repent.</p>
+                     <persName>Elizabeth</persName> as <rs content="#marriage_cousins"><ref target="#marriage_cousins" xml:id="marriage_cousinsA">my future
+                        wife</ref></rs>; a design which she never found reason to repent.</p>
                   <p>From this time <persName>Elizabeth Lavenza</persName> became my playfellow,
                      and, as we grew older, my friend. She was docile and good tempered, yet gay and
                      playful as a summer insect. Although she was lively and animated, her feelings
@@ -912,7 +912,7 @@
                      a mountain river, from ignoble and almost forgotten sources; but, swelling as
                      it proceeded, it became the torrent which, in its course, has swept away all my
                      hopes and joys.</p>
-                  <p><rs content="#natural_philosophy">Natural philosophy</rs> is the genius that
+                  <p><ref target="#natural_philosophy" xml:id="natural_philosophyA"><rs content="#natural_philosophy">Natural philosophy</rs></ref> is the genius that
                      has regulated my fate; I desire therefore, in this narration, to state those
                      facts which led to my predilection for that science. When I was thirteen years
                      of age, we all went on a party of pleasure to the baths near <placeName
@@ -936,7 +936,7 @@
                            content="#agrippa">Agrippa</rs></persName> had been entirely exploded,
                      and that a modern system of science had been introduced, which possessed much
                      greater powers than the ancient, because the powers of the latter were
-                     chimerical, while <pb n="[53]" facs="images/53.jpg"/> those of the former were
+                     <ref target="#chimerical" xml:id="chimericalA">chimerical</ref>, while <pb n="[53]" facs="images/53.jpg"/> those of the former were
                      real and practical; under such circumstances, I should certainly have thrown
                         <persName type="lccn" key="n80043375"><rs content="#agrippa"
                         >Agrippa</rs></persName> aside, and, with my imagination warmed as it was,
@@ -948,7 +948,7 @@
                      greatest avidity.</p>
                   <p>When I returned home, my first care was to procure the whole works of this
                      author, and afterwards of <persName type="lccn" key="n80120959"><rs
-                           content="#paracelsus">Paracelsus</rs></persName> and <persName
+                        content="#paracelsus"><ref target="#paracelsus" xml:id="paracelsusA">Paracelsus</ref></rs></persName> and <persName
                         type="lccn" key="n81007973"><rs content="#albertus_magnus"><ref
                               target="#albertus_magnus" xml:id="albertus_magnusA">Albertus
                               Magnus</ref></rs></persName>. I read and studied the wild fancies of
@@ -967,7 +967,7 @@
                      family was not scientifical, and I had not attended any of the lectures given
                      at the schools of <placeName type="tgn" key="7003746">Geneva</placeName>. My
                      dreams were therefore undisturbed by reality; and I entered with the greatest
-                     diligence into the search of the philosopher's stone and the elixir of life.
+                     diligence into the search of the <ref target="#philosophers_stone" xml:id="philosophers_stoneA">philosopher's stone and the elixir of life</ref>.
                      But the latter obtained my <pb n="[55 - page breaks after 'undi-']"
                         facs="images/55.jpg"/> undivided attention: wealth was an inferior object;
                      but what glory would attend the discovery, if I could banish disease from the
@@ -978,18 +978,18 @@
                      the failure rather to my own inexperience and mistake than to a want of skill
                      or fidelity in my instructors.</p>
                   <p>The natural phænomena that take place every day before our eyes did not escape
-                     my examinations. Distillation, and the wonderful effects of steam, processes of
+                     my examinations. Distillation, and the wonderful effects of <ref target="#steam" xml:id="steamA">steam</ref>, processes of
                      which my favourite authors were utterly ignorant, excited my astonishment; but
                      my utmost wonder was <pb n="[56]" facs="images/56.jpg"/> engaged by some
-                     experiments on an air-pump, which I saw employed by a gentleman whom we were in
+                        <ref target="#air_pump" xml:id="air_pumpA">experiments on an air-pump</ref>, which I saw employed by a gentleman whom we were in
                      the habit of visiting.</p>
                   <p>The ignorance of the early philbosophers on these and several other points
                      served to decrease their credit with me: but I could not entirely throw them
                      aside, before some other system should occupy their place in my mind.</p>
                   <p>When I was about fifteen years old, we had retired to our house near <placeName
                         type="tgn" key="8703247">Belrive</placeName>, when we witnessed a most
-                     violent and terrible thunder-storm. It advanced from behind <placeName
-                        type="tgn" key="1109172">the mountains of Jura</placeName>; and the thunder
+                     violent and terrible thunder-storm. It advanced from behind <ref target="#swiss_alps" xml:id="swiss_alpsA"><placeName
+                        type="tgn" key="1109172">the mountains of Jura</placeName></ref>; and the thunder
                      burst at once with frightful loudness from various quarters of the heavens. I
                      remained, while the storm lasted, watching its progress with curiosity and
                      delight. As I stood at the door, on a sudden I beheld a stream of fire issue
@@ -1003,7 +1003,7 @@
                      inquired of my father the nature and origin of thunder and lightning. He
                      replied, <said>"Electricity;"</said> describing at the same time the various
                      effects of that power. He constructed a small electrical machine, and exhibited
-                     a few experiments; he made also a kite, with a wire and string, which drew down
+                     a few experiments; he made also a <ref target="#kite" xml:id="kiteA">kite</ref>, with a wire and string, which drew down
                      that fluid from the clouds.</p>
                   <p>This last stroke completed the <pb n="[58 - page breaks after 'over-']"
                         facs="images/58.jpg"/> overthrow of <persName type="lccn" key="n80043375"
@@ -1136,7 +1136,7 @@
                      and domestic; and this had given me invincible repugnance to new countenances.
                      I loved my brothers, <persName>Elizabeth</persName>, and
                         <persName>Clerval</persName>; <pb n="[68]" facs="images/68.jpg"/> these were
-                        <quote>"old familiar faces;"</quote> but I believed myself totally unfitted
+                     <ref target="#faces" xml:id="facesA"><quote>"old familiar faces;"</quote></ref> but I believed myself totally unfitted
                      for the company of strangers. Such were my reflections as I commenced my
                      journey; but as I proceeded, my spirits and hopes rose. I ardently desired the
                      acquisition of knowledge. I had often, when at home, thought it hard to remain
@@ -1216,12 +1216,12 @@
                         little; they know that metals cannot be transmuted, and that the elixir of
                         life is a chimera. But these philosophers, whose hands seem only made to
                         dabble <pb n="[74]" facs="images/74.jpg"/> in dirt, and their eyes to pore
-                        over the microscope or crucible, have indeed performed miracles. <ref
+                              over the <ref target="#microscope" xml:id="microscopeA">microscope</ref> or crucible, have indeed performed miracles. <ref
                            target="penetrate" xml:id="penetrateA">They penetrate into the recesses
                            of nature, and shew how she works in her hiding places</ref>. They ascend
                         into the heavens; they have discovered <ref target="#circluation"
                            xml:id="circulationA">how the blood circulates</ref>, and the nature of
-                        the air we breathe. They have acquired new and almost unlimited powers; they
+                              the air we breathe. They have acquired new and almost <ref target="#powers" xml:id="powersA">unlimited powers</ref>; they
                         can command the thunders of heaven, mimic the earthquake, and even mock the
                         invisible world with its own shadows."</said></p>
                   <p>I departed highly pleased with the professor and his lecture, and paid him a
@@ -1790,7 +1790,7 @@
                            humour, one glance from <persName>Justine</persName> could dissipate it,
                            for the same reason that <persName type="n79041715" key="n79041715"
                               >Ariosto</persName> gives concerning the beauty of
-                              <persName>Angelica</persName>—she looked so frank-hearted and happy.
+                           <ref target="#angelica" xml:id="angelicaA"><persName>Angelica</persName></ref>—she looked so frank-hearted and happy.
                            My aunt conceived a great attachment for her, by which she was induced to
                            give her an education superior to that which she had at first intended.
                            This benefit was fully repaid; <persName>Justine</persName> was the most
@@ -2160,7 +2160,7 @@
                      lightning dazzled my eyes, illuminating the lake, making it appear like a vast
                      sheet of fire; then for an instant everything seemed of a pitchy darkness,
                      until the eye recovered itself from the preceding flash. The storm, as is often
-                     the case in <placeName type="tgn" key="7011731">Switzerland</placeName>,
+                     the case in <ref target="#switzerland" xml:id="switzerlandA"><placeName type="tgn" key="7011731">Switzerland</placeName></ref>,
                      appeared at once in various parts of the heavens. The most violent storm hung
                      exactly north of the town, over that part of the lake which lies between the
                      promontory of <placeName type="tgn" key="8703247">Belrive</placeName> and the
@@ -2169,7 +2169,7 @@
                      with faint flashes; and another darkened and sometimes disclosed the <placeName
                         type="tgn" key="7631625">Môle</placeName>, a peaked mountain to the east of
                      the lake.</p>
-                  <p>While I watched the storm, so beautiful yet terrific, I wandered on with a
+                  <p><ref target="#lightning" xml:id="lightningA">While I watched the storm, so beautiful yet terrific</ref>, I wandered on with a
                      hasty step. This noble war in the sky elevated my spirits; I clasped my hands,
                         <pb n="[147]" facs="images/147.jpg"/> and exclaimed aloud,
                            <said>"<persName>William</persName>, dear angel! this is thy funeral,
@@ -2597,7 +2597,7 @@
                      a cloud that passes over the fair moon, for a while hides, <pb n="[180]"
                         facs="images/180.jpg"/> but cannot tarnish its brightness. Anguish and
                      despair had penetrated into the core of my heart; <rs content="#hell_within_me"
-                        >I bore a hell within me, which nothing could extinguish</rs>. We staid
+                        ><ref target="#hell_within" xml:id="hell_withinA">I bore a hell within me, which nothing could extinguish</ref></rs>. We staid
                      several hours with <persName>Justine</persName>; and it was with great
                      difficulty that <persName>Elizabeth</persName> could tear herself away.
                         <said>"I wish,"</said> cried she, <said>"that I were to die with you; I
@@ -7277,33 +7277,12 @@
                   target="#arctic_explorationA"/>
             </note>
             <note xml:id="ingolstadt" type="editorial" resp="AF">
-               <p>Victor Frankenstein attends the University of Ingolstadt, a university founded in
-                  1472, known for its focus on the natural sciences. The university had a massive
-                  chemistry laboratory and one of the finest operating theatres at the time
-                  Frankenstein was written, making it a perfect setting for his experiments.
-                  Ingolstadt is located in Germany, within the Free State of Bavaria. In the
-                  eighteenth century, an intellectual movement for the reconstruction of European
-                  society was centered in the city, and many pieces of propaganda resulted from this
-                  political climate. One popular piece of propaganda, Memoirs of Prince Alexy
-                  Haimatoff, was written by Percy Shelley’s roommate at Oxford as well as reviewed
-                  by Shelley himself, which would have made Mary Shelley aware of the political
-                  contexts in which she inserted her protagonist. </p><ptr target="#ingolstadtA"/>
+               <p><graphic url="https://upload.wikimedia.org/wikipedia/commons/8/80/Th%C3%A9%C3%A2tre-anatomique-Padoue.JPG" style="float:right" width="300"/>
+                  Victor Frankenstein attends the <ref target="http://knarf.english.upenn.edu/V1notes/univers.html">University of Ingolstadt</ref>, a university founded in 1472, known for its focus on the natural sciences. The university had a massive chemistry laboratory and one of the finest operating theatres at the time Frankenstein was written, making it a perfect setting for his experiments. <ref target="https://www.google.com/maps/place/Ingolstadt,+Germany/@48.7535159,11.2395665,11z/data=!3m1!4b1!4m5!3m4!1s0x479efe5188360abb:0xec5d7e2213748aea!8m2!3d48.7665351!4d11.4257541?shorturl=1">Ingolstadt</ref> is located in Germany, within the Free State of Bavaria. In the eighteenth century, an <ref target="http://knarf.english.upenn.edu/Places/ingolst.html">intellectual movement</ref> for the reconstruction of European society was centered in the city. Mary Shelley would have been aware of this, and the significance of the change of European society may have been the perfect historical setting for a tale calling into question freedom, status, and autonomy. The image here shows an Italian operating theatre built in the sixteenth century to give an example of what the operating theatre may have looked like to Victor Frankenstein. The image was taken by Kalibos and is hosted on Wikimedia Commons. </p><ptr target="#ingolstadtA"/>
             </note>
-            <note xml:id="rime1" type="editorial" resp="TH">
+            <note xml:id="rime1" type="editorial" resp="AF">
                <p><graphic style="float:right" width="300"
-                     url="https://upload.wikimedia.org/wikipedia/commons/2/26/Rime_of_the_Ancient_Mariner-Albatross-Dore.jpg"
-                  />Victor Frankenstein here quotes Samuel Taylor Coleridge’s 1798 poem, <hi
-                     rend="italic">Rime of the Ancient Mariner</hi> (1876 illustration by Gustave
-                  Doré pictured above). Coleridge’s most famous poem is a tale narrated by an
-                  ancient sailor returned from a long, ambitious journey during which, having shot
-                  and killed an albatross, all other members of the crew die and the mariner is
-                  cursed. Shelley was familiar with Coleridge’s Romantic poem and invokes it to
-                  compare her characters. To learn more about Coleridge’s poem, <ref
-                     target="http://ec2-52-90-79-236.compute-1.amazonaws.com/editions/LB/html/Lb98-b.html"
-                     >published as the opening poem in <hi rend="italic">Lyrical Ballads</hi></ref>,
-                  read <ref
-                     target="https://www.bl.uk/romantics-and-victorians/articles/an-introduction-to-the-rime-of-the-ancient-mariner"
-                     >Seamus Perry’s introduction at the British Library."</ref>
+                     url="https://upload.wikimedia.org/wikipedia/commons/2/26/Rime_of_the_Ancient_Mariner-Albatross-Dore.jpg"/>In this excerpt from <ref target="https://www.poetryfoundation.org/poets/samuel-taylor-coleridge">Samuel Taylor Coleridge’s</ref> <ref target="https://www.poetryfoundation.org/poems/43997/the-rime-of-the-ancient-mariner-text-of-1834 "><hi rend="italic">The Rime of the Ancient Mariner</hi></ref> (451- 456), the Mariner has killed the albatross and the other sailors turn  on him, viewing his act of violence as a sin against God and nature. The luck of the ship  dissipates, and they are becalmed on the ocean. The Mariner watches as each of the sailors  die of thirst, while he alone is saved. This direct allusion highlights the similarities between the Mariner and Frankenstein, who are both reeling after accomplishing their respective goals--killing the albatross and creating a sentient being--and both in the process of telling their stories. The use of the quote is two-fold; it highlights Frankenstein’s isolation and his decision to abandon his creature, but it also juxtaposes the Mariner’s violence with Frankenstein’s act of creation. Explore more about Coleridge’s poem in William Christie’s <ref target="https://www.jstor.org/stable/j.ctt1d10h2h.10">“The Search for Meaning in The Rime of the Ancient Mariner,"</ref>. See Michelle Levy’s article, <ref target="https://www.jstor.org/stable/3844532">“Discovery and the Domestic Affections in Coleridge and Shelley,"</ref> for a discussion of Samuel Taylor Coleridge’s influence on Mary Shelley.
                </p><ptr target="#rime1A"/>
             </note>
             <note xml:id="tempest" type="editorial" resp="AF"><p><hi rend="italic"><ref
@@ -7325,7 +7304,8 @@
 
             <note xml:id="milton" type="editorial" resp="">Note on Milton. <ptr target="#miltonA"
                /></note>
-            <note xml:id="PL" type="editorial" resp="">Note on PL. <ptr target="#PLA"/></note>
+            <note xml:id="PL" type="editorial" resp="AF"><p><ref target="https://www.poets.org/poetsorg/poet/john-milton">John Milton</ref> (1608-1674) was an English poet most notably known for <ref target="https://www.dartmouth.edu/~milton/reading_room/pl/intro/text.shtml"><hi rend="italic">Paradise Lost</hi></ref>, a twelve-volume epic poem in blank verse about the fall of man. Milton’s poem is an important intertext--even, as  <ref target="http://www.bbc.com/culture/story/20170419-why-paradise-lost-is-one-of-the-worlds-most-important-poems">BBC Britain’s Benjamin Ramm notes</ref>, the inspiration, for Shelley. The Romantics placed importance in feeling and nature, and Milton epitomized that throughout his poem, showing the the evolution of human consciousness and the building up of the human spirit. The independence and individuality he gives to Satan creates sympathy for a hated stock character, redeeming him in the reader’s eyes. This in turn projects the idea of redemption of the spirit through internal means, removing the need for deliverance through an omnipotent being. See more in <hi rend="italic"><ref target="https://books.google.com/books?vid=9780199697885">The Oxford Handbook of Milton</ref></hi> by Nicholas McDowell.</p>
+               <p>At the beginning of <hi rend="italic">Paradise Lost</hi>, Milton states that the purpose of the poem is to "justifie the wayes of God to men" (I.26). This idea speaks to Shelley’s themes of free will and theodicy. The story of <hi rend="italic">Paradise Lost</hi> is felt acutely by Victor Frankenstein and his Creature, and many allusions to it appear throughout the text. An interesting juxtaposition of religious thought to her scientific filled novel, Mary Shelley combines the contemporary understanding of science with an obvious allusion to the religious folly and fall of man. For more information about the influence of <hi rend="italic">Paradise Lost</hi> in <hi rend="italic">Frankenstein</hi>, see Burton Pollin’s <ref target="https://www.jstor.org/stable/17699">Philosophical and Literary Sources of Frankenstein</ref>, <ref target="https://www.jstor.org/stable/2933709">John Lamb’s "Mary Shelley's Frankenstein and Milton's Monstrous Myth"</ref>, and <ref target="https://www.bl.uk/collection-items/john-milton-paradise-lost">the overview of <hi rend="italic">Paradise Lost</hi>in the "Romantics and Victorians" exhibit at the British Library</ref>.</p> <ptr target="#PLA"/></note>
             <note xml:id="novelist" type="editorial" resp="">Note on "novel writing". <ptr
                   target="#novelistA"/></note>
             <note xml:id="shakespeare" type="editorial" resp="AF"><p><graphic
@@ -7368,8 +7348,10 @@
                      Shakespeare"</a>. For a full list of Shakespeare’s works, as well as summaries
                   and criticisms, see the <a href="https://www.folger.edu/shakespeares-works">Folger
                      Shakespeare Library</a>.</p><ptr target="#shakespeareA"/></note>
-            <note xml:id="midsummer_nights_dream" type="editorial" resp=""><p>Note on MSD. </p><ptr
+            <note xml:id="midsummer_nights_dream" type="editorial" resp="AF"><p><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Oberon%2C_Titania_and_Puck_with_Fairies_Dancing._William_Blake._c.1786.jpg/800px-Oberon%2C_Titania_and_Puck_with_Fairies_Dancing._William_Blake._c.1786.jpg" style="float:right" width="300"/>
+               <hi rend="italic"><ref target="http://shakespeare.mit.edu/midsummer/full.html">Midsummer Night’s Dream</ref></hi> (1595) is a comedy by William Shakespeare. A play within a play, the story is set in a fairyland Athenian forest during the marriage of Theseus, the Duke of Athens, to Hippolyta, the Queen of the Amazons. The play’s complex subplots involve a variety of complementary stories. The play opens with a love triangle between Hermia, who is in love with Lysander but is being forced to marry Demetrius by her father Egeus. Helena, Hermia’s best friend is in love with Demetrius. On another side of the story are the "Rude Mechanicals," a group of six skilled laborers who are planning a performance of <hi rend="italic">Pyramus and Thisbe</hi>. The last subplot involves the king and queen of the fairies, Oberon and Titania, who are in an argument over a small child Titania is protecting from Oberon. Oberon, in his frustration over Titania’s disobedience, sends his sprite, Robin "Puck" Goodfellow, to create a love potion to shame Titania into obedience. Puck wreaks  havoc on all the characters, causing the men to fall in love with Helena and rebuff Hermia, turning Bottom part donkey, and prompting Titania to fall in love with Bottom. During this confusion, Oberon steals the child from Titania, upon which success he orders Puck to set everything straight. The play concludes with the Mechanicals’ inexpert play-within-a-play, staged for the marriage festivities of Theseus and Hippolyta. Explore more about the text at the <ref target="https://www.folger.edu/midsummer-nights-dream">Folger Shakespeare Library</ref> or see David Wiles <ref target="https://books.google.com/books/about/Shakespeare_and_Carnival.html?id=Ft-SQgAACAAJ"><hi rend="italic">Shakespeare and Carnival: After Bakhtin</hi></ref>, especially chapter 4, "The Carnivalesque in A Midsummer Night's Dream." The image here is <hi rend="italic">Oberon, Titania and Puck with Fairies Dancing</hi> by William Blake (1786) hosted by Tate Britain. </p><ptr
                   target="#midsummer_nights_dreamA"/></note>
+            
             <note xml:id="PL_knowledge" type="editorial" resp=""><p>Note on Eve's desire for
                   knowledge/serpent/PL </p>
                <ptr target="#PL_knowledgeA"/>
@@ -7406,8 +7388,7 @@
                   work paid for "by the piece" or according to what is produced, like modern factory
                   work. </p><ptr target="#plain_workA"/>
             </note>
-            <note xml:id="marriage_cousins" type="editorial" resp=""><p>Note on marrying cousins in
-                  the late 18th centuryp; note fact that this was a change shelley made in 1832 ed
+            <note xml:id="marriage_cousins" type="editorial" resp="AF"><p>Marriage between cousins was a common practice in history, often deployed to maintain family property and wealth. Read more about marriage between cousins in Adam Kuper’s <hi rend="italic">Incest and Influence</hi> especially the <ref target="https://www.jstor.org/stable/j.ctt13x0dq7.13">Coda</ref>, or his article in <hi rend="italic">Past and Present</hi> "<a href="http://www.jstor.org/stable/3600719">Incest, Cousin Marriage, and the Origin of the Human Sciences in Nineteenth-Century England</a>." In the 1818 edition of <hi rend="italic">Frankenstein</hi>, Elizabeth Lavenza, is Victor’s first cousin on his father’s side; however, in the 2nd edition of 1831, Mary Shelley revises this plot point to make Elizabeth an unknown orphan and no longer related to the Frankensteins. She is instead rescued by Victor Frankenstein’s mother. To learn more of Mary Shelley’s revisions between the first and second editions see the annotation  linked to the publication date in the Preface of the novel, or head to Dana Wheeles’ Juxta Commons <ref target="http://juxtacommons.org/shares/Nme50n">comparison</ref> of the 1818 and 1831 editions of <hi rend="italic">Frankenstein</hi>.
                   </p><ptr target="#marriage_cousinsA"/>
             </note>
             <note xml:id="fancy" type="editorial" resp=""><p>Note on "fancy" in the late 18th
@@ -7515,7 +7496,7 @@
                   Der Weyden from the National Gallery of Art, Washington, D.C.</p><ptr
                   target="#st_georgeA"/>
             </note>
-            <note xml:id="natural_philosophy" type="editorial" resp=""><p>Note on natural philosophy
+            <note xml:id="natural_philosophy" type="editorial" resp="AF"><p><ref target="https://plato.stanford.edu/entries/natphil-ren/">Natural Philosophy</ref> is the study of nature through a philosophical lens. The two canonical discussions of natural philosophy occur in Aristotle’s <hi rend="italic"><ref target="http://classics.mit.edu/Aristotle/heavens.html">On the Heavens, Meteorology</ref></hi>, and <hi rend="italic"><ref target="http://classics.mit.edu/Aristotle/gener_corr.html">On Generation and Corruption</ref></hi>. In the eighteenth century, natural philosophy was a form of science with an emphasis on scientific inquiry, but in the Romantic period, it was seen as a method of unifying physical nature with the spiritual. As Michael Manson and Robert Scott Stewart point out in <ref target="https://www.jstor.org/stable/3685283">Heroes and Hideousness: "Frankenstein" and Failed Unity</ref>, natural philosophy fueled the Romantic idea of the natural world as a giant organism, in stark contrast to the Enlightenment, which saw the natural world as more like a mechanical machine. For more information about natural philosophy and its influence on <hi rend="italic">Frankenstein</hi>, see Patricia Fara’s "<ref target="https://doi.org/10.1016/j.shpsa.2007.06.004">Hidden depths: Halley, Hell and Other People</ref>" or Rebecca Baumann’s "<ref target="https://www.jstor.org/stable/j.ctt22p7j32.11">Mad Science</ref>."
                   </p><ptr target="#natural_philosophyA"/>
             </note>
             <note xml:id="agrippa" type="editorial" resp="NPD">
@@ -7897,7 +7878,60 @@
                   floruit as anywhere between the 9th to 7th centuries BCE. To learn more about
                   Homer, see Suzanne Saïd’s entry in the <ref target="http://classics.oxfordre.com"
                      >Oxford Classical Dictionary</ref>.</p><ptr target="#homerA"/></note>
+            
+            <note xml:id="angelica" type="editorial" resp="AF"><p>
+               <graphic url="http://www.britishmuseum.org/collectionimages/AN01270/AN01270858_001_l.jpg" style="float:right" width="300"/>
+                  Victor references <ref target="https://www.britannica.com/biography/Ludovico-Ariosto">Ludovico Ariosto (1474-1533)</ref>, an Italian poet from the 16th century, when talking about Justine’s "frank-hearted and happy" expression. In <hi rend="italic"><ref target="https://archive.org/stream/orlandofuriosoin01arioiala?ref=ol#page/n5">Orlando Furioso</ref></hi>, the first 10 stanzas of Canto 10 describe the cause of female desirability as resistance and flight, using in stanza 7 a classical hunting metaphor to do so:  "So the keen hunter follows up the hare / In heat and cold, on shore, or mountain-height; / Nor, when 'tis taken, more esteems the prize; / And only hurries after that which flies" (10.7.5-8). While it is not clear that this is "the reason…[for] the beauty of Angelica," Ita Mac Carthy points out in <ref target="https://books.google.com/books?id=HNKB32q1dJoC"><hi rend="italic">Women and the Making of Poetry in Ariosto's Orlando Furioso</hi></ref> (Chapter 3) that Angelica is the "supreme object of [unattainable] desire" who repeatedly flees sexual pursuit and generates the narrative of the poem. Her beauty is described as angelic, and capable of making her suitors--like the titular Orlando--lose their wits. In Ariosto’s epic romance, Angelica is a pagan princess besought by many knights. The image here shows a scene from <hi rend="italic">Orlando Furioso</hi> of a man bending over and holding the hand of a woman, presumably Angelica, who sits on the ground beneath a tree, the trunk inscribed "ANCE MEDO," created by Angelica Kauffman (1740-1807) and hosted by the British museum. 
+            </p><ptr target="#angelicaA"/></note>
+            
+            <note xml:id="switzerland" type="editorial" resp="AF"><p>
+               <graphic url="https://commons.wikimedia.org/wiki/Gen%C3%A8ve#/media/File:Genf_panorama.jpg" style="float:right" width="300"/>
+                  <ref target="https://www.britannica.com/place/Switzerland">Switzerland</ref> is not only the setting of most of the novel but also the place that inspired Mary Shelley to write <hi rend="italic">Frankenstein</hi>. As Switzerland was the birthplace of the novel, many people follow the "Frankenstein Trail" and have written about the experience. See Tony Perrottet’s article in <ref target="https://www.nytimes.com/2011/05/29/travel/lake-geneva-as-byron-and-shelley-knew-it.html"><hi rend="italic">The New York Times</hi></ref> and Nigel Richardson’s in <ref target="https://www.telegraph.co.uk/travel/destinations/europe/switzerland/articles/on-the-frankenstein-trail-in-switzerland/"><hi rend="italic">The Telegraph</hi></ref> for wonderful descriptions of the landscape and countryside. In honor of the 200th anniversary of the novel, an art collective KLAT created and erected a bronze cast statue of the <ref target="https://youtu.be/oKa2-d_9IBU">Creature</ref> in the city of Plainpolis. The image here is a panorama taken by Attila Terbócs of the view of Geneva from the top of St. Peter’s Cathedral and it is hosted on Wikimedia Commons.</p>
+                     <p>In the summer of 1814, Mary Shelley and her then-lover, Percy Shelley, travelled in secret to the continent, visiting France, Switzerland, Germany, and the Netherlands. The couple published a collection of letters about their travels, titled <hi rend="italic"><ref target="https://archive.org/details/sixweekhistoryof00shelrich">History of a Six-Week Tour</ref></hi>. In Letter II, Switzerland is depicted as a place "with more equality of classes...than in England" (103); this interest in the freer and more natural lives of the "lower orders" (103) was also central to the Romantic ideology. <ref target="https://www.bl.uk/collection-items/mary-shelleys-history-of-a-six-weeks-tour">As the discussion of the <hi rend="italic">Six Week History</hi> on the British Library website makes clear</ref>, this idea is "echoed in chapter 6 of <hi rend="italic">Frankenstein</hi>, where Elizabeth writes ‘the lower orders, being neither so poor nor so despised, their manners are more refined and moral’."</p><ptr target="#switzerlandA"/></note>
+            
+            <note xml:id="chimerical" type="editorial" resp="AF"><p><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ligozzi_%28Una_quimera%29.jpg/800px-Ligozzi_%28Una_quimera%29.jpg" style="float:right" width="300"/>
+               Chimeric or chimerical was defined by <ref target="https://www.independent.co.uk/arts-entertainment/books/news/samuel-johnson-google-doodle-who-was-he-dictionary-james-boswell-writer-publisher-wit-a7952616.html">Samuel Johnson</ref> in his <ref target="http://www.bl.uk/learning/langlit/dic/johnson/1755johnsonsdictionary.html">1755 <hi rend="italic">Dictionary of the English Language</hi></ref> as  "<ref target="https://archive.org/stream/dictionaryofengl01johnuoft#page/n373/mode/2up">A vain and wild fancy, as remote from reality as the existence of the poetical <hi rend="italic">Chimera</hi>, a monster feigned to have the head of a lion, the belly of a goat, and the tail of a dragon.</ref>" The image here is a 1590–1610 drawing of a chimera attributed to Jacopo Ligozzi (1547–1627) hosted on Wikimedia Commons.</p>  
+            <ptr target="#chimericalA"/></note>
+            
+            <note xml:id="hell_within" type="editorial" resp="AF"><p>Shelley alludes to Satan's soliloquy upon Mount Niphates in Book IV of John Milton’s <a href="https://www.dartmouth.edu/~milton/reading_room/pl/book_4/text.shtml"><hi rend="italic">Paradise Lost</hi></a>. Milton’s narrator reflects upon Satan’s "dire Attempt" to cause the fall of humankind, characterizing his wrath as "a devillish Engine [that] back recoiles
+               / Upon himself" (IV.17-18). Satan’s "Hell" is an internal, self-perpetuating engine of doubt, pride, and torment recoiling upon itself; " within him Hell / He brings, and round about him, nor from Hell / One step no more then from himself can fly /
+               By change of place" (IV.20-23). For more information about the influence of <i>Paradise Lost</i> in <i>Frankenstein</i>, see <a href="https://www.jstor.org/stable/2933709">John Lamb’s "Mary Shelley's Frankenstein and Milton's Monstrous Myth"</a> and <a href="https://www.bl.uk/collection-items/john-milton-paradise-lost">the overview of <i>Paradise Lost</i>in the "Romantics and Victorians" exhibit at the British Library</a>.</p>
+            <ptr target="#hell_withinA"/></note>
 
+            <note xml:id="paracelsus" type="editorial" resp="AF"><p><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Paracelsus.jpg/800px-Paracelsus.jpg" style="float:right" width="300"/>
+               <ref target="https://www.britannica.com/biography/Paracelsus">Paracelsus</ref>, the adopted name of Philippus Aureolus Theophrastus Bombastus von Hohenheim (1490-1541), was Swiss physician, alchemist, and astrologer of the German Renaissance. He studied medicine and homeopathic cures for disease, as well as alchemy and metals. A free thinker, he believed in learning from more than just academics, and stressed experience as a model for learning. To learn more about Paracelsus’ scientific and medical advancements in the medieval ages see Joseph Borzelleca’s "<ref target="https://academic.oup.com/toxsci/article/53/1/2/1673334">Paracelsus: Herald of Modern Toxicology</ref>". Pictured here  is <hi rend="italic">Paracelsus</hi> by Quentin Matsys from the Musée du Louvre, via Wikimedia Commons.
+</p><ptr target="#paracelsusA"/></note>
+            
+            <note xml:id="philosophers_stone" type="editorial" resp="AF"><p>In the study of alchemy, "<ref target="https://www.britannica.com/topic/philosophers-stone">"the Philosopher’s Stone</ref>" is sometimes referred to as the 5th element (the other four being earth, water, fire, and air). The Stone was understood to turn base metals into gold, and it was thought to be able to create an elixir of life. The Stone has been referenced throughout literature from the Middle Ages to modern popular culture, from Geoffrey Chaucer’s "Yeoman’s Tale" to J.K. Rowling’s <hi rend="italic">Harry Potter</hi>. Prior to the conception of the Creature, Victor's fascination with this stone and its apparent abilities highlights his willingness to step out of the human realm and into the realm of the divine by "penetrating the secrets of nature" (Shelley 38). Outside of <hi rend="italic">Frankenstein</hi>, much has been written about alchemy and the Philosopher’s Stone, but Stanton Linden’s <ref target="https://www.jstor.org/stable/j.ctt130hpvq.13"><hi rend="italic">Darke Hierogliphicks: Alchemy in English Literature from Chaucer to the Restoration</hi></ref> gives an overview of the history of alchemy in literature. To read a book of alchemy from 1754, see <ref target="https://books.google.com/books?id=5eQvAAAAYAAJ"><hi rend="italic">The Life of the Truly Eminent and Learned Hugo Grotius</hi></ref>, by M. de Burigny.
+            </p><ptr target="#philosophers_stoneA"/></note>
+            
+            <note xml:id="steam" type="editorial" resp="AF"><p>This is a direct reference to Erasmus Darwin’s poem, the <hi rend="italic"><ref target="https://books.google.com/books?id=j7hEAAAAYAAJ">Economy of Vegetation</ref></hi>, which explores the new technological innovations and scientific discoveries of the early nineteenth century. In Darwin’s paean to "unconquer’d steam!" (289), he imagines it "[dragging] the slow  barge, or [driving] the rapid car;/ Or on wide-waving wings…[bearing]/ The flying-chariot through the fields of air" (290-292). His poems were helpful to the Romantics’ exploration of science as he combined poetry, the epitome of feeling, with scientific ideas. To see more of Darwin’s influence on the Romantics, see D. King-Hele’s book, <ref target="https://books.google.com/books?id=ZkGvCwAAQBAJ"><hi rend="italic">Erasmus Darwin and the Romantic Poets</hi></ref>.</p><ptr target="#steamA"/></note>
+            
+            <note xml:id="air_pump" type="editorial" resp="AF"><p><graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby%2C_1768.jpg/800px-An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby%2C_1768.jpg" style="float:right" width="300"/>
+               
+               <ref target="https://www.sciencehistory.org/historical-profile/robert-boyle">Robert Boyle (1627-1691)</ref>, the first modern chemist and originator of <ref target="https://www.merriam-webster.com/dictionary/Boyle's%20law">Boyle’s Law</ref>--which describes the inversely proportional relationship between the absolute pressure and volume of a gas--performed experiments in the seventeenth century involving air-pumps, better known today as vacuum pumps. Boyle’s pumps were created to his specific dimensions by Robert Hooke (1635-1703) (also known for the bringing the use of microscopes into the community of scientists). In his (1662) book, <ref target="http://exhibits.library.yale.edu/document/8981"><hi rend="italic">New Experiments Physico-Mechanicall, Touching the Spring of the Air, and its Effects, (Made, for the Most Part, in a New Pneumatical Engine)</hi></ref>, Boyle detailed all of his air-pump experiments, most notably Experiment 41, in which he studied the reactions of animals to a vacuum. In Experiment 41, Boyle placed birds, mice, and other small creatures into the air pump and slowly removed the air to prove the necessity of respiration. While watching a lark in one reiteration of the experiment, he observed: "…the Bird for a while appear'd lively enough; but upon a greater Exsuction of the Air, she began manifestly to droop and appear sick, and very soon after was taken with as violent and irregular Convulsions, as are wont to be observ'd in Poultry, when their heads are wrung off: For the Bird threw her self over and over two or three times, and dyed with her Breast upward, her Head downwards, and her Neck awry" (cite page 98). These experiments intrigued the public. Joseph Wright’s (1734-1797) oil paintings imagined these experiments as subjects of middle-class, domestic education. To read more about Robert Boyle, see Thomas Birch’s biography from 1772, <ref target="https://archive.org/details/bub_gb_LqYrAQAAMAAJ"><hi rend="italic">The works of the Honourable Robert Boyle</hi></ref>. Shelagh Stephenson’s (1955-) play <ref target="https://www.independent.co.uk/life-style/theatre-an-experiment-with-an-airpump-the-royal-exchange-manchester-whats-the-big-idea-1145615.html"><hi rend="italic">An Experiment With an Air Pump</hi></ref>", a play revolving around two overlapping plots 100 years apart which highlight the lack of empathy scientific thought has over human emotions and affections.
+               
+            </p><ptr target="#air_pumpA"/></note>
+            
+            <note xml:id="kite" type="editorial" resp="AF"><p><graphic url="https://static.scientificamerican.com/sciam/assets/media/promo/upload/miq611cart1.jpg" style="float:right" width="300"/>
+               This is a direct allusion to experiments performed by Benjamin Franklin and other scientists during the eighteenth and nineteenth centuries. Ben Franklin was a contemporary of Mary Shelley’s parents, and he influenced the world of politics, culture, and science. Well-known inventing  bifocals, Franklin is also associated in the popular imagination with his electrical experiments involving keys, storms, and kites. Contrary to popular belief, Franklin did not discover electricity, but he connected electrical conduits through substances like water and metal, and he understood that electricity can be held and discharged. Read more about his electrical experiment at  <ref target="https://www.fi.edu/benjamin-franklin/kite-key-experiment">The Franklin Institute</ref>. Franklin’s experiments with electricity were the precursor to Galvani’s and Volta’s experiments with electricity and galvanism. These two scientists sought to prove that electricity could animate deceased matter, namely frogs, but went so far as to momentarily animate the bodies of beheaded criminals. To learn  more about these experiments, read Alan Brown’s "<ref target="https://www.insidescience.org/news/science-made-frankenstein">The Science That Made Frankenstein</ref>." This is not the first time electrical experiments had been referenced in literature;  Erasmus Darwin, whose works are alluded to in <hi rend="italic">Frankenstein</hi> often referenced Franklin, in his <hi rend="italic">Economy of Vegetation</hi>. Darwin describes Franklin as taming lightning through his invention of the lightning rod, for instance: <ref target="https://books.google.com/books?id=j7hEAAAAYAAJ">"-Led by the phosphor-light, with daring tread/ Immortal Franklin sought the fiery bed;/ Where, nursed in night, incumbent Tempest shrouds/ His embryon Thunders in circumfluent clouds" (Canto 2.2 355-358).</ref> To explore more about Darwin, see Stephen Foster’s addition to <ref target="http://www.victorianweb.org/science/edarwin/poetry.html">the Victorian Web</ref>; to learn more about the science of <hi rend="italic">Frankenstein</hi>, see Sharon Ruskin’s <ref target="https://www.bl.uk/romantics-and-victorians/articles/the-science-of-life-and-death-in-mary-shelleys-frankenstein">article from the British Library</ref>. The image used is a comic from Dwayne Godwin and Jorge Cham hosted on Scientific American.
+            </p><ptr target="#kiteA"/></note>
+            
+            <note xml:id="faces" type="editorial" resp="AF"><p>This is a direct allusion to Charles Lamb’s (1775-1834) poem, <ref target="https://www.poetryfoundation.org/poems/44519/the-old-familiar-faces">"Old Familiar Faces"</ref>, a poem about Lamb looking back on his life through the lens of nostalgia. Victor uses the allusion at this point in the text because he is retelling his story from a similar place once he leaves his family and friends, will never find them or return to them the same way again. </p><ptr target="#facesA"/></note>
+            
+            <note xml:id="1818" type="editorial" resp="AF"><p>The first edition of <hi rend="italic">Frankenstein</hi> was written while Mary Shelley was in the prime of her life, but it was published in January of 1818, shortly after she buried her first child. The second edition, published in 1831, came after the loss of her husband, most of her children, and her family. There are many differences between the two texts, which <ref target="http://juxtacommons.org/shares/Nme50n">can be viewed</ref> in Dana Wheeles’ public Juxta collation. One of the main structural differences between the texts is the loss of the three volumes found in the 1818 edition. In the 1831 edition, after the first four letters, the chapters are numbered 1-24, which not only removes the multiple volumes but also obscures the separated narratives of Victor, the Creature, and Walton. Another noticeable difference comes from the removal of the epigraph from Milton’s <hi rend="italic">Paradise Lost</hi>, which, in the beginning of the 1818 edition, announces the key theme of the novel. Its removal from the 1831 edition obscures the importance of the allusions to Milton’s work throughout the novel. In the <ref target="https://www.rc.umd.edu/editions/frankenstein/1831v1/intro">newly-added forward to the 1831 edition</ref>, Mary Shelley wrote, somewhat disingenuously, "I have changed no portion of the story, nor introduced any new ideas or circumstances." Shelley in fact makes many changes that drastically change the interpretation and meaning of the text. </p>
+               <p>First, many of the scientific ideas written about in the 1818 edition are removed, detaching the novel from an intellectual context and further pressing it into the fantastical. Shelley also removes many of Elizabeth’s more independent thoughts about women’s rights as well as her indictment of the justice system in regards to Justine. Finally, one of the largest differences between the editions is Victor Frankenstein’s character. Whereas in the 1818 edition, Victor’s own hubris is to blame for the outcome of the Creature, in the 1831 edition, Victor is at the mercy of fate or chance.</p>
+               <p>To explore more about the differences between the editions,  see Jill Lepore’s article in <hi rend="italic">The New Yorker</hi>, <ref target="https://www.newyorker.com/magazine/2018/02/12/the-strange-and-twisted-life-of-frankenstein">"The Strange and Twisted Life of <hi rend="italic">Frankenstein</hi>"</ref>, Jacqueline Foertsch’s <ref target="https://www.jstor.org/stable/1350098">The Right, the Wrong, and the Ugly: Teaching Shelley's Several "Frankensteins"</ref>, or James O’Rourke’s <ref target="https://www.jstor.org/stable/25601400">"The 1831 Introduction and Revisions to <hi rend="italic">Frankenstein</hi>: Mary Shelley Dictates Her Legacy</ref>. To explore visual differences between the texts, see the <ref target="http://shelleygodwinarchive.org/contents/frankenstein/">Shelley-Godwin Archive</ref>, which compares facsimiles of the original manuscripts, and Brigit Katz’ article for <hi rend="italic">The Smithsonian Magazine</hi>, <ref target="https://www.smithsonianmag.com/smart-news/frankenstein-manuscript-shows-evolution-mary-shelleys-monster-180968240/">"‘Frankenstein’ Manuscript Shows the Evolution of Mary Shelley’s Monster"</ref>.</p><ptr target="#1818A"/></note>
+            
+            <note xml:id="microscope" type="editorial" resp="AF"><p><graphic url="https://www.bl.uk/britishlibrary/~/media/bl/global/dl%20shakespeare/renaissance%20items/micrographia-by-robert-hooke-435_e_19_facing_p210.jpg" style="float:right" width="300"/>
+               While the idea of lenses and magnification dates far back in time, the earliest known examples of compound microscopes appeared in Europe around 1620, as explained in David Bardell’s article “<ref target="https://www.jstor.org/stable/4608700">The Invention of the Microscope</ref>." The inventor of the microscope is unknown, yet many have claimed it--including Galileo. However, it wasn’t until <ref target="https://www.britannica.com/biography/Robert-Hooke">Robert Hooke</ref> (1635-1703) published <ref target="https://archive.org/details/mobot31753000817897"><hi rend="italic">Micrographia</hi></ref> (1665) that the use of the microscope became accepted and adopted by the scientific community. Hooke held titles such as scientist, astronomer, philosopher, architect and inventor, and was a polymath. In his book, Hooke describes in minute detail the visions of insects, leaves, and other objects, accompanying many of his descriptions with richly detailed illustrations. is work has contributed to cell theories and even helped create the discipline of paleontology. The image used is one of many that can be viewed, hosted by the <ref target="https://www.bl.uk/collection-items/micrographia-by-robert-hooke-1665">British Libraries online collection.</ref></p><ptr target="#microscopeA"/></note>
+            
+            <note xml:id="powers" type="editorial" resp="AF"><p>This language of  “unlimited powers" refers an idea perhaps best expressed in a <ref target="https://founders.archives.gov/documents/Franklin/01-31-02-0325">letter</ref> from <ref target="https://www.britannica.com/biography/Benjamin-Franklin">Benjamin Franklin</ref> to Joseph Priestley in 1780. Franklin writes, “It is impossible to imagine the height to which may be carried in a thousand years, the power of man over matter. We may perhaps learn to deprive large masses of their gravity, and give them absolute levity, for the sake of easy transport." This sentiment is reiterated in both Godwin’s <hi rend="italic">Political Justice</hi> and Humphry Davy’s “<ref target="https://play.google.com/books/reader?id=xAtQAAAAcAAJ">Lectures on Chemistry</ref>." During this time science was thought to be a source of unlimited powers. The idea that science was all powerful forms an important context for Shelley’s <hi rend="Italic">Frankenstein</hi>. Mary Shelley would have been very aware of Franklin’s experiments with electricity. Her mother, Mary Wollstonecraft was tutored Dr. Richard Price (a supporter of the American Revolution) and uses the same publisher as Franklin, Joseph Johnson. Her father, William Godwin, was a member of the Royal Society of London, of which Franklin was also a member. For more information on the reach of Ben Franklin’s experiments and his views of science, see <hi rend="italic"><ref target="https://books.google.com/books?id=xS9jvWe26OoC">Draw the Lightning Down: Benjamin Franklin and Electrical Technology in the Age of Enlightenment</ref></hi> by Michael Schiffer.</p><ptr target="#powersA"/></note>
+            
+            <note xml:id="lightning" type="editorial" resp="AF"><p>In order to truly explain the Romantic imagery throughout the text, one must have a full understanding of what constitutes Romanticism. Romanticism has little to do with feelings of romance and more to do with a philosophical way of thinking that prioritizes imagination, nature, and the self. Romanticism began in England and Germany (two countries not home to the romance languages begotten from Vulgar Latin), most notably with the poets <ref target="https://www.poets.org/poetsorg/poet/william-wordsworth">William Wordsworth</ref>, <ref target="https://www.poetryfoundation.org/poets/john-keats">John Keats</ref>, <ref target="https://www.britannica.com/biography/Samuel-Taylor-Coleridge">Samuel Taylor Coleridge</ref>, and <ref target="https://www.britannica.com/biography/Johann-Wolfgang-von-Goethe">Johann Wolfgang von Goethe</ref>. The early Romantic period is one of revolutionary thought heavily influenced with the American and French revolutions. These revolutions are important to note as they changed the political and individual structure and thought of their countries, overthrowing monarchies and creating democracies. The Romantics valued imagination over reason as the imagination was the primary method of creation. Nature, to the Romantics, was a work of art created by the divine imagination, full of symbolism and meaning. Nature plays a central symbolic  role in <hi rend="italic">Frankenstein</hi>. Victor’s mood is often reflected in the nature he observes around him, and once he creates the Creature, he describes  storms and ominous natural elements meant to instill foreboding in the reader. However, nature is also beautiful and could only be created by a higher power, so while it mimics Victor’s interior state of duress, it is also a reminder that something is a more powerful and a better creator than Victor, whose creation is “grotesque" and “malformed." To learn more about Romanticism, read Glen Levin Swiggett’s article <ref target="https://www.jstor.org/stable/27530553">"What is Romanticism?"</ref> or explore the <ref target="https://www.bl.uk/romantics-and-victorians/themes/romanticism">British Library’s resources on Romanticism</ref>.</p><ptr target="#lightningA"/></note>  
+            
+            <note xml:id="swiss_alps" type="editorial" resp="AF"><p><graphic url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Francis_Towne_001.jpg" style="float:right" width="300"/>The Swiss Alps (including the Central and the Bernese Alps) are a region in central Europe with expansive mountains, considered both beautiful and dangerous, that span most the southern and eastern area of Switzerland. The Jura are a range of mountains in the northwest following the France-Switzerland border forming the watersheds for both the Rhone and Rhine basins. These two ranges make up the majority of the natural setting within the novel. Among the peaks named in the novel are Mont Blanc (the highest), Mole, and Mont Saleve. Montanvert is also part of the Alps, but is the eighteenth-century name for Mer de Glace, a glacier on the Mont Blanc massif. <ref target="https://www.bl.uk/romantics-and-victorians/articles/landscape-and-the-sublime">Romantic artists--including Percy Shelley, Coleridge, J.M.W. Turner, and others--frequently visited, wrote about, and painted this sublime landscape.</ref> The image here shows landscape artist Francis Towne’s (1739-1816) <hi rend="italic">Arveyron River on the Mer de Glace</hi> (1781), via Wikimedia Commons. <ref target="http://francistowne.ac.uk/collection/list-of-works/glacier-from-montanvert/page/16">See more works depicting the area described in <hi rend="italic">Frankenstein</hi> in Richard Stephens’ Catalogue Raisonné of Francis Towne.</ref></p><ptr target="#swiss_alpsA"/></note>
+            
          </div>
       </back>
       <tooltip_notes>
