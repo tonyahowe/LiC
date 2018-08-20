@@ -38,7 +38,7 @@
                     <email>jobrien@virginia.edu</email>
                 </distributor>
                 <authority>
-                    <idno>Philips-To</idno>
+                    <idno>Philips-God</idno>
                 </authority>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Published by Literature in Context under a Creative Commons                             Attribution-ShareAlike 4.0 Unported License</licence>
@@ -102,44 +102,44 @@
                 <author>Katherine Philips</author>
                     
                     <lg type="stanza">
-                        <l>When God, <ref target="a002" corresp="n002">contracted</ref> <note xml:id="n002" target="a002">a "contract", indicating a formal obligation</note>to Humanity,</l> 
+                        <l>When God, contracted to Humanity,</l> 
                         <l>Could sigh and suffer, could be sick and die;</l>
                         <l>When all the heap of Miracles combin'd</l>
-                        <l>To form the greatest, which was, <ref target="a003" corresp="n003">save Mankind</ref><note xml:id="n003" target="a003">Saving Mankind as being the "greatest Miracle", indicating authorial commentary on the state on mankind</note>:</l> 
+                        <l>To form the greatest, which was, save Mankind:</l> 
                         <l>Then God took stand in Christ, studying a way</l>
-                        <l>How to repair the Ruin'd World's <ref target="a004" corresp="n004">decay</ref><note xml:id="n004" target="a004">again, the authorial language -- "decay", indicating something that was once new has now rotted; a loss of quality</note>.</l> 
+                        <l>How to repair the Ruin'd World's decay.</l> 
                         <l>His Love, Pow'r, Wisdom, must some mean procure</l>
                         <l>His Mercy to advance, Justice secure:</l>
-                        <l>And since Man in Misery was <ref target="a006" corresp="n006">hurl'd</ref><note xml:id="n006" target="a006">"hurl'd" suggests forceful, nonwilling movement-- a potential reference to Adam and Eve ("Man") being hurled from the Garden of Eden into the world ("Misery")</note>,</l> 
-                        <l>It cost him more to save then make the World.</l> 
-                        <l>Oh! what a desp'rate load of sins had <ref target="a007" corresp="n007">we</ref><note xml:id="n007" target="a007">"We" -- speaker is not passive, but rather identifies as part of humanity</note>,</l> 
-                        <l>When God must plot for our Felicity?</l> 
-                        <l>When <ref target="a008" corresp="n008">God must beg us</ref><note xml:id="n008" target="a008">Relationship dynamic of humans as being their own downfall, with God in the position of savior</note> that he may forgive,</l> 
-                        <l>And <ref target="a009" corresp="n009">dye himself</ref><note xml:id="n009" target="a009" >Emphasis on God as giving -- God creates earth and man, then dies for man</note> before Mankind could live?</l> 
-                        <l>And what still are we, when our <ref target="a010" corresp="n010">King</ref><note xml:id="n010" target="a010" >God as sovereign ruler--a very literal translation of the "divine ruler" connotation of king(?)</note> in vain</l>
+                        <l>And since Man in Misery was <ref target="a002" corresp="n002">hurl'd</ref><note xml:id="n002" target="a002">(draft)A potential reference to Adam and Eve ("Man") being hurled from the Garden of Eden into the world ("Misery")</note>,</l> 
+                        <l><ref target="a003" corresp="n003">It cost him more to save then to make the World</ref><note xml:id="n003" target="a003">(DRAFT) What did it cost him? Is this the death of Jesus?</note>.</l> 
+                        <l>Oh! what a desp'rate load of sins had we,</l> 
+                        <l>When God must plot for our <ref target="a004" corresp="n004">Felicity</ref><note xml:id="n004" target="a004">Happiness. Source: Oxford English Dictionary</note>?</l> 
+                        <l>When <ref target="a005" corresp="n005">God must beg us</ref><note xml:id="n005" target="a005">(DRAFT)Relationship dynamic of humans as being their own downfall, with God in the position of savior.</note> that he may forgive,</l> 
+                        <l>And dye himself before Mankind could live?</l> 
+                        <l>And what still are we, when our <ref target="a006" corresp="n006">King</ref><note xml:id="n006" target="a006">God as a sovereign ruler; a very literal translation of the "divine ruler."</note> in vain</l>
                         <l>Begs his lost Rebels to be Friends again?</l> 
                         <l>What flouds of Love proceed from Heaven's smile,</l>
                         <l>At once to pardon and to reconcile?</l>
                         <l>What God himself hath made he cannot hate,</l>
-                        <l>For 'tis one act <ref target="a011" corresp="n011">to Love and to Create:</ref><note xml:id="n011" target="a011" >Characterization of God as ultimately giving--despite Philips repeating how humanity is damning itself, God is never portrayed as upset, only understanding</note></l> 
+                        <l>For 'tis one act to Love and to Create:</l> 
                         <l>And he's too perfect full of Majesty,</l>
-                        <l>To need additions from <ref target="a012" corresp="n012">our Misery.</ref><note xml:id="n012" target="a012" >Establishes human state as Misery (also, line 9, "since Man in Misery was hurl'd")</note></l> 
-                        <l>He hath <ref target="a012" corresp="n013">a Father's, not a Tyrant's,</ref><note xml:id="n013" target="a013" > References God as "our King" and "a Father", but removes negative connotations (not a "Tyrant")-- portrays God as being in a natural, uncontested position of power</note> joy;</l> 
+                        <l>To need additions from our Misery.</l> 
+                        <l>He hath a Father's, not a Tyrant's, joy;</l> 
                         <l>Shews more his Pow'r to save, than to destroy.</l>
                         <l>Did there ten thousand Worlds to ruine fall,</l>
                         <l>One God could save, one Christ redeem them all.</l>
-                        <l>Be silent then, ye narrow Soulds, take heed</l>
-                        <l>Left you restrain the <ref target="a014" corresp="n014">Mercy</ref><note xml:id="n014" target="a014">Again, humans as self-sabotaging -- they will need "Mercy", but might prevent themselves from achieving it by their own actions against God</note> you will need.</l> 
+                        <l>Be silent then, ye narrow <ref target="a007" corresp="n007">Soulds</ref><note xml:id="n007" target="a007">(DRAFT) I don't understand what this is meant to be</note>, take heed</l>
+                        <l>Lest you restrain the Mercy you will need.</l> 
                         <l>But, O my Soul, from these be different,</l> 	
-                        <l>Imitate thou a nobler <ref target="a015" corresp="n015">Precedent:</ref><note xml:id="n015" target="a015" >precedent: an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances (Dictionary.com)</note>	</l> 
+                        <l>Imitate thou a nobler <ref target="a008" corresp="n008">Precedent:</ref><note xml:id="n008" target="a008">An earlier event or action that is to serve as an example. Source: Oxford English Dictionary</note>	</l> 
                         <l>As God with open Arms the World does woo,</l>
                         <l>Learn thou like God to be enlarged too;</l>
-                        <l>As he begs thy <ref target="a016" corresp="n016">consent to pardon thee,</ref><note n="n016" target="a016" >"consent" and "pardon" indicates procedure (plus line 1, "contract") -- that humans must consent to their own salvation</note></l> 
-                        <l>Learn to submit unto <ref target="a017" corresp="n017">thy Enemy;</ref><note xml:id="n017" target="a017" >"thy Enemy" as God</note></l> 		                        
+                        <l>As he begs thy consent to pardon thee,</l> 
+                        <l>Learn to submit unto <ref target="a009" corresp="n009">thy Enemy;</ref><note xml:id="n009" target="a009" >(DRAFT is this right?)"thy Enemy" as God</note></l> 		                        
                         <l>As he stands ready thee to entertain,</l>		
                         <l>Be thou as forward to return again;</l>
-                        <l>As he was Crucify'd for thee and <ref target="a018" corresp="n018">by thee</ref><note xml:id="n018" target="a018" >The speaker emphasizes that humans are their own downfall through their sin. Despite this, it was humanity's "sin" of disbelief and hate that led to the crucifition of Jesus, which in turn led to the pardoning of all human sin. In this instance, did humanity's sin prompt their own salvation? Is the speaker indicating that sin is so integrally human that God accounted for sin as the tool to provoking humanity's salvation through Jesus's murder?</note>		</l> 
-                        <l xml:id="a019" corresp="n019">Crucifie thou what caus'd his Agony;</l> <note xml:id="n019" target="a019">Speaker ends with a suggestion to the audience--a "moral" poem, as it were</note>
+                        <l>As he was Crucify'd for thee and by thee</l> 
+                        <l>Crucifie thou what caus'd his Agony;</l> 
                         <l>And like to him be mortify'd to sin,</l>
                         <l>Die to the World as he dy'd for it then.</l>
                     </lg>
