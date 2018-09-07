@@ -1,0 +1,64 @@
+/* Application styles could go here */
+footer .poweredby { float: right; margin: 33px 10px 0 0; clear:both;}
+footer .poweredby img { width: 120px; }
+
+/* General formatting */
+.indent {margin-left:1.5em;}
+.indent-large {margin-left:4em;}
+.page-content {margin: 1em 4em;}
+
+/* Right Menu/toolbox */
+.fixed {position:fixed; margin:2em;}
+
+/* Search and browse results */
+form#search {margin-top:-1.5em; padding-top:0;}
+.result {display:block; border-bottom:1px solid #ccc; margin:1em; padding: 1em;}
+.results-list-desc {display:block;}
+.checkbox {margin:0;}
+.result-kwic {display:block; padding:1em 2em;}
+.param {font-weight:500;}
+
+/*.query-value {font-family: "Courier 10 Pitch", Courier, monospace;}*/
+.param {font-weight:600;}
+
+/* Coursepack page styles */
+.toolbar {margin-right:.5em;}
+
+/* Work styles */
+.pageImages {display:block; margin:1em; padding:1em;}
+.pageImage {display:block; margin:1em; padding:1em;}
+.caption {display:block; font-size:small; text-align:center;}
+.footnote {display:none;}
+.footnoteRef {    
+    font-size: .75em;
+    line-height: 0.5em;
+    vertical-align: baseline;
+    position: relative;
+    }
+#footnoteDisplay {
+    display:none; 
+    position: fixed;
+    padding: 1em;
+    min-height: 25px;
+    min-width: 25px;
+    max-width: 55%;
+    background-color:white;
+    border:1px solid #ccc;
+    top:125px;
+    box-shadow: 8px 8px 3px #999;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+}    
+
+/* TEI styles */
+.tei-teiHeader{display:block; margin:1em; text-align:center;}
+.tei-titleStmt .tei-title {display:block;font-size:large; font-weight:600; margin:1em; padding:1em;}
+.tei-body {display:block; margin:1em;}
+.tei-body .tei-head {display:block; font-weight:500; font-size:1.25em;}
+.tei-author {font-weight:500;}
+.tei-lg {display:block; margin:1em 0;}
+.tei-l {display:block;}
+.tei-pb {display:block; margin:1em 0; border-top:1px double #ccc; text-align:center;}
