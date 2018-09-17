@@ -134,14 +134,14 @@
                     <l>Strong forts from the <hi type="italics">Spanish</hi> and <hi type="italics">Italian</hi> braules,</l>
                     <l>And huge great <ref target="a005" corresp="n005"><hi type="italics">Taurus</hi></ref><note xml:id="n005" target="a005">Taurus is the second Zodiac constelaltion, the Bull. Source: Oxford English Dictionary</note>, longer then the rest,</l>
                     <l>Dividing great <hi type="italics">Armenia</hi> from the least,</l>
-                    <l>And <ref target="a006" corresp="n006"><hi type="italics">Hemus</hi>(DRAFT) Hemus is an area in Sweden.</ref>, whose steep sides, none foote upon,</l>
+                    <l>And <ref target="a006" corresp="n006"><hi type="italics">Hemus</hi></ref><note xml:id="n006" target="a006">(DRAFT) Hemus is an area in Sweden.</note>, whose steep sides, none foote upon,</l>
                     <l>But farewell all, for deare mount <hi type="italics">Helicon</hi>,</l>
                     <l>And wonderous high <hi type="italics">Olimpus</hi>, of such fame,</l>
                     <l>That heaven selfe was oft call'd by that name;</l>
-                    <l>Sweet <ref target="a007" corresp="n007"><hi type="italics">Parnassus</hi>Mount Parnassus is regarded as a source of poetic and other literary inspiration. Source: Oxford English Dictionary</ref>, I dote too much on thee,</l>
+                    <l>Sweet <ref target="a007" corresp="n007"><hi type="italics">Parnassus</hi></ref><note xml:id="n007" target="a007">Mount Parnassus is regarded as a source of poetic and other literary inspiration. Source: Oxford English Dictionary</note>, I dote too much on thee,</l>
                     <l>Unless thou prove a better friend to me;</l>
                     <l>But ile skip o're these Hills, not touch a <ref target="a008" corresp="n008">Dale</ref><note xml:id="n008" target="a008">A valley. Source: Oxford English Dictionary</note>,</l>
-                    <l>Nor yet <ref target="a009" corresp="n009">expatiate</ref><note xml:id="n009" corresp="n009">Walk about or roam. Source: Oxford English Dictionary</note>, in Temple vale;</l>
+                    <l>Nor yet <ref target="a009" corresp="n009">expatiate</ref><note xml:id="n009" target="a009">Walk about or roam. Source: Oxford English Dictionary</note>, in Temple vale;</l>
                     <l>Ile here let goe, my Lions of <hi type="italics">Numedia</hi>,</l>
                     <l>My Panther, and my leopards of <hi type="italics">Libia</hi>,</l>
                     <l>The Behemoth, and rare found Unicorne,</l>
