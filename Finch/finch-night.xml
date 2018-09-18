@@ -142,7 +142,7 @@
    <text>
       <front>
          <titlePage>
-            <pb n="[titlepage]" facs="images/FN-TP-1714.jpg"/>
+            <pb n="[titlepage]" facs="FN-TP-1714.jpg"/>
             <titlePart>POEMS <lb/></titlePart>
             <titlePart>ON<lb/> Several Occasions, <hi rend="italic">viz.</hi>.<lb/></titlePart>
             <p>[...]</p>
@@ -163,7 +163,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="200" facs="images/FN-200.jpg"/>
+            <pb n="200" facs="FN-200.jpg"/>
             <head type="title"><hi rend="italic">To the </hi><ref target="#nightingale"
                xml:id="nightingaleA"><rs content="#nightingale">NIGHTINGALE</rs></ref>.</head>
             <lg type="rhymed couplets">
@@ -175,7 +175,7 @@
                <l n="5" rend="indent">Free as thine shall be my Song;</l>
                <l n="6" rend="indent">As thy Musick, short, or long.</l>
                <l n="7">Poets, wild as thee, were born,</l>
-               <pb facs="images/FN-201.jpg"/>
+               <pb facs="FN-201.jpg"/>
                <l n="8" rend="indent">Pleasing best when unconfin'd,</l>
                <l n="9" rend="indent">When to Please is least design'd,</l>
                <l n="10">Soothing but their Cares to rest;</l>
@@ -196,7 +196,7 @@
                   shake thy Throat.</l>
                <l n="24">Hark! Division now she tries;</l>
                <l n="25">Yet as far the Muse outflies </l>
-               <pb facs="images/FN-202.jpg"/>
+               <pb facs="FN-202.jpg"/>
                <l n="26" rend="indent">Cease then, prithee, cease thy Tune;</l>
                <l n="27" rend="indent">Trifler, wilt thou sing till <hi rend="italic">June?</hi></l>
                <l n="28">Till thy Bus'ness all lies waste,</l>
@@ -284,7 +284,7 @@
                   Portrait Gallery, London.<ptr target="#finchA"/></p></note>
             <note xml:id="nightingale" type="editorial" resp="TH">
                <p><graphic
-                     url="https://www.rspb.org.uk/globalassets/images/birds-and-wildlife/bird-species-illustrations/nightingale_1200x675.jpg"
+                     url="https://www.rspb.org.uk/globalassets/birds-and-wildlife/bird-species-illustrations/nightingale_1200x675.jpg"
                      style="float:right" width="300"/>The nightingale is a small bird native to
                   Europe and Asia, with a population in the United Kingdom as well as Africa. It is
                   known for its beautiful, complex song, characterized by <ref
@@ -404,7 +404,7 @@
             </span>
             <span id="nightingale">
                <p>
-                  <img src="https://www.rspb.org.uk/globalassets/images/birds-and-wildlife/bird-species-illustrations/nightingale_1200x675.jpg" width="100%"/>The nightingale is a small bird native to
+                  <img src="https://www.rspb.org.uk/globalassets/birds-and-wildlife/bird-species-illustrations/nightingale_1200x675.jpg" width="100%"/>The nightingale is a small bird native to
                   Europe and Asia, with a population in the United Kingdom as well as Africa. It is
                   known for its beautiful, complex song, characterized by <a href="https://www.rspb.org.uk/birds-and-wildlife/wildlife-guides/bird-a-z/nightingale">"a fast succession of high, low and rich notes that few other species can
                      match,"</a> and for that reason has long been associated with poets and
