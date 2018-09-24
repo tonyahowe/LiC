@@ -148,7 +148,8 @@
             <p>[...]</p>
             <titlePart><ref target="a001" corresp="n001">Written by the Right Honorable <hi
                      rend="italic">ANNE</hi>,<lb/> Countess of <hi rend="italic"
-                        >Winchelsea</hi></ref><note xml:id="n001" target="a001" type="headnote" resp="#JW"><note xml:id="n001" target="a001" type="headnote" resp="#JW"><p><graphic
+                        >Winchelsea</hi></ref><note xml:id="n001" target="a001" type="headnote" resp="#JW">
+                           <p><graphic
                            url="https://collectionimages.npg.org.uk/large/mw06861/Anne-Finch-Countess-of-Winchilsea.jpg"
                            style="float:right" width="300"/> Anne Finch, Countess of Winchilsea,
                               was born in April 1661 to Anne Haselwood and Sir William Kingsmill. At age
@@ -259,7 +260,7 @@
                <l n="1">EXert thy Voice, Sweet Harbinger of Spring</l>
                <l n="2" rend="indent">This Moment is thy Time to Sing,</l>
                <l n="3" rend="indent">This Moment I attend to Praise,</l>
-               <l n="4">And <ref target="a003" corresp="n003">set my Numbers</ref><note xml:id="n003" target="a003"type="editorial" resp="#TH"><p>"Numbers" refers to the metrical
+               <l n="4">And <ref target="a003" corresp="n003">set my Numbers</ref><note xml:id="n003" target="a003" type="editorial" resp="#TH"><p>"Numbers" refers to the metrical
                      quality of poetic verse; it also <ref
                         target="https://www.poetryfoundation.org/learn/glossary-terms/metonymy"
                         >metonymically</ref> signifies poetry in general. In <ref
