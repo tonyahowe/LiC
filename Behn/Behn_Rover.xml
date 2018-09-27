@@ -343,7 +343,8 @@
                 </castList>
                <lb/><lb/>
                
-                <stage>The Scene <ref target="a012" corresp="n012">NAPLES</ref><note xml:id="n012" target="a012">(DRAFT-Needs Picture)One of Behn's first significant changes to her source play by Thomas Killigrew is moving the action from Madrid to Naples, rendering the action perhaps even more exotic than in the original. At this time, Naples was ruled by Spain, which explains why so many characters in the play have been traveling back and forth between Naples and places like Madrid and Pamplona. Image: Claude Vernet, View of the Bay of Naples, 1747 (Wikimedia Commons) "img src="http://virginia-anthology.org/home/virgin1/Anthology_texts/Behn_Aphra/Naples-vernet.jpg"</note>, in Carnival time.</stage>
+                <stage>The Scene <ref target="a012" corresp="n012">NAPLES</ref><note xml:id="n012" target="a012">(DRAFT-Needs Picture)One of Behn's first significant changes to her source play by Thomas Killigrew is moving the action from Madrid to Naples, rendering the action perhaps even more exotic than in the original. At this time, Naples was ruled by Spain, which explains why so many characters in the play have been traveling back and forth between Naples and places like Madrid and Pamplona. Source: Wikipedia 
+                   Image: Claude Vernet, View of the Bay of Naples, 1747 (Wikimedia Commons) "img src="http://virginia-anthology.org/home/virgin1/Anthology_texts/Behn_Aphra/Naples-vernet.jpg"</note>, in Carnival time.</stage>
             </div>
         </front>
        
@@ -818,8 +819,7 @@ know, what I've resolv'd in favour of him.</l>
                
                <sp>
                   <speaker>Frederick</speaker>
-                   <l>Whe what the Devil ails the <ref target="a044" corresp="n044">Coll.</ref><note xml:id="n044" target="a044">(DRAFT Is this actually abbreviated in the speech or is it written that way, but they would say "Colonel")=Colonel</note> In a time when all
-                       the World is gay, to look like meer <ref target="a045" corresp="n045"><hi>Lent</hi></ref><note xml:id="n045" target="a045">Fredrick is implying that those who partake in Lent are  melencholy and unsatisfied, the traits that Belvile is already displaying, several days before Lent has officially started.</note> thus? Had'st thou been
+                   <l>Whe what the Devil ails the colonel, in a time when all the World is gay, to look like meer <ref target="a045" corresp="n045"><hi>Lent</hi></ref><note xml:id="n045" target="a045">Fredrick is implying that those who partake in Lent are  melencholy and unsatisfied, the traits that Belvile is already displaying, several days before Lent has officially started.</note> thus? Had'st thou been
 long enough in <hi>Naples</hi> to have been in Love, I shou'd have sworn
 some such Judgment had befall'n thee.</l>
                </sp> <lb/>
@@ -863,7 +863,7 @@ Wou'd not that revive you?</l>
                
                <sp>
                   <speaker>Blunt</speaker>
-                  <l>Nay, <ref target="a047" corresp="n047">'Sheartlikins</ref><note xml:id="n047" target="a047">(DRAFT) What does this mean?</note>, then thou'rt past Cure.</l>
+                  <l>Nay, <ref target="a047" corresp="n047">'adsheartlikins</ref><note xml:id="n047" target="a047">(DRAFT) What does this mean?</note>, then thou'rt past Cure.</l>
                </sp> <lb/>
                
                <sp>
@@ -2093,19 +2093,13 @@ Month?</l>
                   <l>See, here's more Company, let's walk off a while.</l>
                </sp> <lb/>
                
-               <stage>[<hi>Ex.</hi> <ref target="a079" corresp="n079">English.</ref><note xml:id="n079" target="a079">(DRAFT) Who is this? All the englishmen?</note></stage>
-               
-               <stage>Don Pedro <hi>Reads.</hi>
-               </stage>
-               
-               <stage>Enter <hi>Angellica</hi> and <hi>Moretta</hi> in the Balcone, and draw a
-Silk Curtain.</stage>
+               <stage>[<hi>Exeunt</hi> Belvile, Willmore, Frederick, and Blunt; Pedro Reads.</stage>
                
                <sp>
                   <speaker>Pedro</speaker>
                   <l>Fetch me a thousand Crowns, I never wisht to buy this
 Beauty at an easier rate.</l>
-                  <stage>passes off.</stage>
+                  <stage>passes off [the stage] Enter <hi>Angellica</hi> and <hi>Moretta</hi> in the Balcone, and draw a silk curtain</stage>
                </sp> <lb/>
                
                <sp>
@@ -4407,8 +4401,6 @@ what to do—this rude Man has undone us.</l>
                
                <stage>Enter <hi>Pedro, Stephano,</hi> and other Servants with Lights.</stage>
             
-            <!-- Check this line it originally said "oSo, who e're they be"-->
-            
                <sp>
                   <speaker>Pedro</speaker>
                   <l>I'm betrayed! run <hi>Stephano</hi> and see if <hi>Florinda</hi> be safe?
@@ -4434,8 +4426,8 @@ no harm. I would not awake her Sir, for fear of frighting her with your danger.<
                
                <sp>
                   <pb n="44" facs="tcp:98343:25"/>
-                  <speaker>Red.</speaker> 
-                  <l><ref target="a131" corresp="n131">Check This</ref><note xml:id="n131" target="a131">(DRAFT) Who is red? Was this supposed to be Pedro</note>I'm glad she's there—Rascals how came the Garden
+                  <speaker>Pedro</speaker> 
+                  <l>I'm glad she's there—Rascals how came the Garden
 Door open?</l>
                </sp> <lb/>
                
@@ -4593,7 +4585,7 @@ need thy Aid.</l>
                
                <sp>
                   <speaker>Willmore</speaker>
-                  <l>This you say is <ref target="a135" corresp="n135"><hi>Angellicas</hi></ref><note xml:id="n135" target="a135">(DRAFT) Should this be possessive</note> House, I promis'd the kind
+                  <l>This you say is Angellica's House, I promis'd the kind
 Baggage to lye with her to Night.</l>
                </sp> <lb/>
                
@@ -4784,7 +4776,7 @@ him to my Appartment, till you have farther Orders from me.</l>
             
                <sp>
                   <speaker>Belvile</speaker>
-                  <l><ref target="a140" corresp="n140">VVHen</ref><note xml:id="n140" target="a140">(DRAFT) Is this really how this is done </note> shall I be weary of railing on Fortune, who
+                  <l>When shall I be weary of railing on Fortune, who
 is resolv'd never to turn with smiles upon me
 —Two such defeats in one Night—none but the Devil, and
 that mad Rogue cou'd have contriv'd to have plagu'd me with
@@ -5478,7 +5470,7 @@ will not draw on him.</l>
                
                <sp>
                   <speaker>Moretta</speaker>
-                  <l>I told you what wou'd come ou't, <ref target="a142" corresp="n142">but</ref><note xml:id="n142" target="a142">(DRAFT) Should that really be Moretta after this</note> <hi>Moretta</hi>'s an
+                  <l>I told you what wou'd come ou't, but <hi>Moretta</hi>'s an
 old doating Fool—why did you give him five Hundred Crowns,
 but to set himself out for other Lovers! you shou'd have kept him
 Poor, if you had meant to have had any good from him.</l>
@@ -5628,6 +5620,7 @@ love him!—Pray good grave Gentle woman is <ref target="a146" corresp="n146">no
                
                <sp>
                   <speaker>Angellica</speaker>
+                  <stage>To Moretta</stage>
                   <l>I will not speak with him; am I in humour to receive a
 Lover.</l>
                </sp> <lb/>
@@ -5654,8 +5647,7 @@ so ungratefully?</l>
                
                <sp>
                   <speaker>Angellica</speaker>
-                  <l>Come hither, Boy—that I may let you see</l>
-                  <l>How much <ref target="a148" corresp="n148">adove</ref><note xml:id="n148" target="a148">(DRAFT) Does this read as adove or above in the first version</note> the advanges you name</l>
+                  <l>Come hit above the advanges you name</l>
                   <l>I prize one Minutes joy with you.</l>
                </sp> <lb/>
                
@@ -6458,7 +6450,7 @@ in,—I'le watch my opportunity.</l>
                
                <stage>[Goes out.</stage>
                
-               <stage>Scene <ref target="a149" corresp="n149">changes</ref><note xml:id="n149" target="a149">(DRAFT) Should Blunt be possessive</note> to <hi>Blunts</hi> Chamber, discovers him sitting
+               <stage>Scene changes to <hi>Blunt's</hi> Chamber, discovers him sitting
 on a Couch in his Shirt and Drawers, reading.</stage>
                
                <sp>
