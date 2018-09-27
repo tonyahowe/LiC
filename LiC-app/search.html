@@ -19,13 +19,19 @@
                 <div class="form-group" data-toggle="tooltip" data-placement="left" title="Search Field">
                     <select name="field" class="form-control">
                         <option value="keyword" selected="selected">Keyword anywhere</option>
+                        <option value="annotation">Keyword in annotations</option>
                         <option value="title">Title</option>
                         <option value="author">Author</option>
                     </select>
                 </div>
                 <!-- Limit search to selected works -->
-                <div class="form-group" data-toggle="tooltip" data-placement="left" title="Search Selected">
-                    <input type="checkbox" name="narrow" value="true"/> <label>Search Selected</label>
+                <div class="checkboxes" >
+                    <label class="checkbox-inline" data-toggle="tooltip" data-placement="left" title="Search Selected">
+                        <input type="checkbox" name="narrow" value="true"/> Search Selected
+                    </label>
+                    <label class="checkbox-inline" data-toggle="tooltip" data-placement="left" title="Search Annotations">
+                        <input type="checkbox" name="annotation" value="true" class="annotation"/> Include Annotations
+                    </label>
                 </div>
             </div>
         </div>

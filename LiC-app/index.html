@@ -1,7 +1,7 @@
 <div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
     <!-- Home page also acts as simple browse page for all works -->
     <!-- Search form -->
-    <form action="search.html" class="form form-horizontal page-content">
+    <form action="search.html" class="form form-horizontal page-content homepage">
         <!-- Access xquery for all works -->
         <div data-template="app:browse-works">
             <h1>List of Works</h1>
@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-md-4 col-md-push-8">
                     <!-- Form for search and coursepack functions.  -->
-                    <div class="well well-sm fixed" style="padding:2em;">
+                    <div class="well well-sm fixed search-box" style="padding:2em;">
                         <!-- Search query goes here -->
                         <div class="form-group">
                             <span class="input-group">
@@ -27,13 +27,19 @@
                         <div class="form-group" data-toggle="tooltip" data-placement="left" title="Search Field">
                             <select name="field" class="form-control">
                                 <option value="keyword" selected="selected">Keyword anywhere</option>
+                                <option value="annotation">Keyword in annotations</option>
                                 <option value="title">Title</option>
                                 <option value="author">Author</option>
                             </select>
                         </div>
                         <!-- Limit search to selected works -->
-                        <div class="form-group" data-toggle="tooltip" data-placement="left" title="Search Selected">
-                            <input type="checkbox" name="narrow" value="true"/> <label>Search Selected</label>
+                        <div class="checkboxes" >
+                            <label class="checkbox-inline" data-toggle="tooltip" data-placement="left" title="Search Selected">
+                                <input type="checkbox" name="narrow" value="true"/> Search Selected
+                            </label>
+                            <label class="checkbox-inline" data-toggle="tooltip" data-placement="left" title="Search Annotations">
+                                <input type="checkbox" name="annotation" value="true" class="annotation"/> Include Annotations
+                            </label>
                         </div>
                         <!-- Create/add to coursepacks -->
                         <div class="form-group">

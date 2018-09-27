@@ -81,6 +81,10 @@
                     $('#footnoteDisplay').hide();
                     $('#footnoteDisplay div.content').empty();
                  })
+                 //Stop footnoteDisplay from closing on click, only hide when clicked outside of div
+                 $("#footnoteDisplay").click(function(e){
+                      e.stopPropagation();
+                  });
                  //Footnotes 
                  $('.footnoteRef a').click(function(e) {
                     e.stopPropagation();

@@ -113,7 +113,7 @@ declare function app:display-nodes($node as node(), $model as map(*), $paths as 
             tei2html:tei2html(
                     for $p in tokenize($paths,',')
                     return util:eval(concat('$data',$p)))
-        else tei2html:tei2html($data/descendant::tei:body)
+        else tei2html:tei2html($data/descendant::tei:text)
 }; 
 
 (:~  
@@ -133,11 +133,10 @@ declare function app:footnotes($node as node(), $model as map(*)){
         <div class="footnote show-print">
             <h3>Footnotes</h3>
             {for $n in $data
-             return <p>{tei2html:tei2html($n/node())}</p>
+             return <div class="tei-footnote"><span class="tei-footnote-id">{string($n/@target)}</span>{tei2html:tei2html($n/node())}</div>
              }
         </div>
 }; 
-
 
 (:~  
  : Display any page images
@@ -256,7 +255,7 @@ return
      else if(request:get-parameter('id', '') != '') then 
              <div class="coursepack">
             <form class="form-inline" method="get" action="{string($coursepacks/@id)}" id="search">
-                <div style="padding:1em; background-color:#F8F8F8;">
+                <div class="coursepack search-box no-print" style="padding:1em; background-color:#F8F8F8;">
                     <label class="coursepackToolbar">Coursepack Toolbar: </label><br/>
                         <a href="{$config:nav-base}/modules/lib/coursepack.xql?action=delete&amp;coursepackid={string($coursepacks/@id)}" class="toolbar btn btn-info">
                         <span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Delete Coursepack </a> 
@@ -268,8 +267,15 @@ return
                         <div class="form-group">
                             <select name="field" class="form-control">
                                 <option value="keyword" selected="selected">Keyword anywhere</option>
+                                <option value="annotation">Keyword in annotations</option>
                                 <option value="title">Title</option>
                                 <option value="author">Author</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <select name="annotation" class="form-control">
+                                <option value="true" selected="selected">Annotations</option>
+                                <option value="false">No Annotations</option>
                             </select>
                         </div>
                         <button type="submit" class="btn btn-info"><span class="glyphicon glyphicon-search"/></button> 
@@ -298,7 +304,19 @@ return
                             </span>
                             <span class="col-md-11">{(
                                 if(request:get-parameter('view', '') = 'expanded') then 
-                                    (tei2html:header($work/descendant::tei:teiHeader),tei2html:tei2html($work/descendant::tei:text))
+                                    (tei2html:header($work/descendant::tei:teiHeader),
+                                    tei2html:tei2html($work/descendant::tei:text),
+                                    let $notes := $work/descendant::tei:note[@target]
+                                    return
+                                        if($notes != '') then 
+                                            <div class="footnote show-print">
+                                                <h3>Footnotes</h3>
+                                                {for $n in $notes
+                                                 return <div class="tei-footnote"><span class="tei-footnote-id">{string($n/@target)}</span>{tei2html:tei2html($n/node())}</div>
+                                                 }
+                                            </div>
+                                        else ()
+                                    )
                                 else tei2html:summary-view($work, (), $id[1])) }</span>
                         </div> 
                  }      

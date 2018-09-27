@@ -14,10 +14,29 @@ declare function tei2fo:tei2fo($nodes as node()*) {
                 tei2fo:tei2fo($node/tei:text)
             case element(tei:text) return
                 tei2fo:tei2fo($node//tei:body)
+            case element(tei:biblScope) return element span {
+                let $unit := if($node/@unit = 'vol') then concat($node/@unit,'.') 
+                             else if($node[@unit != '']) then string($node/@unit) 
+                             else if($node[@type != '']) then string($node/@type)
+                             else () 
+                return 
+                    if(matches($node/text(),'^\d')) then concat($unit,' ',$node/text())
+                    else if(not($node/text()) and ($node/@to or $node/@from)) then  concat($unit,' ',$node/@from,' - ',$node/@to)
+                    else $node/text()
+            }            
             case element(tei:div) return
                     <fo:block page-break-after="always" id="{generate-id($node)}">
                         {tei2fo:tei2fo($node/node())}
                     </fo:block>
+            case element(tei:graphic) return
+                <fo:block space-after="10pt">
+				    <fo:external-graphic src="url({$node/@url})"/>
+				    {
+				        if($node/@width) then 
+                            attribute width { $node/@width }
+                        else ()
+                    }
+			     </fo:block>			     
             case element(tei:head) return
                 let $level := count($node/ancestor-or-self::tei:div)
                 return
@@ -32,12 +51,24 @@ declare function tei2fo:tei2fo($nodes as node()*) {
                             </fo:marker>
                             { tei2fo:tei2fo($node/node()) }
                         </fo:block>
+            case element(tei:hi) return
+                if($node/@render='bold') then
+                    <fo:inline font-weight="bold">{tei2fo:tei2fo($node/node())}</fo:inline>   
+                else if($node/@render='italic') then 
+                    <fo:inline font-style="italic">{tei2fo:tei2fo($node/node())}</fo:inline>
+                else if($node/@render='sup') then
+                    <fo:inline baseline-shift="super" font-size="8pt">{tei2fo:tei2fo($node/node())}</fo:inline>
+                else if($node/@render='sub') then
+                    <fo:inline baseline-shift="sub" font-size="8pt">{tei2fo:tei2fo($node/node())}</fo:inline>
+                else tei2fo:tei2fo($node/node())
             case element(tei:speaker) return
                 <fo:block font-style="italic" space-after=".25em">
                 {tei2fo:tei2fo($node/node())}
                 </fo:block>
             case element(tei:l) return
                 <fo:block>{tei2fo:tei2fo($node/node())}</fo:block>
+            case element(tei:lb) return
+                <fo:block></fo:block>
             case element(tei:lg) return
                 <fo:block space-after="8mm">{tei2fo:tei2fo($node/node())}</fo:block>                
             case element(tei:ab) return

@@ -142,7 +142,7 @@
    <text>
       <front>
          <titlePage>
-            <pb n="[titlepage]" facs="images/FN-TP-1714.jpg"/>
+            <pb n="[titlepage]" facs="images/TP-1714.jpg"/>
             <titlePart>POEMS <lb/></titlePart>
             <titlePart>ON<lb/> Several Occasions, <hi rend="italic">viz.</hi>.<lb/></titlePart>
             <p>[...]</p>
@@ -230,7 +230,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="200" facs="images/FN-200.jpg"/>
+            <pb n="200" facs="images/200.jpg"/>
             <head type="title"><hi rend="italic">To the </hi><ref target="a002" corresp="n002">NIGHTINGALE</ref><note xml:id="n002" target="a002" type="editorial" resp="#TH">
                <p><graphic
                      url="https://www.rspb.org.uk/globalassets/images/birds-and-wildlife/bird-species-illustrations/nightingale_1200x675.jpg"
@@ -278,7 +278,7 @@
                <l n="5" rend="indent">Free as thine shall be my Song;</l>
                <l n="6" rend="indent">As thy Musick, short, or long.</l>
                <l n="7">Poets, wild as thee, were born,</l>
-               <pb facs="images/FN-201.jpg"/>
+               <pb facs="images/201.jpg"/>
                <l n="8" rend="indent">Pleasing best when unconfin'd,</l>
                <l n="9" rend="indent">When to Please is least design'd,</l>
                <l n="10">Soothing but their Cares to rest;</l>
@@ -311,7 +311,7 @@
                   shake thy Throat.</l>
                <l n="24">Hark! Division now she tries;</l>
                <l n="25">Yet as far the Muse outflies </l>
-               <pb facs="images/FN-202.jpg"/>
+               <pb facs="images/202.jpg"/>
                <l n="26" rend="indent">Cease then, prithee, cease thy Tune;</l>
                <l n="27" rend="indent"><ref target="a007" corresp="n007">Trifler</ref><note xml:id="n007" target="a007" type="authorial" place="bottom">Here is a hypothetical author's note included in the original printing</note>, wilt thou sing till <hi rend="italic">June?</hi></l>
                <l n="28">Till thy Bus'ness all lies waste,</l>

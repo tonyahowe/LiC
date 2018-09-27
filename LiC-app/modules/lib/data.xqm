@@ -102,6 +102,10 @@ declare function data:create-query() as xs:string?{
                 concat("[descendant::tei:titleStmt/tei:title[ft:query(.,'",$query,"',data:search-options())]]")
             else if($field = 'author') then
                 concat("[descendant::tei:titleStmt/tei:author[ft:query(.,'",$query,"',data:search-options())] or descendant::tei:titleStmt/tei:editor[ft:query(.,'",$query,"',data:search-options())]]")
+            else if($field = 'annotation') then
+                concat("[descendant::tei:note[ft:query(.,'",$query,"',data:search-options())]]")
+            else if(request:get-parameter('annotation', '') = 'true') then
+                concat("[descendant::tei:text[ft:query(.,'",$query,"',data:search-options())] or descendant::tei:note[ft:query(.,'",$query,"',data:search-options())]]")
             else concat("[descendant::tei:text[ft:query(.,'",$query,"',data:search-options())]]")
         else ()
       

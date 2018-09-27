@@ -39,10 +39,16 @@ declare function tei2html:tei2html($nodes as node()*) as item()* {
                     (if($node/@xml:lang) then attribute lang { $node/@xml:lang } else (),
                     tei2html:tei2html($node/node()))
                 }</span>        
-            case element(tei:front) return
-                tei2html:front($node)                
+            case element(tei:graphic) return
+                tei2html:graphic($node)
+            case element(tei:hi) return
+                tei2html:hi($node)                
             case element(tei:i) return
                 <i>{ tei2html:tei2html($node/node()) }</i>                
+            case element(tei:l) return
+                <span class="tei-l {if($node/@rend) then concat('tei-',$node/@rend) else ()}" id="{tei2html:get-id($node)}">{if($node/@n) then <span class="tei-line-number">{string($node/@n)}</span> else ()}{tei2html:tei2html($node/node())}</span>
+            case element(tei:lb) return
+                <br/>
             case element(tei:imprint) return element span {
                     if($node/tei:pubPlace/text()) then $node/tei:pubPlace[1]/text() else (),
                     if($node/tei:pubPlace/text() and $node/tei:publisher/text()) then ': ' else (),
@@ -52,14 +58,18 @@ declare function tei2html:tei2html($nodes as node()*) as item()* {
                     if($node/tei:date) then $node/tei:date else <abbr title="no date of publication">n.d.</abbr>,
                     if($node/following-sibling::tei:biblScope[@unit='series']) then ', ' else ()
             }
-           case element(tei:note) return 
+            case element(tei:note) return 
                 if($node/@target) then 
-                    <span class="tei-{local-name($node)} footnote" id="{$node/@xml:id}">{ tei2html:tei2html($node/node()) }</span>
+                    <span class="tei-{local-name($node)} footnote">
+                    {(
+                    if($node/@xml:id) then 
+                        (attribute id { $node/@xml:id }, <span class="tei-footnote-id">{string($node/@xml:id)}</span>)
+                    else (),
+                    tei2html:tei2html($node/node()) )}</span>
                 else <span class="tei-{local-name($node)}">{ tei2html:tei2html($node/node()) }</span>
-                 
-           case element(tei:pb) return 
+            case element(tei:pb) return 
                 <span class="tei-pb">{string($node/@n)}</span>
-           case element(tei:persName) return 
+            case element(tei:persName) return 
                 <span class="tei-persName">{
                     if($node/child::*) then 
                         for $part in $node/child::*
@@ -67,29 +77,11 @@ declare function tei2html:tei2html($nodes as node()*) as item()* {
                         return tei2html:tei2html($part/node())
                     else tei2html:tei2html($node/node())
                 }</span>
-           case element(tei:ref) return
-                ($node, ' ', <sup class="tei-ref footnoteRef"><a href="#{string($node/@corresp)}" class="showFootnote">{string($node/@corresp)}</a></sup>)    
-           case element(tei:title) return 
-                let $titleType := 
-                        if($node/@level='a') then 
-                            'title-analytic'
-                        else if($node/@level='m') then 
-                            'title-monographic'
-                        else if($node/@level='j') then 
-                            'title-journal'
-                        else if($node/@level='s') then 
-                            'title-series'
-                        else if($node/@level='u') then 
-                            'title-unpublished'
-                        else if($node/parent::tei:persName) then 
-                            'title-person'                             
-                        else ()
-                return  
-                    <span class="tei-title {$titleType}">{
-                        (if($node/@xml:lang) then attribute lang { $node/@xml:lang } else (),
-                        tei2html:tei2html($node/node()))                 
-                    }</span>
-           case element(tei:p) return 
+            case element(tei:ref) return
+               tei2html:ref($node)    
+            case element(tei:title) return 
+                tei2html:title($node)
+            case element(tei:p) return 
                 <p xmlns="http://www.w3.org/1999/xhtml" id="{tei2html:get-id($node)}">{ tei2html:tei2html($node/node()) }</p>  (: THIS IS WHERE THE ANCHORS ARE INSERTED! :)
             case element(tei:rs) return (: create a new function for RSs to insert the content of specific variables; as is, content of the node is inserted as tooltip title. could use content of source attribute or link as the # ref :)
                <a href="#" data-toggle="tooltip" title="{tei2html:tei2html($node/node())}">{ tei2html:tei2html($node/node()) }</a>                
@@ -99,7 +91,7 @@ declare function tei2html:tei2html($nodes as node()*) as item()* {
             case element(exist:match) return
                 <span class="match" style="background-color:yellow;">{$node/text()}</span>
             case element() return
-                <span class="tei-{local-name($node)}">{ tei2html:tei2html($node/node()) }</span>                
+                <span class="tei-{local-name($node)}" id="{tei2html:get-id($node)}">{ tei2html:tei2html($node/node()) }</span>                
             default return tei2html:tei2html($node/node())
 };
 
@@ -149,25 +141,60 @@ declare function tei2html:header($header as element(tei:teiHeader)) {
     </div>
 };
 
-declare function tei2html:front($front as element (tei:front)) {
-    let $frontTitle := $front//tei:head
-    let $epigraph := $front//tei:epigraph
-    let $quote := $front//tei:quote
-    let $author := $front//tei:author
-    
-    return
-        <div xmlns="http://www.w3.org/1999/xhtml" class="main-text-frontmatter">
-            <h3>{$frontTitle/text()}</h3>
-            {
-                for $cit in $epigraph
-                return
-                    <blockquote>{$quote/tei:l/text()}<br/>--{$author/text()}</blockquote>
-            }
-            </div>
+declare function tei2html:graphic($node as element (tei:graphic)) {
+    <img xmlns="http://www.w3.org/1999/xhtml" class="tei-graphic">
+        {attribute src { $node/@url },
+        if($node/@width) then 
+            attribute width { $node/@width }
+        else (),
+        if($node/@style) then 
+            attribute style { $node/@style }
+        else ()
+        }
+    </img>
+};
+
+declare function tei2html:hi($node as element (tei:hi)) {
+    if($node/@rend='italic') then 
+        <em>{tei2html:tei2html($node/node())}</em>  
+    else if($node/@rend='bold') then 
+        <strong>{tei2html:tei2html($node/node())}</strong>
+    else if($node/@rend=('superscript','sup')) then 
+        <sup>{tei2html:tei2html($node/node())}</sup>
+    else if($node/@rend=('subscript','sub')) then         
+        <sub>{tei2html:tei2html($node/node())}</sub>
+    else <span class="tei-hi tei-{$node/@rend}">{tei2html:tei2html($node/node())}</span>
+};
+
+declare function tei2html:ref($node as element (tei:ref)) {
+    if($node/@corresp) then 
+      ($node, ' ', <sup class="tei-ref footnoteRef"><a href="#{string($node/@corresp)}" class="showFootnote">{string($node/@corresp)}</a></sup>)  
+    else if(starts-with($node/@target,'http')) then 
+        <a href="{$node/@target}">{tei2html:tei2html($node/node())}</a>
+    else tei2html:tei2html($node/node())
+};
+
+declare function tei2html:title($node as element (tei:title)) {
+    let $titleType := 
+        if($node/@level='a') then 'title-analytic'
+        else if($node/@level='m') then 'title-monographic'
+        else if($node/@level='j') then 'title-journal'
+        else if($node/@level='s') then 'title-series'
+        else if($node/@level='u') then 'title-unpublished'
+        else if($node/parent::tei:persName) then 'title-person'                             
+        else ()
+    return  
+        <span class="tei-title {$titleType}" xmlns="http://www.w3.org/1999/xhtml">{
+            (if($node/@xml:lang) then attribute lang { $node/@xml:lang } else (),
+            tei2html:tei2html($node/node()))}</span>
 };
 
 declare %private function tei2html:get-id($node as element()) {
-    ($node/@xml:id, $node/@exist:id)[1]
+    if($node/@xml:id) then
+        $node/@xml:id
+    else if($node/@exist:id) then
+        $node/@exist:id
+    else generate-id($node)
 };
 
 (:
@@ -207,7 +234,6 @@ declare function tei2html:summary-view($nodes as node()*, $lang as xs:string?, $
         </div>    
    
 };
-
 
 (:~
  : Select citation type based on child elements
@@ -262,7 +288,6 @@ declare function tei2html:monograph($nodes as node()*) {
         )
 };
 
-
 (:~
  : Output series citation
 :)
@@ -281,7 +306,6 @@ declare function tei2html:series($nodes as node()*) {(
         (' (',tei2html:tei2html($nodes/preceding-sibling::tei:monogr/tei:imprint),')')
     else ()
 )};
-
 
 (:~
  : Output analytic citation
@@ -328,7 +352,6 @@ declare function tei2html:emit-responsible-persons($nodes as node()*, $num as xs
     return replace(string-join($persons),'\s+$','')                    
 };
 
-
 (:~
  : Output authors/editors child elements. 
 :)
@@ -363,10 +386,11 @@ declare function tei2html:output-kwic($nodes as node()*, $id as xs:string*){
         else $prev
     let $nextString := 
         if(string-length($next) lt 100 ) then () 
-        else concat(substring($next,1,100),'... ')
-    let $link := concat($config:nav-base,'/',tokenize($id,'/')[last()],'#',$node/@n)
+        else concat(substring($next,1,100),'... ')        
+    let $link := concat($config:nav-base,'/work',substring-before(replace($id,$config:data-root,''),'.xml'),'#',string($node/@id))
+    (:concat($config:nav-base,'/',tokenize($id,'/')[last()],'#',$node/@n):)
     return 
-        <span>{$prevString}&#160;<span class="match" style="background-color:yellow;"><a href="{$link}">{$node/text()}</a></span>&#160;{$nextString}</span>
+        <span>{$prevString}&#160;<span class="match"><a href="{$link}">{$node/text()}</a></span>&#160;{$nextString}</span>
 };
 
 (:~
@@ -380,12 +404,8 @@ declare function tei2html:kwic-format($nodes as node()*){
             case text() return $node
             case comment() return ()
             case element(exist:match) return 
-                let $n := if($node/ancestor-or-self::*[@n]) then concat('Head-id.',$node/ancestor-or-self::*[@n][1]/@n) else ()
-                return 
-                <match xmlns="http://www.w3.org/1999/xhtml">
-                    {(if($n != '') then attribute n {$n} else (), 
-                    $node/node()
-                    )}
+                <match xmlns="http://www.w3.org/1999/xhtml" id="{tei2html:get-id($node)}">
+                    { $node/node() }
                 </match>
             default return tei2html:kwic-format($node/node())                
 };

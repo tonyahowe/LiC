@@ -72,14 +72,12 @@
     page-break-after: avoid;
   }
   
-  /* Syriaca.org specific styles */
-  .mssBody, .right-menu {width:100%}
-  .noprint, .navbar, .no-print,.tooltip {display:none !important;}
+  /* LiC specific styles */
+  
+  .noprint, .navbar, .no-print,.tooltip, .pageImages {display:none !important;}
   .show-print {display:block;}
   .collapse {display:block !important;}
   .footnote-refs {display:block; margin:.5em;line-height:1em;}
-  /* Show hidden citation information*/
-  #citation {display:block;}
 
   /* hide buttons */
   #link-icons, #moreInfo,.btn, .helper {display:none;}
