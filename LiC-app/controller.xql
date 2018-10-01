@@ -36,9 +36,14 @@ else if (contains($exist:path, "/$shared/")) then
 (: Set paths for coursepacks :)
 else if($exist:resource = 'coursepack') then 
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
-        <forward url="{$exist:controller}/coursepack.html"></forward>
+        <forward url="{$exist:controller}/coursepack.html">
+        <set-header name="Cache-Control" value="no-cache"/>
+        </forward>
         <view>
-            <forward url="{$exist:controller}/modules/view.xql"/>
+            <forward url="{$exist:controller}/modules/view.xql">
+            <set-header name="Cache-Control" value="no-cache"/>
+            </forward>
+            <!--<set-header name="Cache-Control" value="no-cache"/>-->
         </view>
         <error-handler>
             <forward url="{$exist:controller}/error-page.html" method="get"/>
@@ -57,14 +62,16 @@ else if(contains($exist:path, "/coursepack/") or $exist:resource = 'coursepack')
                 <add-parameter name="coursepack" value="true"/>
                 <add-parameter name="id" value="{$id}"/>
                 <add-parameter name="format" value="{$format}"/>
+                <set-header name="Cache-Control" value="no-cache"/>
             </forward>
         </dispatch>
     else      
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
-        <forward url="{$exist:controller}/coursepack.html"></forward>
+        <forward url="{$exist:controller}/coursepack.html"/>
         <view>
             <forward url="{$exist:controller}/modules/view.xql">
                 <add-parameter name="id" value="{$id}"/>
+                <set-header name="Cache-Control" value="no-cache"/>
             </forward>
         </view>
         <error-handler>
@@ -103,7 +110,9 @@ else if (ends-with($exist:resource, ".html")) then
     (: the html page is run through view.xql to expand templates :)
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
         <view>
-            <forward url="{$exist:controller}/modules/view.xql"/>
+            <forward url="{$exist:controller}/modules/view.xql">
+                <set-header name="Cache-Control" value="no-cache"/>
+            </forward>
         </view>
 		<error-handler>
 			<forward url="{$exist:controller}/error-page.html" method="get"/>
