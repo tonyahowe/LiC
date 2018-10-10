@@ -359,7 +359,7 @@ declare %templates:wrap function app:browse-works($node as node(), $model as map
         else ()
     return          
         map { "hits" :=
-                for $hit in collection($config:data-root)/tei:TEI
+                for $hit in collection($config:data-root)//tei:TEI
                 order by data:filter-sort-string(data:add-sort-options($hit, $sort-element))
                 return $hit
         }  
@@ -373,6 +373,7 @@ declare
     %templates:default("start", 1)
     %templates:default("per-page", 10)
 function app:show-hits($node as node()*, $model as map(*), $start as xs:integer, $per-page as xs:integer) {
+    let $per-page := if(not(empty($app:perpage))) then $app:perpage else $per-page
     for $hit at $p in subsequence($model("hits"), $start, $per-page)
     let $id := document-uri(root($hit))
     let $title := $hit/descendant::tei:title[1]/text()
