@@ -7,6 +7,18 @@
                 <div class="row">
                     <div class="col-md-8">
                         <div data-template="app:display-nodes" data-template-paths="/descendant::tei:text"/>
+                        <hr/>
+                        <div class="well">
+                            <h4>Sources</h4>
+                            <div data-template="app:display-nodes" data-template-paths="/descendant::tei:sourceDesc/descendant::tei:imprint"/>
+                        </div>
+                        <div class="well">
+                            <h4>Editorial Statements</h4>
+                            <div data-template="app:display-nodes" data-template-paths="/descendant::tei:encodingDesc/tei:encodingDesc"/>
+                            <div data-template="app:display-nodes" data-template-paths="/descendant::tei:encodingDesc/tei:editorialDecl"/>
+                            <div data-template="app:display-nodes" data-template-paths="/descendant::tei:distributor"/>
+                        </div>
+                        <hr/>
                         <div data-template="app:footnotes"/>
                     </div>
                     <div class="col-md-4">
