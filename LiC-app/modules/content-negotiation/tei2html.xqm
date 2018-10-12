@@ -49,15 +49,19 @@ declare function tei2html:tei2html($nodes as node()*) as item()* {
                 <span class="tei-l {if($node/@rend) then concat('tei-',$node/@rend) else ()}" id="{tei2html:get-id($node)}">{if($node/@n) then <span class="tei-line-number">{string($node/@n)}</span> else ()}{tei2html:tei2html($node/node())}</span>
             case element(tei:lb) return
                 <br/>
-            case element(tei:imprint) return element span {
-                    if($node/tei:pubPlace/text()) then $node/tei:pubPlace[1]/text() else (),
-                    if($node/tei:pubPlace/text() and $node/tei:publisher/text()) then ': ' else (),
-                    if($node/tei:publisher/text()) then $node/tei:publisher[1]/text() else (),
-                    if(not($node/tei:pubPlace) and not($node/tei:publisher) and $node/tei:title[@level='m']) then <abbr title="no publisher">n.p.</abbr> else (),
-                    if($node/tei:date/preceding-sibling::*) then ', ' else (),
-                    if($node/tei:date) then $node/tei:date else <abbr title="no date of publication">n.d.</abbr>,
-                    if($node/following-sibling::tei:biblScope[@unit='series']) then ', ' else ()
-            }
+            case element(tei:imprint) return 
+            <span class="tei-{local-name($node)}" id="{tei2html:get-id($node)}">
+            {
+                    if($node//tei:pubPlace//text()) then $node//tei:pubPlace[1]//text() else (),
+                    if($node//tei:pubPlace//text() and $node//tei:publisher//text()) then ': ' else (),
+                    if($node//tei:publisher//text()) then $node//tei:publisher[1]//text() else (),
+                    if(not($node//tei:pubPlace) and not($node//tei:publisher) and $node//tei:title[@level='m']) then <abbr title="no publisher">n.p.</abbr> else (),
+                    if($node//tei:date/preceding-sibling::*) then ', ' else (),
+                    if($node//tei:date) then $node//tei:date else <abbr title="no date of publication">n.d.</abbr>,
+                    if($node/following-sibling::tei:biblScope[@unit='series']) then ', ' else (),
+                    if($node//tei:extent/@type = "online") then (' ',<a href="{$node//tei:extent}" class="tei-extent-link"><span class="glyphicon glyphicon-book"></span> View </a>) else $node//tei:extent,
+                    if($node//tei:note) then <span class="tei-note">{$node//tei:note}</span> else ()
+            }</span>
             case element(tei:note) return 
                 if($node/@target) then 
                     <span class="tei-{local-name($node)} footnote">

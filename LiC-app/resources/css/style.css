@@ -61,11 +61,16 @@ form#search {margin-top:-1.5em; padding-top:0;}
 
 /* TEI styles */
 .tei-author {font-weight:500;}
+.tei-addrLine {display:block; margin-left:2em;}
 .tei-body {display:block; margin:1em;}
 .tei-body .tei-head {display:block; font-weight:500; font-size:1.25em;}
+.tei-distributor {display:block;}
+.tei-distributor .tei-email {display:block; margin-left:2em;}
 .tei-front {display:block; text-align:center; margin: 1em 0;}
 .tei-footnote-id {display:block; font-size:1.25em; font-weight:500;}
 .tei-indent {text-indent:2em;}
+.tei-imprint {display:block; margin:1em;}
+.tei-imprint .tei-note {display:block; font-size:small; margin-left:2em;}
 .tei-lg {display:block; margin:1em 0;}
 .tei-l {display:block;}
 .tei-line-number {margin-right:1em; font-size:smaller; color:#666; vertical-align:text-top;}
