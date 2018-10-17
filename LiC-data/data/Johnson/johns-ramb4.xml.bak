@@ -128,16 +128,16 @@
     </teiHeader>
     <text>
         <front>
-            <pb n="[19]" facs="rambler.png"/>
+            <pb n="[19]" facs="images/019.jpg"/>
                
             <head type="dateline">Saturday, 31 March 1750</head>
             <epigraph xml:lang="la">
                 <cit>
                     <quote xml:lang="la">
-                        <l>Simul et jucunda et idonea dicere Vitae.</l>
+                        <l>Simul et jucunda et idonea dicere Vitae.<ref target="a001" corresp="n001"/><note xml:id="n001" target="a001">From Horace's <ref target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0065%3Acard%3D309">Ars Poetica 334</ref>: 'to deliver at once both the pleasures and the necessaries of life" (Perseus Project).</note></l>
                     </quote>
                     <bibl>
-                        <author>Horace</author><ref target="a001" corresp="n001"/><note xml:id="n001" target="a001">From Horace's <ref target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0065%3Acard%3D309">Ars Poetica 334</ref>: 'to deliver at once both the pleasures and the necessaries of life."</note>
+                        <author>Horace</author><ref target="a014" corresp="n014"/><note xml:id="n014" target="a014"><graphic url="https://media1.britannica.com/eb-media/30/10930-004-C1C3F179.jpg"/>Quintus Horatius Flaccus, or Horace, was a Roman lyric poet of the 1st century BCE. The image above is a broze portrait medal containing his likeness, dating to the 4th century CE, housed in the Bibliothèque Nationale, Paris (<ref target="https://www.britannica.com/biography/Horace-Roman-poet">Encyclopedia Britannica</ref>). </note>
                     </bibl>
                 </cit>
             </epigraph>
@@ -162,7 +162,7 @@
                     <i>
                         Scaliger<ref target="a003" corresp="n003"/><note xml:id="n003" target="a003">Likely a reference to <ref target="https://www.britannica.com/biography/Joseph-Justus-Scaliger">Joseph Justus Scaliger</ref>, a Dutch philologist and historian of the Renaissance. Identification uncertain.</note>
                 </i> upon <i>Potanus</i>, that all his Writings are filled with
-                     Images, and that <pb n="20" facs="images/rambler-001.png"/> if you take from him his Lillies and his Roses, his
+                     Images, and that <pb n="20" facs="images/020.jpg"/> if you take from him his Lillies and his Roses, his
                      Satyrs and his Dryads, he will have nothing left that can be called Poetry. In
                      like Manner, almost all the Fictions of the last Age will vanish, if you
                      deprive them of a Hermit and a Wood, a Battle and a Shipwreck.
@@ -207,7 +207,7 @@
                      whom they serve as Lectures of Conduct, and
                         Introductions into Life. They
                      are the Entertainment of Minds unfurnished with Ideas, and therefore
-                      <pb n="21" facs="images/rambler-002.png"/>
+                      <pb n="21" facs="images/021.jpg"/>
                           easily susceptible of Impressions;
                     not fixed by Principles, and therefore
                      easily following the Current of Fancy; 
@@ -248,7 +248,7 @@
                      But if the Power of Example is so great, as to take
                      Possession of the Memory by a kind of Violence, and produce Effects almost
                      without the Intervention of the Will,<ref target="a009" corresp="n009"/><note xml:id="n009" target="a009">Here Johnson argues that representations which are rendered in so familiar and realistic a manner are especially dangerous to untutored minds because they seem to be truth rather than fiction; he therefore cautions that authors provide the best models for behavior and the cultivation of the mind.</note> Care ought 
-                         <pb n="22" facs="rambler-003.png"/>
+                         <pb n="22" facs="images/022.jpg"/>
                          to be taken that, when the
                      Choice is unrestrained, the best Examples only should be exhibited; and that
                      which is likely to operate so strongly, should not be mischievous or uncertain
@@ -288,7 +288,7 @@
                      Betrayer flatters his Vanity; to give the Power of counteracting Fraud without
                      the Temptation to practise it; to initiate Youth by mock Encounters in the
                      Art of necessary Defense, and to increase Prudence without impairing
-                     Virtue.<ref target="a010" corresp="n010"/><note xml:id="n010" target="a010">In this passage, Johnson articulates his sense of the purpose of novelistic writing. For him, the purpose of fiction is education, as it provides a kind of experience that is protected from the dangers that might accompany such actions in real life.</note><pb n="23" facs="images/rambler-004.png"/>
+                     Virtue.<ref target="a010" corresp="n010"/><note xml:id="n010" target="a010">In this passage, Johnson articulates his sense of the purpose of novelistic writing. For him, the purpose of fiction is education, as it provides a kind of experience that is protected from the dangers that might accompany such actions in real life.</note><pb n="23" facs="images/023.jpg"/>
                
             </p>
             <p>MANY Writers, for the sake of following Nature, 
@@ -324,7 +324,7 @@
                   same Proportion. For Pride, which produces Quickness of Resentment, will frequently obstruct
                   Gratitude, by Unwillingness to admit that Inferiority which Obligation implies;
                   and it is very unlikely, that he who cannot think he receives a Favour will
-                  ever acknowledge it.</p> <pb n="24" facs="images/rambler-005.png"/>
+                  ever acknowledge it.</p> <pb n="24" facs="images/024.jpg"/>
             <p>IT is of the utmost Importance to
                   Mankind, that Positions of this Tendency should be laid open and confuted;
                   for while Men consider Good and Evil as springing from the same Root, they will

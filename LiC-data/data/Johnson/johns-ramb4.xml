@@ -5,7 +5,7 @@
             <titleStmt>
                 <title type="main">The Rambler No. 4</title>
                 <author>
-                    <person type="lccn" key="n78095825"><surname>Johnson</surname>, 1709-1784</person>
+                    <person type="lccn" key="n78095825"><surname>Johnson</surname>, <forename>Samuel</forename></person>
                         <birth when="1709-09-18">18 September 1709 [O.S. 7 September]</birth>
                         <death when="1784-12-13">13 December 1784</death>
                         <occupation>Lexicographer</occupation>
@@ -20,7 +20,7 @@
                 </editor>
                 <respStmt>
                     <resp>Transcription, correction, editorial commentary, and markup</resp>
-                    <persName type="orcid" key="0000-0002-7400-4093">Tonya Howe</persName>
+                    <persName type="orcid" key="0000-0002-7400-4093"><forename>Tonya</forename> <surname>Howe</surname></persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -128,16 +128,17 @@
     </teiHeader>
     <text>
         <front>
-            <pb n="[19]" facs="/images/019.jpg"/>
-               
+            <pb n="[19]" facs="images/019.jpg"/>
+            <head type="title">THE <lb/>RAMBLER.</head>
+            <p><head type="issue" class="text-left">NUMB. 4.</head><head type="price" class="text-right">Price 2 <hi rend="italic">d</hi>.</head></p>
             <head type="dateline">Saturday, 31 March 1750</head>
             <epigraph xml:lang="la">
                 <cit>
                     <quote xml:lang="la">
-                        <l>Simul et jucunda et idonea dicere Vitae.</l>
+                        <l>Simul et jucunda et idonea dicere Vitae.<ref target="a001" corresp="n001"/><note xml:id="n001" target="a001">From Horace's <ref target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0065%3Acard%3D309">Ars Poetica 334</ref>: 'to deliver at once both the pleasures and the necessaries of life" (Perseus Project).</note></l>
                     </quote>
                     <bibl>
-                        <author>Horace</author><ref target="a001" corresp="n001"/><note xml:id="n001" target="a001">From Horace's <ref target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0065%3Acard%3D309">Ars Poetica 334</ref>: 'to deliver at once both the pleasures and the necessaries of life."</note>
+                        <author>HOR[ace]</author><ref target="a014" corresp="n014"/><note xml:id="n014" target="a014"><graphic url="https://media1.britannica.com/eb-media/30/10930-004-C1C3F179.jpg"/>Quintus Horatius Flaccus, or Horace, was a Roman lyric poet of the 1st century BCE. The image above is a broze portrait medal containing his likeness, dating to the 4th century CE, housed in the Bibliothèque Nationale, Paris (<ref target="https://www.britannica.com/biography/Horace-Roman-poet">Encyclopedia Britannica</ref>). </note>
                     </bibl>
                 </cit>
             </epigraph>
@@ -159,9 +160,9 @@
                   can neither bewilder its Personages in Desarts,
                      nor lodge them in imaginary Castles. </p>
             <p>I REMEMBER a Remark made by 
-                    <i>
+                    <hi rend="italic">
                         Scaliger<ref target="a003" corresp="n003"/><note xml:id="n003" target="a003">Likely a reference to <ref target="https://www.britannica.com/biography/Joseph-Justus-Scaliger">Joseph Justus Scaliger</ref>, a Dutch philologist and historian of the Renaissance. Identification uncertain.</note>
-                </i> upon <i>Potanus</i>, that all his Writings are filled with
+                </hi> upon <hi rend="italic">Potanus</hi>, that all his Writings are filled with
                      Images, and that <pb n="20" facs="images/020.jpg"/> if you take from him his Lillies and his Roses, his
                      Satyrs and his Dryads, he will have nothing left that can be called Poetry. In
                      like Manner, almost all the Fictions of the last Age will vanish, if you
@@ -183,10 +184,10 @@
                      Books, that Experience which can never be
                         attained by solitary Diligence, but must arise from general Converse,
                      and accurate Observation of the living
-                     World. Their Performances have, as <i>Horace</i><ref target="a004" corresp="n004"/><note xml:id="n004" target="a004">Quintus Horatius Flaccus, Roman lyric poet of the 1st century BCE</note> expresses it, 
+                     World. Their Performances have, as <hi rend="italic">Horace</hi><ref target="a004" corresp="n004"/><note xml:id="n004" target="a004">Quintus Horatius Flaccus, Roman lyric poet of the 1st century BCE</note> expresses it, 
                         <cit>
                     <quote xml:lang="la">
-                        <i>plus oneris quantum veniae minus, </i><ref target="a005" corresp="n005"/><note xml:id="n005" target="a005"><ref target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0539%3Abook%3D2%3Apoem%3D1">In Horace's <hi rend="italic">Epistles</hi> 2.1</ref>, this quote appears at line 170. In this epistle to Augustus, Horace is mounting a defense of contemporary poetry and decrying the poor taste of the public. In particular he argues that though comic subjects are thought easier to write, they are actually more challenging than tragic subjects because readers give them less "indulgence." Johnson will put this "indulgence" in terms of the readers' familiarity with the more common subjects of comedy.</note>
+                        <hi rend="italic">plus oneris quantum veniae minus, </hi><ref target="a005" corresp="n005"/><note xml:id="n005" target="a005"><ref target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0539%3Abook%3D2%3Apoem%3D1">In Horace's <hi rend="italic">Epistles</hi> 2.1</ref>, this quote appears at line 170. In this epistle to Augustus, Horace is mounting a defense of contemporary poetry and decrying the poor taste of the public. In particular he argues that though comic subjects are thought easier to write, they are actually more challenging than tragic subjects because readers give them less "indulgence." Johnson will put this "indulgence" in terms of the readers' familiarity with the more common subjects of comedy (Perseus Project).</note>
                     </quote>
                     <cit type="translation" xml:lang="en"> little
                         Indulgence, and therefore more Difficulty.</cit>
@@ -195,11 +196,11 @@
                      knows the Original, and can detect any Deviation from Exactness of
                      Resemblance. Other Writings are safe, except from the Malice of
                   Learning; but these are in danger from every
-                     common Reader; as the Slipper ill
+                  common Reader<ref target="#a015" corresp="#n015"/><note xml:id="n015" target="a015">\Johnson alludes here to a story from <ref target="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-eng1:35.36">Pliny the Elder's <hi rend="italic">Natural History</hi> (35.36)</ref>.</note>; as the Slipper ill
                      executed was censured by a Shoemaker who happened to stop in his way at the
-                    <i>
+                    <hi rend="italic">
                     Venus
-                    </i><ref target="a006" corresp="n006"/><note xml:id="n006" target="a006">Roman counterpart to the Greek goddess Aphrodite, Venus is a signifier of love, sex, propsperity, and desire (<ref target="http://en.wikipedia.org/wiki/Venus_%28mythology%29">Wikipedia</ref>).</note> of Apelles.<ref target="a006" corresp="n006"/><note xml:id="n006" target="a006">Apelles of Kos, a Greek painter of the 4th century BCE (<ref target="http://en.wikipedia.org/wiki/Apelles">Wikipedia</ref>). Johnson here alludes to a lost painting of Venus Anadyomenes, or Venus rising from the sea.</note>
+                    </hi><ref target="a006" corresp="n006"/><note xml:id="n006" target="a006">Roman counterpart to the Greek goddess Aphrodite, Venus is a signifier of love, sex, propsperity, and desire (<ref target="http://en.wikipedia.org/wiki/Venus_%28mythology%29">Wikipedia</ref>).</note> of Apelles.<ref target="a006" corresp="n006"/><note xml:id="n006" target="a006">Apelles of Kos, a Greek painter of the 4th century BCE (<ref target="http://en.wikipedia.org/wiki/Apelles">Wikipedia</ref>). Johnson here alludes to a lost painting of Venus Anadyomenes, or Venus rising from the sea.</note>
             </p>
             <p>BUT the Danger of not being approved as just
                      Copyers of human Manners, is not the most important Apprehension that an
@@ -241,13 +242,13 @@
                   Attention, and hope by observing his Behaviour
                      and Success to regulate their own Practices, when they shall be engaged in the
                      like Part. </p>
-            <p>FOR this Reason these familiar Histories<ref target="a013" corresp="n013"/><note xml:id="n013" target="a013">Explain.</note> may
+            <p>FOR this Reason these familiar Histories<ref target="a013" corresp="n013"/><note xml:id="n013" target="a013">Johnson here uses the term "familiar history" to describe the probable fictions produced by "our present Writers." The term suggests the truth-value associated with many eighteenth-century fictions that, like <hi rend="italic">Robinson Crusoe</hi> (1719) or <hi rend="italic">Pamela</hi> (1740), were advertised as having been largely written by the characters themselves. These are supposedly true histories, memoirs, or other accounts of people who would seem familiar to contemporary audiences..</note> may
                   perhaps be made of greater Use than the
                      Solemnities of professed Morality, and convey the Knowledge of Vice and Virtue
                      with more Efficacy than Axioms and Definitions. 
                      But if the Power of Example is so great, as to take
                      Possession of the Memory by a kind of Violence, and produce Effects almost
-                     without the Intervention of the Will,<ref target="a009" corresp="n009"/><note xml:id="n009" target="a009">Here Johnson argues that representations which are rendered in so familiar and realistic a manner are especially dangerous to untutored minds because they seem to be truth rather than fiction; he therefore cautions that authors provide the best models for behavior and the cultivation of the mind.</note> Care ought 
+                     without the Intervention of the Will,<ref target="a009" corresp="n009"/><note xml:id="n009" target="a009"> Here Johnson argues that representations which are rendered in so familiar and realistic a manner are especially dangerous to untutored minds because they seem to be truth rather than fiction; he therefore cautions that authors provide the best models for behavior and the cultivation of the mind. Johnson references eighteenth-century thought about the power of the imagination to affect the body regardless of the will, like that discussed by <ref target="https://ebooks.adelaide.edu.au/m/gne/michel/essays/complete.html#book1.20">Michele de Montaigne in "Of the Power of the Imagination."</ref> For information about the power of the female imagination to create monstrous beings, see, among other works, <ref target="https://books.google.com/books?id=_nQredXpwaUC">>Marie Hélène Huet's <hi rend="italic">Monstrous Imagination</hi> (1993)</ref>.</note> Care ought 
                          <pb n="22" facs="images/022.jpg"/>
                          to be taken that, when the
                      Choice is unrestrained, the best Examples only should be exhibited; and that
@@ -270,7 +271,7 @@
                      Nature, which are most proper for Imitation:
                      Greater Care is still required in representing Life,
                      which is so often discoloured by Passion, or 
-                     deformed by Wickedness. If the World be promiscuously
+                     deformed by Wickedness. If the World be promiscuously<ref target="a016" corresp="n016"/><note xml:id="n016" target="a016">"Promiscuous" here refers to a lack of distinction or discrimination; it is not primarily sexual. See this <ref target="https://books.google.com/ngrams/graph?content=promiscuous">Google N-Gram graph charting the usage of the term over time</ref>.</note>
                      described, I cannot see of what Use it can be to read the Account; or why it
                      may not be as safe to turn the Eye immediately upon Mankind, as upon a Mirrour
                      which shows all that presents itself without Discrimination.
@@ -309,9 +310,9 @@
                      the Consequences of this Notion, that certain Virtues have their correspondent
                      Faults, and therefore that to exhibit either apart is to deviate from
                      Probability.
-                     Thus Men are observed by <hi rend="italic">Swift</hi><ref target="a011" corresp="n011"/><note xml:id="n011" target="a011">Jonathan Swift, an Anglo-Irish satiric author of the early 18th century, is most well-known for writing <hi rend="italic">Gulliver's Travels</hi>.</note> to be 
+                     Thus Men are observed by <hi rend="italic">Swift</hi><ref target="a011" corresp="n011"/><note xml:id="n011" target="a011"><graphic url="https://upload.wikimedia.org/wikipedia/commons/4/43/Gullivers_travels.jpg"/>Jonathan Swift, an Anglo-Irish satiric author of the early 18th century, is most well-known today for writing <hi rend="italic">Gulliver's Travels</hi>. The title page to the first edition of <hi rend="italic">Gulliver's Travels</hi>, reproduced from Wikimedia Commons, is above. For more information on Swift, see <ref target="https://www.tcd.ie/trinitywriters/writers/jonathan-swift/">this biographical essay by Ian Campbell Ross (2016)</ref>, and readers may also be interested in <ref target="https://www.tcd.ie/library/exhibitions/swift/">this 2017 online exhibition about Swift from the Library of Trinity College, Dublin</ref>.</note> to be 
                    grateful in the same Degree as they are
-                     resentful.
+                   resentful.<ref target="a017" corresp="n017"/><note xml:id="n017" target="a017">From the second volume of the <hi rend="italic">Miscellanies</hi>, compiled by Jonathan Swift and Alexander Pope, this particular quotation is from <ref target="http://estc.bl.uk/T39472">Thoughts on Various Subjects,"</ref> a collection of witty aphorisms by Pope and contained in the second volume. </note>
                 This Principle, with others of the same
                      Kind, supposes Man to act from a brute Impulse, and persue a certain Degree of
                      Inclination, without any Choice of the Object; for, otherwise, though it
@@ -346,10 +347,10 @@
                      always disgust; nor should the Graces of Gaiety, or the Dignity of
                   Courage, be so united with it, as to reconcile it to the Mind. Wherever it appears, it should raise Hatred by the
                      Malignity of its Practices; and Contempt, by the Meanness of its Stratagems; for
-                     while it is supported by either Parts or Spirit, it will be seldom heartily
+                     while it is supported by either Parts<ref target="a018" corresp="n018"/><note xml:id="n018" target="a018">According to the <hi rend="italic">Oxford English Dictionary</hi>, "part" used in this sense (II.15) refers to "A personal quality or attribute, esp. of an intellectual kind; an ability, gift, or talent." See <ref target="http://andromeda.rutgers.edu/~jlynch/C18Guide.pdf">Jack Lynch's "Guide to Eighteenth-Century Vocabulary,"</ref> which includes a definition of this word.</note> or Spirit, it will be seldom heartily
                      abhorred. The <hi rend="italic">Roman</hi> Tyrant was content to be hated, if he was but
                   feared; and there are Thousands of the Readers of Romances willing to be thought
-                  wicked, if they may be allowed to be Wits. It
+                  wicked, if they may be allowed to be Wits.<ref target="a019" corresp="n019"/><note xml:id="n019" target="a019">To be a "wit" in the eighteenth century was to be clever. But it could also be a term of derision, referring to a set of people who claimed false cleverness. Here, Johnson is suggesting that such people would rather be thought by others to be clever, even at the expense of being thought wicked. See <ref target="http://andromeda.rutgers.edu/~jlynch/C18Guide.pdf">Jack Lynch's "Guide to Eighteenth-Century Vocabulary,"</ref> which includes a definition of this word.</note> It
                      is therefore to be always inculcated, that Virtue is the highest Proof of a superior Understanding, and the only solid
                      Basis of Greatness; and that Vice is the natural Consequence of narrow
                      Thoughts; that it begins in Mistake, and ends in Ignominy.
