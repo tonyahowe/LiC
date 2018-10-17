@@ -129,13 +129,14 @@
     <text>
         <front>
             <pb n="[19]" facs="images/019.jpg"/>
-            <head type="title">THE <lb/>RAMBLER.</head>
-            <p><head type="issue" class="text-left">NUMB. 4.</head><head type="price" class="text-right">Price 2 <hi rend="italic">d</hi>.</head></p>
-            <head type="dateline">Saturday, 31 March 1750</head>
+            <p><head type="title"><h1>THE <lb/>RAMBLER.</h1></head></p>
+            <p><span class="text-left">NUMB. 4.</span><span class="text-right">Price 2 <hi rend="italic">d</hi>.<ref target="a020" corresp="n020"/><note xml:id="n020" target="a020">Information about prices.</note></span></p>
+            <p><hi rend="italic">To be Continued on </hi>TUESDAYS <hi rend="italic">and</hi> SATURDAYS</p>
+            <p><dateline>SATURDAY, 31 March 1750</dateline></p>
             <epigraph xml:lang="la">
                 <cit>
                     <quote xml:lang="la">
-                        <l>Simul et jucunda et idonea dicere Vitae.<ref target="a001" corresp="n001"/><note xml:id="n001" target="a001">From Horace's <ref target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0065%3Acard%3D309">Ars Poetica 334</ref>: 'to deliver at once both the pleasures and the necessaries of life" (Perseus Project).</note></l>
+                        <l><hi rend="italic">Simul et jucunda et idonea dicere Vitae.</hi><ref target="a001" corresp="n001"/><note xml:id="n001" target="a001">From Horace's <ref target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0065%3Acard%3D309">Ars Poetica 334</ref>: 'to deliver at once both the pleasures and the necessaries of life" (Perseus Project).</note></l>
                     </quote>
                     <bibl>
                         <author>HOR[ace]</author><ref target="a014" corresp="n014"/><note xml:id="n014" target="a014"><graphic url="https://media1.britannica.com/eb-media/30/10930-004-C1C3F179.jpg"/>Quintus Horatius Flaccus, or Horace, was a Roman lyric poet of the 1st century BCE. The image above is a broze portrait medal containing his likeness, dating to the 4th century CE, housed in the Bibliothèque Nationale, Paris (<ref target="https://www.britannica.com/biography/Horace-Roman-poet">Encyclopedia Britannica</ref>). </note>
@@ -356,5 +357,10 @@
                      Thoughts; that it begins in Mistake, and ends in Ignominy.
             </p>
         </body>
+        <back>
+        <p><hi rend="italic">LONDON:</hi></p>
+        <p>Printed for J. PAYNE, and J. BOQUET, in Pater-noster-Row;</p>
+        <p>where Letters for the RAMBLER are received.</p>
+        </back>
     </text>
 </TEI>
