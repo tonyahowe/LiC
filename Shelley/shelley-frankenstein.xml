@@ -154,19 +154,19 @@
             <docTitle>
                <titlePart type="main">FRANKENSTEIN;</titlePart>
                <titlePart type="sub">
-                  <lb/>OR, <lb/>THE MODERN <rs content="#prometheus"><ref target="#prometheus"
-                        xml:id="prometheusA">PROMETHEUS</ref></rs>.</titlePart>
+                  <lb/>OR, <lb/>THE MODERN <rs content="#prometheus"><ref target="a001"
+                        corresp="nXXX">PROMETHEUS</ref></rs>.</titlePart>
             </docTitle>
             <titlePart type="desc">IN THREE VOLUMES</titlePart>
             <epigraph>
                <quote>
-                  <rs content="#PL-TP"><ref target="#PL-TP" xml:id="PL-TPA">
+                  <rs content="#PL-TP"><ref target="a002" corresp="nXXX">
                         <lg>
                            <l>Did I request thee, Maker, from my clay</l>
                            <l>To mould me man? Did I solicit thee</l>
                            <l>From darkness to promote me?</l>
                         </lg></ref></rs>
-                  <lb/><bibl><rs content="#PL"><ref target="#PL" xml:id="PL">PARADISE
+                  <lb/><bibl><rs content="#PL"><ref target="a003" corresp="nXXX">PARADISE
                         LOST</ref></rs>.</bibl>
                </quote>
             </epigraph>
@@ -174,37 +174,37 @@
             <docImprint>
                <pubPlace><placeName type="tgn" key="7011781">London</placeName></pubPlace>: <lb/>
                PRINTED FOR <lb/>
-               <publisher rend="caps"><rs content="#publisher"><ref target="#publisher"
-                        xml:id="publisherA">LACKINGTON, HUGHES, HARDING, MAVOR, &amp;
+               <publisher rend="caps"><rs content="a001"><ref target="a004"
+                        corresp="nXXX">LACKINGTON, HUGHES, HARDING, MAVOR, &amp;
                      JONES</ref></rs></publisher>, <lb/>
                <pubPlace><placeName type="tgn" key="7449907">FINSBURY SQUARE</placeName></pubPlace>. <lb/>
-               <docDate><ref target="#1818" xml:id="1818A">1818</ref></docDate>. </docImprint>
+               <docDate><ref target="a005" corresp="nXXX">1818</ref></docDate>. </docImprint>
          </titlePage>
          <pb n="[title page verso]" facs="images/TPv.jpg"/>
          <div type="dedication">
             <pb n="[dedication]" facs="images/vi.jpg"/>
             <p>TO </p>
-            <p><persName type="lccn" key="n80024468"><rs content="#godwin"><ref target="#godwin"
-                        xml:id="godwinA">WILLIAM GODWIN</ref></rs></persName>,</p>
+            <p><persName type="lccn" key="n80024468"><rs content="#godwin"><ref target="a004"
+                        corresp="nXXX">WILLIAM GODWIN</ref></rs></persName>,</p>
             <p><hi rend="italic">AUTHOR OF <bibl><rs content="#political_justice"><ref
-                           target="#political_justice" xml:id="political_justiceA">POLITICAL
+                           target="a006" corresp="nXXX">POLITICAL
                            JUSTICE</ref></rs></bibl>, <bibl><rs content="#caleb_williams"><ref
-                           target="#caleb_williams" xml:id="caleb_williamsA">CALEB
+                           target="a005" corresp="nXXX">CALEB
                         WILLIAMS</ref></rs></bibl>, &amp;C.</hi></p>
             <p>THESE VOLUMES</p>
             <p><hi rend="italic">Are respectfully inscribed</hi></p>
             <p>BY</p>
-            <p><rs content="#author"><ref target="#author" xml:id="authorA">THE
+            <p><rs content="#author"><ref target="a002" corresp="nXXX">THE
                AUTHOR</ref></rs></p>
 
          </div>
          <div type="preface">
             <pb n="[vii]" facs="images/vii.jpg"/>
             <head>Preface.</head>
-            <p>THE <rs content="#circumstance"><ref target="#circumstance" xml:id="circumstanceA"
+            <p>THE <rs content="#circumstance"><ref target="acircumstance" xml:id="circumstanceA"
                      >event</ref></rs> on which this fiction is founded has been supposed, by Dr.
-                  <persName type="lccn" key="n50037924"><rs content="#darwin"><ref target="#darwin"
-                        xml:id="darwinA">Darwin</ref></rs></persName>, and some of the physiological
+                  <persName type="lccn" key="n50037924"><rs content="#darwin"><ref target="adarwin"
+                        corresp="nXXX">Darwin</ref></rs></persName>, and some of the physiological
                writers of <placeName type="tgn" key="7000084">Germany</placeName>, as not of
                impossible occurrence. I shall not be supposed as according the remotest degree of
                serious faith to such an imagination; yet, in assuming it as the basis of a work of
@@ -217,27 +217,27 @@
                than any which the ordinary relations of existing events can yield.</p>
             <p>I have thus endeavoured to preserve the truth of the elementary principles of human
                nature, while I have not scrupled to innovate upon their combinations. <hi
-                  rend="italic"><bibl><rs content="#iliad"><ref target="#iliad" xml:id="iliadA">The
+                  rend="italic"><bibl><rs content="#iliad"><ref target="ailiad" corresp="nXXX">The
                            Iliad</ref></rs></bibl></hi>, <rs content="#greek_tragedies"><ref
-                     target="#greek_tragedies" xml:id="greek_tragediesA">the tragic poetry of
+                     target="#greek_tragedies" corresp="nXXX">the tragic poetry of
                         <placeName type="tgn" key="1000074">Greece</placeName></ref></rs>, <persName
-                  type="lccn" key="n78095332"><rs content="#shakespeare"><ref target="#shakespeare"
-                        xml:id="shakespeareA">Shakespeare</ref></rs></persName>, in the <hi
-                  rend="italic"><bibl><rs content="#tempest"><ref target="#tempest"
-                           xml:id="tempestA">Tempest</ref></rs></bibl></hi> and <hi rend="italic"
+                  type="lccn" key="n78095332"><rs content="#shakespeare"><ref target="ashakespeare"
+                        corresp="nXXX">Shakespeare</ref></rs></persName>, in the <hi
+                  rend="italic"><bibl><rs content="#tempest"><ref target="atempest"
+                           corresp="nXXX">Tempest</ref></rs></bibl></hi> and <hi rend="italic"
                         ><bibl><pb n="ix [page breaks after 'Mid-']" facs="images/ix.jpg"/><rs
-                        content="#midsummer_nights_dream"><ref target="#midsummer_nights_dream"
-                           xml:id="midsummer_nights_dreamA">Midsummer Night's
+                        content="#midsummer_nights_dream"><ref target="amidsummer_nights_dream"
+                           corresp="nXXX">Midsummer Night's
                      Dream</ref></rs></bibl></hi> and most especially <persName type="lccn"
-                  key="n78095532"><rs content="#milton"><ref target="#milton" xml:id="miltonA"
+                  key="n78095532"><rs content="#milton"><ref target="amilton" xml:id="miltonA"
                         >Milton</ref></rs></persName>, in <hi rend="italic"><bibl><rs content="#PL"
-                           ><ref target="#PL" xml:id="PLA">Paradise Lost</ref></rs></bibl></hi>,
-               conform to this rule; and the most <rs content="#novelist"><ref target="#novelist"
-                     xml:id="novelistA">humble novelist</ref></rs>, who seeks to confer or receive
+                           ><ref target="aPL" corresp="nXXX">Paradise Lost</ref></rs></bibl></hi>,
+               conform to this rule; and the most <rs content="#novelist"><ref target="anovelist"
+                     corresp="nXXX">humble novelist</ref></rs>, who seeks to confer or receive
                amusement from his labours, may, without presumption, apply to prose fiction a
                licence, or rather a rule, from the adoption of which so many exquisite combinations
                of human feeling have resulted in the highest specimens of poetry.</p>
-            <p><rs content="#conception"><ref target="#conception" xml:id="conceptionA">The
+            <p><rs content="#conception"><ref target="aconception" corresp="nXXX">The
                      circumstance on which my story rests was suggested in casual
                      conversation.</ref></rs> It was commenced partly as a source of amusement, and
                partly as an expedient for exercising any untried resources of mind. Other motives
@@ -283,7 +283,7 @@
                   <hi rend="italic">To Mrs.</hi> SAVILLE, <hi rend="italic"><placeName type="tgn"
                         key="7002445">ENGLAND</placeName></hi>
                   <placeName type="tgn" key="7010273">St. Petersburg</placeName>. <dateline><rs
-                        content="#date"><ref target="#date" xml:id="dateA">Dec. 11,
+                        content="#date"><ref target="adate" corresp="nXXX">Dec. 11,
                      17--</ref></rs></dateline>
                </opener>
 
@@ -300,7 +300,7 @@
                   regions towards which I am advancing, gives me a foretaste of those icy climes.
                   Inspirited by this wind of promise, my day dreams become more fervent and vivid. I
                   try in vain to be persuaded that <rs content="#arctic_exploration"><ref
-                        target="#arctic_exploration" xml:id="arctic_explorationA">the pole is the
+                        target="#arctic_exploration" corresp="nXXX">the pole is the
                         seat of frost and desolation; it ever presents itself to my imagination as
                         the region of beauty and delight</ref></rs>. There,
                      <persName>Margaret</persName>, the sun is for ever visible; its broad disk just
@@ -311,8 +311,8 @@
                   hitherto discovered on the habitable globe. Its productions and features may be
                   without example, as the phænomena of the heavenly bodies undoubtedly are in those
                   undiscovered solitudes. What may not be expected in a country of eternal light? I
-                  may there discover <rs content="#electromagnetism"><ref target="#electromagnetism"
-                        xml:id="electromagnetismA">the wondrous power which attracts the
+                  may there discover <rs content="#electromagnetism"><ref target="aelectromagnetism"
+                        corresp="nXXX">the wondrous power which attracts the
                         needle</ref></rs>; and may regulate a thousand celestial observations, that
                   require only this voyage to render their seeming eccentricities consistent for
                   ever. I shall satiate my ardent curiosity with the sight of a part of the world
@@ -327,16 +327,16 @@
                   months are requisite; or by ascertaining the secret of the magnet, which, if at
                   all possible, can only be effected by an undertaking such as mine.</p>
                <p>These reflections have dispelled the agitation with which I began my letter, and I
-                  feel my heart glow with an <rs content="#enthusiasm"><ref target="#enthusiasm"
-                        xml:id="enthusiasmA">enthusiasm which elevates me to heaven</ref></rs>; for
+                  feel my heart glow with an <rs content="#enthusiasm"><ref target="aenthusiasm"
+                        corresp="nXXX">enthusiasm which elevates me to heaven</ref></rs>; for
                   nothing contributes so much to tranquillize the mind as a steady purpose,—a point
                   on which the soul may fix its intellectual eye. This expedition has been the
                   favourite dream of my <pb n="[5]" facs="images/5.jpg"/> early years. I have read
                   with ardour the accounts of the various voyages which have been made in the
                   prospect of arriving at the <placeName type="tgn" key="7029367">North Pacific
                      Ocean</placeName> through the seas which surround the pole. You may remember
-                  that <rs content="#history_voyages"><ref target="#history_voyages"
-                        xml:id="history_voyagesA">a history of all the voyages made for purposes of
+                  that <rs content="#history_voyages"><ref target="ahistory_voyages"
+                        corresp="nXXX">a history of all the voyages made for purposes of
                         discovery</ref></rs> composed the whole of our good uncle
                      <persName>Thomas</persName>'s library. My education was neglected, yet I was
                   passionately fond of reading. These volumes were my study day and night, and my
@@ -348,7 +348,7 @@
                      n="[6]" facs="images/6.jpg"/> and for one year lived in a Paradise of my own
                   creation; I imagined that I also might obtain a niche in the temple where the
                   names of <persName type="lccn" key="n78095639"><rs content="#homer"><ref
-                           target="#homer" xml:id="homerA">Homer</ref></rs></persName> and <persName
+                           target="#homer" corresp="nXXX">Homer</ref></rs></persName> and <persName
                      type="lccn" key="n78095332">Shakespeare</persName> are consecrated. You are well acquainted
                   with my failure, and how heavily I bore the disappointment. But just at that time
                   I inherited the fortune of my cousin, and my thoughts were turned into the channel
@@ -440,7 +440,7 @@
                   It is true that I have thought more, and that my day dreams are more extended and
                   magnificent; but they want (as the painters call it) keeping; and I greatly need a
                   friend who would have sense enough not to despise me as <rs content="#romanticism"
-                        ><ref target="#romanticism" xml:id="romanticismA">romantic</ref></rs>, and
+                        ><ref target="aromanticism" corresp="nXXX">romantic</ref></rs>, and
                   affection <pb n="[13]" facs="images/13.jpg"/> enough for me to endeavour to
                   regulate my mind.</p>
                <p>Well, these are useless complaints; I shall certainly find no friend on the wide
@@ -488,7 +488,7 @@
                   pleasurable and half fearful, with which I am preparing to depart. I am going to
                   unexplored regions, to <quote>"the land of mist and <pb n="[17]"
                         facs="images/17.jpg"/> snow;"</quote> but <rs content="#rime1"><ref
-                        target="#rime1" xml:id="rime1A">I shall kill no albatross</ref></rs>,
+                        target="#rime1" corresp="nXXX">I shall kill no albatross</ref></rs>,
                   therefore do not be alarmed for my safety.</p>
                <p>Shall I meet you again, after having traversed immense seas, and returned by
                      <placeName type="tgn" key="7002445">the most southern cape of
@@ -722,7 +722,7 @@
                         not be a serpent to sting you, as mine has been.</rs> I do not know that the
                      relation of my misfortunes will be useful to you, yet, if you are inclined, <pb
                         n="[36]" facs="images/36.jpg"/>
-                     <rs content="rime_storytelling" xml:id="rime_storytellingA">listen to my
+                     <rs content="rime_storytelling" corresp="nXXX">listen to my
                         tale</rs>. I believe that the strange incidents connected with it will
                      afford a view of nature, which may enlarge your faculties and understanding.
                      You will hear of powers and occurrences, such as you have been accustomed to
@@ -835,7 +835,7 @@
                      These indications, and a desire to bind as closely as possible the ties of
                      domestic love, determined my mother to consider <pb n="[46]"
                         facs="images/46.jpg"/>
-                     <persName>Elizabeth</persName> as <rs content="#marriage_cousins"><ref target="#marriage_cousins" xml:id="marriage_cousinsA">my future
+                     <persName>Elizabeth</persName> as <rs content="#marriage_cousins"><ref target="amarriage_cousins" corresp="nXXX">my future
                         wife</ref></rs>; a design which she never found reason to repent.</p>
                   <p>From this time <persName>Elizabeth Lavenza</persName> became my playfellow,
                      and, as we grew older, my friend. She was docile and good tempered, yet gay and
@@ -869,18 +869,18 @@
                      boy of singular talent and <rs content="#fancy">fancy</rs>. I remember, when he
                      was nine years old, he wrote a fairy tale, which was the delight and amazement
                      of all his companions. His favourite study consisted in <rs
-                        content="#chivalry_romance"><ref target="#chivalry_romance"
-                           xml:id="chivalry_romanceA">books of chivalry and romance</ref></rs>; and
+                        content="#chivalry_romance"><ref target="achivalry_romance"
+                           corresp="nXXX">books of chivalry and romance</ref></rs>; and
                      when very young, I can remember, that we used to act plays composed by him out
                      of these favourite books, the principal characters of which were <persName><rs
-                           content="orlando_furioso"><ref target="#orlando_furioso"
-                              xml:id="orlando_furiosoA">Orlando</ref></rs></persName>, <persName
+                           content="orlando_furioso"><ref target="aorlando_furioso"
+                              corresp="nXXX">Orlando</ref></rs></persName>, <persName
                         type="lccn" key="n79069719"><rs content="#robin_hood"><ref
-                              target="#robin_hood" xml:id="robin_hoodA">Robin
+                              target="#robin_hood" corresp="nXXX">Robin
                         Hood</ref></rs></persName>, <persName><rs content="amadis"><ref
-                              target="#amadis" xml:id="amadisA">Amadis</ref></rs></persName>, and
-                           <persName><rs content="#st_george"><ref target="#st_george"
-                              xml:id="st_georgeA">St. George</ref></rs></persName>.</p>
+                              target="#amadis" corresp="nXXX">Amadis</ref></rs></persName>, and
+                           <persName><rs content="#st_george"><ref target="ast_george"
+                              corresp="nXXX">St. George</ref></rs></persName>.</p>
                   <p>No youth could have passed more <pb n="[49]" facs="images/49.jpg"/> happily
                      than mine. My parents were indulgent, and my companions amiable. Our studies
                      were never forced; and by some means we always had an end placed in view, which
@@ -912,14 +912,14 @@
                      a mountain river, from ignoble and almost forgotten sources; but, swelling as
                      it proceeded, it became the torrent which, in its course, has swept away all my
                      hopes and joys.</p>
-                  <p><ref target="#natural_philosophy" xml:id="natural_philosophyA"><rs content="#natural_philosophy">Natural philosophy</rs></ref> is the genius that
+                  <p><ref target="anatural_philosophy" corresp="nXXX"><rs content="#natural_philosophy">Natural philosophy</rs></ref> is the genius that
                      has regulated my fate; I desire therefore, in this narration, to state those
                      facts which led to my predilection for that science. When I was thirteen years
                      of age, we all went on a party of pleasure to the baths near <placeName
                         type="tgn" key="1035867">Thonon</placeName>: the inclemency of the weather
                      obliged us to remain a day confined to the inn. In this house I chanced to find
                      a volume of the works of <persName type="lccn" key="n80043375"><rs
-                           content="#agrippa" xml:id="agrippaA">Cornelius Agrippa</rs></persName>. I
+                           content="#agrippa" corresp="nXXX">Cornelius Agrippa</rs></persName>. I
                      opened it with apathy; the theory which he attempts to demonstrate, and the <pb
                         n="[52]" facs="images/52.jpg"/> wonderful facts which he relates, soon
                      changed this feeling into <rs content="#enthusiasm">enthusiasm</rs>. A new
@@ -936,7 +936,7 @@
                            content="#agrippa">Agrippa</rs></persName> had been entirely exploded,
                      and that a modern system of science had been introduced, which possessed much
                      greater powers than the ancient, because the powers of the latter were
-                     <ref target="#chimerical" xml:id="chimericalA">chimerical</ref>, while <pb n="[53]" facs="images/53.jpg"/> those of the former were
+                     <ref target="achimerical" corresp="nXXX">chimerical</ref>, while <pb n="[53]" facs="images/53.jpg"/> those of the former were
                      real and practical; under such circumstances, I should certainly have thrown
                         <persName type="lccn" key="n80043375"><rs content="#agrippa"
                         >Agrippa</rs></persName> aside, and, with my imagination warmed as it was,
@@ -948,9 +948,9 @@
                      greatest avidity.</p>
                   <p>When I returned home, my first care was to procure the whole works of this
                      author, and afterwards of <persName type="lccn" key="n80120959"><rs
-                        content="#paracelsus"><ref target="#paracelsus" xml:id="paracelsusA">Paracelsus</ref></rs></persName> and <persName
+                        content="#paracelsus"><ref target="aparacelsus" corresp="nXXX">Paracelsus</ref></rs></persName> and <persName
                         type="lccn" key="n81007973"><rs content="#albertus_magnus"><ref
-                              target="#albertus_magnus" xml:id="albertus_magnusA">Albertus
+                              target="#albertus_magnus" corresp="nXXX">Albertus
                               Magnus</ref></rs></persName>. I read and studied the wild fancies of
                      these writers with delight; they appeared to me <pb
                         n="[54 - page breaks after 'trea-']" facs="images/54.jpg"/> treasures known
@@ -967,7 +967,7 @@
                      family was not scientifical, and I had not attended any of the lectures given
                      at the schools of <placeName type="tgn" key="7003746">Geneva</placeName>. My
                      dreams were therefore undisturbed by reality; and I entered with the greatest
-                     diligence into the search of the <ref target="#philosophers_stone" xml:id="philosophers_stoneA">philosopher's stone and the elixir of life</ref>.
+                     diligence into the search of the <ref target="aphilosophers_stone" corresp="nXXX">philosopher's stone and the elixir of life</ref>.
                      But the latter obtained my <pb n="[55 - page breaks after 'undi-']"
                         facs="images/55.jpg"/> undivided attention: wealth was an inferior object;
                      but what glory would attend the discovery, if I could banish disease from the
@@ -978,17 +978,17 @@
                      the failure rather to my own inexperience and mistake than to a want of skill
                      or fidelity in my instructors.</p>
                   <p>The natural phænomena that take place every day before our eyes did not escape
-                     my examinations. Distillation, and the wonderful effects of <ref target="#steam" xml:id="steamA">steam</ref>, processes of
+                     my examinations. Distillation, and the wonderful effects of <ref target="asteam" corresp="nXXX">steam</ref>, processes of
                      which my favourite authors were utterly ignorant, excited my astonishment; but
                      my utmost wonder was <pb n="[56]" facs="images/56.jpg"/> engaged by some
-                        <ref target="#air_pump" xml:id="air_pumpA">experiments on an air-pump</ref>, which I saw employed by a gentleman whom we were in
+                        <ref target="aair_pump" corresp="nXXX">experiments on an air-pump</ref>, which I saw employed by a gentleman whom we were in
                      the habit of visiting.</p>
                   <p>The ignorance of the early philbosophers on these and several other points
                      served to decrease their credit with me: but I could not entirely throw them
                      aside, before some other system should occupy their place in my mind.</p>
                   <p>When I was about fifteen years old, we had retired to our house near <placeName
                         type="tgn" key="8703247">Belrive</placeName>, when we witnessed a most
-                     violent and terrible thunder-storm. It advanced from behind <ref target="#swiss_alps" xml:id="swiss_alpsA"><placeName
+                     violent and terrible thunder-storm. It advanced from behind <ref target="aswiss_alps" corresp="nXXX"><placeName
                         type="tgn" key="1109172">the mountains of Jura</placeName></ref>; and the thunder
                      burst at once with frightful loudness from various quarters of the heavens. I
                      remained, while the storm lasted, watching its progress with curiosity and
@@ -1003,7 +1003,7 @@
                      inquired of my father the nature and origin of thunder and lightning. He
                      replied, <said>"Electricity;"</said> describing at the same time the various
                      effects of that power. He constructed a small electrical machine, and exhibited
-                     a few experiments; he made also a <ref target="#kite" xml:id="kiteA">kite</ref>, with a wire and string, which drew down
+                     a few experiments; he made also a <ref target="akite" corresp="nXXX">kite</ref>, with a wire and string, which drew down
                      that fluid from the clouds.</p>
                   <p>This last stroke completed the <pb n="[58 - page breaks after 'over-']"
                         facs="images/58.jpg"/> overthrow of <persName type="lccn" key="n80043375"
@@ -1054,7 +1054,7 @@
                <head>Chapter II</head>
                <said><p>WHEN I had attained the age of seventeen, my parents resolved that I should
                      become a student at the university of <rs content="#ingolstadt"
-                        xml:id="ingolstadtA"><placeName type="tgn" key="7017035"
+                        corresp="nXXX"><placeName type="tgn" key="7017035"
                            >Ingolstadt</placeName></rs>. I had hitherto attended the schools of
                         <placeName type="tgn" key="7003746">Geneva</placeName>; but my father
                      thought it necessary, for the completion of my education, that I should be made
@@ -1136,7 +1136,7 @@
                      and domestic; and this had given me invincible repugnance to new countenances.
                      I loved my brothers, <persName>Elizabeth</persName>, and
                         <persName>Clerval</persName>; <pb n="[68]" facs="images/68.jpg"/> these were
-                     <ref target="#faces" xml:id="facesA"><quote>"old familiar faces;"</quote></ref> but I believed myself totally unfitted
+                     <ref target="afaces" corresp="nXXX"><quote>"old familiar faces;"</quote></ref> but I believed myself totally unfitted
                      for the company of strangers. Such were my reflections as I commenced my
                      journey; but as I proceeded, my spirits and hopes rose. I ardently desired the
                      acquisition of knowledge. I had often, when at home, thought it hard to remain
@@ -1198,7 +1198,7 @@
                      had hitherto been out of town.</p>
                   <p>Partly from curiosity, and partly from idleness, I went into the lecturing
                      room, which <persName>M. Waldman</persName> entered shortly after. <rs
-                        content="#davy"><ref target="#davy" xml:id="davyA">This professor was very
+                        content="#davy"><ref target="adavy" corresp="nXXX">This professor was very
                            unlike his colleague.</ref></rs> He appeared about fifty years of age,
                      but with an aspect expressive of the greatest benevolence; a few grey hairs
                      covered his temples, but those at the back of his head were nearly black. His
@@ -1210,18 +1210,18 @@
                      present state of the science, and explained many of its elementary terms. After
                      having made a few preparatory experiments, he concluded with a panegyric upon
                      modern chemistry, the terms of which I shall never forget:—</p>
-                  <p><said><ref target="#ancient_teachers" xml:id="ancient_teachersA">"The ancient
+                  <p><said><ref target="aancient_teachers" corresp="nXXX">"The ancient
                            teachers of this science,"</ref></said> said he, <said>"promised
                         impossibilities, and performed nothing. The modern masters promise very
                         little; they know that metals cannot be transmuted, and that the elixir of
                         life is a chimera. But these philosophers, whose hands seem only made to
                         dabble <pb n="[74]" facs="images/74.jpg"/> in dirt, and their eyes to pore
-                              over the <ref target="#microscope" xml:id="microscopeA">microscope</ref> or crucible, have indeed performed miracles. <ref
-                           target="penetrate" xml:id="penetrateA">They penetrate into the recesses
+                              over the <ref target="amicroscope" corresp="nXXX">microscope</ref> or crucible, have indeed performed miracles. <ref
+                           target="penetrate" corresp="nXXX">They penetrate into the recesses
                            of nature, and shew how she works in her hiding places</ref>. They ascend
-                        into the heavens; they have discovered <ref target="#circluation"
-                           xml:id="circulationA">how the blood circulates</ref>, and the nature of
-                              the air we breathe. They have acquired new and almost <ref target="#powers" xml:id="powersA">unlimited powers</ref>; they
+                        into the heavens; they have discovered <ref target="acircluation"
+                           corresp="nXXX">how the blood circulates</ref>, and the nature of
+                              the air we breathe. They have acquired new and almost <ref target="apowers" corresp="nXXX">unlimited powers</ref>; they
                         can command the thunders of heaven, mimic the earthquake, and even mock the
                         invisible world with its own shadows."</said></p>
                   <p>I departed highly pleased with the professor and his lecture, and paid him a
@@ -1790,7 +1790,7 @@
                            humour, one glance from <persName>Justine</persName> could dissipate it,
                            for the same reason that <persName type="n79041715" key="n79041715"
                               >Ariosto</persName> gives concerning the beauty of
-                           <ref target="#angelica" xml:id="angelicaA"><persName>Angelica</persName></ref>—she looked so frank-hearted and happy.
+                           <ref target="aangelica" corresp="nXXX"><persName>Angelica</persName></ref>—she looked so frank-hearted and happy.
                            My aunt conceived a great attachment for her, by which she was induced to
                            give her an education superior to that which she had at first intended.
                            This benefit was fully repaid; <persName>Justine</persName> was the most
@@ -2094,7 +2094,7 @@
                         only consolation. Those maxims of the Stoics, that death was no evil, and
                         that the mind of man ought to be superior to despair on the eternal absence
                         of a beloved object, ought not to be urged. <rs content="#cato"
-                           xml:id="catoA">Even Cato wept over the dead body of his
+                           corresp="nXXX">Even Cato wept over the dead body of his
                         brother</rs>."</said></p>
                   <p><persName>Clerval</persName> spoke thus as we hurried through the streets; the
                      words impressed themselves on my mind, and I remembered them afterwards in
@@ -2160,7 +2160,7 @@
                      lightning dazzled my eyes, illuminating the lake, making it appear like a vast
                      sheet of fire; then for an instant everything seemed of a pitchy darkness,
                      until the eye recovered itself from the preceding flash. The storm, as is often
-                     the case in <ref target="#switzerland" xml:id="switzerlandA"><placeName type="tgn" key="7011731">Switzerland</placeName></ref>,
+                     the case in <ref target="aswitzerland" corresp="nXXX"><placeName type="tgn" key="7011731">Switzerland</placeName></ref>,
                      appeared at once in various parts of the heavens. The most violent storm hung
                      exactly north of the town, over that part of the lake which lies between the
                      promontory of <placeName type="tgn" key="8703247">Belrive</placeName> and the
@@ -2169,7 +2169,7 @@
                      with faint flashes; and another darkened and sometimes disclosed the <placeName
                         type="tgn" key="7631625">Môle</placeName>, a peaked mountain to the east of
                      the lake.</p>
-                  <p><ref target="#lightning" xml:id="lightningA">While I watched the storm, so beautiful yet terrific</ref>, I wandered on with a
+                  <p><ref target="alightning" corresp="nXXX">While I watched the storm, so beautiful yet terrific</ref>, I wandered on with a
                      hasty step. This noble war in the sky elevated my spirits; I clasped my hands,
                         <pb n="[147]" facs="images/147.jpg"/> and exclaimed aloud,
                            <said>"<persName>William</persName>, dear angel! this is thy funeral,
@@ -2591,13 +2591,13 @@
                         by you, dear lady, and your cousin."</said></p>
                   <p>Thus the poor sufferer tried to comfort others and herself. She indeed gained
                      the resignation she desired. But I, the true murderer, felt the <rs
-                        content="#worm" xml:id="wormA">never-dying worm</rs> alive in my bosom,
+                        content="#worm" corresp="nXXX">never-dying worm</rs> alive in my bosom,
                      which allowed of no hope or consolation. <persName>Elizabeth</persName> also
                      wept, and was unhappy; but her's also was the misery of innocence, which, like
                      a cloud that passes over the fair moon, for a while hides, <pb n="[180]"
                         facs="images/180.jpg"/> but cannot tarnish its brightness. Anguish and
                      despair had penetrated into the core of my heart; <rs content="#hell_within_me"
-                        ><ref target="#hell_within" xml:id="hell_withinA">I bore a hell within me, which nothing could extinguish</ref></rs>. We staid
+                        ><ref target="ahell_within" corresp="nXXX">I bore a hell within me, which nothing could extinguish</ref></rs>. We staid
                      several hours with <persName>Justine</persName>; and it was with great
                      difficulty that <persName>Elizabeth</persName> could tear herself away.
                         <said>"I wish,"</said> cried she, <said>"that I were to die with you; I
@@ -3886,7 +3886,7 @@
                         had acquired at the cottage; they consisted of <hi rend="italic"
                               ><title>Paradise Lost</title></hi>, a volume of <hi rend="italic"
                               ><title>Plutarch's Lives</title></hi>, and the <hi rend="italic"
-                                 ><title><ref target="#werther" xml:id="wertherA">Sorrows of
+                                 ><title><ref target="awerther" corresp="nXXX">Sorrows of
                                  Werter</ref></title></hi>. The possession of these treasures gave
                         me extreme delight; I now continually studied and exercised my mind upon
                         these histories, whilst my friends were employed in their ordinary
@@ -7056,7 +7056,7 @@
       <back>
          <div type="appendix">
             <head>Annotations</head>
-            <note xml:id="prometheus" type="editorial" resp="TH"><p><graphic style="float:right"
+            <note xml:id="n001" type="editorial" resp="TH"><p><graphic style="float:right"
                      url="https://www.bl.uk/britishlibrary/~/media/bl/global/dl%20romantics%20and%20victorians/collection-items-manual/consumerism-books-lackington-allen-074521.jpg"
                      width="300"/>
                   <hi rend="italic">Frankenstein; or, the Modern Prometheus</hi>, was published by
@@ -7090,7 +7090,7 @@
                   the Muses, Finsbury Square." <ptr target="#prometheusA"/></p></note>
 
 
-            <note xml:id="author" type="editorial" resp="TH"><p>
+            <note xml:id="n002" type="editorial" resp="TH"><p>
                   <graphic style="float:right"
                      url="https://collectionimages.npg.org.uk/large/mw05761/Mary-Wollstonecraft-Shelley.jpg"
                      width="300"/> Mary Wollstonecraft Shelley was born on August 30, 1797, in
@@ -7121,7 +7121,7 @@
                   Gallery, <placeName type="tgn" key="7011781">London</placeName>.<ptr
                      target="#authorA"/></p>
             </note>
-            <note xml:id="PL-TP" type="editorial" resp="AF"><p>This epigraph quotes <ref
+            <note xml:id="n003" type="editorial" resp="AF"><p>This epigraph quotes <ref
                      target="http://www.gutenberg.org/ebooks/26?msg=welcome_stranger"><hi
                         rend="italic">Paradise Lost</hi></ref> (X.743-745), where Adam laments his
                   expulsion from Eden. Milton’s epic poem is one of many texts that had a profound
@@ -7138,7 +7138,7 @@
                      Victorians" exhibit at the British Library</ref>.<ptr target="#PL-TPA"/>
                </p>
             </note>
-            <note xml:id="godwin" type="editorial" resp="AR">
+            <note xml:id="n004" type="editorial" resp="AR">
                <p><graphic style="float:right"
                      url="https://upload.wikimedia.org/wikipedia/commons/a/a8/William_Godwin_by_Henry_William_Pickersgill.jpg"
                      width="300"/>Mary Shelley dedicated Frankenstein to her father, <ref
@@ -7161,7 +7161,7 @@
                   Pickersgill, housed in the National Portrait Gallery, London. <ptr
                      target="#godwinA"/></p>
             </note>
-            <note xml:id="caleb_williams" type="editorial" resp="AR"><p>Published in May 1794, <ref
+            <note xml:id="n005" type="editorial" resp="AR"><p>Published in May 1794, <ref
                      target="http://shelleygodwinarchive.org/contents/msl_1876_forster_223/"><hi
                         rend="italic">Things As They Are; or, The Adventures of Caleb
                      Williams</hi></ref> tells the story of an impoverished young man named Caleb
@@ -7179,7 +7179,7 @@
                      >"Revisiting William Godwin"</ref> from Oxford Handbooks Online. <ptr
                      target="#caleb_williamsA"/></p></note>
 
-            <note xml:id="political_justice" type="editorial" resp="AF"><p>Published in 1793,
+            <note xml:id="n006" type="editorial" resp="AF"><p>Published in 1793,
                   William Godwin’s <ref
                      target="http://oll.libertyfund.org/titles/godwin-an-enquiry-concerning-political-justice-vol-i"
                         ><hi rend="italic">Enquiry Concerning Political Justice and its Influence on
@@ -7202,7 +7202,7 @@
                      Bodleian Libraries.</ref></p><ptr target="#political_justiceA"/></note>
 
 
-            <note xml:id="enthusiasm" type="editorial" resp="TH"><p>Enthusiasm is an important
+            <note xml:id="n007" type="editorial" resp="TH"><p>Enthusiasm is an important
                   concept in the development of Romanticism. Deriving from the Greek word "enthous,"
                   meannig possessed or inspired by a god, the concept of enthusiasm was linked to
                      <ref target="https://books.google.com/books/about/Enlightening_Enthusiasm.html"
@@ -7221,7 +7221,7 @@
                   fancy, enthusiasm is a complex term that suggests many of the negative aspects of
                   the Romantic sensibility. For Wordsworth and Coleridge, enthusiasm is a kind of
                   corruption of or detour in the imagination (Mee 12).</p></note>
-            <note xml:id="date" type="editorial" resp="AF">
+            <note xml:id="n008" type="editorial" resp="AF">
                <p>According to a footnote in the <ref
                      target="https://books.google.com/books?id=UQc52fOn3hUC">3rd Broadview edition
                      of <hi rend="italic">Frankenstein, or; The Modern Prometheus</hi></ref>, the
@@ -7231,7 +7231,7 @@
             </note>
 
 
-            <note xml:id="electromagnetism" type="editorial" resp="TH">
+            <note xml:id="n009" type="editorial" resp="TH">
                <p><graphic style="float:right"
                      url="https://commons.wikimedia.org/wiki/File:Br%C3%BAjula_azimutal_espa%C3%B1ola_s.XVIII_(M.A.N._Madrid)_01.jpg"
                   /> From the <ref
@@ -7255,7 +7255,7 @@
                   Spanish origin. <ptr target="#electromagnetismA"/>
                </p>
             </note>
-            <note xml:id="arctic_exploration" type="editorial" resp="TH">
+            <note xml:id="n010" type="editorial" resp="TH">
                <p><graphic style="float:right"
                      url="https://upload.wikimedia.org/wikipedia/commons/a/a2/John_Ross_%281777-1856%29%2C_by_British_school_of_the_19th_century.jpg"
                      width="300"/><ref
@@ -7276,16 +7276,16 @@
                   shows a portrait (c.1833) of the explorer John Ross (1777-1856). </p><ptr
                   target="#arctic_explorationA"/>
             </note>
-            <note xml:id="ingolstadt" type="editorial" resp="AF">
+            <note xml:id="n011" type="editorial" resp="AF">
                <p><graphic url="https://upload.wikimedia.org/wikipedia/commons/8/80/Th%C3%A9%C3%A2tre-anatomique-Padoue.JPG" style="float:right" width="300"/>
                   Victor Frankenstein attends the <ref target="http://knarf.english.upenn.edu/V1notes/univers.html">University of Ingolstadt</ref>, a university founded in 1472, known for its focus on the natural sciences. The university had a massive chemistry laboratory and one of the finest operating theatres at the time Frankenstein was written, making it a perfect setting for his experiments. <ref target="https://www.google.com/maps/place/Ingolstadt,+Germany/@48.7535159,11.2395665,11z/data=!3m1!4b1!4m5!3m4!1s0x479efe5188360abb:0xec5d7e2213748aea!8m2!3d48.7665351!4d11.4257541?shorturl=1">Ingolstadt</ref> is located in Germany, within the Free State of Bavaria. In the eighteenth century, an <ref target="http://knarf.english.upenn.edu/Places/ingolst.html">intellectual movement</ref> for the reconstruction of European society was centered in the city. Mary Shelley would have been aware of this, and the significance of the change of European society may have been the perfect historical setting for a tale calling into question freedom, status, and autonomy. The image here shows an Italian operating theatre built in the sixteenth century to give an example of what the operating theatre may have looked like to Victor Frankenstein. The image was taken by Kalibos and is hosted on Wikimedia Commons. </p><ptr target="#ingolstadtA"/>
             </note>
-            <note xml:id="rime1" type="editorial" resp="AF">
+            <note xml:id="n012" type="editorial" resp="AF">
                <p><graphic style="float:right" width="300"
                      url="https://upload.wikimedia.org/wikipedia/commons/2/26/Rime_of_the_Ancient_Mariner-Albatross-Dore.jpg"/>In this excerpt from <ref target="https://www.poetryfoundation.org/poets/samuel-taylor-coleridge">Samuel Taylor Coleridge’s</ref> <ref target="https://www.poetryfoundation.org/poems/43997/the-rime-of-the-ancient-mariner-text-of-1834 "><hi rend="italic">The Rime of the Ancient Mariner</hi></ref> (451- 456), the Mariner has killed the albatross and the other sailors turn  on him, viewing his act of violence as a sin against God and nature. The luck of the ship  dissipates, and they are becalmed on the ocean. The Mariner watches as each of the sailors  die of thirst, while he alone is saved. This direct allusion highlights the similarities between the Mariner and Frankenstein, who are both reeling after accomplishing their respective goals--killing the albatross and creating a sentient being--and both in the process of telling their stories. The use of the quote is two-fold; it highlights Frankenstein’s isolation and his decision to abandon his creature, but it also juxtaposes the Mariner’s violence with Frankenstein’s act of creation. Explore more about Coleridge’s poem in William Christie’s <ref target="https://www.jstor.org/stable/j.ctt1d10h2h.10">“The Search for Meaning in The Rime of the Ancient Mariner,"</ref>. See Michelle Levy’s article, <ref target="https://www.jstor.org/stable/3844532">“Discovery and the Domestic Affections in Coleridge and Shelley,"</ref> for a discussion of Samuel Taylor Coleridge’s influence on Mary Shelley.
                </p><ptr target="#rime1A"/>
             </note>
-            <note xml:id="tempest" type="editorial" resp="AF"><p><hi rend="italic"><ref
+            <note xml:id="n013" type="editorial" resp="AF"><p><hi rend="italic"><ref
                         target="http://shakespeare.mit.edu/tempest/full.html">The Tempest</ref></hi>
                   is a comedy written in 1610 by <ref
                      target="https://www.poets.org/poetsorg/poet/william-shakespeare">William
@@ -7919,7 +7919,7 @@
             
             <note xml:id="faces" type="editorial" resp="AF"><p>This is a direct allusion to Charles Lamb’s (1775-1834) poem, <ref target="https://www.poetryfoundation.org/poems/44519/the-old-familiar-faces">"Old Familiar Faces"</ref>, a poem about Lamb looking back on his life through the lens of nostalgia. Victor uses the allusion at this point in the text because he is retelling his story from a similar place once he leaves his family and friends, will never find them or return to them the same way again. </p><ptr target="#facesA"/></note>
             
-            <note xml:id="1818" type="editorial" resp="AF"><p>The first edition of <hi rend="italic">Frankenstein</hi> was written while Mary Shelley was in the prime of her life, but it was published in January of 1818, shortly after she buried her first child. The second edition, published in 1831, came after the loss of her husband, most of her children, and her family. There are many differences between the two texts, which <ref target="http://juxtacommons.org/shares/Nme50n">can be viewed</ref> in Dana Wheeles’ public Juxta collation. One of the main structural differences between the texts is the loss of the three volumes found in the 1818 edition. In the 1831 edition, after the first four letters, the chapters are numbered 1-24, which not only removes the multiple volumes but also obscures the separated narratives of Victor, the Creature, and Walton. Another noticeable difference comes from the removal of the epigraph from Milton’s <hi rend="italic">Paradise Lost</hi>, which, in the beginning of the 1818 edition, announces the key theme of the novel. Its removal from the 1831 edition obscures the importance of the allusions to Milton’s work throughout the novel. In the <ref target="https://www.rc.umd.edu/editions/frankenstein/1831v1/intro">newly-added forward to the 1831 edition</ref>, Mary Shelley wrote, somewhat disingenuously, "I have changed no portion of the story, nor introduced any new ideas or circumstances." Shelley in fact makes many changes that drastically change the interpretation and meaning of the text. </p>
+            <note xml:id="n005" type="editorial" resp="AF"><p>The first edition of <hi rend="italic">Frankenstein</hi> was written while Mary Shelley was in the prime of her life, but it was published in January of 1818, shortly after she buried her first child. The second edition, published in 1831, came after the loss of her husband, most of her children, and her family. There are many differences between the two texts, which <ref target="http://juxtacommons.org/shares/Nme50n">can be viewed</ref> in Dana Wheeles’ public Juxta collation. One of the main structural differences between the texts is the loss of the three volumes found in the 1818 edition. In the 1831 edition, after the first four letters, the chapters are numbered 1-24, which not only removes the multiple volumes but also obscures the separated narratives of Victor, the Creature, and Walton. Another noticeable difference comes from the removal of the epigraph from Milton’s <hi rend="italic">Paradise Lost</hi>, which, in the beginning of the 1818 edition, announces the key theme of the novel. Its removal from the 1831 edition obscures the importance of the allusions to Milton’s work throughout the novel. In the <ref target="https://www.rc.umd.edu/editions/frankenstein/1831v1/intro">newly-added forward to the 1831 edition</ref>, Mary Shelley wrote, somewhat disingenuously, "I have changed no portion of the story, nor introduced any new ideas or circumstances." Shelley in fact makes many changes that drastically change the interpretation and meaning of the text. </p>
                <p>First, many of the scientific ideas written about in the 1818 edition are removed, detaching the novel from an intellectual context and further pressing it into the fantastical. Shelley also removes many of Elizabeth’s more independent thoughts about women’s rights as well as her indictment of the justice system in regards to Justine. Finally, one of the largest differences between the editions is Victor Frankenstein’s character. Whereas in the 1818 edition, Victor’s own hubris is to blame for the outcome of the Creature, in the 1831 edition, Victor is at the mercy of fate or chance.</p>
                <p>To explore more about the differences between the editions,  see Jill Lepore’s article in <hi rend="italic">The New Yorker</hi>, <ref target="https://www.newyorker.com/magazine/2018/02/12/the-strange-and-twisted-life-of-frankenstein">"The Strange and Twisted Life of <hi rend="italic">Frankenstein</hi>"</ref>, Jacqueline Foertsch’s <ref target="https://www.jstor.org/stable/1350098">The Right, the Wrong, and the Ugly: Teaching Shelley's Several "Frankensteins"</ref>, or James O’Rourke’s <ref target="https://www.jstor.org/stable/25601400">"The 1831 Introduction and Revisions to <hi rend="italic">Frankenstein</hi>: Mary Shelley Dictates Her Legacy</ref>. To explore visual differences between the texts, see the <ref target="http://shelleygodwinarchive.org/contents/frankenstein/">Shelley-Godwin Archive</ref>, which compares facsimiles of the original manuscripts, and Brigit Katz’ article for <hi rend="italic">The Smithsonian Magazine</hi>, <ref target="https://www.smithsonianmag.com/smart-news/frankenstein-manuscript-shows-evolution-mary-shelleys-monster-180968240/">"‘Frankenstein’ Manuscript Shows the Evolution of Mary Shelley’s Monster"</ref>.</p><ptr target="#1818A"/></note>
             
