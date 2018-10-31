@@ -277,17 +277,18 @@ declare function tei2html:monograph($nodes as node()*) {
             tei2html:tei2html($nodes/tei:title[1]),
             if(count($nodes/tei:editor[@role='translator']) gt 0) then (tei2html:emit-responsible-persons($nodes/tei:editor[@role!='translator'],3),', trans. ') else (),
             if($nodes/tei:edition) then 
-                (', ', $nodes/tei:edition[1]/text(),' ')
+                concat(', ', $nodes/tei:edition[1]/text(),' ')
             else (),
             if($nodes/tei:biblScope[@unit='vol']) then
-                (' ',tei2html:tei2html($nodes/tei:biblScope[@unit='vol']),' ')
+                concat(' ',tei2html:tei2html($nodes/tei:biblScope[@unit='vol']),' ')
             else (),
             if($nodes/following-sibling::tei:series) then tei2html:series($nodes/following-sibling::tei:series)
             else if($nodes/following-sibling::tei:monogr) then ', '
             else if($nodes/preceding-sibling::tei:monogr and $nodes/preceding-sibling::tei:monogr/tei:imprint[child::*[string-length(.) gt 0]]) then   
             (' (', $nodes/preceding-sibling::tei:monogr/tei:imprint,')')
             else if($nodes/tei:imprint[child::*[string-length(.) gt 0]]) then 
-                (' (',tei2html:tei2html($nodes/tei:imprint[child::*[string-length(.) gt 0]][1]),')', if($nodes/following-sibling::tei:monogr) then ', ' else() )
+                concat(' (',tei2html:tei2html($nodes/tei:imprint[child::*[string-length(.) gt 0]][1]),')', 
+                if($nodes/following-sibling::tei:monogr) then ', ' else() )
             else ()
         )
 };
