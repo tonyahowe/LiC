@@ -129,13 +129,22 @@ declare function app:teiHeader($node as node(), $model as map(*)){
 :)
 declare function app:footnotes($node as node(), $model as map(*)){
     let $data := $model("data")/descendant::tei:note[@target]
-    return 
+    return
+        (
         <div class="footnote show-print">
             <h3>Footnotes</h3>
-            {for $n in $data
+            {for $n in $data[@type!="authorial"]
              return <div class="tei-footnote"><span class="tei-footnote-id">{string($n/@target)}</span>{tei2html:tei2html($n/node())}</div>
              }
-        </div>
+        </div>,
+        if($data[@type="authorial"]) then 
+            <div class="footnotes authorial">
+                <h3>Footnotes</h3>
+                {for $n in $data[@type="authorial"]
+                 return <div class="tei-footnote"><span class="tei-footnote-id">{string($n/@target)}</span>{tei2html:tei2html($n/node())}</div>
+                 }
+            </div>
+        else ())
 }; 
 
 (:~  

@@ -64,7 +64,8 @@ declare function tei2html:tei2html($nodes as node()*) as item()* {
             }</span>
             case element(tei:note) return 
                 if($node/@target) then 
-                    <span class="tei-{local-name($node)} footnote">
+                    <span class="tei-{local-name($node)} footnote 
+                        {(if($node/@type != '') then string($node/@type) else (), if($node/@place != '') then string($node/@place) else ())}">
                     {(
                     if($node/@xml:id) then 
                         (attribute id { $node/@xml:id }, <span class="tei-footnote-id">{string($node/@xml:id)}</span>)
