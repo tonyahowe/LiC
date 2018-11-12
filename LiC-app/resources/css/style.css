@@ -28,7 +28,7 @@ form#search {margin-top:-1.5em; padding-top:0;}
 .param {font-weight:600;}
 
 /* Coursepack page styles */
-.toolbar {margin-right:.5em;}
+.toolbar {margin-right:.15em; font-size:small; padding-left:.75em; padding-right:.75em;}
 
 /* Work styles */
 .pageImages {display:block; margin:1em; padding:1em;}
